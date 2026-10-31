@@ -5,7 +5,7 @@ title: The stages and the spaces within
 short: Coachella opened in 1999 with a main stage, a second stage and three tents named for deserts, and it has been adding rooms ever since. The Sahara has moved three times and now stands on 1,500 tons of concrete. Do LaB started as a broken water feature and grew into a stage with its own secret lineup and its own festival. Then come the nightclub tent, the punk tent, the sound system with seven stacks, a dome, a beer house and a brand-new stage built in under four months.
 ---
 
-Coachella names its tents after deserts, and nobody has ever said why. Mojave, Gobi and Sahara were there in October 1999, three "rave tents" beside a main stage and a second stage.[^st-psl] Yuma joined in 2013 and Sonora in 2017.[^st-da13][^st-laist17] Nobody on record has said who picked the names, or why.
+Coachella names its tents after deserts, and nobody on record has said why. Mojave, Gobi and Sahara were there in October 1999, three "rave tents" beside a main stage and a second stage.[^st-psl] Yuma joined in 2013 and Sonora in 2017.[^st-da13][^st-laist17] Since then the festival has added a dance room with no desert in its name, a stage for three-hour sets, a dome, a beer house and a stage that books itself.
 
 :::lore The desert names
 The festival's tent names make a tidy set: Sahara, Mojave, Gobi, Yuma, Sonora. Every guide repeats that they're named for deserts, and Wikipedia confirms the desert sources for the first four.[^st-wiki] What nobody has published is the meeting where someone said "let's name them after deserts." No interview with Paul Tollett or anyone at Goldenvoice on the subject turned up in this research. Two later rooms seem to break the rule. Quasar does. The Antarctic, a projection dome from 2017, may not: by Britannica's count, the largest desert on Earth is the Antarctic Ice Sheet.[^st-brit] Whether whoever named the dome knew that is another thing nobody has said. If you know who named the Sahara, the corrections address is in the footer.
@@ -27,9 +27,9 @@ The Outdoor Theatre sits next to it, and it is the stage people mean when they s
 
 The Sahara is the tent that changed the festival, and it has spent most of its life being moved around the grounds.
 
-In 2002 Coachella put more money into its production and bookings, with Hawtin, Moby, Paul Oakenfold, Tiësto and Pete Tong.[^st-fi22] In 2006 it held the show the next chapter is about, plus a surprise Madonna set the following day; fans now date the American dance boom to that weekend.[^st-lat23] In 2011 Odd Future played one of the tent's first live, non-DJ sets.[^st-lat23]
+In 2002 Coachella expanded the Sahara's production and bookings, with Hawtin, Moby, Paul Oakenfold, Tiësto and Pete Tong.[^st-fi22] In 2006 it held the show the next chapter is about, plus a surprise Madonna set the following day; fans now date the American dance boom to that weekend.[^st-lat23] In 2011 Odd Future played one of the tent's first live, non-DJ sets.[^st-lat23]
 
-By 2013 the Sahara was 80 ft tall.[^st-ds24] PLSN described it as a hangar holding about 20,000 people, built and lit by Andrew Gumper's AG Lighting and Sound.[^st-plsn13] Then the festival bought more land, and the tent started to travel:
+By 2013 the Sahara was 80 ft tall.[^st-ds24] PLSN described it as a hangar holding about 20,000 people, built and lit by Andrew Gumper's AG Lighting and Sound.[^st-plsn13] Then it started to travel:
 
 - **Until 2018:** near the Rose Garden at Empire Polo Club, its home for years.[^st-ds24]
 - **2018:** onto the newly bought Eldorado Polo Club land next door, by the entrance, built 25% bigger.[^st-ds24] The LA Times gives the result as nearly 100 ft tall with a 250-ft stage, rated for 90 mph winds, and anchored to permanent concrete footings about two feet under the grass.[^st-lat23]
@@ -99,19 +99,19 @@ The surprises began, Jesse says, because "we left it open to see what would happ
 - **2018:** FISHER and Chris Lake drew the biggest afternoon crowds Do LaB had seen, and both credit those sets with lifting their careers.[^st-fader25]
 - **2019:** Major Lazer, with Diplo.[^st-edmtunes19]
 - **2022:** Diplo again, plus Rebecca Black and MEUTE.[^st-npr22]
-- **2024:** Billie Eilish, two years after headlining the main stage. Josh's estimate: "It must've been over 20,000 people," the biggest crowd the stage has had. Anderson .Paak played a surprise set as DJ Pee .Wee the same year.[^st-fader25]
+- **2024:** Billie Eilish, two years after she headlined Coachella.[^st-rs22] Josh's estimate: "It must've been over 20,000 people," the biggest crowd the stage has had. Anderson .Paak played a surprise set as DJ Pee .Wee the same year.[^st-fader25]
 
 The run has had one bad night. On Friday, April 10, 2026, Do LaB closed after a light reportedly fell on a woman during a surprise John Summit set, and later sets were cancelled; at the time Mixmag reported it, details came from attendees and there was no official statement.[^st-mixmag26]
 
 ### Lightning in a Bottle
 
-Do LaB is the only stage at Coachella that also runs its own festival. Lightning in a Bottle took its name from a friend's private July birthday party in the early 2000s, and Wikipedia's history dates the first event under that name to 2004 in the Angeles National Forest.[^st-wikilib] Other outlets count from 2006, the first three-day public edition.[^st-ew23][^st-dt15] It moved around California for years, and per Wikipedia has been at Buena Vista Lake in Kern County since 2019.[^st-wikilib]
+Do LaB also runs its own festival. Lightning in a Bottle took its name from a friend's private July birthday party in the early 2000s, and Wikipedia's history dates the first event under that name to 2004 in the Angeles National Forest.[^st-wikilib] Other outlets count from 2006, the first three-day public edition.[^st-ew23][^st-dt15] It moved around California for years, and per Wikipedia has been at Buena Vista Lake in Kern County since 2019.[^st-wikilib]
 
 The two festivals run back to back. The brothers start building Lightning in a Bottle about five days after Coachella's second weekend.[^st-poll24] In 2024 Jesse told Pollstar the independent festival was up against Live Nation, AEG and their radius clauses - the contract terms that stop artists playing nearby festivals.[^st-poll24] It is still running: the 2026 edition was set for May 20-24 at Buena Vista Lake, with Empire of the Sun, Zeds Dead and Chase & Status.[^st-bww25]
 
 ## Quasar and the Red Bull Mirage
 
-Quasar is the newest stage, and it exists because 60 to 90 minutes is not long enough for some DJs. Goldenvoice announced it in March 2024 as a stage for sets of three hours or more, on both weekends.[^st-djmag24] Its designer, Heather Shaw of Vita Motus - who also helped design Do LaB and has been to every Coachella since 1999 - links the idea to 2023, when Fred again.., Skrillex and Four Tet replaced Frank Ocean and showed what a long, shared set could do.[^st-ew24]
+Quasar is the newest stage, and it exists because 60 to 90 minutes is not long enough for some DJs. Goldenvoice announced it in March 2024 as a stage for sets of three hours or more, on both weekends.[^st-djmag24] Its designer, Heather Shaw of Vita Motus - who also helped design Do LaB and has been to every Coachella since 1999 - links the idea to 2023, when Fred again.., Skrillex and Four Tet stepped in for Frank Ocean, and to the problem that 60 to 90 minutes is too short for a full arc.[^st-ew24]
 
 Shaw heard about the project at the end of January 2024, which gave her under four months to build it, the tightest timeline of her career.[^st-ew24] The result is two asymmetric LED walls showing a live Unreal Engine model of the Coachella landscape, rendered in real time.[^st-ew24] It sits on the Sahara's former ground.[^st-mixmagasia] The 2024 bookings set the format: Honey Dijon with Green Velvet, a Jamie xx, Floating Points and Daphni b3b, and a sunset set from Eric Prydz b2b Anyma.[^st-djmag24][^st-mixmagasia]
 
@@ -195,4 +195,5 @@ Some rooms did not last.
 [^st-edmid25]: EDM Identity (Cohavit Gil) - "Coachella side quests 2025" - 2025-04-08 - https://edmidentity.com/2025/04/08/coachella-side-quests-2025
 [^st-mxdwn11]: mxdwn (Raymond Flotat) - "Breakage live at the Oasis Dome, Coachella" - 2011-04-16 - https://music.mxdwn.com/2011/04/16/reviews/breakage-live-at-the-oasis-dome-coachella/amp
 [^st-pacdomes]: Pacific Domes - Coachella Oasis Dome - undated - https://pacificdomes.com/?p=11793
+[^st-rs22]: Rolling Stone - Coachella 2022 recap: Billie Eilish, Megan Thee Stallion, Danny Elfman - 2022-04 - https://www.rollingstone.com/music/music-features/coachella-2022-recap-billie-eilish-megan-thee-stallion-danny-elfman-1338779/
 [^st-dmn19]: Digital Music News (Paul Resnikoff, citing Billboard) - Kanye West's Coachella 2019 dome demand - 2019-01-13 - https://www.digitalmusicnews.com/?p=118252
