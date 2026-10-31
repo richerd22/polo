@@ -51,6 +51,7 @@ h1{font-family:var(--stencil);font-weight:900;font-size:clamp(84px,24vw,140px);l
 .seg input:checked+span small{color:var(--paper);opacity:.75}
 .seg input:focus-visible+span{outline:2px solid var(--sunset);outline-offset:2px}
 .hcp{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+@media (max-width:500px){.hcp{grid-template-columns:1fr}}
 .step{display:flex;align-items:center;border:1px solid var(--ink)}
 .step .tn{flex:1;font-family:var(--mono);font-size:11px;padding:0 8px;white-space:nowrap}
 .step button{width:38px;height:40px;border:0;background:none;font-family:var(--stencil);font-size:24px;cursor:pointer}
@@ -94,10 +95,11 @@ footer{font-family:var(--mono);font-size:11px;color:var(--muted);text-align:cent
 #banner small{display:block;font-family:var(--mono);font-size:12px;margin-top:5px}
 #hint{position:absolute;left:50%;bottom:calc(max(14px,env(safe-area-inset-bottom)) + 4px);transform:translateX(-50%);font-family:var(--mono);font-size:12px;background:var(--board);color:var(--boardInk);padding:5px 10px;max-width:min(92vw,560px);text-align:center;opacity:0;transition:opacity .25s}
 #hint.on{opacity:.92}
-#turn{position:absolute;left:50%;top:44%;transform:translateX(-50%);font-family:var(--mono);font-size:12px;background:var(--sunset);color:#fff8ee;padding:6px 10px;pointer-events:auto;white-space:nowrap}
+#turn{position:absolute;left:50%;bottom:calc(max(14px,env(safe-area-inset-bottom)) + 128px);transform:translateX(-50%);font-family:var(--mono);font-size:11px;background:var(--sunset);color:#fff8ee;padding:5px 9px;pointer-events:auto;white-space:nowrap}
 #touch{display:none}
 body.touch #touch{display:block}
-body.touch #hint{bottom:calc(max(14px,env(safe-area-inset-bottom)) + 150px)}
+body.touch #hint{bottom:auto;top:calc(max(8px,env(safe-area-inset-top)) + 140px)}
+@media (max-height:440px){body.touch #hint{top:calc(max(8px,env(safe-area-inset-top)) + 84px)}}
 #zone{position:absolute;left:0;bottom:0;width:50%;height:62%;pointer-events:auto;touch-action:none}
 #base{position:absolute;width:120px;height:120px;margin:-60px 0 0 -60px;border-radius:50%;border:2px solid rgba(255,255,255,.55);background:rgba(0,0,0,.18);left:90px;top:calc(100% - 100px)}
 #knob{position:absolute;left:50%;top:50%;width:52px;height:52px;margin:-26px 0 0 -26px;border-radius:50%;background:rgba(243,234,216,.85)}
@@ -291,7 +293,7 @@ function palette() {
   const cs = getComputedStyle(document.documentElement);
   const v = k => cs.getPropertyValue('--' + k).trim();
   P = night ? {
-    turfA: '#1f3a28', turfB: '#1b3423', sand: '#211b14', sand2: '#2a2219', line: 'rgba(239,230,212,.78)', faint: 'rgba(239,230,212,.32)',
+    turfA: '#244330', turfB: '#203d2a', sand: '#211b14', sand2: '#2a2219', line: 'rgba(239,230,212,.78)', faint: 'rgba(239,230,212,.32)',
     board: '#4a3a24', t0: v('sunset') || '#ef7a4c', t1: '#efe6d4', n0: '#14110d', n1: '#14110d', helm: '#0b0a08', dust: '#c9a46a', ink: '#efe6d4', shadow: 'rgba(0,0,0,.35)'
   } : {
     turfA: '#3e7349', turfB: '#386b43', sand: '#d8bf8e', sand2: '#ccb07b', line: 'rgba(250,245,232,.92)', faint: 'rgba(250,245,232,.42)',
@@ -308,7 +310,7 @@ let W = 0, H = 0, DPR = 1, SC = 10;
 function resize() {
   W = innerWidth; H = innerHeight; DPR = Math.min(2, devicePixelRatio || 1);
   cv.width = Math.round(W * DPR); cv.height = Math.round(H * DPR);
-  SC = clamp(Math.min(W / 80, H / 50), 6.5, 20);
+  SC = clamp(Math.min(W / 80, H / 50), 7.2, 20);
   const r = mm.getBoundingClientRect();
   mm.width = Math.max(1, Math.round((r.width || 132) * DPR)); mm.height = Math.max(1, Math.round((r.height || 72) * DPR));
   updateTurnHint();
@@ -666,7 +668,8 @@ const gx_rel = (p, x) => goalX(p.team) - x;
 function mark(p, m) {
   const c = Math.cos(m.a), s = Math.sin(m.a), dx = p.x - m.x, dy = p.y - m.y;
   const lat = -dx * s + dy * c; if (Math.abs(lat) > 1) p.markSide = Math.sign(lat);
-  p.tx = m.x + c * (1.2 + m.v * 0.25) - s * 2.0 * p.markSide; p.ty = m.y + s * (1.2 + m.v * 0.25) + c * 2.0 * p.markSide;
+  const d0 = Math.hypot(dx, dy), ahead = d0 < 8 ? 7 : 1.2 + m.v * 0.25;     // close in shallow, alongside
+  p.tx = m.x + c * ahead - s * 1.9 * p.markSide; p.ty = m.y + s * ahead + c * 1.9 * p.markSide;
   const d = Math.hypot(p.tx - p.x, p.ty - p.y);
   p.thr = clamp(m.v / HV + d * 0.06, 0.3, 1);
 }
@@ -703,7 +706,7 @@ function aiThink(p) {
     if (G.second[t] === p && target && Math.hypot(target.x - p.x, target.y - p.y) < 30) mark(p, target);
     else roleTarget(p);
   }
-  p.lapse = Math.random() < (1 - p.skill) * 0.12 ? 1 : 0;
+  p.lapse = Math.random() < 0.006 + (1 - p.skill) * 0.03 ? 1 : 0;
 }
 function aiSteer(p) {
   let dx = p.tx - p.x, dy = p.ty - p.y; const d = Math.hypot(dx, dy) || 1; dx /= d; dy /= d;
@@ -711,6 +714,7 @@ function aiSteer(p) {
     if (q === p) continue;
     const ex = p.x - q.x, ey = p.y - q.y, e = Math.hypot(ex, ey);
     if (e < 3 && e > 0.01 && G.chaser[p.team] !== p) { dx += ex / e * (3 - e) * 0.3; dy += ey / e * (3 - e) * 0.3; }
+    else if (q.team !== p.team && e < 4 && e > 0.01 && !p.lapse && Math.abs(angDiff(p.a, q.a)) > Math.PI / 4) { dx += ex / e * (4 - e) * 0.6; dy += ey / e * (4 - e) * 0.6; }   // no steep ride-offs
   }
   let thr = p.thr;
   // respect the right of way unless the pony's mind wanders
@@ -766,13 +770,14 @@ function computeROW() {
 function crossingCheck() {
   const h = G.row;
   for (const p of G.players) {
-    if (!h || p === h || p.team === h.team || h.v < 4) { p.rowRef = null; continue; }
+    if (!h || p === h || p.team === h.team || h.v < 6) { p.rowRef = null; continue; }
     const c = Math.cos(h.a), s = Math.sin(h.a), dx = p.x - h.x, dy = p.y - h.y;
     const along = dx * c + dy * s, lat = -dx * s + dy * c, sg = lat >= 0 ? 1 : -1;
     const zone = clamp(h.v * 0.6, 3, 10);
     if (p.rowRef === h && p.latS && sg !== p.latS && along > 0.8 && along < zone && Math.abs(lat) < 2.5 && p.v > 4) {
       const across = Math.abs(c * Math.sin(p.a) - s * Math.cos(p.a));
-      if (across > 0.45) { foul(p, h, 'cross', along < 4 && h.v > 11 ? 2 : 1); p.rowRef = null; return; }
+      const latV = (-Math.cos(p.a) * s + Math.sin(p.a) * c) * p.v;        // the crosser is the one moving across
+      if (across > 0.45 && latV * sg > 3) { foul(p, h, 'cross', along < 4 && h.v > 11 ? 2 : 1); p.rowRef = null; return; }
     }
     p.latS = sg; p.rowRef = h;
   }
@@ -799,8 +804,8 @@ function contacts(dt) {
         (loser === q ? p : q).v *= 0.95;
         sfx.bump();
         if (G.expert && (p.human || q.human)) floatText((p.x + q.x) / 2, (p.y + q.y) / 2 - 2, 'RIDE-OFF');
-      } else if (G.stateT > 1.5 && Math.max(cp, cq) > 4) {
-        const by = cp >= cq ? p : q, vs = by === p ? q : p;
+      } else if (G.stateT > 1.5 && Math.max(cp, cq) > 6 && (G.row === p || G.row === q || Math.abs(cp - cq) > 4)) {
+        const by = G.row === p ? q : G.row === q ? p : cp >= cq ? p : q, vs = by === p ? q : p;   // umpires call the clear one
         foul(by, vs, 'ride', ang > 70 * Math.PI / 180 ? 2 : 1);
         return;
       }
@@ -1005,7 +1010,7 @@ function step(dt) {
     ride(p, dt); swingTick(p, dt);
   }
   ballStep(dt);
-  if (G.state === 'play') { computeROW(); crossingCheck(); }
+  if (G.state === 'play') { computeROW(); if (G.stateT > 1.2) crossingCheck(); }
   if (G.state === 'play' || G.state === 'setpiece' || G.state === 'lineup') contacts(dt);
   if (G.state === 'setpiece' && G.setp && G.setp.taker.human && G.stateT > 12) {   // you dawdled: a teammate takes it
     const h = G.setp.taker, m = G.players.filter(o => o.team === h.team && !o.human).sort((a, b) => Math.hypot(a.x - G.ball.x, a.y - G.ball.y) - Math.hypot(b.x - G.ball.x, b.y - G.ball.y))[0];
