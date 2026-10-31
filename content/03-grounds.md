@@ -68,11 +68,11 @@ On October 27, 2021, Goldenvoice announced it would take "year-round operational
 
 The agreement also allowed two additional large-scale festivals on the site every year.[^gr-iq]
 
-What it ended was polo. The club's staff were laid off within days, and polo stopped being played at Empire.[^gr-kesq21b] That story, and where the horses went, is the next chapter.
+What it ended was polo. Some of the club's staff were laid off on three days' notice, and polo stopped being played at Empire.[^gr-kesq21b] That story, and where the horses went, is the next chapter.
 
 ## The beer gardens, and the end of them
 
-For its first 23 years, Coachella kept drinkers in pens. You bought a beer inside a beer garden or the craft beer area and stayed there until you finished it. Guards at the exits made sure.[^gr-dspowers]
+For its first 23 years, Coachella kept its drinkers fenced in. You bought a beer inside a beer garden or the craft beer area and stayed there until you finished it. Guards at the exits made sure.[^gr-dspowers]
 
 That changed quietly. The Desert Sun dates a loose, unofficial start to 2023 and the first clear year of walk-around drinking to 2024. Staff check IDs and give anyone 21 or older a wristband, and bars are scattered across the grounds. The beer gardens are still there, but nobody stops you at the gate any more. A 16-ounce Heineken was $15.[^gr-dspowers] The Independent reported that the change followed complaints from 21-plus attendees.[^gr-indy]
 

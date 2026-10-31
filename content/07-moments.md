@@ -7,7 +7,7 @@ short: The sets people still bring up, and what the paperwork says happened. A P
 
 Several of Coachella's best-known moments didn't happen quite the way people remember. The Tupac on the main stage in 2012 was a reflection on a sheet of foil.[^mo-hypebeast12] Frank Ocean's ice rink was built, and the first people to stand on it were Skrillex, Fred again.. and Four Tet, a week after Ocean had left the bill.[^mo-okayplayer] In 2026 the poster promised "The Bunker Debut of Radiohead," and Radiohead stayed home.[^mo-desertsun] The festival is very good at making moments. This chapter is about what was underneath them.
 
-Daft Punk's 2006 pyramid has a chapter of its own. Everything else is here.
+Daft Punk's 2006 pyramid has [a chapter of its own](/pyramid/). Everything else is here.
 
 ## Prince plays "Creep" (2008)
 
@@ -43,11 +43,13 @@ The show was built as an HBCU homecoming, with about 200 people on stage.[^mo-gr
 
 On YouTube, her weekend-one set peaked at about 458,000 people watching at once. That was the highest since the festival started streaming, according to TMZ's figures as reported by The FADER.[^mo-fader18] A year later, on April 17, 2019, Netflix released *Homecoming*, a film of the set with a live album alongside.[^mo-grammy19] It won the Grammy for Best Music Film.[^mo-grammyaward]
 
-It also raised the bar for every headliner after her. Ariana Grande's production designer told The Hollywood Reporter that after Beyoncé, the festival had turned into a "competition."[^mo-thr]
+It also raised the bar for every headliner after her. Ariana Grande's production designer told The Hollywood Reporter that after Beyoncé, the festival had turned into a "competition."[^mo-thr] TMZ's numbers, as The FADER reported them, had her peak about 75% above Lady Gaga's the year before, with 43.1 million live-stream views across 232 countries for the whole festival.[^mo-fader18]
 
 ## Kanye, the dome and the hill (2019)
 
-Kanye West was due to headline in 2019. In January he walked away. He called the standard 40-by-60-foot stage "artistically limiting" and had asked, late in the day, for a custom dome. The festival didn't build it.[^mo-da19]
+He had form. Kanye West's 2011 set came with a stone mural in the style of the Pergamon Altar, a troupe of ballerinas and a lift that was reportedly used on Michael Jackson's last tour. Complex, looking back ten years later, called it unprecedented.[^mo-complex11]
+
+He was due to headline again in 2019. In January he walked away. He called the standard 40-by-60-foot stage "artistically limiting" and had asked, late in the day, for a custom dome. The festival didn't build it.[^mo-da19]
 
 He came back anyway, without a headline slot. On Easter Sunday, April 21, 2019, Sunday Service, which had been an invite-only gathering since January, went up on a hill inside the campground at 9 a.m.[^mo-fader19][^mo-complex] The "Church Clothes" merch went with it: sweatshirts from $165 to $225 and "Jesus Walks" socks at $50.[^mo-variety19] The hill, the crowd, and the arguments over the size of the crowd all belong to the camping chapter.
 
@@ -57,7 +59,7 @@ That year's headliners were Bad Bunny, BLACKPINK and Frank Ocean. It was the fir
 
 He came on about an hour late, in slippers.[^mo-rs23] There was meant to be a segment with skaters on an ice rink, and it didn't happen. A source told Rolling Stone he had hurt his ankle in on-site rehearsals the week before, and the show was reworked at the last minute.[^mo-rs23] Rolling Stone also found an LMU hockey player's Instagram Story showing nine men in skating gear, captioned "The Boys x Frank." That crew never performed.[^mo-rs23] On stage, Ocean said he was there for his brother Ryan Breaux, who died in 2020.[^mo-rs23]
 
-The YouTube stream was pulled. "Frank Ocean is not scheduled to appear on the Coachella livestream," YouTube posted, and nobody gave a reason.[^mo-hypebeast23] On April 19 he withdrew from weekend two. His team said he had been hurt on the festival grounds the week before, and "on doctor's advice" couldn't perform, "due to two fractures and a sprain in his left leg."[^mo-stereogum19] Blink-182, who had played their first reunion show with Tom DeLonge that Friday, took his slot.[^mo-stereogum19][^mo-loudwire]
+The YouTube stream was pulled. "Frank Ocean is not scheduled to appear on the Coachella livestream," YouTube posted, and nobody gave a reason. Björk's set came off the stream schedule the same weekend.[^mo-hypebeast23] On April 19 he withdrew from weekend two. His team said he had been hurt on the festival grounds the week before, and "on doctor's advice" couldn't perform, "due to two fractures and a sprain in his left leg."[^mo-stereogum19] Blink-182, who had played their first reunion show with Tom DeLonge that Friday, took his slot.[^mo-stereogum19][^mo-loudwire]
 
 According to Billboard, as reported by The FADER, Ocean was contracted for $8M across both weekends. His weekend-one production reportedly cost more than his $4M fee, the rink was the most expensive part of it, and the festival stood to lose "several million dollars."[^mo-fader23] Goldenvoice went looking for someone else to use the rink. On the second Sunday, Skrillex, Fred again.. and Four Tet stood on it to close the night.[^mo-okayplayer]
 
@@ -75,19 +77,33 @@ What got built was Radiohead's Motion Picture House: about 17,000 square feet wi
 
 It had a long run-up. *KID A MNESIA* first came out in 2021 as a free digital exhibition for PS5, PC and Mac.[^mo-stereogum26] A physical 20th-anniversary installation planned that year was cancelled over logistics and COVID.[^mo-farout] The desert finally got it built, five years late and underground.
 
-So Radiohead made the 2026 poster without playing a note. Ed O'Brien did tell reporters the band plans to play 20 shows a year from 2027.[^mo-stereogum26] After the festival the Motion Picture House went on tour: Brooklyn from May 6, Mexico City from October 27 and San Francisco's Palace of Fine Arts from January 14, 2027.[^mo-kidamnesia] The official FAQ says "the Coachella Bunker experience" was different in some ways from the touring version.[^mo-kidamnesia] It wasn't the first artist-built world on the grounds, either. Desert Sun points to Travis Scott's "The Village by Cactus Jack" in 2025.[^mo-desertsun]
+So Radiohead made the 2026 poster without playing a note. Ed O'Brien did tell reporters the band plans to play 20 shows a year from 2027.[^mo-stereogum26] After the festival the Motion Picture House went on tour: Brooklyn from May 6, Mexico City from October 27 and San Francisco's Palace of Fine Arts from January 14, 2027.[^mo-kidamnesia] The film runs 75 minutes, and visits are booked in two-hour slots. Stereogum also listed a Chicago run at Cinespace in the summer, which the official site doesn't show.[^mo-kidamnesia][^mo-stereogum26] The official FAQ says "the Coachella Bunker experience" was different in some ways from the touring version.[^mo-kidamnesia] It wasn't the first artist-built world on the grounds, either. Desert Sun points to Travis Scott's "The Village by Cactus Jack" in 2025.[^mo-desertsun]
 
 ## Other nights people bring up
+
+**Bauhaus, upside down, 2005.** It was the band's first show together since 1998. Peter Murphy opened with the nine-minute "Bela Lugosi's Dead," sung while hanging upside down over the stage like a bat.[^mo-laweekly] When it was over he told the crowd: "Now you can say that you were there!"[^mo-laweekly] The reunion bought them a tour opening for Nine Inch Nails and a 2008 album, *Go Away White*, and then they split again.[^mo-laweekly]
 
 **Madonna and Drake, 2015.** On April 12 Madonna joined Drake's headline set for "Human Nature," "Hung Up" and "Bitch I'm Madonna," then kissed him for a long time. His recoil is the clip everyone remembers.[^mo-stereogum15] His Instagram caption afterward: "Moments to write home about."[^mo-stereogum15]
 
 **Lady Gaga, twice.** In 2017 she took the headline slot Beyoncé had given up. On April 15 she debuted "The Cure" live and put it out on Spotify, iTunes and Tidal that night. It was an early case of a festival set doubling as a release.[^mo-avclub17] In 2025 she came back to open the *Mayhem* live show: a "demonic opera house" set, four acts and a finale, the first live "Garden of Eden," with Gesaffelstein on synths.[^mo-bv25] BrooklynVegan's reviewer thought it was built more for the livestream and the screens than for the field.[^mo-bv25]
 
-**Ariana Grande and most of \*NSYNC, 2019.** On April 14, Joey Fatone, JC Chasez, Chris Kirkpatrick and Lance Bass joined her for "Tearin' Up My Heart" and "Break Up With Your Girlfriend." She sang Justin Timberlake's parts herself.[^mo-ap19] Nicki Minaj, Diddy and Mase turned up too. Grande told the crowd: "I've been rehearsing my whole f—ing life for this moment."[^mo-ap19]
+**Ariana Grande and most of \*NSYNC, 2019.** On April 14, Joey Fatone, JC Chasez, Chris Kirkpatrick and Lance Bass joined her for "Tearin' Up My Heart" and "Break Up With Your Girlfriend." She sang Justin Timberlake's parts herself.[^mo-ap19] Nicki Minaj, Diddy and Mase turned up too. Grande told the crowd: "I've been rehearsing my whole f---ing life for this moment."[^mo-ap19]
 
 **Harry Styles and Shania Twain, 2022.** On the first Friday, Styles brought out Twain for "Man! I Feel Like a Woman!" and "You're Still the One." The same set was the first live performance of "As It Was."[^mo-fader22] His introduction: "This lady taught me to sing. She also told me that men are trash."[^mo-fader22]
 
+**Odd Future in the Sahara, 2011.** On April 15, 2011, the LA collective played the Sahara tent, and it was chaos. Pharrell came out.[^mo-mxdwn11] The LA Times later wrote that the set "launched or boosted" Tyler, the Creator, Syd, Steve Lacy and a singer named Frank Ocean.[^mo-lat23] Twelve years later Ocean was the one closing the main stage.
+
+**deadmau5, last call, 2025.** He was one of the Sahara's early big nights, on a Friday in 2010 opposite Jay-Z.[^mo-laweekly10] Fifteen years later, on April 18, 2025, he left a back-to-back set with ZHU early while visibly drunk, apologized, and posted: "Probably my last Coachella."[^mo-stereogum25]
+
+**Justin Bieber, 2026.** Bieber went from cameo regular (with Ariana Grande in 2019, with Daniel Caesar and Giveon in 2022) to Saturday headliner, on a deal he negotiated himself. Rolling Stone's Canadian edition thought the crowd might have been "the biggest ever" at Coachella, and also that "Bieber missed the mark": a minimal set heavy on nostalgia, with people leaving during the acoustic deep cuts.[^mo-rsca]
+
 **Anyma and the wind, 2026.** Anyma was due to follow Sabrina Carpenter at midnight on the first Friday. The festival called it off: "Due to strong wind conditions affecting Anyma's stage build, he is unable to perform tonight."[^mo-stereogum26b] The same winds brought down a light fixture during John Summit's Do LaB set, injuring a festivalgoer, and that stage was closed.[^mo-stereogum26b] By Sunday the Do LaB had a new Instagram post: "Let's end at the beginning. Anyma b2b Marlon Hoffstadt close out the Do LaB at 10:45pm tonight."[^mo-variety26] His full *ÆDEN* show moved to weekend two.[^mo-stereogum26b] On a site that stages a different spectacle every year, the weather got a credit.
+
+## Weekend two gets the guests (2026)
+
+For most of the two-weekend era, weekend two was the sequel. Surprise guests were part of the house style, and the famous ones above (Madonna in 2015, \*NSYNC in 2019, Shania Twain in 2022) all came on the first weekend. In 2026 almost all of the big ones landed a week later. Madonna joined Sabrina Carpenter for three songs, timed to her new single. SZA and Sexyy Red came out for Justin Bieber, and Bieber serenaded Billie Eilish. Olivia Rodrigo joined Addison Rae, and Snoop Dogg joined Giveon.[^mo-varietyau]
+
+Variety's Jem Aswad asked the industry why. One agent said weekend one "is driven heavily by influencer culture." Another insider put it as: "Weekend two is always better... more to see and less to be seen."[^mo-varietyau] Others said guests on weekend two protect a headliner's first-weekend spotlight. Sources said it was not a plan coordinated by Goldenvoice or YouTube.[^mo-varietyau] The festival has two identical weekends on paper. In practice they've started to split: weekend one for being seen, weekend two for whoever turns up.
 
 ## Still open
 
@@ -128,4 +144,12 @@ So Radiohead made the 2026 poster without playing a note. Ed O'Brien did tell re
 [^mo-ap19]: WTOP / Associated Press - "Ariana Grande reunites most of *NSYNC at Coachella" - 2019-04 - https://wtop.com/music/2019/04/ariana-grande-reunites-most-of-nsync-at-coachella
 [^mo-fader22]: The FADER - "Harry Styles brings out Shania Twain at Coachella" - 2022-04-16 - https://thefader.com/2022/04/16/harry-styles-shania-twain-coachella
 [^mo-stereogum26b]: Stereogum (Danielle Chelosky) - "Anyma's Coachella set canceled due to wind" - 2026-04-11 - https://stereogum.com/2495497/anyma-coachella-set-canceled-due-to-wind/news
+[^mo-laweekly]: LA Weekly - "Back from the dead: Bauhaus reunited" - 2019-10-30 - https://www.laweekly.com/back-from-the-dead-bauhaus-reunited/
+[^mo-stereogum25]: Stereogum - "deadmau5 apologizes for drunk Coachella performance: 'Probably my last Coachella'" - 2025-04-21 - https://stereogum.com/2305073/deadmau5-apologizes-for-drunk-coachella-performance-probably-my-last-coachella/news
+[^mo-laweekly10]: LA Weekly - "deadmau5 blazes new trails in the desert" - 2010-04-17 - https://www.laweekly.com/deadmau5-blazes-new-trails-in-the-desert/
+[^mo-varietyau]: Variety Australia (Jem Aswad) - "Madonna, SZA and more: why is Coachella weekend 2 crushing weekend 1?" - 2026-04-19 - https://au.variety.com/2026/music/global/madonna-sza-why-is-coachella-weekend-2-crushing-weekend-1-35656/
+[^mo-complex11]: Complex - "Kanye West's 2011 Coachella performance, 10 years later" - 2021 - https://www.complex.com/music/kanye-west-2011-coachella-performance-anniversary/part-1
+[^mo-mxdwn11]: mxdwn - "Odd Future Wolf Gang Kill Them All live at the Sahara Tent, Coachella" - 2011-04-15 - https://music.mxdwn.com/2011/04/15/reviews/odd-future-wolf-gang-kill-them-all-live-at-the-sahara-tent-coachella/
+[^mo-lat23]: Los Angeles Times via AOL - "EDM may have waned, but the Sahara tent..." - 2023-04-09 - https://www.aol.com/news/edm-may-waned-sahara-tent-120013512.html
+[^mo-rsca]: Rolling Stone Canada - "Justin Bieber's Coachella 2026 performance" - 2026-04-13 - https://ca.rollingstone.com/justin-bieber-performance-coachella-2026/
 [^mo-variety26]: Variety Australia (Arushi Jacob) - "Anyma surprise set at Coachella after cancelled performance" - 2026-04-13 - https://au.variety.com/2026/music/news/anyma-surprise-set-coachella-cancelled-performance-35207/
