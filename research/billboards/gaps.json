@@ -1,0 +1,231 @@
+[
+  {
+    "year": 2013,
+    "artist": "Republic Records (label)",
+    "title": "'The Road to Coachella Belongs to Republic Records' (Hollywood Reporter)",
+    "shows_says": null,
+    "location": "Road to Coachella (not specified)",
+    "promoted": "Unknown - presumably Republic Records acts on the 2013 lineup (not verified)",
+    "aftermath": null,
+    "sources": [
+      {"publication": "The Hollywood Reporter (headline seen in search results only)", "url": "https://www.hollywoodreporter.com/news/general-news/road-coachella-belongs-republic-records-438812/", "date": "not verified (article id 438812 sits next to THR's Coachella 2013 Day 2 review, id 439302, so most likely April 2013)"}
+    ],
+    "image_sources": [],
+    "confidence": "low",
+    "notes": "Could not read the article. The Wayback Machine URL was refused by WebFetch (SITE_BLOCKED), and per instructions I did not try other archive mirrors. The live THR URL (taken from search results) also failed (client_error). Searches for its text turned up nothing. It is the only sign of label billboards on the route before 2014. Try opening it by hand in a browser.",
+    "entry_type": "year_note"
+  },
+  {
+    "year": 2014,
+    "artist": "Off-site festival parking (LNR Parking quoted; sponsor not named)",
+    "title": "Coachella/Stagecoach off-site parking billboard on eastbound I-10",
+    "shows_says": "Advertises off-site parking for Coachella and Stagecoach at Avenue 48 and Van Buren in Coachella. It was changed to steer drivers to exit at Dillon Road instead of Monroe or Jefferson. Exact wording not reported.",
+    "location": "Facing eastbound I-10, Indio",
+    "promoted": "Off-site festival parking lot (Avenue 48 & Van Buren, Coachella)",
+    "aftermath": null,
+    "sources": [
+      {"publication": "KESQ News Channel 3 (KESQ News Team), 'New parking lot gears up for festival goers'", "url": "https://kesq.com/?p=73320", "date": "2014-04-07"}
+    ],
+    "image_sources": [],
+    "confidence": "medium",
+    "notes": "A service ad, not an artist board, but it is a dated, sourced 2014 I-10 festival billboard. David Dix, CMO of LNR Parking, is quoted. The article does not say outright who paid for the board.",
+    "entry_type": "brand"
+  },
+  {
+    "year": 2015,
+    "artist": null,
+    "title": "DASH TWO: 'a handful of billboards' left for 2015",
+    "shows_says": null,
+    "location": "LA-to-Empire Polo Club drive (about two hours)",
+    "promoted": null,
+    "aftermath": null,
+    "sources": [
+      {"publication": "DASH TWO blog (Gino Sesto / Kim M. Pham), 'Coachella Billboard Advertising'", "url": "https://dashtwo.com/blog/coachella-billboard-advertising/", "date": "2015-01-20"}
+    ],
+    "image_sources": [
+      {"url": "https://dashtwo.com/wp-content/uploads/2019/06/Miami-Horror-Coachella.jpg", "credit": "DASH TWO (Miami Horror with 'their billboard from last year')", "type": "agency"}
+    ],
+    "confidence": "medium",
+    "notes": "No named 2015 boards turned up anywhere. This post shows a billboard market selling 2015 Coachella inventory by January 2015 (its 2014 Miami Horror example is already in the main dataset). The image upload path (2019/06) reflects a site migration, not the shoot date.",
+    "entry_type": "year_note"
+  },
+  {
+    "year": 2016,
+    "artist": "Guns N' Roses",
+    "title": "Guns N' Roses Coachella 2016 billboard above Wilshire Blvd",
+    "shows_says": "Promotes Guns N' Roses' upcoming Coachella 2016 appearance (Getty caption). Verbatim text not given.",
+    "location": "Above Wilshire Blvd, Los Angeles - NOT on the desert route",
+    "promoted": "Guns N' Roses' reunion set at Coachella 2016",
+    "aftermath": null,
+    "sources": [
+      {"publication": "Getty Images (editorial photo caption)", "url": "https://www.gettyimages.com.au/detail/news-photo/billboard-promoting-guns-n-roses-upcoming-appearance-at-news-photo/504082092", "date": "2016-01-08"}
+    ],
+    "image_sources": [
+      {"url": "https://www.gettyimages.com.au/detail/news-photo/billboard-promoting-guns-n-roses-upcoming-appearance-at-news-photo/504082092", "credit": "Getty Images (photographer not shown in search listing)", "type": "news"},
+      {"url": "https://www.gettyimages.com.au/detail/news-photo/billboard-promoting-guns-n-roses-upcoming-appearance-at-news-photo/504082082", "credit": "Getty Images", "type": "news"},
+      {"url": "https://www.gettyimages.com.au/detail/news-photo/billboard-promoting-guns-n-roses-upcoming-appearance-at-news-photo/504082066", "credit": "Getty Images", "type": "news"}
+    ],
+    "confidence": "high",
+    "notes": "Found through a Getty search; I only saw the listing caption, not the detail page. It is a Coachella-themed artist board but sits in LA in January, not on I-10. Include it only if the archive takes 'Coachella boards anywhere'; otherwise treat it as context.",
+    "entry_type": "artist_promo"
+  },
+  {
+    "year": 2017,
+    "artist": "Lady Gaga",
+    "title": "Lady Gaga Coachella billboard near Highway 10, Palm Springs (Getty photo)",
+    "shows_says": "Getty caption: 'A billboard advertising Lady Gaga at the Coachella Valley Music and Arts Festival.' Verbatim board text not given.",
+    "location": "Near California Highway 10 (I-10), Palm Springs",
+    "promoted": "Lady Gaga's Coachella 2017 headline set",
+    "aftermath": null,
+    "sources": [
+      {"publication": "Getty Images Entertainment (Kevin Winter / Getty Images for Coachella)", "url": "https://www.gettyimages.com.au/detail/news-photo/billboard-advertising-lady-gaga-at-the-coachella-valley-news-photo/670917304", "date": "2017-04-20"}
+    ],
+    "image_sources": [
+      {"url": "https://www.gettyimages.com.au/detail/news-photo/billboard-advertising-lady-gaga-at-the-coachella-valley-news-photo/670917304", "credit": "Kevin Winter/Getty Images for Coachella", "type": "news"},
+      {"url": "https://www.gettyimages.com.au/detail/news-photo/billboard-advertising-lady-gaga-at-the-coachella-valley-news-photo/670917300", "credit": "Kevin Winter/Getty Images for Coachella (second frame; detail page not opened)", "type": "news"}
+    ],
+    "confidence": "high",
+    "notes": "SAME BOARD as the main dataset's 2017 Lady Gaga billboard. Merge it there: it adds a dated, credited news photo and a location (near I-10, Palm Springs). Licensed Getty image, so it needs a license or a link-out, not a re-host.",
+    "entry_type": "artist_promo"
+  },
+  {
+    "year": 2018,
+    "artist": "KYLE (SuperDuperKyle)",
+    "title": "'Super Duper Kyle is going to the Moon' rocket-ship billboard",
+    "shows_says": "DASH TWO alt text: 'Retro rocket-ship billboard for KYLE, \"Super Duper Kyle is going to the Moon,\" Friday 4:30 PM Main Stage'.",
+    "location": "Not pinned down. The post says DASH TWO's boards 'line the I-10 heading into Coachella' but does not say where this one stood.",
+    "promoted": "KYLE's Friday Main Stage set at Coachella 2018",
+    "aftermath": "The vinyl from DASH TWO's 2018 Coachella boards went to Rareform to be cut into bags and accessories. A backpack printed with the KYLE rocket-ship art is pictured.",
+    "sources": [
+      {"publication": "DASH TWO blog (Gino Sesto), 'Wear that Billboard! Rareform + DASH TWO'", "url": "https://dashtwo.com/blog/coachella-outdoor-billboard/", "date": "2018-04-14"},
+      {"publication": "Concert Archives (KYLE 2018 dates: Coachella, Indio, Apr 13-15 and 20-22, 2018)", "url": "https://www.concertarchives.org/bands/kyle?year=2018", "date": "accessed 2026-10-31"}
+    ],
+    "image_sources": [
+      {"url": "https://dashtwo.com/wp-content/uploads/2019/06/Wear_that_Billboard.jpg", "credit": "DASH TWO", "type": "agency"},
+      {"url": "https://dashtwo.com/wp-content/uploads/2019/06/Wear_that_Billboard_2.jpg", "credit": "DASH TWO / Rareform (backpack made from the board)", "type": "agency"}
+    ],
+    "confidence": "medium",
+    "notes": "Best 2018 find: an artist board described in a post published the day before weekend 1. The agency is the only source; I found no press or fan corroboration. Image upload path 2019/06 reflects a site migration.",
+    "entry_type": "artist_promo"
+  },
+  {
+    "year": 2018,
+    "artist": "Unknown (possibly KYLE - not stated)",
+    "title": "Pink 'one-name fame' billboard (Kyle, Elvis, Kanye, Jesus, LeBron, Oprah)",
+    "shows_says": "DASH TWO alt text: 'Pink billboard listing one-name-famous figures - Kyle, Elvis, Kanye, Jesus, LeBron, Oprah'. A Rareform tote from it reads 'Six American Names' with a KA monogram.",
+    "location": "Not stated",
+    "promoted": "Not stated",
+    "aftermath": "Turned into Rareform totes",
+    "sources": [
+      {"publication": "DASH TWO blog (Gino Sesto), 'Wear that Billboard! Rareform + DASH TWO'", "url": "https://dashtwo.com/blog/coachella-outdoor-billboard/", "date": "2018-04-14"}
+    ],
+    "image_sources": [
+      {"url": "https://dashtwo.com/wp-content/uploads/2019/06/Wear_that_Billboard_3.jpg", "credit": "DASH TWO", "type": "agency"},
+      {"url": "https://dashtwo.com/wp-content/uploads/2019/06/Wear_that_Billboard_4.jpg", "credit": "DASH TWO / Rareform (tote)", "type": "agency"}
+    ],
+    "confidence": "low",
+    "notes": "The page labels it a 'One-Name Fame Concept Billboard' and does not say whose it was or whether it ran on I-10. 'Kyle' leading the list suggests a KYLE board, but that is my inference only. Check the image before publishing.",
+    "entry_type": "artist_promo"
+  },
+  {
+    "year": 2018,
+    "artist": null,
+    "title": "2018 market evidence: 485 I-10 boards, priced for the festival",
+    "shows_says": null,
+    "location": "I-10 route to the festival",
+    "promoted": null,
+    "aftermath": null,
+    "sources": [
+      {"publication": "Billboard Pro, 'On the Road to Coachella? Those Billboards Are There Just for You' (AdQuick count: 548 this year, up from 485 in 2018 and 533 in 2019)", "url": "https://www.billboard.com/pro/coachella-billboards-interstate-10-festival-advertising-strategy/", "date": "no date shown (internal evidence: April 2022)"},
+      {"publication": "Billboard Insider (AdQuick data: April 2019 I-10 prices up 14.2% from 2018)", "url": "https://billboardinsider.com/?p=31281", "date": "2019-04-11"},
+      {"publication": "MediaPost, 'Billboard Inventory Soars 31% En Route To Coachella' ('14.2% vs. April 2018')", "url": "https://www.mediapost.com/publications/article/334457/billboard-inventory-soars-31-en-route-to-coachell.html", "date": "not shown (2019)"},
+      {"publication": "DASH TWO blog, 'Wear that Billboard!' (its boards 'line the I-10 heading into Coachella')", "url": "https://dashtwo.com/blog/coachella-outdoor-billboard/", "date": "2018-04-14"}
+    ],
+    "image_sources": [],
+    "confidence": "high",
+    "notes": "Backs up Richard's memory: 2018 was a full festival billboard season (485 boards counted on the route), even though the press named almost none. AdQuick's methodology (all boards on the route vs. festival-targeted boards) is not stated.",
+    "entry_type": "year_note"
+  },
+  {
+    "year": 2019,
+    "artist": "Billie Eilish, BLACKPINK, Tame Impala, Juice WRLD, Dillon Francis / Anna Lunoe / Diplo, Epitaph Records, Heard Well, Vydia",
+    "title": "DASH TWO 'Ultimate Guide to Coachella 2020' image set - year check",
+    "shows_says": "Images only; no wording in the text.",
+    "location": "Not stated",
+    "promoted": "Not stated",
+    "aftermath": null,
+    "sources": [
+      {"publication": "OOH Today (Rodolfo Queiroz, DASH TWO), 'Here's the Ultimate Guide to Coachella 2020 Billboard Ads'", "url": "https://oohtoday.com/heres-the-ultimate-guide-to-coachella-2020-billboard-ads/", "date": "2019-12-02"},
+      {"publication": "DASH TWO, guide to Coachella billboards (same images, uploaded 2019/11)", "url": "https://dashtwo.com/blog/guide-to-coachella-billboards/", "date": "2025-08-18 (updated)"},
+      {"publication": "OAAA blog (Billie Eilish I-10 boards, 2019)", "url": "https://oaaa.org/blog-posts/billboards-headlining-at-coachella/", "date": "2019-04-22"}
+    ],
+    "image_sources": [
+      {"url": "https://dashtwo.com/wp-content/uploads/2019/11/Guide-To-Coachella-2020-Blackpink.jpg", "credit": "DASH TWO", "type": "agency"},
+      {"url": "https://dashtwo.com/wp-content/uploads/2019/11/Guide-To-Coachella-2020-Tameimpala.jpg", "credit": "DASH TWO", "type": "agency"},
+      {"url": "https://dashtwo.com/wp-content/uploads/2019/11/Guide-To-Coachella-2020-Juicewrld.jpg", "credit": "DASH TWO", "type": "agency"},
+      {"url": "https://dashtwo.com/wp-content/uploads/2019/11/Guide-To-Coachella-2020-DillonFrancis.jpg", "credit": "DASH TWO", "type": "agency"},
+      {"url": "https://dashtwo.com/wp-content/uploads/2019/11/Guide-To-Coachella-2020-Epitaph.jpg", "credit": "DASH TWO", "type": "agency"},
+      {"url": "https://dashtwo.com/wp-content/uploads/2019/11/Guide-To-Coachella-2020-Heardwell.jpg", "credit": "DASH TWO", "type": "agency"},
+      {"url": "https://dashtwo.com/wp-content/uploads/2019/11/Guide-To-Coachella-2020-Vydia.jpg", "credit": "DASH TWO", "type": "agency"}
+    ],
+    "confidence": "low",
+    "notes": "I found no evidence that any of these are from 2018. Neither post gives a year. Billie Eilish's boards are documented for 2019 (OAAA). BLACKPINK and Tame Impala played Coachella 2019. The OOH Today caption names Dillon Francis, Anna Lunoe and Diplo together, which points to a Mad Decent-style multi-artist board. Treat the set as '2019 (most likely)' unless the images show dates or set times. Reading the set-time text in the images is the quickest way to settle the year. Separately, YG Life (2019-04-12) reports Interscope BLACKPINK boards in Times Square and LA, but not on I-10.",
+    "entry_type": "year_note"
+  },
+  {
+    "year": 2023,
+    "artist": "boygenius",
+    "title": "Mock-lawyer 'Not strong enough?' billboard",
+    "shows_says": "Paraphrased by The Forty-Five: the trio leaning on each other in mock-lawyer ad poses, asking 'Not strong enough?' (a song title from 'the record'). The writer calls it 'just a silly billboard poster to pique excitement for tonight (April 15)'.",
+    "location": "'On the drive towards Indio, through the Coachella Valley' - roadside; exact spot not given",
+    "promoted": "boygenius' Coachella 2023 set (Saturday April 15, 2023, their first proper live show) and the album 'the record'",
+    "aftermath": "The review reads the board as a joke teaser that turned into an invitation once the set began.",
+    "sources": [
+      {"publication": "The Forty-Five (Rhian Daly), boygenius Coachella 2023 review", "url": "https://thefortyfive.com/?p=26976", "date": "2023-04-16"},
+      {"publication": "The Forty-Five (Rhian Daly), Sabrina Carpenter Coachella billboards 2024 piece ('lawyer-esque notice')", "url": "https://thefortyfive.com/news/sabrina-carpenter-coachella-billboards-2024/", "date": "2024-04-04"}
+    ],
+    "image_sources": [],
+    "confidence": "medium",
+    "notes": "UPGRADES the main dataset's 2023 boygenius entry: now a same-weekend eyewitness account with the 'Not strong enough?' hook. Both sources are the same outlet and writer. I found no photo credit; check IG/X for 'boygenius billboard'.",
+    "entry_type": "artist_promo"
+  },
+  {
+    "year": 2023,
+    "artist": "Tyre Nichols (photographs), Desert X 2023",
+    "title": "Originals",
+    "shows_says": "Six of Tyre Nichols' photographs (Memphis steel bridges and sunsets) on roadside billboards, with no added text reported. Desert X: 'the silent beauty of these levitated images stands in stark contrast with the terror.'",
+    "location": "North Gene Autry Trail between I-10 and Vista Chino, Palm Springs (Palm Springs Life). Getty/AFP caption says near Desert Hot Springs.",
+    "promoted": "Tribute to Tyre Nichols, killed after a Memphis police traffic stop in January 2023. Supported by the City of Palm Springs Public Arts Commission.",
+    "aftermath": "On view March 4 - May 7, 2023, covering both Coachella weekends",
+    "sources": [
+      {"publication": "TheGrio", "url": "https://thegrio.com/2023/03/09/tribute-to-tyre-nichols-in-coachella-valley/", "date": "2023-03-09"},
+      {"publication": "Palm Springs Life", "url": "https://www.palmspringslife.com/tyre-nichols-photography-to-be-featured-at-desert-x-2023", "date": "not shown (2023)"},
+      {"publication": "PetaPixel", "url": "https://petapixel.com/2023/03/08/tyre-nicholss-photography-featured-in-californian-desert-billboard-exhibition", "date": "2023-03-08"}
+    ],
+    "image_sources": [
+      {"url": "https://www.gettyimages.com.au/detail/news-photo/billboards-display-photos-by-tyre-nichols-during-the-media-news-photo/1247747355", "credit": "Valerie Macon/AFP via Getty Images (photo of works by Tyre Nichols; editorial use, artist credit mandatory)", "type": "news"},
+      {"url": "https://petapixel.com/2023/03/08/tyre-nicholss-photography-featured-in-californian-desert-billboard-exhibition", "credit": "Lance Gerber, courtesy Desert X", "type": "official"}
+    ],
+    "confidence": "high",
+    "notes": "Desert X 2023 (artistic director Neville Wakefield, co-curator Diana Campbell). This continues the Desert X billboard thread (Bolande 2017, Romero 2019, Simmons 2021). Four more Getty frames: 1247747386, 1247747324, 1247747092, 1247746912.",
+    "entry_type": "art_installation"
+  },
+  {
+    "year": 2023,
+    "artist": "BLACKPINK (fan-funded)",
+    "title": "Fan LED trucks and aerial banners for BLACKPINK's headline sets",
+    "shows_says": "Rosé helicopter banner: 'ALL MY LOVE IS Rosé'. Lisa skywriting: 'I LISA YOU'. Jennie: LED trucks with her image circling the main stage area for eight hours. Jisoo: a planned hot-air balloon.",
+    "location": "Over and around the festival grounds (not specified further)",
+    "promoted": "BLACKPINK's Coachella 2023 headline sets (Apr 15 and 22, US time)",
+    "aftermath": null,
+    "sources": [
+      {"publication": "Tien Phong (Hoa Hoc Tro section), Vietnam", "url": "https://tienphong.vn/fan-chi-tien-khung-ung-ho-blackpink-tai-coachella-2023-thue-may-bay-de-chay-banner-post1526289.tpo", "date": "2023-04-15"}
+    ],
+    "image_sources": [
+      {"url": "https://tienphong.vn/fan-chi-tien-khung-ung-ho-blackpink-tai-coachella-2023-thue-may-bay-de-chay-banner-post1526289.tpo", "credit": "Fanbase posts as credited: Twitter ROSÉChinaBar, LISANATIONS, CHINA JENNIE BAR (JENNIEBAR_CN, babyblue_jennie, Jennie Global Union, NEWSJENNIE), JISOO CHINA", "type": "fan"}
+    ],
+    "confidence": "low",
+    "notes": "Mobile and aerial fan placements, not road billboards, and the article covers plans as well as what happened. One foreign outlet relying on fanbase tweets; post URLs not captured. Include only if the archive covers fan OOH.",
+    "entry_type": "artist_promo"
+  }
+]
