@@ -11,11 +11,11 @@ He did not do anything about it for six years. But this is where the story start
 
 ## The fight
 
-In 1993 Pearl Jam were one of the biggest bands in the country, and they wanted their tickets cheap. The fight with Ticketmaster went fully public the following summer. On June 30, 1994, Stone Gossard and Jeff Ament testified to a House subcommittee about "the imposition of excessive service charges."[^pro-testimony] They told Congress the band wanted tickets capped at $18 and service charges at 10%, printed separately from the price.[^pro-testimony] The band's summer tour that year was cancelled over the boycott.[^pro-ew]
+Pearl Jam wanted its tickets cheap, and the fight over that went fully public the following spring. In a memo to the Justice Department dated May 6, 1994, the band accused Ticketmaster of being a monopoly, and the department opened an investigation.[^pro-kiro] On June 30, 1994, Stone Gossard and Jeff Ament testified to a House subcommittee about "the imposition of excessive service charges."[^pro-testimony] They told Congress the band wanted tickets capped at $18 and service charges at 10%, printed separately from the price.[^pro-testimony] Pearl Jam ended up cancelling its 1994 summer tour.[^pro-kiro]
 
 The Indio show came seven months before the testimony, while the campaign was already under way.[^pro-ringer] Ticketmaster's deals covered the big Southern California venues, so band management went looking for somewhere outside them. They picked a site Wikipedia's account of the tour describes as "untested and under-developed."[^pro-wikivs] NPR's version is simpler: Goldenvoice helped Pearl Jam find other places to play during the boycott, and one of them was the Empire Polo Club.[^pro-npr]
 
-Eddie Vedder, on stage that night, as The Ringer quotes him:
+The Ringer quotes Eddie Vedder on the move into the desert:
 
 > "You gotta run pretty far to get some space for yourself these days."[^pro-ringer]
 
@@ -35,7 +35,7 @@ The man who founded Goldenvoice was not there. Gary Tovar had been arrested in M
 
 The Empire Polo Club was six years old in 1993. Alexander "Al" Haagen III founded it in 1987. He had taken up polo in 1983, and he was the patron, the player who owns and pays for a team, of the Empire team for 30 years.[^pro-museum] Under him the club hosted the first 40-goal tournament in the US, the top level of the sport, and the first US Women's Open.[^pro-museum]
 
-The money behind it was shopping centers. Haagen was vice chairman of Alexander Haagen Properties, the family's shopping-center developer, which built its first center in Rosemead in 1963.[^pro-labj] Palm Springs Life says the club was built as "a home for his favorite sport," with a dozen grass fields, two exercise tracks and stables.[^pro-psl] The Museum of Polo counts 11 fields.[^pro-museum] Polo people count fields differently depending on who is asking. Chapter 4 has the full tally.
+The money behind it was shopping centers. Haagen was vice chairman of Alexander Haagen Properties, the family's shopping-center developer, which built its first center in Rosemead in 1963.[^pro-labj] Palm Springs Life says the club was built as "a home for his favorite sport," with a dozen grass fields, two exercise tracks and stables.[^pro-psl] The Museum of Polo counts 11 fields.[^pro-museum] Polo people count fields differently depending on who is asking. Chapter 3 has the full tally.
 
 Two details from the club's old life are still there every April. One is the rose garden along the south side of Field 3, the main Sunday polo field. The club's own site put it at about 8,000 bushes in 107 varieties, with a life-size bronze called *She Gave Her Best* by Rich Roenisch.[^pro-epc] The other is the grass. Polo needs it, and the club watered the fields 11 months a year. Goldenvoice took over the watering in April.[^pro-dsun15] Haagen explained the priority in 2015:
 
@@ -55,7 +55,7 @@ The historian Jeff Crider puts it plainly to NPR:
 
 > "'Coachella' was a mistake."[^pro-npr]
 
-The valley took the name, and the festival took it from the valley. Its full name is the Coachella Valley Music and Arts Festival, and it has been held in Indio, the next city over, since 1999.[^pro-npr] The city of Coachella is a few miles southeast. Chapter 13 goes there.
+The valley took the name, and the festival took it from the valley. Its full name is the Coachella Valley Music and Arts Festival, and it has been held in Indio, the next city over, since 1999.[^pro-npr] The city of Coachella is next door. Chapter 14 goes there.
 
 ## Why Indio
 
@@ -69,7 +69,7 @@ Put the pieces together and the choice makes sense, even if nobody planned it.
 He was not counting on the heat, or on how few of them would come back the first time. That is the next chapter.
 
 :::lore "The night that started Coachella"
-This is the founding story Goldenvoice tells, and it's mostly true. Tollett has said the Pearl Jam show showed him the site could work for a festival.[^pro-npr] Wikipedia goes further and quotes Billboard, 2012, saying the concert "sowed the seeds" of Coachella.[^pro-wikivs] The documented version is a little slower. The first festival was in October 1999, six years later.[^pro-ringer] It needed a second idea, the European-style multi-stage festival, before the field made sense. The seed was real. It took a while to come up.
+This is the founding story Goldenvoice tells, and it's mostly true. Tollett has said the Pearl Jam show showed him the site could work for a festival.[^pro-npr] Wikipedia goes further and quotes Billboard, 2012, saying the concert "sowed the seeds" of Coachella.[^pro-wikivs] The documented version is a little slower. The first festival was in October 1999, six years later, and it nearly sank the company.[^pro-ringer] The seed was real. It took a while to come up.
 :::
 
 ## Still open
@@ -82,7 +82,7 @@ This is the founding story Goldenvoice tells, and it's mostly true. Tollett has 
 [^pro-ringer]: The Ringer (Rob Harvilla) - "How Coachella '99 Lost a Million Dollars and Started an Empire" - 2019-10-09 - https://www.theringer.com/music/2019/10/9/20905896/how-coachella-99-lost-a-million-dollars-started-music-festival-empire
 [^pro-npr]: NPR - "Word of the Week: Coachella began as a typo. Here's what happened next." - 2025-04-16 - https://www.npr.org/2025/04/16/nx-s1-5365781/coachella-festival-valley-history
 [^pro-testimony]: Five Horizons (archive) - "Pearl Jam's testimony before Congress regarding Ticketmaster" (House Government Operations subcommittee) - 1994-06-30 - http://www.fivehorizons.com/archive/articles/testimon.shtml
-[^pro-ew]: Entertainment Weekly (Jeff Gordinier) - "The Brawls in Their Courts" - 1994-10-28 - http://www.ew.com/article/1994/10/28/brawls-their-courts (cited via Wikipedia "Vs. Tour"; not opened)
+[^pro-kiro]: KIRO 7 News (Shawn Garrett) - "1994: A look back at when Pearl Jam took on Ticketmaster" - 2022-11-17 - https://www.kiro7.com/news/local/1994-when-pearl-jam-took-ticketmaster-look-back/UFQFVWKQPJB63FWUAVNRQCMSV4/
 [^pro-lo4l]: Live on 4 Legs (podcast) - "Episode 54: Indio, CA - 11/5/1993" - 2019-11-06 - https://liveon4legs.com/?p=1043
 [^pro-latimes25]: Los Angeles Times (Steve Appleford), via AOL - "Goldenvoice founder Gary Tovar is Coachella's eternal fan: 'When the music moves, you move with it'" - 2025-04-19 - https://www.aol.com/goldenvoice-founder-gary-tovar-coachellas-150048995.html
 [^pro-psl]: Palm Springs Life - "Empire Polo Club" - n.d. - https://www.palmspringslife.com/empire-polo-club/
