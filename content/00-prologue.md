@@ -80,7 +80,7 @@ This is the founding story Goldenvoice tells, and it's mostly true. Tollett has 
 [^pro-fivehorizons]: Five Horizons (Pearl Jam fan archive) - "1993 tour" - n.d. (read 2026-10-31) - https://www.fivehorizons.com/tour/cc/t1993.shtml
 [^pro-wikivs]: Wikipedia - "Vs. Tour" - n.d. (read 2026-10-31; cites Steve Hochman, Los Angeles Times, 1993-11-08, and Andrew Flanagan, Billboard, 2012-11-09) - https://en.wikipedia.org/wiki/Vs._Tour
 [^pro-ringer]: The Ringer (Rob Harvilla) - "How Coachella '99 Lost a Million Dollars and Started an Empire" - 2019-10-09 - https://www.theringer.com/music/2019/10/9/20905896/how-coachella-99-lost-a-million-dollars-started-music-festival-empire
-[^pro-npr]: NPR - "Word of the Week: Coachella began as a typo. Here's what happened next." - 2025-04-16 - https://www.npr.org/2025/04/16/nx-s1-5365781/coachella-festival-valley-history
+[^pro-npr]: NPR - "Word of the Week: Coachella began as a typo. Here's what happened next" - 2025-04-16 - https://www.npr.org/2025/04/16/nx-s1-5365781/coachella-festival-valley-history
 [^pro-testimony]: Five Horizons (archive) - "Pearl Jam's testimony before Congress regarding Ticketmaster" (House Government Operations subcommittee) - 1994-06-30 - http://www.fivehorizons.com/archive/articles/testimon.shtml
 [^pro-kiro]: KIRO 7 News (Shawn Garrett) - "1994: A look back at when Pearl Jam took on Ticketmaster" - 2022-11-17 - https://www.kiro7.com/news/local/1994-when-pearl-jam-took-ticketmaster-look-back/UFQFVWKQPJB63FWUAVNRQCMSV4/
 [^pro-lo4l]: Live on 4 Legs (podcast) - "Episode 54: Indio, CA - 11/5/1993" - 2019-11-06 - https://liveon4legs.com/?p=1043
@@ -88,6 +88,6 @@ This is the founding story Goldenvoice tells, and it's mostly true. Tollett has 
 [^pro-psl]: Palm Springs Life - "Empire Polo Club" - n.d. - https://www.palmspringslife.com/empire-polo-club/
 [^pro-museum]: Museum of Polo and Hall of Fame - "Alexander Haagen III" - 2023-02-17 - https://polomuseum.org/alexander-haagen-iii/
 [^pro-labj]: Los Angeles Business Journal - "Alexander Haagen III" - n.d. (1990s) - https://labusinessjournal.com/news/haagen/
-[^pro-epc]: Empire Polo Club (official site) - rose garden page - 2010-08-26 - https://empirepolo.com/178/
+[^pro-epc]: Empire Polo Club (EPC Staff) - "Empire Polo Club, A Home Fit For the Sport of Kings" - 2010-08-26 - https://empirepolo.com/178/
 [^pro-dsun15]: The Desert Sun (Bruce Fessier and Ian James), via World Polo News - "Coachella in drought: Polo club looks to cut water use" - 2015-04 - https://worldpolonews.com/2015/coachella-drought-polo-club-looks-cut-water-use
 [^pro-bw]: Business Wire - "Goldenvoice to Assume Operations of Empire Polo Club in Long-Term Agreement" - 2021-10-27 - https://www.businesswire.com/news/home/20211027006159/en

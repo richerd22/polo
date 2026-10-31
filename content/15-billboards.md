@@ -11,7 +11,7 @@ That is the whole idea in three signs. The festival has a lineup. The highway ha
 
 ## Why the desert
 
-Coachella's own driving directions all start from the eastbound I-10.[^bb-directions] Gino Sesto, whose agency DASH TWO has sold Coachella boards since about 2015, put it simply to Billboard:
+Coachella's own driving directions funnel almost everyone onto the I-10 into the valley.[^bb-directions] Gino Sesto, whose agency DASH TWO has sold Coachella boards since about 2015, put it simply to Billboard:
 
 > "It's kind of a perfect storm... you have one way in."[^bb-bbpro]
 
@@ -27,7 +27,7 @@ The same Billboard piece describes artists stopping on the highway to take selfi
 
 Two owners come up again and again on this stretch. Outfront's own blog describes the I-10 run as "lined on either side with OUTFRONT billboards."[^bb-outfront] Billboard calls Lamar "one of the top billboard operators on this stretch."[^bb-bbpro] Lamar also says it has had a Palm Springs-area operation since 2002; that is the company's own claim.[^bb-lamar]
 
-The artists and labels mostly don't call them directly. They go through agencies and marketplaces: DASH TWO, a Los Angeles out-of-home agency; MilkMoney, which makes the content; and AdQuick, an online billboard marketplace, which says the inventory is "spread across multiple outdoor media owners" with no public map.[^bb-bbpro][^bb-adquick]
+The artists and labels mostly don't call them directly. They go through agencies and marketplaces: DASH TWO, a Los Angeles out-of-home agency; MilkMoney, which makes the content; and AdQuick, an online billboard marketplace, which says the inventory "is fragmented across multiple outdoor media owners" with no public map.[^bb-bbpro][^bb-adquick]
 
 ## What it costs
 
@@ -50,7 +50,7 @@ The boards cluster where the road narrows. Billboard describes about 50 miles of
 
 DASH TWO's own map of the route, which is a sales pitch and should be read as one, starts with the Banning Pass and Cabazon as the first boards drivers from LA and Orange County see, then the split where Highway 111 peels off toward Palm Springs, then the final mile near the polo club.[^bb-dash25] The wind turbines are a landmark in their own right; in 2026 Slayyyter staged a bunny-suit stunt there.[^bb-adquick]
 
-There is also a different kind of board off the interstate. The art biennial Desert X put billboard works in the valley in 2017, 2019, 2021 and 2023, most of them on Gene Autry Trail into Palm Springs.[^bb-dx] The season chapter covers those.
+There is also a different kind of board off the interstate. The art biennial Desert X has put billboard works in the valley, starting in 2017 with a work by Jennifer Bolande on the road into Palm Springs.[^bb-dx] The season chapter covers those.
 
 ## How it started
 
@@ -98,25 +98,25 @@ Instagram roundups collect the boards every year too. They are a good place to l
 - **The 20 boards of 2020.** Who booked them, and whether any creative was ever printed.
 - **April Street View captures.** Which springs Google happened to drive the I-10 during festival season.
 
-[^bb-complex22]: Complex (Brenton Blanchet) - "Travis Scott's Utopia album promoted on billboards near Coachella after being removed from headlining" - 2022-04-11 - https://www.complex.com/music/travis-scott-utopia-album-promoted-on-billboards-near-coachella-removed-from-headlining
-[^bb-directions]: Coachella - "Driving directions" - n.d. (read 2026-10-31) - https://coachella.com/driving-directions
+[^bb-complex22]: Complex (Brenton Blanchet) - "Travis Scott's 'Utopia' Album Promoted on Billboards Near Coachella, Festival He Was Removed From Headlining" - 2022-04-11 - https://www.complex.com/music/travis-scott-utopia-album-promoted-on-billboards-near-coachella-removed-from-headlining
+[^bb-directions]: Coachella - "Driving Directions" - n.d. (read 2026-10-31) - https://coachella.com/driving-directions
 [^bb-bbpro]: Billboard Pro - "On the Road to Coachella? Those Billboards Are There Just for You" - 2022 (undated; inferred from content) - https://www.billboard.com/pro/coachella-billboards-interstate-10-festival-advertising-strategy/
 [^bb-outfront]: Outfront (Jay Fenster) - "Billboards are the real Coachella influencers" - 2025-04-24 - https://www.outfront.com/blog/billboards-are-real-coachella-influencers
 [^bb-lamar]: Visit Greater Palm Springs - "Lamar Advertising of Palm Springs" (listing) - n.d. - https://www.visitgreaterpalmsprings.com/listing/lamar-advertising-of-palm-springs/19807/
-[^bb-adquick]: AdQuick - "Coachella billboards" - n.d. (2026 observations) - https://www.adquick.com/answers/billboards/coachella-billboards
+[^bb-adquick]: AdQuick - "What are Coachella billboards and how much do they cost?" - n.d. (2026 observations) - https://www.adquick.com/answers/billboards/coachella-billboards
 [^bb-oaaa19]: OAAA - "Billboards headlining at Coachella" - 2019-04-22 - https://oaaa.org/blog-posts/billboards-headlining-at-coachella/
-[^bb-bbinsider19]: Billboard Insider - "Demand surges for Coachella festival billboards" - 2019-04-11 - https://billboardinsider.com/demand-surges-for-coachella-festival-billboards/
-[^bb-dash25]: DASH TWO (Rodolfo Queiroz) - "Guide to Coachella billboards" - 2025-08-18 (updated 2026-09-01) - https://dashtwo.com/blog/guide-to-coachella-billboards/
-[^bb-nbcps26]: NBC Palm Springs - "Festival billboards on I-10 vandalized as officials plan stronger security" - 2026-04-28 - https://www.nbcpalmsprings.com/2026/04/28/festival-billboards-on-i10-vandalized-as-officials-plan-stronger-security
-[^bb-oohtoday]: OOH Today - "The road to Coachella didn't care which weekend it was" - 2026-04-15 - https://oohtoday.com/the-road-to-coachella-didnt-care-which-weekend-it-was/
-[^bb-dx]: Desert X - "Visible Distance / Second Sight" (archive) - n.d. (read 2026-10-31) - https://desertx.org/dx/archive/visible-distance-second-sight
-[^bb-dash15]: DASH TWO (Gino Sesto / Kim M. Pham) - "Coachella billboard advertising" - 2015-01-20 - https://dashtwo.com/blog/coachella-billboard-advertising/
+[^bb-bbinsider19]: Billboard Insider - "Demand Surges for Coachella Festival Billboards" - 2019-04-11 - https://billboardinsider.com/demand-surges-for-coachella-festival-billboards/
+[^bb-dash25]: DASH TWO (Rodolfo Queiroz) - "Coachella Billboard Ads Updated for 2027" - 2025-08-18 (updated 2026-09-01) - https://dashtwo.com/blog/guide-to-coachella-billboards/
+[^bb-nbcps26]: NBC Palm Springs - "Festival Billboards on I-10 Vandalized as Officials Plan Stronger Security" - 2026-04-28 - https://www.nbcpalmsprings.com/2026/04/28/festival-billboards-on-i10-vandalized-as-officials-plan-stronger-security
+[^bb-oohtoday]: OOH Today - "The road to Coachella didn't care which weekend it was" - 2026-04-13 - https://oohtoday.com/the-road-to-coachella-didnt-care-which-weekend-it-was/
+[^bb-dx]: Desert X - "Jennifer Bolande: Visible Distance / Second Sight" (Desert X 2017 archive) - n.d. (read 2026-10-31) - https://desertx.org/dx/archive/visible-distance-second-sight
+[^bb-dash15]: DASH TWO (Gino Sesto / Kim M. Pham) - "Coachella Billboard Advertising" - 2015-01-20 - https://dashtwo.com/blog/coachella-billboard-advertising/
 [^bb-timeout20]: Time Out Los Angeles (Michael Juliano) - "Coachella 2020 is getting postponed until October due to coronavirus" - 2020-03-11 - https://www.timeout.com/los-angeles/news/coachella-2020-is-getting-postponed-until-october-due-to-coronavirus-031020
 [^bb-kesq20]: KESQ (Jesus Reyes) - "Riverside County cancels Coachella, Stagecoach music festivals for 2020" - 2020-06-10 - https://kesq.com/news/2020/06/10/riverside-county-cancels-coachella-stagecoach-music-festivals-for-2020/
-[^bb-bbinsider20]: Billboard Insider (John Weller) - "OOH advertising down 45% in Q2 2020" - 2020-08-27 - https://billboardinsider.com/ooh-advertising-down-45-in-q2-2020/
+[^bb-bbinsider20]: Billboard Insider (John Weller) - "US out of home advertising down 45% in Q2 2020" - 2020-08-27 - https://billboardinsider.com/ooh-advertising-down-45-in-q2-2020/
 [^bb-outfront8k]: Outfront Media - Form 8-K earnings release, fourth quarter and full year 2020 - 2021-02-25 - https://www.sec.gov/Archives/edgar/data/1579877/000157987721000031/ex991123120earningsrelease.htm
 [^bb-advocate]: The Advocate (Baton Rouge) - Lamar Advertising 2020 results - 2021 - https://www.theadvocate.com/baton_rouge/news/business/article_927fb41c-785d-11eb-af6a-ef193f5c9050.html
-[^bb-rs25]: Rolling Stone (Larisha Paul), via Yahoo - "Cryptic Coachella billboards and a mysterious Instagram" - 2025-04-09 - https://www.yahoo.com/entertainment/articles/cryptic-coachella-billboards-mysterious-instagram-182357210.html
-[^bb-nbcps24]: NBC Palm Springs - "Coachella festival organizers demand removal of new I-10 billboard" - 2024-04-02 - https://www.nbcpalmsprings.com/2024/04/02/coachella-festival-organizers-demand-removal-of-new-i-10-billboard
+[^bb-rs25]: Rolling Stone (Larisha Paul), via Yahoo - "Cryptic Coachella Billboards and Mysterious New Instagram: What Is Frank Ocean Teasing?" - 2025-04-09 - https://www.yahoo.com/entertainment/articles/cryptic-coachella-billboards-mysterious-instagram-182357210.html
+[^bb-nbcps24]: NBC Palm Springs (Carmela Karcher) - "Coachella Festival Organizers Demand Removal Of New I-10 Billboard" - 2024-04-02 - https://www.nbcpalmsprings.com/2024/04/02/coachella-festival-organizers-demand-removal-of-new-i-10-billboard
 [^bb-geo]: Google - "Geo Guidelines" (Brand Resource Center) - n.d. (read 2026-10-31) - https://about.google/brand-resource-center/products-and-services/geo-guidelines/
 [^bb-desertsun26]: The Desert Sun (Ema Sasic), via Yahoo - "Headed to Indio? Be on the lookout for these Coachella billboards" - 2026-04-02 - https://www.yahoo.com/entertainment/music/articles/headed-indio-lookout-coachella-billboards-181955932.html

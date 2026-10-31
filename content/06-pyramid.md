@@ -93,7 +93,7 @@ The duo prepared for the desert in the most literal way available. In 2026 Banga
 
 Saturday, April 29, 2006. Depeche Mode headlined the main stage, and Daft Punk followed them at 11 p.m. in the Sahara tent.[^dp-billboard06][^dp-wam21] The Sahara then sat at the far edge of the grounds, beside what later became the Rose Garden VIP area, and usually had only a few light panels.[^dp-lat23] Why the band went there and not the main stage is not explained in anything found for this chapter.
 
-They opened with the theme from *Close Encounters of the Third Kind* and went into "Robot Rock," then ran their catalog as one continuous mix: "Around the World" laid over "Harder, Better, Faster, Stronger," "One More Time" into "Aerodynamic," "Da Funk," and "Human After All" into "Superheroes."[^dp-farout][^dp-da13] NME's report from that night says the crowd "spilled almost a hundred deep" outside the tent.[^dp-nme06] The festival had planned for that, adding extra speaker stacks and big screens outside.[^dp-thump]
+They opened with the theme from *Close Encounters of the Third Kind* and went into a "Robot Rock" and "Oh Yeah" mash-up, then ran their catalog as one seamless mix.[^dp-farout] Setlist accounts have "Around the World" laid over "Harder, Better, Faster, Stronger," "One More Time" into "Aerodynamic," "Da Funk," and "Human After All" into "Superheroes."[^dp-da13] NME's report from that night says the crowd "spilled almost a hundred deep" outside the tent.[^dp-nme06] The festival had planned for that, adding extra speaker stacks and big screens outside.[^dp-thump]
 
 Not everyone outside saw much. One writer, stuck by the side of the tent, recalls his housemate coming home and calling it "the best light show I've ever seen." His reply: "What light show?"[^dp-thump]
 
@@ -147,48 +147,48 @@ Then, in October 2026, the pyramid came back as plastic. LEGO announced an offic
 - Why the Sahara, and not the main stage after Depeche Mode.
 - Timestamps for *Busy P Says "Oui"* and the 2006 segment of *Coachella: 20 Years in the Desert*, if anyone has them.
 
-[^dp-ld06]: Live Design - "One more time with Daft Punk" - 2006 - https://www.livedesignonline.com/concerts/one-more-time-daft-punk
+[^dp-ld06]: Live Design - "One More Time With Daft Punk" - 2006 - https://www.livedesignonline.com/concerts/one-more-time-daft-punk
 [^dp-wikialive]: Wikipedia - "Alive 2006/2007" (IPFS mirror) - accessed 2026-10-31 - https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Alive_2006/2007
 [^dp-synth09]: Synthtopia - "Grammy Awards announced, Daft Punk, Justice winners" - 2009-02-09 - https://www.synthtopia.com/content/2009/02/08/grammy-awards-announced-daft-punk-justice-winners/
-[^dp-jambase26]: JamBase (Nate Todd) - "Daft Punk LEGO pyramid stage set" - 2026-10-23 - https://www.jambase.com/article/daft-punk-lego-pyramid-stage-set
+[^dp-jambase26]: JamBase (Nate Todd) - "Daft Punk's Alive 2007 Pyramid Stage Inspires New LEGO Set" - 2026-10-23 - https://www.jambase.com/article/daft-punk-lego-pyramid-stage-set
 [^dp-guardian15]: The Guardian (Ben Cardew, via inkl) - "10 things we learned from Daft Punk Unchained" - 2015 - https://www.inkl.com/news/10-things-we-learned-from-daft-punk-unchained
 [^dp-billboard24]: Billboard (Katie Bain, via Yahoo) - "How was Daft Punk booked for Coachella 2006? Watch a new documentary that shares the story" - 2024-12-18 - https://www.yahoo.com/entertainment/daft-punk-booked-coachella-2006-180000503.html
 [^dp-radiofg24]: Radio FG (Antony Harari) - "Daft Punk à Coachella 2006 : comment ce 'oui' de Busy P a tout changé" - 2024-12-23 - https://www.radiofg.com/daft-punk-a-coachella-2006-comment-ce-oui-de-busy-p-a-tout-change
-[^dp-variety21]: Variety (Jonathan Cohen, via Yahoo) - unpublished 2007 Daft Punk interview on Coachella and Kanye West - 2021-02-23 - https://ca.news.yahoo.com/daft-punk-talks-kanye-west-000436207.html
-[^dp-wam21]: Water & Music (Kristin Robinson) - "15 years ago, Daft Punk's Coachella set helped spark an arms race for live music technology" - 2021-04-29 - https://www.waterandmusic.com/15-years-ago-daft-punks-coachella-set-helped-spark-an-arms-race-for-live-music-technology
-[^dp-ringer21]: The Ringer (Justin Sayles) - on Daft Punk's breakup announcement - 2021-02-23 - https://www.theringer.com/music/2021/2/23/22296993/daft-punk-break-up-announcement
-[^dp-lvw06]: Las Vegas Weekly (Spencer Patterson) - "Noise: You shoulda been there" - 2006-05-04 - https://lasvegasweekly.com/news/archive/2006/may/04/noise-you-shoulda-been-there
+[^dp-variety21]: Variety (Jonathan Cohen, via Yahoo) - "Daft Punk Talks Kanye West, Coachella and That Wild Pyramid Stage in Unpublished Interview" - 2021-02-23 - https://ca.news.yahoo.com/daft-punk-talks-kanye-west-000436207.html
+[^dp-wam21]: Water & Music (Kristin Robinson) - "15 years ago, Daft Punk's Coachella set helped spark an 'arms race' for live music technology" - 2021-04-29 - https://www.waterandmusic.com/15-years-ago-daft-punks-coachella-set-helped-spark-an-arms-race-for-live-music-technology
+[^dp-ringer21]: The Ringer (Justin Sayles) - "The Robots Who Ruled the World" - 2021-02-23 - https://www.theringer.com/music/2021/2/23/22296993/daft-punk-break-up-announcement
+[^dp-lvw06]: Las Vegas Weekly (Spencer Patterson) - "NOISE: You Shoulda Been There" - 2006-05-04 - https://lasvegasweekly.com/news/archive/2006/may/04/noise-you-shoulda-been-there
 [^dp-buildings06]: Buildings.com / LEDs Magazine - "LEDs create pyramid showcase for Daft Punk" - 2006-08-21 - https://www.buildings.com/building-systems-om/lighting/article/55258729/leds-create-pyramid-showcase-for-daft-punk
 [^dp-yt24]: Coachella (YouTube) - "Busy P Says 'Oui' - Ed Banger, Daft Punk & Coachella" - 2024-12-18 - https://www.youtube.com/watch?v=1hLfhhBsNBo
 [^dp-bpm24]: BPM (Alexandre Trochut) - "Busy P says oui: Daft Punk, Coachella 2006 and the pyramid show story" - 2024-12-19 - https://bpm-mag.com/busy-says-oui-daftpunk-coachella-2006-pyramid-show-story
-[^dp-plsn07]: PLSN - Daft Punk Alive 2007 production profile - 2007-11-19 - https://plsn.com/?p=230142
-[^dp-rsau21]: Rolling Stone Australia (Jon Blistein) - Daft Punk pyramid, Lollapalooza 2007 flashback - 2021-02-23 - https://au.rollingstone.com/music/music-news/daft-punk-pyramid-lollapalooza-2007-flashback-23420/amp/
-[^dp-creators]: The Creators Project (Vice) - "Meet the man behind the Daft Punk pyramid and The Presets' new tour" - undated - https://thecreatorsproject.vice.com/blog/meet-the-man-behind-the-daft-punk-pyramid-and-the-presets-new-tour
-[^dp-musicradar26]: MusicRadar (Ben Rogerson, via Yahoo), citing The Times - Thomas Bangalter on Daft Punk's Coachella rehearsals - 2026-06-10 - https://www.yahoo.com/entertainment/music/articles/thomas-bangalter-reveals-daft-punks-104523382.html
+[^dp-plsn07]: PLSN - "Daft Punk" (Alive 2007 production profile) - 2007-11-19 - https://plsn.com/?p=230142
+[^dp-rsau21]: Rolling Stone Australia (Jon Blistein) - "Flashback: Daft Punk Bring the Pyramid to Lollapalooza" - 2021-02-23 - https://au.rollingstone.com/music/music-news/daft-punk-pyramid-lollapalooza-2007-flashback-23420/amp/
+[^dp-creators]: The Creators Project (Vice) - "Meet the man behind the Daft Punk pyramid and The Presets' new tour" - n.d. - https://thecreatorsproject.vice.com/blog/meet-the-man-behind-the-daft-punk-pyramid-and-the-presets-new-tour
+[^dp-musicradar26]: MusicRadar (Ben Rogerson, via Yahoo), citing The Times - "Thomas Bangalter reveals Daft Punk's extreme preparation for the heat of their iconic 2006 Coachella set" - 2026-06-10 - https://www.yahoo.com/entertainment/music/articles/thomas-bangalter-reveals-daft-punks-104523382.html
 [^dp-billboard06]: Billboard - "Coachella Valley Music & Arts Festival, April 29-30, 2006, Indio, Calif., Empire Polo Field" - 2006 - https://www.billboard.com/music/music-news/coachella-valley-music-arts-festival-april-29-30-2006-indio-calif-empire-polo-58544
-[^dp-lat23]: Los Angeles Times (August Brown, via AOL) - "EDM may have waned, but the Sahara Tent remains the beating heart of Coachella" - 2023-04-09 - https://www.aol.com/news/edm-may-waned-sahara-tent-120013512.html
-[^dp-farout]: Far Out - "The Daft Punk Coachella comeback set that changed the course of music" - undated - https://faroutmagazine.co.uk/the-daft-punk-coachella-comeback-set-that-changed-the-course-of-music/
+[^dp-lat23]: Los Angeles Times (August Brown), via AOL - "EDM may have waned, but the Sahara Tent remains the beating heart of Coachella" - 2023-04-09 - https://www.aol.com/news/edm-may-waned-sahara-tent-120013512.html
+[^dp-farout]: Far Out - "The Daft Punk Coachella comeback set that changed the course of music" - n.d. - https://faroutmagazine.co.uk/the-daft-punk-coachella-comeback-set-that-changed-the-course-of-music/
 [^dp-da13]: Dancing Astronaut (Andrew Spada) - "Good Morning Mix: Daft Punk Alive at Coachella 2006" - 2013-04-11 - https://dancingastronaut.com/2013/04/good-morning-mix-daft-punk-alive-at-coachella-2006/
-[^dp-nme06]: NME - Coachella 2006 Saturday report - 2006-04-30 - https://www.nme.com/?p=1359908
-[^dp-thump]: Vice / Thump - "Daft Punk's legendary pyramid is only half the story of that fateful night at Coachella 2006" - undated - https://thump.vice.com/en_au/article/daft-punks-legendary-pyramid-is-only-half-the-story-of-that-fateful-night-at-coachella-2006
-[^dp-spin06]: SPIN - "Coachella '06 reviewed" (live blog) - 2006-04-29 - https://www.spinmagazine.com/2006/04/coachella-06-reviewed/
-[^dp-okay15]: Okayplayer (Scott Heins) - Daft Punk Unchained Coachella 2006 footage - 2015-12-10 - https://www.okayplayer.com/news/daft-punk-unchained-coachella-2006-footage.html
-[^dp-lddisband]: Live Design - "Daft Punk disbands: the duo set design standards" - 2021 - https://www.livedesignonline.com/concerts/daft-punk-disbands-duo-set-design-standards
-[^dp-laweekly07]: LA Weekly (Randall Roberts) - Daft Punk interview - 2007-10-25 - https://www.laweekly.com/?p=236870
+[^dp-nme06]: NME - "Daft Punk make live comeback at Coachella" - 2006-04-30 - https://www.nme.com/?p=1359908
+[^dp-thump]: Vice / Thump - "Daft Punk's legendary pyramid is only half the story of that fateful night at Coachella 2006" - n.d. - https://thump.vice.com/en_au/article/daft-punks-legendary-pyramid-is-only-half-the-story-of-that-fateful-night-at-coachella-2006
+[^dp-spin06]: SPIN - "Coachella '06 Reviewed" (live blog) - 2006-04-29 - https://www.spinmagazine.com/2006/04/coachella-06-reviewed/
+[^dp-okay15]: Okayplayer (Scott Heins) - "One More Time: Relive Daft Punk's Legendary 2006 Coachella Set In A New Documentary Clip" - 2015-12-10 - https://www.okayplayer.com/news/daft-punk-unchained-coachella-2006-footage.html
+[^dp-lddisband]: Live Design - "Daft Punk Disbands: Duo Set Design Standards" - 2021 - https://www.livedesignonline.com/concerts/daft-punk-disbands-duo-set-design-standards
+[^dp-laweekly07]: LA Weekly (Randall Roberts) - interview, "Buy It, Use It, Break It, Fix It" - 2007-10-25 - https://www.laweekly.com/?p=236870
 [^dp-jambase07]: JamBase - "Daft Punk: Live album" - 2007-08-27 - https://www.jambase.com/article/daft-punk-live-album
-[^dp-spin07]: SPIN - "Exclusive: Daft Punk unveil live album details" - 2007-08 - https://www.spin.com/2007/08/exclusive-daft-punk-unveil-live-album-details-midlake-release-ep/
+[^dp-spin07]: SPIN - "Exclusive: Daft Punk Unveil Live Album Details; Midlake to Release EP" - 2007-08 - https://www.spin.com/2007/08/exclusive-daft-punk-unveil-live-album-details-midlake-release-ep/
 [^dp-startrib08]: Star Tribune - "That was Daft Punk behind Kanye" - 2008-02-15 - https://www.startribune.com/that-was-daft-punk-behind-kanye/15646512
 [^dp-ra09]: Resident Advisor - "Daft Punk and Justice win at the Grammys" - 2009-02-10 - https://ra.co/news/10201
-[^dp-rockhall]: Rock & Roll Hall of Fame Library - "Greatest festival moments: Coachella 2006" - 2024-08-14 - https://library.rockhall.com/greatest_festival_moments/coachella_2006
+[^dp-rockhall]: Rock & Roll Hall of Fame Library (Jennie Thomas) - "Greatest Festival Moments in Rock and Roll History: Coachella 2006" - 2024-08-14 - https://library.rockhall.com/greatest_festival_moments/coachella_2006
 [^dp-quoteinv]: Quote Investigator - "Everyone who bought one of those 30,000 copies started a band" (citing Kristine McKenna, Los Angeles Times, 1982-05-23) - 2016-03-01 - https://quoteinvestigator.com/2016/03/01/velvet/
-[^dp-gearlive12]: Gear Live - "The Daft Punk show that changed Skrillex's life" - 2012-03-31 - https://www.gearlive.com/music/article/q309-daft-punk-show-changed-skrillex
-[^dp-da17]: Dancing Astronaut - Skrillex on Daft Punk and a live show - 2017-02 - https://dancingastronaut.com/2017/02/skrillex-daft-punk-pop-shop-come-guys-lets-get-live-show/
-[^dp-spin13]: SPIN (Kyle McGovern) - Daft Punk's "Get Lucky" teaser at Coachella 2013 - 2013-04-13 - https://www.spinmagazine.com/2013/04/daft-punk-coachella-2013-get-lucky-video/
+[^dp-gearlive12]: Gear Live - "Daft Punk Show Changed Skrillex" - 2012-03-31 - https://www.gearlive.com/music/article/q309-daft-punk-show-changed-skrillex
+[^dp-da17]: Dancing Astronaut (Christina Hernandez) - "Skrillex to Daft Punk: 'Come on guys, let's get a live show again'" - 2017-02-13 - https://dancingastronaut.com/2017/02/skrillex-daft-punk-pop-shop-come-guys-lets-get-live-show/
+[^dp-spin13]: SPIN (Kyle McGovern) - "Daft Punk's Coachella Album Trailer Confirms Guests Pharrell Williams, Julian Casablancas" - 2013-04-13 - https://www.spinmagazine.com/2013/04/daft-punk-coachella-2013-get-lucky-video/
 [^dp-relix13]: Relix - "Daft Punk teases 'Get Lucky' at Coachella" - 2013-04-13 - https://relix.com/blogs/detail/daft-punk-teases-get-lucky-at-coachella/
 [^dp-timeout16]: Time Out Los Angeles (Michael Juliano) - "Is Daft Punk playing Coachella? The internet thinks so" - 2016-10-05 - https://www.timeout.com/los-angeles/blog/is-daft-punk-playing-coachella-the-internet-thinks-so-100516
-[^dp-nme17]: NME (Luke Morgan Britton) - Pharrell on Daft Punk reunion rumours - 2017-06-14 - https://www.nme.com/?p=2088712
+[^dp-nme17]: NME (Luke Morgan Britton) - "Pharrell Williams addresses Daft Punk Coachella rumours" - 2017-06-14 - https://www.nme.com/?p=2088712
 [^dp-fader25]: The FADER (Steffanee Wang) - "'We just kept going bigger': How Do LaB became Coachella's electronic oasis" - 2025-04-11 - https://thefader.com/2025/04/11/history-of-do-lab-stage-coachella-20-anniversary-photos
-[^dp-da15]: Dancing Astronaut (Kim Reyes) - Daft Punk's Coachella 2006 performance ahead of the Daft Punk Unchained premiere - 2015-12-10 - https://dancingastronaut.com/2015/12/watch-daft-punks-coachella-2006-performance-ahead-daft-punk-unchained-premiere-2/
+[^dp-da15]: Dancing Astronaut (Kim Reyes) - "Watch Daft Punk's Coachella 2006 performance ahead of 'Daft Punk Unchained' premiere" - 2015-12-10 - https://dancingastronaut.com/2015/12/watch-daft-punks-coachella-2006-performance-ahead-daft-punk-unchained-premiere-2/
 [^dp-deadline20]: Deadline - Coachella: 20 Years in the Desert documentary bows on YouTube - 2020-04 - https://deadline.com/2020/04/coachella-20-years-in-the-deset-documentary-bows-on-youtube-music-1202905237/
 [^dp-gotwub25]: GotWub (YouTube) - "Daft Punk Live @ Coachella - 04.29.2006 (crowd footage)" - 2025-04-24 - https://www.youtube.com/watch?v=r2MU9tv5Xz8
 [^dp-yanko26]: Yanko Design - "Daft Punk's iconic Coachella pyramid stage is becoming an official LEGO set in 2027" - 2026-10-22 - https://www.yankodesign.com/2026/10/22/daft-punks-iconic-coachella-pyramid-stage-is-becoming-an-official-lego-set-in-2027/amp/

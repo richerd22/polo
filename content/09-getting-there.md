@@ -61,7 +61,7 @@ Ten years later, Coachella got one train. On Thursday, April 24, 2008, a charter
 
 It was a party. DJs set up laptops on the stainless steel counters in the back cars, and Junkie XL played breakbeats to a packed car. Rosanna Arquette hosted, followed by a camera crew Goldenvoice had hired. The writer on board for LA Weekly said "the three hours flew by."[^gt-laweekly] At the platform, Indio's mayor said a transportation center would be built there, and an Amtrak vice president agreed that desert passenger service "could and should happen."[^gt-railpac]
 
-It didn't. In 2016 the county transportation commission floated festival trains for 2017 and 2018, on a budget of about $1.2M, under the name "Choo-Choo-Chella." They never ran.[^gt-edmtunes16] In 2019 the state awarded the Riverside County Transportation Commission $5.9M in rail money, and the commission added $2.7M, for $8.6M in all. That would have paid for a 900-foot temporary platform at the Indio Transit Center, with festival trains from Union Station "as early as 2020."[^gt-rctc19] Then 2020 happened. Wikipedia, citing the Desert Sun, says the plan was cancelled that year, amid the pandemic, after arrangements with Union Pacific fell through.[^gt-wikiindio] The platform was never built.
+It didn't. In 2016 the county transportation commission floated festival trains for 2017 and 2018, under a roughly $1.2M "convenience plan"; the headlines called it "Choo-Choo-Chella."[^gt-edmtunes16] The trains never ran. In 2019 the state awarded the Riverside County Transportation Commission $5.9M in rail money, and the commission added $2.7M, for $8.6M in all. That would have paid for a 900-foot temporary platform at the Indio Transit Center, with festival trains from Union Station "as early as 2020."[^gt-rctc19] Then 2020 happened. Wikipedia, citing the Desert Sun, says the plan was cancelled that year, amid the pandemic, after arrangements with Union Pacific fell through.[^gt-wikiindio] The platform was never built.
 
 The long game is Coachella Valley Rail, a proposed daily service on about 144 miles from Los Angeles with nine stops. In January 2026 the commission awarded an $80M contract for its environmental review. The project will likely cost more than $1.5B, and service could start "by 2040."[^gt-nbcrail] Nobody has promised DJs.
 
@@ -78,7 +78,7 @@ Jacqueline Cochran Regional Airport, in Thermal, was built in 1942 as a WWII Arm
 
 No one publishes how many private jets land on festival weekends.
 
-The commercial airport, Palm Springs International, feels it in fares rather than records. In 2019, round trips from San Francisco ran about $600 to $800 for weekend 1 and $500 to $600 for weekend 2, against about $320 in early April.[^gt-sfchron] The airport's busiest month ever, with nearly 500,000 passengers, was March 2025 - the month before the festival.[^gt-psppost]
+The commercial airport, Palm Springs International, feels it in fares rather than records. In one festival year (the San Francisco Chronicle's piece is undated, likely 2019), round trips from San Francisco ran about $600 to $800 for weekend 1 and $500 to $600 for weekend 2, against about $320 in early April.[^gt-sfchron] The airport's busiest month ever, with nearly 500,000 passengers, was March 2025 - the month before the festival.[^gt-psppost]
 
 Down on the ground, the top of the price ladder is a staging pass for your hired car. For 2026, the festival charged $3,500 for a vehicle with 10 seats or fewer, and $5,000 for anything bigger, up to a 35-foot bus - "for drivers to service pre-booked clients only."[^gt-getting] The sky above the grounds is closed: a federal flight restriction banned drones from April 9 to 13, 2026.[^gt-nbc0407]
 
@@ -97,7 +97,7 @@ Then, Friday to Monday of each festival weekend, four more go:[^gt-nbc0327]
 
 It's the same list Indio published in 2019.[^gt-kfi19] Inbound traffic peaks from about 3 to 8 p.m., Friday to Sunday, on Jefferson, Washington and Monroe. Outbound runs from about midnight to 3 a.m.[^gt-nbc0406] Caltrans watches the climb in from the coast: I-10 from Beaumont and SR-60 from Moreno Valley, eastbound peaking Friday and westbound Sunday.[^gt-kvcr19]
 
-The police side is a numbers game. Indio PD's traffic division runs festival enforcement. In a crackdown briefing in April 2025, it cited 112 arrests and 83 citations for misused disabled placards from a second weekend, and a 40% spike in arrests on the year before.[^gt-nbc25police] Weekend 2 of 2026 ended with 106 arrests and 87 placard citations, and when festival lots filled, police sent the overflow to the Tennis Garden.[^gt-nbc0421]
+The police side is a numbers game. Indio PD's traffic division runs festival enforcement. In a crackdown briefing in April 2025, it cited 112 arrests and 83 citations for misused disabled placards, and a 40% spike in arrests on the year before.[^gt-nbc25police] Weekend 2 of 2026 ended with 106 arrests and 87 placard citations, and when festival lots filled, police sent the overflow to the Tennis Garden.[^gt-nbc0421]
 
 ## The last mile
 
@@ -134,7 +134,7 @@ Then the roads reopen, the buses go back to wherever they came from, and Indio d
 
 [^gt-inquirer]: Philadelphia Inquirer (Michael Hinkelman) - "Changing the way fans attend live-music events" - 2015-03-04 - https://www.inquirer.com/philly/business/20150304_Changing_the_way_fans_attend_live-music_events.html
 [^gt-onlocation]: On Location - "About Us" - accessed 2026-10-31 - https://music.onlocationexp.com/about-us
-[^gt-kvcr19]: KVCR - "Caltrans warns Inland Empire to prepare for Coachella traffic" - 2019-04-09 - https://www.kvcrnews.org/local-transportation/2019-04-09/caltrans-warns-inland-empire-prepare-for-coachella-traffic
+[^gt-kvcr19]: KVCR - "Caltrans Warns Inland Empire: Prepare For Coachella Traffic" - 2019-04-09 - https://www.kvcrnews.org/local-transportation/2019-04-09/caltrans-warns-inland-empire-prepare-for-coachella-traffic
 [^gt-vmtfaq]: Valley Music Travel - "Coachella FAQs" - accessed 2026-10-31 - https://coachella.valleymusictravel.com/faqs
 [^gt-vmtplat]: Valley Music Travel - "Platinum Services" - accessed 2026-10-31 - https://coachella.valleymusictravel.com/platinum-services
 [^gt-vmtabout]: Valley Music Travel - "About Us" - accessed 2026-10-31 - https://www.valleymusictravel.com/about-us/
@@ -144,7 +144,7 @@ Then the roads reopen, the buses go back to wherever they came from, and Indio d
 [^gt-vmt15]: Valley Music Travel - "Coachella 2015 local hotel shuttles" - 2015 - https://valleymusictravel.com/events/coachella2015/local-hotel-shuttles
 [^gt-timeout17]: Time Out Los Angeles (Michael Juliano) - "All of the different (and cheapest) ways to get to Coachella" - 2017-04-05 - https://www.timeout.com/los-angeles/blog/all-of-the-different-and-cheapest-ways-to-get-to-coachella-040517
 [^gt-kfi19]: KFI AM 640 (City News Service) - "Indio Gears Up For Traffic Headaches As Weekend 2 Of Coachella Looms" - 2019-04-18 - https://kfiam640.iheart.com/content/2019-04-18-indio-gears-up-for-traffic-headaches-as-weekend-2-of-coachella-looms
-[^gt-caltoday]: California Today - "Passes for Coachella 2026: complete guide to pricing, options and add-ons" - 2025-09-16 (updated 2026-03-25) - https://californiatoday.com/guides/entertainment/passes-for-coachella-2026-complete-guide-to-pricing-options-and-add-ons/
+[^gt-caltoday]: California Today (Pat Sharyon) - "Passes for Coachella 2026: Complete guide to pricing, options, and add-ons" - 2025-09-16 (updated 2026-03-25) - https://californiatoday.com/guides/entertainment/passes-for-coachella-2026-complete-guide-to-pricing-options-and-add-ons/
 [^gt-nbc0407]: NBC Palm Springs - "Coachella 2026 Traffic Plan: Road Closures, Alternate Routes and Drone Ban Announced in Indio" - 2026-04-07 - https://www.nbcpalmsprings.com/local-and-community/2026/04/07/coachella-2026-traffic-plan-road-closures-alternate-routes-and-drone-ban-announced-in-indio
 [^gt-vmtsc]: Valley Music Travel - "Stagecoach shuttles" - accessed 2026-10-31 - https://valleymusictravel.com/events/stagecoach/shuttles
 [^gt-nbc0406]: NBC Palm Springs - "Coachella Valley Music and Arts Festival Traffic: What to Expect Thursday Through Monday" - 2026-04-06 - https://www.nbcpalmsprings.com/local-and-community/2026/04/06/coachella-valley-music-and-arts-festival-traffic-what-to-expect-thursday-through-monday
@@ -152,25 +152,25 @@ Then the roads reopen, the buses go back to wherever they came from, and Indio d
 [^gt-getting]: Coachella - "Getting Here" - 2026 - https://coachella.com/getting-here
 [^gt-kesq22]: KESQ (Samantha Lomibao) - "100+ Coachella shuttle drivers reported being sick from food poisoning" - 2022-04-26 - https://kesq.com/news/festival-season/2022/04/26/100-coachella-shuttle-drivers-reported-being-sick-from-food-poisoning/
 [^gt-wikiindio]: Wikipedia - "Indio station" (citing Colin Atagi, Desert Sun, "Plans derailed for April train to Coachella, Stagecoach music festivals," 2020-07-13) - accessed 2026-10-31 - https://en.wikipedia.org/wiki/Indio_station
-[^gt-railpac]: RailPAC (Robert Manning) - "A Purple Surfliner to Indio" - 2008-04-26 - https://www.railpac.org/?p=624
+[^gt-railpac]: RailPAC (Russ Jackson) - "A Purple Surfliner to Indio" - 2008-04-26 - https://www.railpac.org/?p=624
 [^gt-laweekly]: LA Weekly (Randall Roberts) - "Rolling on the Coachella Express to Indio" - 2008-04-25 - https://www.laweekly.com/rolling-on-the-coachella-express-to-indio/
-[^gt-rctc19]: RCTC - "The Point: RCTC receives funding for special trains to Coachella, Stagecoach as early as 2020" - 2019-03-12 - https://www.rctc.org/choo-choo-funding/
-[^gt-nbcrail]: NBC Palm Springs - "Riverside County Transportation Commission awards $80M for CV Rail study" - 2026-01-30 - https://www.nbcpalmsprings.com/local-and-community/2026/01/30/riverside-county-transportation-commission-awards-80m-for-cv-rail-study
+[^gt-rctc19]: RCTC - "All Aboard Choo-Choo-Chella!" - 2019-03-12 - https://www.rctc.org/choo-choo-funding/
+[^gt-nbcrail]: NBC Palm Springs (City News Service) - "Riverside County Transportation Commission Awards $80M for CV Rail Study" - 2026-01-30 - https://www.nbcpalmsprings.com/local-and-community/2026/01/30/riverside-county-transportation-commission-awards-80m-for-cv-rail-study
 [^gt-wikitrm]: Wikipedia - "Jacqueline Cochran Regional Airport" - accessed 2026-10-31 - https://en.wikipedia.org/wiki/Jacqueline_Cochran_Regional_Airport
 [^gt-fortune]: Fortune (Jen Wieczner) - "Uber and Blade Will Fly You to Coachella in a Helicopter for about $4,000" - 2016-03-25 - https://fortune.com/2016/03/25/uber-blade-coachella-helicopter
 [^gt-pjcc17]: Private Jet Card Comparisons (Doug Gollan) - "Coachella Attracts The Private Jet Set" - 2017-04-14 - https://privatejetcardcomparisons.com/2017/04/14/coachella-attracts-the-private-jet-set
 [^gt-kesqblade]: KESQ (Crystal Jimenez) - "Hundreds fly into Coachella Valley for the music festival using charter service" - 2022-04-15 - https://kesq.com/?p=870505
 [^gt-pjcc26]: Private Jet Card Comparisons (Doug Gollan) - "JSX sets Coachella pop-up shared private flight from Santa Monica" - 2026-02-04 - https://privatejetcardcomparisons.com/2026/02/04/jsx-sets-coachella-pop-up-shared-private-flight-from-santa-monica/
 [^gt-desertsun24]: The Desert Sun (Jennifer Cortez), via PressReader - "Coachella road closure updates: What to know about detours, delays" - 2024-04-12 - https://www.pressreader.com/usa/the-desert-sun/20240412/281509346220618
-[^gt-nbc0323]: NBC Palm Springs - "Know Before You Go - Festival Season Begins: Avenue 50 Closes, Valley-Wide Traffic Expected Through May" - 2026-03-23 - https://www.nbcpalmsprings.com/local-and-community/2026/03/23/know-before-you-go-festival-season-begins-avenue-50-closes-valleywide-traffic-expected-through-may
+[^gt-nbc0323]: NBC Palm Springs - "KNOW BEFORE YOU GO - Festival Season Begins: Avenue 50 Closes, Valley-Wide Traffic Expected Through May" - 2026-03-23 - https://www.nbcpalmsprings.com/local-and-community/2026/03/23/know-before-you-go-festival-season-begins-avenue-50-closes-valleywide-traffic-expected-through-may
 [^gt-nbc0327]: NBC Palm Springs - "Indio Releases Festival Season Road Closure Plan for Coachella and Stagecoach Weekends" - 2026-03-27 - https://www.nbcpalmsprings.com/2026/03/27/indio-releases-festival-season-road-closure-plan-for-coachella-and-stagecoach-weekends
 [^gt-kesq25a]: KESQ (Luis Avila) - "Carmageddon: Campers stuck in line for hours trying to get into Coachella music festival" - 2025-04-10 - https://kesq.com/?p=1660977
 [^gt-patch25]: Patch (Kat Schuster) - "'Unacceptable': Coachella Apologizes For Traffic Chaos During Heat Wave" - 2025-04-16 - https://patch.com/california/palmdesert/coachella-apologizes-unacceptable-chaotic-traffic-lines
 [^gt-kesq25b]: KESQ (Julia Castro and Luis Avila) - "Goldenvoice apologizes for Coachella traffic chaos and promises changes for Weekend 2" - 2025-04-16 - https://kesq.com/?p=1663117
-[^gt-edmtunes16]: EDMTunes - "Aboard the Choo-Choo-Chella train" - 2016-05-04 - https://www.edmtunes.com/2016/05/aboard-choo-choo-chella-train/
-[^gt-sfchron]: San Francisco Chronicle - "Palm Springs airfares soar this spring" - 2019 - https://preview-prod.w.sfchronicle.com/travel/article/Palm-Springs-airfares-soar-this-spring-13706496.php
+[^gt-edmtunes16]: EDMTunes (Zoltan Gyulasi) - "All Aboard the Choo-Choo-Chella Train" - 2016-05-04 - https://www.edmtunes.com/2016/05/aboard-choo-choo-chella-train/
+[^gt-sfchron]: San Francisco Chronicle (Chris McGinnis) - "Palm Springs airfares soar this spring" - n.d. (about 2019; no date on the page) - https://preview-prod.w.sfchronicle.com/travel/article/Palm-Springs-airfares-soar-this-spring-13706496.php
 [^gt-psppost]: The Palm Springs Post - "Palm Springs International Airport reports record 3.3 million passengers in 2025" - 2026-01-20 - https://thepalmspringspost.com/palm-springs-international-airport-reports-record-3-3-million-passengers-in-2025/
 [^gt-nbc25police]: NBC Palm Springs - "Indio Police Crack Down Festival Driving" - 2025-04-16 - https://www.nbcpalmsprings.com/local-and-community/2025/04/16/indio-police-crack-down-festival-driving
-[^gt-nbc0421]: NBC Palm Springs - "Report: Coachella weekend two ends with arrests and parking challenges" - 2026-04-21 - https://www.nbcpalmsprings.com/2026/04/21/report-coachella-weekend-two-ends-with-arrests-and-parking-challenges
+[^gt-nbc0421]: NBC Palm Springs - "Report: Coachella Weekend Two Ends with Arrests and Parking Challenges" - 2026-04-21 - https://www.nbcpalmsprings.com/2026/04/21/report-coachella-weekend-two-ends-with-arrests-and-parking-challenges
 [^gt-globalinh]: Global Inheritance - "Transportation" - accessed 2026-10-31 - https://www.globalinheritance.org/programs/transportation
-[^gt-cvi]: Coachella Valley Independent (Matt King) - "Parking-Lot Party: Scenes From One of Coachella's Hottest Pre-Festival Gatherings at the Ralphs in Indio" - 2026-04-18 - https://cvindependent.com/2026/04/parking-lot-party-scenes-from-one-of-coachellas-hottest-pre-festival-gatherings-at-the-ralphs-in-indio/
+[^gt-cvi]: Coachella Valley Independent (Matt King) - "Parking-Lot Party: Scenes From One of Coachella's Hottest Pre-Festival Gatherings - at the Ralphs in Indio" - 2026-04-18 - https://cvindependent.com/2026/04/parking-lot-party-scenes-from-one-of-coachellas-hottest-pre-festival-gatherings-at-the-ralphs-in-indio/

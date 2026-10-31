@@ -2,10 +2,10 @@
 n: 7
 slug: moments
 title: The moments
-short: The sets people still bring up, and what the paperwork says happened. A Prince cover that kept getting pulled offline, a dead rapper reflected off a sheet of foil, a homecoming with about 200 people on stage, an ice rink nobody skated on, and a $2.5M concrete bunker for a band that never showed up.
+short: The sets people still bring up, and what the paperwork says happened. A Prince cover that kept getting pulled offline, a dead rapper reflected off a sheet of foil, a homecoming with about 200 people on stage, an ice rink that outlasted its headliner, and a $2.5M concrete bunker for a band that never showed up.
 ---
 
-Several of Coachella's best-known moments didn't happen quite the way people remember. The Tupac on the main stage in 2012 was a reflection on a sheet of foil.[^mo-hypebeast12] Frank Ocean's ice rink was built, and the first people to stand on it were Skrillex, Fred again.. and Four Tet, a week after Ocean had left the bill.[^mo-okayplayer] In 2026 the poster promised "The Bunker Debut of Radiohead," and Radiohead stayed home.[^mo-desertsun] The festival is very good at making moments. This chapter is about what was underneath them.
+Several of Coachella's best-known moments didn't happen quite the way people remember. The Tupac on the main stage in 2012 was a projection bounced off a sheet of foil.[^mo-andscape] Frank Ocean's ice rink was built, and the first people to stand on it were Skrillex, Fred again.. and Four Tet, a week after Ocean had left the bill.[^mo-okayplayer] In 2026 the poster promised "The Bunker Debut of Radiohead," and Radiohead stayed home.[^mo-desertsun] The festival is very good at making moments. This chapter is about what was underneath them.
 
 Daft Punk's 2006 pyramid has [a chapter of its own](/pyramid/). Everything else is here.
 
@@ -47,11 +47,11 @@ It also raised the bar for every headliner after her. Ariana Grande's production
 
 ## Kanye, the dome and the hill (2019)
 
-He had form. Kanye West's 2011 set came with a stone mural in the style of the Pergamon Altar, a troupe of ballerinas and a lift that was reportedly used on Michael Jackson's last tour. Complex, looking back ten years later, called it unprecedented.[^mo-complex11]
+He had form. Kanye West's 2011 set came with a stone mural in the style of the Pergamon Altar, a troupe of ballerinas and a lift that was reportedly used on Michael Jackson's last tour. Complex, looking back ten years later, said nobody had ever done it like him.[^mo-complex11]
 
 He was due to headline again in 2019. In January he walked away. He called the standard 40-by-60-foot stage "artistically limiting" and had asked, late in the day, for a custom dome. The festival didn't build it.[^mo-da19]
 
-He came back anyway, without a headline slot. On Easter Sunday, April 21, 2019, Sunday Service, which had been an invite-only gathering since January, went up on a hill inside the campground at 9 a.m.[^mo-fader19][^mo-complex] The "Church Clothes" merch went with it: sweatshirts from $165 to $225 and "Jesus Walks" socks at $50.[^mo-variety19] The hill, the crowd, and the arguments over the size of the crowd all belong to the camping chapter.
+He came back anyway, without a headline slot. On Easter Sunday, April 21, 2019, Sunday Service, until then an ultra-exclusive private gathering, went up on a hill at the festival at 9 a.m.[^mo-fader19][^mo-complex] The "Church Clothes" merch went with it: sweatshirts from $165 to $225 and "Jesus Walks" socks at $50.[^mo-variety19] The hill, the crowd, and the arguments over the size of the crowd all belong to the camping chapter.
 
 ## Frank Ocean's rink (2023)
 
@@ -93,7 +93,7 @@ So Radiohead made the 2026 poster without playing a note. Ed O'Brien did tell re
 
 **Odd Future in the Sahara, 2011.** On April 15, 2011, the LA collective played the Sahara tent, and it was chaos. Pharrell came out.[^mo-mxdwn11] The LA Times later wrote that the set "launched or boosted" Tyler, the Creator, Syd, Steve Lacy and a singer named Frank Ocean.[^mo-lat23] Twelve years later Ocean was the one closing the main stage.
 
-**deadmau5, last call, 2025.** He was one of the Sahara's early big nights, on a Friday in 2010 opposite Jay-Z.[^mo-laweekly10] Fifteen years later, on April 18, 2025, he left a back-to-back set with ZHU early while visibly drunk, apologized, and posted: "Probably my last Coachella."[^mo-stereogum25]
+**deadmau5, last call, 2025.** He was one of the Sahara's early big nights, on a Friday in 2010 opposite Jay-Z.[^mo-laweekly10] Fifteen years later, on April 18, 2025, his back-to-back set with ZHU was cut short while he was visibly drunk; he apologized and posted: "Probably my last Coachella."[^mo-stereogum25]
 
 **Justin Bieber, 2026.** Bieber went from cameo regular (with Ariana Grande in 2019, with Daniel Caesar and Giveon in 2022) to Saturday headliner, on a deal he negotiated himself. Rolling Stone's Canadian edition thought the crowd might have been "the biggest ever" at Coachella, and also that "Bieber missed the mark": a minimal set heavy on nostalgia, with people leaving during the acoustic deep cuts.[^mo-rsca]
 
@@ -111,45 +111,45 @@ Variety's Jem Aswad asked the industry why. One agent said weekend one "is drive
 - What the Tupac really cost. Nobody has put a figure on the record.
 - What the rink itself cost. Wikipedia credits Billboard with a figure; the reporting we could read says only "millions."
 
-[^mo-hypebeast12]: Hypebeast (John Ifejika) - "Tupac Hologram Cost $10 Million" - 2012-04-16 - https://hypebeast.com/2012/4/tupac-hologram-cost-10-million
+[^mo-hypebeast12]: Hypebeast (John Ifejika) - "Tupac hologram cost at least $100K" - 2012-04-16 - https://hypebeast.com/2012/4/tupac-hologram-cost-10-million
 [^mo-okayplayer]: Okayplayer (Jaelani Turner Williams) - "Frank Ocean's Planned Ice Rink Was Used During Second Coachella Weekend" - 2023-04-24 - https://www.okayplayer.com/frank-oceans-planned-ice-rink-was-used-during-second-coachella-weekend/413613
-[^mo-desertsun]: Palm Springs Desert Sun via AOL (Sam Morgen) - "What is the structure being built on the Coachella festival grounds?" - undated, c. 2025-26 - https://www.aol.com/news/structure-being-built-coachella-festival-224256302.html
-[^mo-current]: The Current, MPR (Colleen Cowie) - "Remember when Prince ruled Coachella and controversially covered Radiohead in 2008" - 2019-01-03 - https://www.thecurrent.org/feature/2019/01/03/remember-when-prince-ruled-coachella-and-controversially-covered-radiohead-in-2008
-[^mo-cos]: Consequence - "Prince's Coachella cover of Radiohead's 'Creep'" - 2015-12-08, updated 2015-12-16 - https://consequence.net/2015/12/prince-radiohead-creep-coachella
-[^mo-andscape]: Andscape (Aaron Dodson) - "The strange legacy of Tupac's hologram after Coachella" - 2017-04-14 - https://andscape.com/features/the-strange-legacy-of-tupacs-hologram-after-coachella
+[^mo-desertsun]: The Desert Sun (Sam Morgen), via AOL - "What is the structure being built on the Coachella festival grounds?" - n.d. (about 2026) - https://www.aol.com/news/structure-being-built-coachella-festival-224256302.html
+[^mo-current]: The Current, MPR (Colleen Cowie) - "Remember when Prince ruled Coachella (and controversially covered Radiohead) in 2008?" - 2019-01-03 - https://www.thecurrent.org/feature/2019/01/03/remember-when-prince-ruled-coachella-and-controversially-covered-radiohead-in-2008
+[^mo-cos]: Consequence (Alex Young) - "Prince covered Radiohead's 'Creep' at Coachella 2008, and you can finally watch it online" - 2015-12-08 (updated 2015-12-16) - https://consequence.net/2015/12/prince-radiohead-creep-coachella
+[^mo-andscape]: Andscape (Aaron Dodson) - "The strange legacy of Tupac's 'hologram' lives on five years after its historic Coachella debut" - 2017-04-14 - https://andscape.com/features/the-strange-legacy-of-tupacs-hologram-after-coachella
 [^mo-cnn]: CNNMoney - "Digital Domain files for bankruptcy" - 2012-09-11 - https://money.cnn.com/2012/09/11/technology/digital-domain-bankrupt/
-[^mo-grammy19]: GRAMMY.com (Jennifer Velez) - "Beyoncé created a space to celebrate Black culture at Coachella, and more things Homecoming taught us" - 2019-04-19 - https://grammy.com/news/beyonce-created-space-celebrate-black-culture-coachella-more-things-homecoming-taught
+[^mo-grammy19]: GRAMMY.com (Jennifer Velez) - "Beyonce Created A Space To Celebrate Black Culture At Coachella & More Things 'Homecoming' Taught Us" - 2019-04-19 - https://grammy.com/news/beyonce-created-space-celebrate-black-culture-coachella-more-things-homecoming-taught
 [^mo-fader18]: The FADER (Jordan Darville) - "#Beychella sets record for most simultaneous Coachella live streams" - 2018-04-17 - https://www.thefader.com/2018/04/17/beyonce-coachella-youtube-most-simultaneous-coachella-live-streams
 [^mo-dictionary]: Dictionary.com - "Beychella" (pop culture entry) - 2019-05-01 - https://www.dictionary.com/e/pop-culture/beychella
 [^mo-grammyaward]: Recording Academy - "Best Music Film, 2020 (62nd) Grammy Awards" - 2020 - https://www.grammy.com/awards/categories/best-music-film/2020/
-[^mo-thr]: The Hollywood Reporter - interview with Ariana Grande's production designer - 2019-04 - https://www.hollywoodreporter.com/news/ariana-grande-production-designer-interview-coachella-2019-1202874
+[^mo-thr]: The Hollywood Reporter - "Coachella: Ariana Grande's Production Designer on Creating a 'Strong, Feminine, Futuristic' World" - 2019-04 - https://www.hollywoodreporter.com/news/ariana-grande-production-designer-interview-coachella-2019-1202874
 [^mo-da19]: Dancing Astronaut - "Kanye cancels Coachella performance due to 'artistically limiting' stage design" - 2019-01-02 - https://dancingastronaut.com/2019/01/kanye-cancels-coachella-performance-due-artistically-limiting-stage-design/
-[^mo-fader19]: The FADER - "Kanye West to hold Easter Sunday Service at Coachella on 'The Mountain'" - 2019-04-03 - https://thefader.com/2019/04/03/kanye-west-coachella-easter-sunday-service-coachella-2019-the-mountain
-[^mo-cbs23]: CBS News - "Coachella headlined entirely by nonwhite artists for first time in festival history" - 2023-01-10 - https://www.cbsnews.com/amp/news/coachella-headlined-entirely-nonwhite-artists-first-time-festival-history-bad-bunny-frank-ocean-blackpink
-[^mo-rs23]: Rolling Stone - "Frank Ocean's Coachella set derailed by ankle injury, source claims" - 2023-04 - https://www.rollingstone.com/music/music-news/frank-oceans-coachella-set-derailed-by-ankle-injury-source-claims-1234716595/
-[^mo-hypebeast23]: Hypebeast (Aaron Chow) - "Frank Ocean's Coachella livestream cancelled" - 2023-04-17 - https://hypebeast.com/2023/4/frank-ocean-coachella-livestream-cancelled-news-info
-[^mo-stereogum19]: Stereogum (Rachel Brodsky) - "Frank Ocean pulls out of Coachella weekend 2" - 2023-04-19 - https://stereogum.com/2220996/frank-ocean-pulls-out-of-coachella-weekend-2/news
+[^mo-fader19]: The FADER (Salvatore Maicki) - "Kanye West's Easter Sunday service at Coachella will be held atop 'the mountain'" - 2019-04-03 - https://thefader.com/2019/04/03/kanye-west-coachella-easter-sunday-service-coachella-2019-the-mountain
+[^mo-cbs23]: CBS News - "Coachella to be headlined entirely by nonwhite artists for first time in festival's history" - 2023-01-10 - https://www.cbsnews.com/amp/news/coachella-headlined-entirely-nonwhite-artists-first-time-festival-history-bad-bunny-frank-ocean-blackpink
+[^mo-rs23]: Rolling Stone - "Ankle Injury Messed Up Frank Ocean's Coachella Set, Source Claims" - 2023-04 - https://www.rollingstone.com/music/music-news/frank-oceans-coachella-set-derailed-by-ankle-injury-source-claims-1234716595/
+[^mo-hypebeast23]: Hypebeast (Aaron Chow) - "Frank Ocean's Coachella Livestream Has Been Cancelled" - 2023-04-16 - https://hypebeast.com/2023/4/frank-ocean-coachella-livestream-cancelled-news-info
+[^mo-stereogum19]: Stereogum (Rachel Brodsky) - "Frank Ocean Pulls Out Of Coachella Weekend 2" - 2023-04-19 - https://stereogum.com/2220996/frank-ocean-pulls-out-of-coachella-weekend-2/news
 [^mo-fader23]: The FADER (Jordan Darville) - "Report: Coachella spent millions on Frank Ocean's ice rink, still trying to figure out how to use it" - 2023-04-21 - https://www.thefader.com/2023/04/21/report-coachella-spent-millions-on-frank-oceans-ice-rink-still-trying-to-figure-out-how-to-use-it
-[^mo-stereogum17]: Stereogum (Rachel Brodsky) - "Frank Ocean scrapped Coachella ice rink after breaking his ankle: report" - 2023-04-17 - https://stereogum.com/2220709/frank-ocean-scrapped-coachella-ice-rink-after-breaking-his-ankle-report/news
-[^mo-loudwire]: Loudwire - "Blink-182 Coachella 2023 setlist and video with Tom DeLonge" - 2023-04-15 - https://loudwire.com/blink-182-coachella-2023-setlist-video-tom-delonge/
-[^mo-complex]: Complex - "Kanye West Sunday Service timeline" - 2019-04 - https://www.complex.com/music/2019/04/kanye-west-sunday-service-timeline
-[^mo-variety19]: Variety - "Kanye West takes Coachella to church with Easter Sunday Service" - 2019-04 - https://variety.com/2019/music/news/kanye-west-takes-coachella-to-church-with-easter-sunday-service-1203194108
+[^mo-stereogum17]: Stereogum (Rachel Brodsky) - "Frank Ocean Scrapped Coachella Ice Rink After Injuring His Ankle: Report" - 2023-04-17 - https://stereogum.com/2220709/frank-ocean-scrapped-coachella-ice-rink-after-breaking-his-ankle-report/news
+[^mo-loudwire]: Loudwire (Taylor Linzinmeir) - "Setlist + Video - blink-182 Play First Reunion Show With Tom DeLonge at Coachella" - 2023-04-15 - https://loudwire.com/blink-182-coachella-2023-setlist-video-tom-delonge/
+[^mo-complex]: Complex (Brad Callas) - "The Evolution of Kanye West's Sunday Services, From Calabasas to Coachella" - 2019-04-19 - https://www.complex.com/music/2019/04/kanye-west-sunday-service-timeline
+[^mo-variety19]: Variety - "Kanye West Takes Coachella to Church With Easter Sunday Service" - 2019-04 - https://variety.com/2019/music/news/kanye-west-takes-coachella-to-church-with-easter-sunday-service-1203194108
 [^mo-farout]: Far Out Magazine - "What does 'The Bunker Debut of Radiohead Kid A Mnesia' mean?" - 2025 - https://faroutmagazine.co.uk/what-does-the-bunker-debut-of-radiohead-kid-a-mnesia-mean/
-[^mo-flood]: FLOOD Magazine (Will Schube) - "Radiohead's Kid A Mnesia Motion Picture House at Coachella" - 2026-04-08 - https://floodmagazine.com/220098/radiohead-kid-a-mnesia-motion-picture-house-coachella
-[^mo-stereogum26]: Stereogum (Chris DeVille) - "Radiohead are taking their Coachella bunker art installation on tour" - 2026-04-08 - https://stereogum.com/2495193/radiohead-are-taking-their-coachella-bunker-art-installation-on-tour/news
+[^mo-flood]: FLOOD Magazine (Will Schube) - "Radiohead to Screen 'KID A MNESIA' in Newly Built Bunker Underneath Coachella" - 2026-04-08 - https://floodmagazine.com/220098/radiohead-kid-a-mnesia-motion-picture-house-coachella
+[^mo-stereogum26]: Stereogum (Chris DeVille) - "Radiohead Are Taking Their Coachella Bunker Art Installation On Tour" - 2026-04-08 - https://stereogum.com/2495193/radiohead-are-taking-their-coachella-bunker-art-installation-on-tour/news
 [^mo-kidamnesia]: KID A MNESIA official site - dates and FAQ - accessed 2026-10-31 - https://kida-mnesia.com/
-[^mo-stereogum15]: Stereogum - "Watch Drake recoil from Madonna's long kiss at Coachella" - 2015-04-13 - https://stereogum.com/1793653/watch-drake-recoil-from-madonnas-long-kiss-at-coachella/news
+[^mo-stereogum15]: Stereogum (James Rettig) - "Watch Drake Recoil From Madonna's Long Kiss At Coachella" - 2015-04-13 - https://stereogum.com/1793653/watch-drake-recoil-from-madonnas-long-kiss-at-coachella/news
 [^mo-avclub17]: The A.V. Club - "Lady Gaga drops new single after Coachella headlining performance" - 2017-04-16 - https://www.avclub.com/lady-gaga-drops-new-single-after-coachella-headlining-p-1798260686
-[^mo-bv25]: BrooklynVegan - "Lady Gaga turned Coachella into a demonic opera with debut Mayhem live show (review)" - 2025-04 - https://www.brooklynvegan.com/lady-gaga-turned-coachella-into-a-demonic-opera-with-debut-mayhem-live-show-review/
-[^mo-ap19]: WTOP / Associated Press - "Ariana Grande reunites most of *NSYNC at Coachella" - 2019-04 - https://wtop.com/music/2019/04/ariana-grande-reunites-most-of-nsync-at-coachella
-[^mo-fader22]: The FADER - "Harry Styles brings out Shania Twain at Coachella" - 2022-04-16 - https://thefader.com/2022/04/16/harry-styles-shania-twain-coachella
-[^mo-stereogum26b]: Stereogum (Danielle Chelosky) - "Anyma's Coachella set canceled due to wind" - 2026-04-11 - https://stereogum.com/2495497/anyma-coachella-set-canceled-due-to-wind/news
-[^mo-laweekly]: LA Weekly - "Back from the dead: Bauhaus reunited" - 2019-10-30 - https://www.laweekly.com/back-from-the-dead-bauhaus-reunited/
-[^mo-stereogum25]: Stereogum - "deadmau5 apologizes for drunk Coachella performance: 'Probably my last Coachella'" - 2025-04-21 - https://stereogum.com/2305073/deadmau5-apologizes-for-drunk-coachella-performance-probably-my-last-coachella/news
-[^mo-laweekly10]: LA Weekly - "deadmau5 blazes new trails in the desert" - 2010-04-17 - https://www.laweekly.com/deadmau5-blazes-new-trails-in-the-desert/
-[^mo-varietyau]: Variety Australia (Jem Aswad) - "Madonna, SZA and more: why is Coachella weekend 2 crushing weekend 1?" - 2026-04-19 - https://au.variety.com/2026/music/global/madonna-sza-why-is-coachella-weekend-2-crushing-weekend-1-35656/
-[^mo-complex11]: Complex - "Kanye West's 2011 Coachella performance, 10 years later" - 2021 - https://www.complex.com/music/kanye-west-2011-coachella-performance-anniversary/part-1
+[^mo-bv25]: BrooklynVegan - "Lady Gaga turned Coachella into a demonic opera with debut 'Mayhem' live show (review)" - 2025-04 - https://www.brooklynvegan.com/lady-gaga-turned-coachella-into-a-demonic-opera-with-debut-mayhem-live-show-review/
+[^mo-ap19]: WTOP / Associated Press - "Ariana Grande reunites (most of) *NSYNC at Coachella" - 2019-04 - https://wtop.com/music/2019/04/ariana-grande-reunites-most-of-nsync-at-coachella
+[^mo-fader22]: The FADER (Sandra Song) - "Harry Styles duets with Shania Twain, debuts new songs at Coachella" - 2022-04-16 - https://thefader.com/2022/04/16/harry-styles-shania-twain-coachella
+[^mo-stereogum26b]: Stereogum (Danielle Chelosky) - "Anyma Coachella Set Canceled Due To Wind" - 2026-04-11 - https://stereogum.com/2495497/anyma-coachella-set-canceled-due-to-wind/news
+[^mo-laweekly]: LA Weekly (Lina Lecaro) - "Back From the Dead: Bauhaus Reunited" - 2019-10-30 - https://www.laweekly.com/back-from-the-dead-bauhaus-reunited/
+[^mo-stereogum25]: Stereogum (Tom Breihan) - "Deadmau5 Apologizes For Drunk Coachella Performance: 'Probably My Last Coachella'" - 2025-04-21 - https://stereogum.com/2305073/deadmau5-apologizes-for-drunk-coachella-performance-probably-my-last-coachella/news
+[^mo-laweekly10]: LA Weekly (Dennis Romero) - "Deadmau5 Blazes New Trails In The Desert" - 2010-04-17 - https://www.laweekly.com/deadmau5-blazes-new-trails-in-the-desert/
+[^mo-varietyau]: Variety Australia (Jem Aswad) - "Madonna, SZA, Snoop, Olivia Rodrigo: Why Is Coachella Weekend 2 Crushing Weekend 1?" - 2026-04-20 - https://au.variety.com/2026/music/global/madonna-sza-why-is-coachella-weekend-2-crushing-weekend-1-35656/
+[^mo-complex11]: Complex (Brenton Blanchet) - "How Kanye West Pulled Off His Iconic Headlining Set at Coachella 2011" - 2021-04-17 - https://www.complex.com/music/kanye-west-2011-coachella-performance-anniversary/part-1
 [^mo-mxdwn11]: mxdwn - "Odd Future Wolf Gang Kill Them All live at the Sahara Tent, Coachella" - 2011-04-15 - https://music.mxdwn.com/2011/04/15/reviews/odd-future-wolf-gang-kill-them-all-live-at-the-sahara-tent-coachella/
-[^mo-lat23]: Los Angeles Times via AOL - "EDM may have waned, but the Sahara tent..." - 2023-04-09 - https://www.aol.com/news/edm-may-waned-sahara-tent-120013512.html
-[^mo-rsca]: Rolling Stone Canada - "Justin Bieber's Coachella 2026 performance" - 2026-04-13 - https://ca.rollingstone.com/justin-bieber-performance-coachella-2026/
-[^mo-variety26]: Variety Australia (Arushi Jacob) - "Anyma surprise set at Coachella after cancelled performance" - 2026-04-13 - https://au.variety.com/2026/music/news/anyma-surprise-set-coachella-cancelled-performance-35207/
+[^mo-lat23]: Los Angeles Times (August Brown), via AOL - "EDM may have waned, but the Sahara Tent remains the beating heart of Coachella" - 2023-04-09 - https://www.aol.com/news/edm-may-waned-sahara-tent-120013512.html
+[^mo-rsca]: Rolling Stone Canada (Jeff Miller) - "Justin Bieber Draws Massive Crowd for Messy, 'Swag'-Heavy Set at Coachella" - 2026-04-13 - https://ca.rollingstone.com/justin-bieber-performance-coachella-2026/
+[^mo-variety26]: Variety Australia (Arushi Jacob) - "Anyma to Perform Surprise Set With Marlon Hoffstadt at Coachella After Canceled Performance on Friday" - 2026-04-13 - https://au.variety.com/2026/music/news/anyma-surprise-set-coachella-cancelled-performance-35207/

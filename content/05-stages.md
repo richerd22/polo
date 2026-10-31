@@ -119,7 +119,7 @@ In 2025 Red Bull built a place to watch it from. KTLA described the Red Bull Mir
 
 ## Despacio: seven stacks and one disco ball
 
-Despacio is a sound system, not a stage, and it is the opposite of everything else at the festival. James Murphy of LCD Soundsystem and David and Stephen Dewaele of Soulwax built it with engineer John Klett; the idea dates to around May 2010.[^st-djmagdesp] It made its debut at the Manchester International Festival in July 2013: three vinyl-only nights, seven 11-ft speaker stacks around the room, and nearly 50,000 watts.[^st-mcintosh13] It is vinyl only because, its makers say, the system "would definitely notice" anything else.[^st-djmagdesp]
+Despacio is a sound system, not a stage, and it is the opposite of everything else at the festival. James Murphy of LCD Soundsystem and David and Stephen Dewaele of Soulwax built it with studio designer John Klett, who dates the first conversations to around May 2010.[^st-djmagdesp] It made its debut at the Manchester International Festival in July 2013: three vinyl-only nights, seven 11-ft speaker stacks around the room, and nearly 50,000 watts.[^st-mcintosh13] It is vinyl only because, its makers say, the system "would definitely notice" anything else.[^st-djmagdesp]
 
 It came to Coachella in 2016, in its own tent, with the stacks arranged around a circular lighting rig and a big disco ball. On April 22, the day after Prince died, they played "Purple Rain."[^st-musictech]
 
@@ -148,32 +148,32 @@ Some rooms did not last.
 - The 2024 Sahara's real footprint: 320 ft long, or 400 x 410 ft.
 - Whether the Red Bull Mirage gained a third level in 2026 or was always that tall.
 
-[^st-brit]: Encyclopaedia Britannica - "World's largest deserts" - undated - https://britannica.com/topic/worlds-largest-deserts-2225895
-[^st-psl]: Palm Springs Life - "First Coachella music festival" - undated - https://www.palmspringslife.com/first-coachella-music-festival/
-[^st-da13]: Dancing Astronaut - "Exploring Indio: Day one at Coachella - Yuma, Yuma, Yuma" - 2013-04-13 - https://dancingastronaut.com/2013/04/exploring-indio-day-one-at-coachella-yuma-yuma-yuma/
-[^st-laist17]: LAist (Tim Loc) - "New stage, who dis? Coachella's Sonora tent" - 2017-04-09 - https://laist.com/news/entertainment/sonora-tent
-[^st-wiki]: Wikipedia - "Coachella" - accessed 2026-10-31 - https://en.wikipedia.org/wiki/Coachella
-[^st-lat23]: Los Angeles Times (August Brown, via AOL) - "EDM may have waned, but the Sahara Tent remains the beating heart of Coachella" - 2023-04-09 - https://www.aol.com/news/edm-may-waned-sahara-tent-120013512.html
-[^st-ringer19]: The Ringer (Rob Harvilla) - "How Coachella '99 lost a million dollars and started a music festival empire" - 2019-10-09 - https://www.theringer.com/music/2019/10/9/20905896/how-coachella-99-lost-a-million-dollars-started-music-festival-empire
+[^st-brit]: Encyclopaedia Britannica - "World's largest deserts" - n.d. - https://britannica.com/topic/worlds-largest-deserts-2225895
+[^st-psl]: Palm Springs Life - "First Coachella music festival" - n.d. - https://www.palmspringslife.com/first-coachella-music-festival/
+[^st-da13]: Dancing Astronaut - "Exploring Indio: Day One at Coachella, 'Yuma, Yuma, Yuma'" - 2013-04-13 - https://dancingastronaut.com/2013/04/exploring-indio-day-one-at-coachella-yuma-yuma-yuma/
+[^st-laist17]: LAist (Tim Loc) - "Coachella Announces Lineup For New, Rock-Driven Tent" - 2017-04-09 - https://laist.com/news/entertainment/sonora-tent
+[^st-wiki]: Wikipedia - "Coachella" - n.d. (read 2026-10-31) - https://en.wikipedia.org/wiki/Coachella
+[^st-lat23]: Los Angeles Times (August Brown), via AOL - "EDM may have waned, but the Sahara Tent remains the beating heart of Coachella" - 2023-04-09 - https://www.aol.com/news/edm-may-waned-sahara-tent-120013512.html
+[^st-ringer19]: The Ringer (Rob Harvilla) - "How Coachella '99 Lost a Million Dollars and Started an Empire" - 2019-10-09 - https://www.theringer.com/music/2019/10/9/20905896/how-coachella-99-lost-a-million-dollars-started-music-festival-empire
 [^st-plsn13]: PLSN - "Coachella 2013" (production profile) - 2013-05-12 - https://plsn.com/articles/production-profile/coachella-2013/
 [^st-foh18]: FOH (George Petersen) - "The 2018 Coachella Valley Music and Arts Festival" - 2018-06-06 - https://fohonline.com/articles/production-profile/the-2018-coachella-valley-music-and-arts-festival/
 [^st-discotech]: Discotech - "Guide to the different Coachella stages" - 2020-09-10 (updated 2022-01-26) - https://discotech.me/festivals/guide-to-different-coachella-stages/
-[^st-soundgirls]: SoundGirls.org - Q&A with Rat Sound on Coachella and Stagecoach - 2014-04-04 - https://soundgirls.org/?p=2167
-[^st-fi22]: Festival Insider (Jonah Flint) - "How dance music grew to dominate Coachella" - 2022-02-08 - https://festivalinsider.com/articles/how-dance-music-grew-to-dominate-coachella
-[^st-ds24]: The Desert Sun (Ema Sasic, via Yahoo) - "Coachella 2024: Sahara Tent is moving locations. Here's what we know" - 2024-02-06 - https://www.yahoo.com/entertainment/coachella-2024-sahara-tent-moving-003831144.html
-[^st-elation]: Elation Lighting - "1300+ Elation lights dazzle Coachella 2024" - 2024 - https://www.elationlighting.eu/blog/1300-elation-lights-dazzle-coachella-2024
-[^st-ad24]: Appeal-Democrat (via PressReader) - Coachella 2024 site changes - 2024-04-18 - https://www.pressreader.com/usa/marysville-appeal-democrat/20240418/281883008388583
-[^st-mixmagasia]: Mixmag Asia (Amira Waworuntu) - "Coachella's new Quasar stage: extended DJ sets from Michael Bibi, RÜFÜS DU SOL" - 2024-03-21 - https://mixmag.asia/read/coachella-new-quasar-stage-extended-dj-sets-michael-bibi-rufus-du-sol-news
-[^st-lat24]: Los Angeles Times (Vanessa Franko, via Yahoo) - "Differences and similarities between Coachella and Stagecoach" - 2024-04-26 - https://www.yahoo.com/entertainment/differences-similarities-between-coachella-stagecoach-232121095.html
+[^st-soundgirls]: SoundGirls.org - "Rat Sound - Coachella Q & A" - 2014-04-04 - https://soundgirls.org/?p=2167
+[^st-fi22]: Festival Insider (Jonah Flint) - "How Dance Music Grew to Dominate Coachella" - 2022-02-08 - https://festivalinsider.com/articles/how-dance-music-grew-to-dominate-coachella
+[^st-ds24]: The Desert Sun (Ema Sasic), via Yahoo - "Coachella 2024: Sahara Tent is moving locations. Here's what we know" - 2024-02-06 - https://www.yahoo.com/entertainment/coachella-2024-sahara-tent-moving-003831144.html
+[^st-elation]: Elation Lighting (vendor) - "1300+ Elation lights dazzle Coachella 2024" - 2024 - https://www.elationlighting.eu/blog/1300-elation-lights-dazzle-coachella-2024
+[^st-ad24]: Appeal-Democrat (via PressReader) - "Coachella fans react to expanded, changed festival grounds" - 2024-04-18 - https://www.pressreader.com/usa/marysville-appeal-democrat/20240418/281883008388583
+[^st-mixmagasia]: Mixmag Asia (Amira Waworuntu) - "Coachella's Quasar Stage to present 3+ hour sets by Michael Bibi, RÜFÜS DU SOL and more" - 2024-03-21 - https://mixmag.asia/read/coachella-new-quasar-stage-extended-dj-sets-michael-bibi-rufus-du-sol-news
+[^st-lat24]: Los Angeles Times (Vanessa Franko), via Yahoo - "The differences - and similarities - between the Coachella and Stagecoach festivals" - 2024-04-26 - https://www.yahoo.com/entertainment/differences-similarities-between-coachella-stagecoach-232121095.html
 [^st-lsi25]: LSi - "Chauvet creates Coachella club atmosphere" - 2025-06-02 - https://lsionline.co.uk/news/chauvet-creates-coachella-club-atmosphere
 [^st-cvi25]: Coachella Valley Independent (Matt King) - "Coachella 2025: A visit to the Sonora tent, which brings SoCal club vibes to the huge outdoor festival" - 2025-04-20 - https://cvindependent.com/2025/04/coachella-2025-a-visit-to-the-sonora-tent-which-brings-socal-club-vibes-to-the-huge-outdoor-festival/
 [^st-law25]: LA Weekly (Mark Stefanos) - "How the Do LaB has kept Coachella dancing nonstop for 20 years" - 2025-04-10 - https://www.laweekly.com/?p=660810
 [^st-ew23]: Entertainment Weekly (Sydney Bucksbaum, via Yahoo) - "How 3 brothers accidentally created Coachella's most unique stage" - 2023-04-20 - https://ca.news.yahoo.com/3-brothers-accidentally-created-coachellas-212932152.html
 [^st-poll24]: Pollstar (Ariel King) - "From Coachella to Lightning in a Bottle: Do LaB's busy season is now" - 2024-04-04 - https://news.pollstar.com/2024/04/04/from-coachella-to-lightning-in-a-pottle-do-labs-busy-season-is-now/
-[^st-npr22]: NPR - "Coachella's music fan fave Do LaB is back" - 2022-04-22 - https://www.npr.org/2022/04/22/1093356468/coachellas-music-fan-fave-do-lab-is-back
+[^st-npr22]: NPR - "Coachella's music fan fave Do LaB is back!" - 2022-04-22 - https://www.npr.org/2022/04/22/1093356468/coachellas-music-fan-fave-do-lab-is-back
 [^st-var23]: Variety (Lily Moayeri, via Yahoo) - "How Coachella's Do LaB tent, with its unpublished lineups, became the festival's coolest and biggest open secret" - 2023-04-13 - https://malaysia.news.yahoo.com/coachella-lab-tent-unpublished-lineups-200619276.html
 [^st-fader25]: The FADER (Steffanee Wang) - "'We just kept going bigger': How Do LaB became Coachella's electronic oasis" - 2025-04-11 - https://thefader.com/2025/04/11/history-of-do-lab-stage-coachella-20-anniversary-photos
-[^st-coachsus]: Coachella - "Sustainability" - accessed 2026-10-31 - https://coachella.com/sustainability
+[^st-coachsus]: Coachella - "Sustainability" - n.d. (read 2026-10-31) - https://coachella.com/sustainability
 [^st-edmh23]: EDM Honey (Michael Ryan) - "The art of surprise: The origins of Do LaB's longest-held tradition at Coachella" - 2023-04-27 - https://edmhoney.com/?p=129575
 [^st-edmtunes19]: EDMTunes - "Surprise: Major Lazer and friends knock out the Do LaB with Diplo during Coachella" - 2019-04-16 - https://www.edmtunes.com/2019/04/16/surprise-major-lazer-and-friends-knock-out-the-dolab-with-diplo-during-coachella/
 [^st-mixmag26]: Mixmag (Patrick Hinton) - "Coachella's Do LaB dance stage closes after falling light reportedly injures crowd member" - 2026-04-12 - https://mixmag.net/read/coachellas-do-lab-dance-stage-closes-after-falling-light-reportedly-injures-crowd-member-news
@@ -181,19 +181,19 @@ Some rooms did not last.
 [^st-dt15]: Daily Trojan - "Festival celebrates 10 years" - 2015-05-19 - https://dailytrojan.com/2015/05/19/festival-celebrates-10-years
 [^st-bww25]: BroadwayWorld - "Do LaB reveals music lineup for Lightning in a Bottle 2026" - 2025-11-11 - https://www.broadwayworld.com/los-angeles/article/Do-LaB-Reveals-Music-Lineup-For-Lightning-In-A-Bottle-2026-20251111
 [^st-djmag24]: DJ Mag (Jack Ramage) - "Coachella unveils new dance music stage, Quasar" - 2024-03-20 - https://djmag.com/news/coachella-unveils-new-dance-music-stage-quasar
-[^st-ew24]: Entertainment Weekly (Sydney Bucksbaum, via Yahoo) - "Coachella's newest, most ambitious stage" - 2024-04-12 - https://ca.news.yahoo.com/coachellas-newest-most-ambitious-stage-174230789.html
-[^st-ktla25]: KTLA (Christine Samra) - "Coachella reveals new Red Bull Mirage" - 2025-03-20 - https://ktla.com/entertainment/coachella-reveals-new-red-bull-mirage/amp
-[^st-flaunt26]: Flaunt (Destiny Gonzalez) - "Coachella 2026: A Red Bull Mirage" - 2026 - https://www.flaunt.com/post/coachella-2026-a-redbull-mirage
-[^st-djmagdesp]: DJ Mag - "James Murphy and 2manydjs talk Despacio" - undated - https://djmag.com/content/james-murphy-2manydjs-talk-despacio
-[^st-mcintosh13]: McIntosh Laboratory - "Despacio, powered by McIntosh" - 2013-07-31 - https://www.mcintoshlabs.com/about/news/Despacio-Powered-by-McIntosh
+[^st-ew24]: Entertainment Weekly (Sydney Bucksbaum, via Yahoo) - "How Coachella's newest and most ambitious stage came together in less than 4 months" - 2024-04-12 - https://ca.news.yahoo.com/coachellas-newest-most-ambitious-stage-174230789.html
+[^st-ktla25]: KTLA (Christine Samra) - "Coachella reveals new Red Bull Mirage space" - 2025-03-20 - https://ktla.com/entertainment/coachella-reveals-new-red-bull-mirage/amp
+[^st-flaunt26]: Flaunt (Destiny Gonzalez) - "The Red Bull Mirage - Coachella 2026" - 2026 - https://www.flaunt.com/post/coachella-2026-a-redbull-mirage
+[^st-djmagdesp]: DJ Mag - "James Murphy & 2manyDJs talk Despacio" - n.d. - https://djmag.com/content/james-murphy-2manydjs-talk-despacio
+[^st-mcintosh13]: McIntosh Laboratory - "Despacio: Powered by McIntosh" - 2013-07-31 - https://www.mcintoshlabs.com/about/news/Despacio-Powered-by-McIntosh
 [^st-musictech]: MusicTech (Harry Levin) - "Why festivals are booking hi-fi sound systems on their lineups" - 2026 - https://musictech.com/features/interviews/why-festivals-are-booking-hi-fi-sound-systems-on-their-lineups/
-[^st-groove]: The Groove Cartel - "Coachella's hidden gem: Despacio" - undated - https://thegroovecartel.com/featured/coachella-hidden-gem-despacio/
-[^st-ld17]: Live Design - "Antarctic dome, Coachella 2017" (Excellence in Installation Awards) - 2017 - https://www.livedesignonline.com/excellence-installation-awards/antarctic-dome-coachella-2017
-[^st-pacdomes19]: Pacific Domes - YouTube 360 dance dome at Coachella 2019 - 2019 - https://pacificdomes.com/?p=33210
+[^st-groove]: The Groove Cartel - "Coachella's hidden gem: Despacio" - n.d. - https://thegroovecartel.com/featured/coachella-hidden-gem-despacio/
+[^st-ld17]: Live Design - "The Antarctic Dome, Coachella 2017" (Excellence in Installation Awards) - 2017 - https://www.livedesignonline.com/excellence-installation-awards/antarctic-dome-coachella-2017
+[^st-pacdomes19]: Pacific Domes - "Coachella 2019: YouTube Concert Hall Livestream & 360° Dance Dome" - 2019 - https://pacificdomes.com/?p=33210
 [^st-talents14]: Talents Productions - "Heineken innovates at its 13th year of sponsoring Coachella" - 2014-05-06 - https://www.talents-productions.com/news/heineken-innovates-at-its-13th-year-of-sponsoring-coachella/
-[^st-prn19]: PR Newswire (Heineken) - "The Roots and De La Soul headline a newly designed Heineken House at Coachella" - 2019-04-04 - https://prnewswire.com/news-releases/the-roots-and-de-la-soul-headline-a-newly-designed-heineken-house-at-coachella-300824798.html
-[^st-edmid25]: EDM Identity (Cohavit Gil) - "Coachella side quests 2025" - 2025-04-08 - https://edmidentity.com/2025/04/08/coachella-side-quests-2025
-[^st-mxdwn11]: mxdwn (Raymond Flotat) - "Breakage live at the Oasis Dome, Coachella" - 2011-04-16 - https://music.mxdwn.com/2011/04/16/reviews/breakage-live-at-the-oasis-dome-coachella/amp
-[^st-pacdomes]: Pacific Domes - Coachella Oasis Dome - undated - https://pacificdomes.com/?p=11793
+[^st-prn19]: PR Newswire (Heineken) - "The Roots And De La Soul Headline A Newly Designed Heineken House At Coachella" - 2019-04-04 - https://prnewswire.com/news-releases/the-roots-and-de-la-soul-headline-a-newly-designed-heineken-house-at-coachella-300824798.html
+[^st-edmid25]: EDM Identity (Cohavit Gil) - "14 Coachella Side Quests You Shouldn't Miss This Year" - 2025-04-08 - https://edmidentity.com/2025/04/08/coachella-side-quests-2025
+[^st-mxdwn11]: mxdwn (Raymond Flotat) - "Breakage Live at the Oasis Dome Coachella" - 2011-04-16 - https://music.mxdwn.com/2011/04/16/reviews/breakage-live-at-the-oasis-dome-coachella/amp
+[^st-pacdomes]: Pacific Domes - "Coachella Festival Oasis Dome" - n.d. - https://pacificdomes.com/?p=11793
 [^st-rs22]: Rolling Stone - Coachella 2022 recap: Billie Eilish, Megan Thee Stallion, Danny Elfman - 2022-04 - https://www.rollingstone.com/music/music-features/coachella-2022-recap-billie-eilish-megan-thee-stallion-danny-elfman-1338779/
-[^st-dmn19]: Digital Music News (Paul Resnikoff, citing Billboard) - Kanye West's Coachella 2019 dome demand - 2019-01-13 - https://www.digitalmusicnews.com/?p=118252
+[^st-dmn19]: Digital Music News (Paul Resnikoff), relaying Billboard (Dave Brooks) - "Kanye West Cancelled Coachella Because They Wouldn't Build Him a Giant Dome In the Middle of the Festival" - 2019-01-13 - https://www.digitalmusicnews.com/2019/01/13/kanye-west-cancelled-coachella-dome/

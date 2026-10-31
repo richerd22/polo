@@ -63,7 +63,7 @@ Some of the most talked-about nights of Coachella week happen somewhere else.
 
 **Revolve Festival.** Revolve first flew influencers to Coachella in 2013.[^sea-bof] Its invite-only influencer event began in 2015, according to WWD, at the Avalon in Palm Springs; Business of Fashion dates it to 2016.[^sea-wwd][^sea-bof] It peaked at about 5,000 guests in 2022.[^sea-bof] That year, at the Merv Griffin Estate in La Quinta, invited influencers waited two to three hours in the heat without water for shuttles, and the internet compared it to Fyre Festival.[^sea-nbcnews] Creator Averie Bishop called it "a difficult and unsafe situation that could have been easily avoided."[^sea-nbcnews] Revolve apologized, saying shuttle access was limited as the festival reached capacity.[^sea-hypebae] Two years later its festival was one day, with about 1,200 guests, and Revolve's marketing spend had fallen from $181M in 2022 to $171M in 2023.[^sea-bof]
 
-Brand pop-ups still run across the valley on both weekends; NBC Palm Springs reported them again in 2026.[^sea-nbcps26] But the big branded houses that used to line the circuit have mostly given way to activations inside the festival fence. The money chapter has that story.
+Pop-up events celebrating the festival still run across the valley on both weekends; NBC Palm Springs reported them again in 2026.[^sea-nbcps26] But the big branded houses that used to line the circuit have mostly given way to activations inside the festival fence. The money chapter has that story.
 
 ## Splash House, in August
 
@@ -105,7 +105,7 @@ The bigger problem now is wind.
 
 - **2018.** A high-wind warning, with gusts to 60 mph, held the weekend-two campground closed for about 18 hours. Thousands of campers waited in a Walmart lot in Indio and called it #Walmartchella.[^sea-cbs18] In La Quinta, sheriff's deputies moved campers out of another Walmart lot under a ban on sleeping in vehicles.[^sea-kesq18] The cities ended up publishing a list of 12 places to wait, including store lots, two casinos, a lake campground and La Quinta City Hall's south lot.[^sea-nbcla18]
 - **2019.** On a windy April 21, a 120-pound light fixture fell from a tent ceiling and fractured a concertgoer's skull. She sued AEG and Goldenvoice that November.[^sea-nbcps19]
-- **2026, Coachella.** On Friday, April 10, wind knocked a light fixture into the crowd during John Summit's set at the Do LaB, injuring a festivalgoer, and the stage closed for the night.[^sea-stereogum26] Tents in the campgrounds were destroyed.[^sea-nbcps26] Anyma's main-stage set was cancelled: "Due to strong wind conditions affecting Anyma's stage build, he is unable to perform tonight."[^sea-stereogum26]
+- **2026, Coachella.** On Friday, April 10, wind knocked a piece of equipment into the crowd during John Summit's set at the Do LaB, injuring a festivalgoer, and the stage closed for the night.[^sea-stereogum26] Tents in the campgrounds were destroyed.[^sea-nbcps26] Anyma's main-stage set was cancelled: "Due to strong wind conditions affecting Anyma's stage build, he is unable to perform tonight."[^sea-stereogum26]
 - **2026, Stagecoach.** Two weeks later, the Stagecoach evacuation described above.[^sea-abc7]
 
 ## What the season leaves behind
@@ -126,18 +126,18 @@ The season, in other words, is getting longer. Desert X is moving into the fall.
 - **Neon Carnival's first year.** About 2007, by Bolthouse, or 2010, by BizBash's count.
 - **Desert X in 2027-28.** Whether a fall opening means billboard works will be up for both festival weekends of 2028.
 
-[^sea-dxbolande]: Desert X - "Visible Distance / Second Sight" (archive) - n.d. (read 2026-10-31) - https://desertx.org/dx/archive/visible-distance-second-sight
+[^sea-dxbolande]: Desert X - "Jennifer Bolande: Visible Distance / Second Sight" (Desert X 2017 archive) - n.d. (read 2026-10-31) - https://desertx.org/dx/archive/visible-distance-second-sight
 [^sea-anti07]: ANTI- Records - "Ramblin' Jack Elliott to play inaugural Stagecoach festival" - 2007-01-11 - https://www.anti.com/news/ramblin-jack-elliott-to-play-innagural-stagecoach-festival
 [^sea-pollstar16]: Pollstar - "Coachella, Stagecoach expansion approved" - 2016-04-19 - http://news.pollstar.com/2016/04/19/coachella-stagecoach-expansion-approved/
 [^sea-abc25]: California Department of Alcoholic Beverage Control - "ABC partners with law enforcement to prevent underage drinking at California music festivals" - 2025-06-26 - https://www.abc.ca.gov/abc-partners-with-law-enforcement-to-prevent-underage-drinking-at-california-music-festivals/
 [^sea-kesq24]: KESQ (Jesus Reyes) - "Coachella, Stagecoach sold around 250K tickets for 2024 festivals, city reports" - 2024-06-13 - https://kesq.com/news/festival-season/2024/06/13/coachella-stagecoach-sold-around-250k-tickets-for-2024-festivals-city-reports
 [^sea-patch]: Patch - "Goodbye Coachella, hello Stagecoach" - 2014-04-21 - https://patch.com/california/palmdesert/goodbye-coachella-hello-stagecoach
-[^sea-abc7]: ABC7 Los Angeles - "Stagecoach country music festival temporarily evacuated due to high winds in Indio; new set times announced" - 2026-04-26 - https://abc7.com/post/stagecoach-country-music-festival-temporarily-evacuated-due-high-winds-indio-new-set-times-announced/18968726/
+[^sea-abc7]: ABC7 Los Angeles - "Stagecoach Country Music Festival temporarily evacuated due to high winds in Indio" - 2026-04-26 - https://abc7.com/post/stagecoach-country-music-festival-temporarily-evacuated-due-high-winds-indio-new-set-times-announced/18968726/
 [^sea-nme]: NME - "High winds prompt temporary evacuation at Stagecoach festival" - 2026-04-26 - https://www.nme.com/news/music/high-winds-prompt-temporary-evacuation-at-stagecoach-festival-3942573
-[^sea-hypebot]: Hypebot (Bruce Houghton) - "Goldenvoice signs deal to stage Coachella, Stagecoach in Indio thru 2030" - 2013-04-05 - https://www.hypebot.com/goldenvoice-signs-deal-to-stage-coachella-stagecoach-in-indio-thru-2030/
-[^sea-stereogum16]: Stereogum - "Oldchella by the numbers: $1,000 per person, 1,000 flushable toilets" - 2016-09-29 - https://stereogum.com/1902051/oldchella-by-the-numbers-1000-per-person-1000-flushable-toilets/news
-[^sea-l4lm]: Live for Live Music, citing The New York Times (2016-07-19) - "Organizer of Desert Trip confirms event has already grossed $160 million" - 2016-07-21 - https://liveforlivemusic.com/news/organizer-of-desert-trip-confirms-event-has-already-grossed-160-million
-[^sea-louder]: Louder / Metal Hammer (Rich Hobson) - "Inside Power Trip festival 2023" - 2023-12-18 - https://www.loudersound.com/features/inside-power-trip-festival-2023
+[^sea-hypebot]: Hypebot (Bruce Houghton) - "Goldenvoice Signs Deal To Stage Coachella & Stagecoach In Indio Thru 2030" - 2013-04-05 - https://www.hypebot.com/goldenvoice-signs-deal-to-stage-coachella-stagecoach-in-indio-thru-2030/
+[^sea-stereogum16]: Stereogum (Chris DeVille) - "Oldchella By The Numbers: $1,000 Per Person, 1,000 Flushable Toilets" - 2016-09-29 - https://stereogum.com/1902051/oldchella-by-the-numbers-1000-per-person-1000-flushable-toilets/news
+[^sea-l4lm]: Live for Live Music, citing The New York Times (2016-07-19) - "Organizer of Desert Trip Confirms Event Has Already Grossed $160 Million" - 2016-07-21 - https://liveforlivemusic.com/news/organizer-of-desert-trip-confirms-event-has-already-grossed-160-million
+[^sea-louder]: Louder / Metal Hammer (Rich Hobson) - "Inside the brilliance and the absurdity of Power Trip festival 2023" - 2023-12-18 - https://www.loudersound.com/features/inside-power-trip-festival-2023
 [^sea-da21]: Dancing Astronaut (Cameron DeFaria) - "Goldenvoice inks new lease to keep Coachella in Indio through 2050" - 2021-10-27 - https://dancingastronaut.com/2021/10/goldenvoice-inks-new-lease-to-keep-coachella-in-indio-through-2050/
 [^sea-tan16]: The Art Newspaper (Gareth Harris) - "Art among the cacti: recurring exhibition to launch in the southern Californian desert" - 2016-01-06 - https://theartnewspaper.com/2016/01/06/art-among-the-cacti-recurring-exhibition-to-launch-in-the-southern-californian-desert
 [^sea-dxnews]: Desert X - "News" - n.d. (read 2026-10-31) - https://desertx.org/learn/news
@@ -145,38 +145,38 @@ The season, in other words, is getting longer. Desert X is moving into the fall.
 [^sea-spaces]: The Spaces (Annabel Herrick) - "Billboards bring Native American culture into the spotlight at Desert X" - 2019-02-14 - https://thespaces.com/billboards-bring-native-american-culture-into-the-spotlight-at-desert-x/
 [^sea-dxromero]: Desert X - "Cara Romero" (Desert X 2019 artist page) - 2019 - https://desertx.org/dx/desert-x-19/cara-romero
 [^sea-pbs21]: PBS SoCal Artbound (Rohini Walker) - "Palm Springs billboards prompt heavy road trip conversations" - 2021-04-21 - https://pbssocal.org/shows/artbound/xaivera-simmons-because-you-know-ultimately-we-will-band-a-militia
-[^sea-petapixel]: PetaPixel - "Tyre Nichols's photography featured in Californian desert billboard exhibition" - 2023-03-08 - https://petapixel.com/2023/03/08/tyre-nicholss-photography-featured-in-californian-desert-billboard-exhibition
-[^sea-grio]: TheGrio - "Tribute to Tyre Nichols in Coachella Valley" - 2023-03-09 - https://thegrio.com/2023/03/09/tribute-to-tyre-nichols-in-coachella-valley/
-[^sea-wrap14]: TheWrap - "Coachella's Neon Carnival: the list, and how to get on it" - 2014-04-10 - https://www.thewrap.com/coachella-neon-carnival-list-get-exclusive
+[^sea-petapixel]: PetaPixel - "Tyre Nichols's Photography Featured in Californian Desert Billboard Exhibition" - 2023-03-08 - https://petapixel.com/2023/03/08/tyre-nicholss-photography-featured-in-californian-desert-billboard-exhibition
+[^sea-grio]: TheGrio - "A unique tribute to Tyre Nichols rises in Coachella Valley" - 2023-03-09 - https://thegrio.com/2023/03/09/tribute-to-tyre-nichols-in-coachella-valley/
+[^sea-wrap14]: TheWrap (Mikey Glazer) - "Neon Carnival at Coachella: The Inside Story Behind Hollywood's Biggest Party" - 2014-04-10 - https://www.thewrap.com/coachella-neon-carnival-list-get-exclusive
 [^sea-bizbash12]: BizBash - "As Coachella expands to two weekends, brands stick to the first" - 2012-04-16 - https://www.bizbash.com/programming-entertainment/as-coachella-expands-to-two-weekends-brands-stick-to-the-first
-[^sea-bizbash24]: BizBash (Claire Hoffman) - "Q&A: how Neon Carnival became one of the year's most coveted event invites" - 2024-04-04 - https://www.bizbash.com/programming-entertainment/q-a-how-neon-carnival-became-one-of-the-year-s-most-coveted-event-invites
-[^sea-wwd]: WWD (Elizabeth Grace Coyne), via Yahoo - "The first-ever Revolve Festival, 2015" - 2024-04-12 - https://ca.news.yahoo.com/first-ever-revolve-festival-2015-185139744.html
+[^sea-bizbash24]: BizBash (Claire Hoffman) - "Q&A: How Neon Carnival Became One of the Year's Most Coveted Event Invites" - 2024-04-04 - https://www.bizbash.com/programming-entertainment/q-a-how-neon-carnival-became-one-of-the-year-s-most-coveted-event-invites
+[^sea-wwd]: WWD (Elizabeth Grace Coyne), via Yahoo - "What the First-ever Revolve Festival Was Like in 2015 Compared to 2024: The Coachella Weekend Party's Evolution" - 2024-04-12 - https://ca.news.yahoo.com/first-ever-revolve-festival-2015-185139744.html
 [^sea-bof]: Business of Fashion (Liz Flora) - "Revolve invented influencer marketing as we know it. Now it's pulling back" - 2024 - https://Businessoffashion.com/articles/marketing-pr/revolve-invented-influencer-marketing-as-we-know-it-now-its-pulling-back/
 [^sea-nbcnews]: NBC News - "Revolve Festival at Coachella compared to Fyre Fest" - 2022-04 - https://www.nbcnews.com/pop-culture/viral/revolve-festival-coachella-fyre-fest-rcna24892
-[^sea-hypebae]: Hypebae - "Revolve responds to Coachella festival Fyre Fest backlash" - 2022-04-19 - https://hypebae.com/2022/4/revolve-coachella-festival-fyre-backlash-statement-info
+[^sea-hypebae]: Hypebae (Pauline De Leon) - "REVOLVE Responds to Backlash Over Its Fyre Festival-Like Coachella Event" - 2022-04-19 - https://hypebae.com/2022/4/revolve-coachella-festival-fyre-backlash-statement-info
 [^sea-cvi13]: Coachella Valley Independent (Brian Blueskye) - "Party in triplicate: Splash House melds music festival with pool fun over two days, three venues" - 2013-07-30 - https://cvindependent.com/2013/07/party-in-triplicate-splash-house-melds-music-festival-with-pool-fun-over-two-days-three-venues/
 [^sea-vgps26]: Visit Greater Palm Springs - "Everything you need to know about Splash House" - 2026-07-17 - https://www.visitgreaterpalmsprings.com/blog/post/everything-you-need-to-know-about-splash-house/
 [^sea-gv]: Goldenvoice - "Festivals" - n.d. (read 2026-10-31) - https://goldenvoice.com/festivals
-[^sea-npr]: NPR - "Word of the Week: Coachella" - 2025-04-16 - https://www.npr.org/2025/04/16/nx-s1-5365781/coachella-festival-valley-history
-[^sea-type]: Type Investigations (Gabriel Thompson, with Longreads) - "Coachella underground" - 2018-04-12 - https://typeinvestigations.org/investigation/2018/04/12/coachella-underground/
-[^sea-atlantic]: The Atlantic, via Yahoo - "The other Coachella" - 2018-04-15 - https://www.yahoo.com/news/other-coachella-won-apos-t-100000485.html
+[^sea-npr]: NPR - "Word of the Week: Coachella began as a typo. Here's what happened next" - 2025-04-16 - https://www.npr.org/2025/04/16/nx-s1-5365781/coachella-festival-valley-history
+[^sea-type]: Type Investigations (Gabriel Thompson, with Longreads) - "Coachella, Underground" - 2018-04-12 - https://typeinvestigations.org/investigation/2018/04/12/coachella-underground/
+[^sea-atlantic]: The Atlantic, via Yahoo - "The Other Coachella: What You Won't See at the Music Festival" - 2018-04-15 - https://www.yahoo.com/news/other-coachella-won-apos-t-100000485.html
 [^sea-fox11]: FOX 11 Los Angeles - "Judge grants Coachella festival restraining order against New Year's event with similar name" - 2021-12-21 - https://www.foxla.com/news/judge-grants-coachella-festival-restraining-order-against-new-years-event-with-similar-name
 [^sea-fi22]: Festival Insider - "AEG, Live Nation settle lawsuit over Coachella event name dispute" - 2022-08-17 - https://festivalinsider.com/articles/aeg-live-nation-settle-lawsuit-over-coachella-event-name-dispute
 [^sea-kqed]: The Desert Sun (Rebecca Plevin), via KQED - "As grape industry changes, farmworkers pick up extra shifts collecting trash at Coachella festival" - 2019-04-18 - https://www.kqed.org/news/11741243/as-grape-industry-changes-farmworkers-pick-up-extra-shifts-collecting-trash-at-coachella-festival
-[^sea-nbcba]: NBC Bay Area - "Billboards of farmworkers displayed across Coachella Valley" - 2025-04-04 - https://www.nbcbayarea.com/news/local/billboards-farm-workers-displayed-coachella-valley/3836990/
+[^sea-nbcba]: NBC Bay Area (Christian Cázares and Sahana Patel) - "Billboards in honor of farm workers displayed in Coachella" - 2025-04-04 - https://www.nbcbayarea.com/news/local/billboards-farm-workers-displayed-coachella-valley/3836990/
 [^sea-ringer]: The Ringer (Rob Harvilla) - "How Coachella '99 Lost a Million Dollars and Started an Empire" - 2019-10-09 - https://www.theringer.com/music/2019/10/9/20905896/how-coachella-99-lost-a-million-dollars-started-music-festival-empire
-[^sea-lvsun04]: Las Vegas Sun (Spencer Patterson) - "Audiences feel the heat" - 2004-05-07 - https://lasvegassun.com/news/2004/may/07/columnist-spencer-patterson-audiences-feel-the-hea/
-[^sea-nbcps26h]: NBC Palm Springs - "Coachella weekend one nears as local hospitals brace for patient surge" - 2026-04-09 - https://www.nbcpalmsprings.com/local-and-community/2026/04/09/coachella-weekend-one-nears-as-local-hospitals-brace-for-patient-surge
-[^sea-cbs18]: CBS Los Angeles - "With Coachella campground closed, festival-goers improvise with 'Walmartchella'" - 2018-04-20 - https://www.cbsnews.com/losangeles/news/walmartchella/
-[^sea-kesq18]: KESQ - "Thurs AM: stranded Coachella campers have nowhere to go" - 2018-04-19 - https://kesq.com/?p=304240
+[^sea-lvsun04]: Las Vegas Sun (Spencer Patterson) - column, "Audiences feel the heat" - 2004-05-07 - https://lasvegassun.com/news/2004/may/07/columnist-spencer-patterson-audiences-feel-the-hea/
+[^sea-nbcps26h]: NBC Palm Springs - "Coachella Weekend One Nears as Local Hospitals Brace for Patient Surge" - 2026-04-09 - https://www.nbcpalmsprings.com/local-and-community/2026/04/09/coachella-weekend-one-nears-as-local-hospitals-brace-for-patient-surge
+[^sea-cbs18]: CBS Los Angeles - "With Coachella Campground Closed, Festival-Goers Improvise With 'Walmartchella'" - 2018-04-20 - https://www.cbsnews.com/losangeles/news/walmartchella/
+[^sea-kesq18]: KESQ - "THURS AM: Stranded Coachella campers have nowhere to go" - 2018-04-19 - https://kesq.com/?p=304240
 [^sea-nbcps21]: NBC Palm Springs - "Riverside County health officials cancel Coachella, Stagecoach" - 2021-01-29 - https://nbcpalmsprings.com/2021/01/29/riverside-county-health-officials-cancel-coachella-stagecoach/
-[^sea-nbcps19]: NBC Palm Springs - "Coachella festival promoter sued by woman injured in light fixture mishap" - 2019-11-08 - https://nbcpalmsprings.com/2019/11/08/coachella-festival-promoter-sued-by-woman-injured-in-light-fixture-mishap
-[^sea-stereogum26]: Stereogum (Danielle Chelosky) - "Anyma's Coachella set canceled due to wind" - 2026-04-11 - https://stereogum.com/2495497/anyma-coachella-set-canceled-due-to-wind/news
-[^sea-nbcps26]: NBC Palm Springs - "Coachella weekend one wraps with historic headliner, wind scares and a few surprises" - 2026-04-13 - https://www.nbcpalmsprings.com/local-and-community/2026/04/13/coachella-weekend-one-wraps-with-historic-headliner-wind-scares-and-a-few-surprises
-[^sea-nbcla18]: NBC Los Angeles - "Stranded Coachella festival campers take refuge in temporary sites" - 2018-04-19 - https://www.nbclosangeles.com/news/stranded-coachella-festival-campers-take-refuge-in-temporary-sites/44081/?amp=1
+[^sea-nbcps19]: NBC Palm Springs - "Coachella Festival Promoter Sued By Woman Injured in Light Fixture Mishap" - 2019-11-08 - https://nbcpalmsprings.com/2019/11/08/coachella-festival-promoter-sued-by-woman-injured-in-light-fixture-mishap
+[^sea-stereogum26]: Stereogum (Danielle Chelosky) - "Anyma Coachella Set Canceled Due To Wind" - 2026-04-11 - https://stereogum.com/2495497/anyma-coachella-set-canceled-due-to-wind/news
+[^sea-nbcps26]: NBC Palm Springs - "Coachella Weekend One Wraps With Historic Headliner, Wind Scares and a Few Surprises" - 2026-04-13 - https://www.nbcpalmsprings.com/local-and-community/2026/04/13/coachella-weekend-one-wraps-with-historic-headliner-wind-scares-and-a-few-surprises
+[^sea-nbcla18]: NBC Los Angeles (City News Service) - "Stranded Coachella Festival Campers Take Refuge in Temporary Sites" - 2018-04-19 - https://www.nbclosangeles.com/news/stranded-coachella-festival-campers-take-refuge-in-temporary-sites/44081/?amp=1
 [^sea-waste360]: Waste360 - "Coachella music festival attendees produce 107 tons of waste each day" - 2017-04-24 - https://www.waste360.com/waste-reduction/coachella-music-festival-attendees-produce-107-tons-of-waste-each-day
 [^sea-afp]: AFP, via The National - "Can music festivals actually go green?" - 2023-04-18 - https://www.thenationalnews.com/arts-culture/music-stage/2023/04/18/can-music-festivals-actually-go-green
 [^sea-sustain]: Coachella - "Sustainability" - n.d. (read 2026-10-31) - https://coachella.com/sustainability
-[^sea-nbcps25]: NBC Palm Springs - "Major development planned near Coachella festival grounds in Indio" - 2025-06-10 - https://www.nbcpalmsprings.com/2025/06/10/major-development-planned-near-coachella-festival-grounds-in-indio
-[^sea-wiki]: Wikipedia - "Coachella" (accessed 2026-10-31) - 2026 - https://en.wikipedia.org/wiki/Coachella
-[^sea-kesq22]: KESQ (Crystal Jimenez) - "Blade flights to Thermal for Coachella" - 2022-04-15 - https://kesq.com/?p=870505
+[^sea-nbcps25]: NBC Palm Springs - "Major Development Planned Near Coachella Festival Grounds in Indio" - 2025-06-09 - https://www.nbcpalmsprings.com/2025/06/10/major-development-planned-near-coachella-festival-grounds-in-indio
+[^sea-wiki]: Wikipedia - "Coachella" - n.d. (read 2026-10-31) - https://en.wikipedia.org/wiki/Coachella
+[^sea-kesq22]: KESQ (Crystal Jimenez) - "Hundreds fly into Coachella Valley for the music festival using charter service" - 2022-04-15 - https://kesq.com/?p=870505

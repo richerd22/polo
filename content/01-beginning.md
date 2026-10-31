@@ -138,26 +138,26 @@ Van Santen did not see the sellout.[^beg-starbulletin][^beg-npr] Tovar did, and 
 [^beg-wiki]: Wikipedia - "Coachella" - n.d. (read 2026-10-31) - https://en.wikipedia.org/wiki/Coachella
 [^beg-farout]: Far Out Magazine - "Rage Against The Machine returned half of their fee after the first-ever Coachella Festival" - n.d. - https://faroutmagazine.co.uk/rage-against-the-machine-returned-fee-coachella-festival/
 [^beg-mxdwn17]: mxdwn (Ryan Fricke), summarizing John Seabrook's New Yorker profile "The Mastermind Behind Coachella" - "Coachella co-founder discusses booking Desert Trip, the Anschutz anti-LGBT scandal and how the first festival almost bankrupted Goldenvoice" - 2017-04-11 - https://music.mxdwn.com/2017/04/11/news/coachella-co-founder-discusses-booking-desert-trip-the-anschutz-anti-lgbt-scandal-and-how-the-first-festival-almost-bankrupted-goldenvoice/
-[^beg-mxdwn17pay]: mxdwn (McKenzie Dillon), relaying The New Yorker - "Coachella founder Paul Tollett states 2017 headliners were each paid between $3-4 million" - 2017-04-10 - https://music.mxdwn.com/2017/04/10/news/coachella-founder-paul-tollett-states-2017-headliners-were-each-paid-between-3-4-million/
+[^beg-mxdwn17pay]: mxdwn (McKenzie Dillon), relaying The New Yorker - "Coachella Founder Paul Tollett States 2017 Headliners Were Each Paid Between $3-4 Million" - 2017-04-10 - https://music.mxdwn.com/2017/04/10/news/coachella-founder-paul-tollett-states-2017-headliners-were-each-paid-between-3-4-million/
 [^beg-psl-tollett]: Palm Springs Life - "Paul Tollett" - n.d. - https://www.palmspringslife.com/paul-tollett/
-[^beg-janes]: Jane's Addiction (official tour archive) - "2001-04-28" - n.d. - https://janesaddiction.org/tour/show/janes-addiction/2001-04-28/29/
-[^beg-npr]: NPR - "Word of the Week: Coachella began as a typo. Here's what happened next." - 2025-04-16 - https://www.npr.org/2025/04/16/nx-s1-5365781/coachella-festival-valley-history
-[^beg-bruin01]: Daily Bruin (Ruvin Spivak) - review of Coachella 2001 - 2001-04-30 - https://dailybruin.com/2001/04/30/music-tracks-field/
+[^beg-janes]: Jane's Addiction (official tour archive) - "Jane's Addiction - April 28, 2001 - Empire Polo Field, Indio, CA" - n.d. - https://janesaddiction.org/tour/show/janes-addiction/2001-04-28/29/
+[^beg-npr]: NPR - "Word of the Week: Coachella began as a typo. Here's what happened next" - 2025-04-16 - https://www.npr.org/2025/04/16/nx-s1-5365781/coachella-festival-valley-history
+[^beg-bruin01]: Daily Bruin (Ruvin Spivak) - "Music, Tracks, Field" - 2001-04-30 - https://dailybruin.com/2001/04/30/music-tracks-field/
 [^beg-latimes19]: Los Angeles Times, via PressReader - "Desert King" - 2019-01-13 - https://www.pressreader.com/usa/los-angeles-times/20190113/282686163384762
-[^beg-ocw18]: OC Weekly (Mary Carreon) - "The Evolution of Coachella's Campgrounds" - 2018-04-20 - https://www.ocweekly.com/?p=88797
+[^beg-ocw18]: OC Weekly (Mary Carreon) - "The Evolution Of Coachella's Campgrounds" - 2018-04-20 - https://www.ocweekly.com/?p=88797
 [^beg-starbulletin]: Honolulu Star-Bulletin (Gary C.W. Chun) - "Van Santen loved Hawaii" - 2004-01-10 - https://archives.starbulletin.com/2004/01/10/features/story3.html
-[^beg-lvsun04]: Las Vegas Sun (Spencer Patterson) - column on Coachella 2004 - 2004-05-07 - https://lasvegassun.com/news/2004/may/07/columnist-spencer-patterson-audiences-feel-the-hea/
+[^beg-lvsun04]: Las Vegas Sun (Spencer Patterson) - column, "Audiences feel the heat" - 2004-05-07 - https://lasvegassun.com/news/2004/may/07/columnist-spencer-patterson-audiences-feel-the-hea/
 [^beg-jambase07]: JamBase - "Coachella 2007: Rage, Bjork" - 2007-01-22 - https://www.jambase.com/article/coachella-2007-rage-bjork
 [^beg-diffuser]: Diffuser (Michael Christopher) - "10 Years Ago: Rage Against the Machine Reunite at Coachella" - 2017-04-28 - https://diffuser.fm/rage-against-machine-reunion-coachella/
 [^beg-bw]: Business Wire - "Goldenvoice to Assume Operations of Empire Polo Club in Long-Term Agreement" - 2021-10-27 - https://www.businesswire.com/news/home/20211027006159/en
 [^beg-lvsun11]: Las Vegas Sun - "After rough 2010, Coachella tries to iron itself out" - 2011-04-13 - https://m.lasvegassun.com/news/2011/apr/13/after-rough-2010-coachella-tries-iron-itself-out/
-[^beg-boombox]: The Boombox (Charley Rogulewski) - "Coachella founder explains back-to-back weekends in 2012" - 2011-06-05 - https://theboombox.com/coachella-founder-explains-back-to-back-weekends-in-2012/
+[^beg-boombox]: The Boombox (Charley Rogulewski) - "Coachella Founder Explains Back-to-Back Weekends in 2012" - 2011-06-05 - https://theboombox.com/coachella-founder-explains-back-to-back-weekends-in-2012/
 [^beg-mxdwn12]: mxdwn (Maggie Tuesday Reynolds) - "Coachella 2012 Sells Out Both Weekends Within Hours Of Opening Ticket Sales" - 2012-01-13 - https://music.mxdwn.com/2012/01/13/news/coachella-2012-sells-out-both-weekends-within-hours-opening-ticket-sales/amp/
 [^beg-grammy17]: GRAMMY.com (Renée Fabian) - "Music Festivals 2017: Coachella Hauls In Record $114 Million In Profit" - 2017-10-18 - https://www.grammy.com/news/music-festivals-2017-coachella-hauls-record-114-million-profit
-[^beg-spin14]: SPIN (Colin Joyce) - "Coachella Made More Money Than Ever in 2014" - 2014-07-08 - https://www.spinmagazine.com/2014/07/coachella-gross-2014-78-million-goldenvoice/
-[^beg-pollstar15]: Pollstar (PDF mirror) - "2015 Year End Top 20 Worldwide Festival Grosses" - 2016-01 - https://flypaper.soundfly.com/wp-content/uploads/2016/01/2015YearEndTop20WorldwideFestivalGrosses.pdf
-[^beg-pollstar16]: Pollstar - "2016 Year End Top 20 Worldwide Festival Grosses" - 2017-01 - https://data.pollstar.com/chart/2017/01/2016YearEndTop20WorldwideFestivalGrosses_347.pdf
-[^beg-pollstar17]: Pollstar - "2017 Year End Top 20 Worldwide Festival Grosses" - 2018-01 - https://data.pollstar.com/chart/2018/01/60-top20worldwidefestivalMoveAd_633.pdf
-[^beg-da17]: Dancing Astronaut (Elizabeth Ninivaggi) - "Coachella officially surpasses festival franchise records in 2017" - 2017-10-18 - https://dancingastronaut.com/2017/10/coachella-officially-surpasses-festival-franchise-records-2017/
+[^beg-spin14]: SPIN (Colin Joyce), citing Billboard - "Coachella Made More Money Than Ever in 2014" - 2014-07-08 - https://www.spinmagazine.com/2014/07/coachella-gross-2014-78-million-goldenvoice/
+[^beg-pollstar15]: Pollstar - "2015 Year End Top 20 Worldwide Festival Grosses" (PDF, third-party mirror) - 2016-01 - https://flypaper.soundfly.com/wp-content/uploads/2016/01/2015YearEndTop20WorldwideFestivalGrosses.pdf
+[^beg-pollstar16]: Pollstar - "2016 Year End Top 20 Worldwide Festival Grosses" (PDF) - 2017-01 - https://data.pollstar.com/chart/2017/01/2016YearEndTop20WorldwideFestivalGrosses_347.pdf
+[^beg-pollstar17]: Pollstar - "2017 Year End Top 20 Worldwide Festival Grosses" (PDF) - 2018-01 - https://data.pollstar.com/chart/2018/01/60-top20worldwidefestivalMoveAd_633.pdf
+[^beg-da17]: Dancing Astronaut (Elizabeth Ninivaggi), citing Billboard - "Coachella officially surpasses festival franchise records in 2017" - 2017-10-18 - https://dancingastronaut.com/2017/10/coachella-officially-surpasses-festival-franchise-records-2017/
 [^beg-bizbash]: BizBash (Alesandra Dubin) - "Coachella Sells Out With Three-Day Passes, Towering Ferris Wheel, and Upgraded Camping" - 2010-04-19 - https://www.bizbash.com/event-production-planning/coachella-sells-out-with-three-day-passes-towering-ferris-wheel-and-upgraded-camping
-[^beg-billboard18]: Billboard - "Power 100" (2018), Goldenvoice entry - 2018 - https://www.billboard.com/?p=8096167
+[^beg-billboard18]: Billboard - "Power 100" (2018), Paul Tollett (president, Goldenvoice) entry - 2018 - https://www.billboard.com/?p=8096167

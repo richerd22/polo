@@ -165,7 +165,7 @@
   "title": "The polo club",
   "short": "You pay a lot of money every year to hang out at a polo club, and the polo club stopped playing polo. It ended in November 2021, when Goldenvoice took over Empire year-round and staff got three days' notice. Desert polo lives on next door at Eldorado, on land Goldenvoice owns and leases back until the festival needs it. Here is how the game works, what the club was, and what the grounds do now when nobody is riding on them.",
   "url": "https://polo.cold.fyi/polo/",
-  "words": 2690,
+  "words": 2695,
   "sources": [
    9,
    10,
@@ -216,7 +216,7 @@
   "title": "The stages and the spaces within",
   "short": "Coachella opened in 1999 with a main stage, a second stage and three tents named for deserts, and it has been adding rooms ever since. The Sahara has moved three times and now stands on 1,500 tons of concrete. Do LaB started as a broken water feature and grew into a stage with its own secret lineup and its own festival. Then come the nightclub tent, the punk tent, the sound system with seven stacks, a dome, a beer house and a brand-new stage built in under four months.",
   "url": "https://polo.cold.fyi/stages/",
-  "words": 3040,
+  "words": 3043,
   "sources": [
    3,
    18,
@@ -275,7 +275,7 @@
   "title": "Daft Punk and the pyramid",
   "short": "In 2006 Daft Punk said yes to Coachella after a year of saying no, because their manager, who usually turned offers down without asking them, picked up the phone. They played the Sahara tent at 11 p.m. on a Saturday, inside a pyramid of LED blocks built for that one show, and ran nearly 20 minutes past curfew, with the promoter promising to cover any fine. The pyramid went on to a world tour, a live album, two Grammys and, 20 years later, a LEGO set. The crowd count and the bands it started are legends; the rest is on the record.",
   "url": "https://polo.cold.fyi/pyramid/",
-  "words": 2533,
+  "words": 2542,
   "sources": [
    82,
    139,
@@ -328,9 +328,9 @@
   "n": 7,
   "slug": "moments",
   "title": "The moments",
-  "short": "The sets people still bring up, and what the paperwork says happened. A Prince cover that kept getting pulled offline, a dead rapper reflected off a sheet of foil, a homecoming with about 200 people on stage, an ice rink nobody skated on, and a $2.5M concrete bunker for a band that never showed up.",
+  "short": "The sets people still bring up, and what the paperwork says happened. A Prince cover that kept getting pulled offline, a dead rapper reflected off a sheet of foil, a homecoming with about 200 people on stage, an ice rink that outlasted its headliner, and a $2.5M concrete bunker for a band that never showed up.",
   "url": "https://polo.cold.fyi/moments/",
-  "words": 2581,
+  "words": 2588,
   "sources": [
    82,
    107,
@@ -382,7 +382,7 @@
   "title": "What Coachella started",
   "short": "The things that left the polo field and kept going: reunions that became world tours (one grossed $584.2M), a second weekend Austin City Limits copied, and a webcast that once made you \"like\" a gum brand and is now a YouTube exclusive through 2030. Then a look, a suffix, a payment plan, a family of spin-off festivals and a food truck. Coachella rarely invented these things. More often it was the biggest stage they ever got.",
   "url": "https://polo.cold.fyi/started/",
-  "words": 2941,
+  "words": 2945,
   "sources": [
    32,
    46,
@@ -390,7 +390,7 @@
    82,
    116,
    128,
-   209,
+   205,
    212,
    213,
    225,
@@ -473,7 +473,7 @@
   "title": "Getting there",
   "short": "About 40,000 people a day ride a shuttle into Indio, and the company that runs it isn't Goldenvoice - it's a travel outfit owned, three layers up, by private equity. The drivers come from all over, the train ran exactly once, and the rich fly into a WWII airfield in Thermal. Everyone else sits on Jefferson Street, then leaves on Monday at 9 a.m.",
   "url": "https://polo.cold.fyi/getting-there/",
-  "words": 2550,
+  "words": 2559,
   "sources": [
    46,
    313,
@@ -525,7 +525,7 @@
   "title": "Camping and the rituals",
   "short": "Camping began in 2003 and cars joined in 2010; now about 35,000 people sleep on the grounds. The festival starts for them on Thursday - in a Walmart lot, a Ralphs lot, a 12-hour line, and since 2025 at Goldenvoice's own campers-only party, Day 0. Along the way: a gospel service on a hill built in a week, horses, hot dogs, an iron fence and a wristband scam.",
   "url": "https://polo.cold.fyi/camping/",
-  "words": 2571,
+  "words": 2564,
   "sources": [
    4,
    18,
@@ -582,12 +582,13 @@
   "title": "The lineup and the poster",
   "short": "One man reads thousands of pitches a year, picks about 150 acts, and sets every name on the poster in one typeface at one of several sizes - a size agents fight over. The poster used to land in January. Now it lands in the fall, and the 2027 passes went on sale with no names on them at all. Behind it sits a radius clause that keeps those names off other stages from December to May, and a small Portland festival that sued over it.",
   "url": "https://polo.cold.fyi/lineup/",
-  "words": 2016,
+  "words": 2019,
   "sources": [
    24,
    41,
    53,
    68,
+   161,
    276,
    365,
    384,
@@ -620,8 +621,7 @@
    411,
    412,
    413,
-   414,
-   415
+   414
   ]
  },
  {
@@ -663,6 +663,7 @@
    365,
    377,
    402,
+   415,
    416,
    417,
    418,
@@ -695,8 +696,7 @@
    445,
    446,
    447,
-   448,
-   449
+   448
   ]
  },
  {
@@ -736,6 +736,7 @@
    370,
    382,
    383,
+   449,
    450,
    451,
    452,
@@ -754,8 +755,7 @@
    465,
    466,
    467,
-   468,
-   469
+   468
   ]
  },
  {
@@ -764,7 +764,7 @@
   "title": "The valley and the season",
   "short": "Coachella is two weekends in a longer desert season. The same polo field hosts a country festival the week after, which outsold it in 2024, and has held classic-rock and metal festivals in October. An art biennial puts billboards on the road into Palm Springs, parties fill hangars and horse parks, and pool parties take over in August. The festival is named for a valley and held in Indio, while the city actually called Coachella is its own place, in a part of the valley the festival rarely touches.",
   "url": "https://polo.cold.fyi/season/",
-  "words": 2550,
+  "words": 2554,
   "sources": [
    3,
    4,
@@ -791,8 +791,9 @@
    358,
    359,
    360,
-   456,
-   463,
+   455,
+   462,
+   469,
    470,
    471,
    472,
@@ -818,8 +819,7 @@
    492,
    493,
    494,
-   495,
-   496
+   495
   ]
  },
  {
@@ -828,11 +828,12 @@
   "title": "The billboards on the I-10",
   "short": "Every spring, artists and labels rent billboards on the interstate between Los Angeles and Indio, because there is one road in and the people driving it are exactly the people they want. The boards cost from about $8K to $40K for a few weeks, and one 2026 campaign reportedly ran to $1M. This is a sourced, year-by-year archive of them, from the first one on record in 2014 to the 20 that were booked for 2020 and never went up.",
   "url": "https://polo.cold.fyi/billboards/",
-  "words": 1558,
+  "words": 1561,
   "sources": [
    49,
    50,
-   470,
+   469,
+   496,
    497,
    498,
    499,
@@ -850,8 +851,7 @@
    511,
    512,
    513,
-   514,
-   515
+   514
   ]
  }
 ]

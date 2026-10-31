@@ -71,7 +71,7 @@ It hasn't been repeated. No other gospel or church service in the campgrounds ha
 
 The campground has its own police presence, some of it on horseback. In 2018, OC Weekly reported mounted officers patrolling the campgrounds. The agencies on site that year ran from Indio PD, in the lead, through Palm Springs, Cathedral City, Desert Hot Springs, Banning and Beaumont police, the Riverside County Sheriff, the CHP and the FBI. There were armed observation posts above the VIP area and the Outdoor Theatre, and drones over traffic.[^cp-ocwsec] Which agency the horses belonged to, the piece doesn't say.
 
-Indio PD still flew drones for crowd monitoring in 2026.[^cp-kesq26] Inside the gates, in 2025, close to 1,000 Allied Universal guards worked around the clock, and Indio PD announced "zero tolerance."[^cp-nbc25sec] Weekend 1 of 2026 ended with 97 arrests, mostly for drug possession and fake IDs, among more than 200,000 attendees.[^cp-nbc26w1]
+Indio PD still flew drones for crowd monitoring in 2026.[^cp-kesq26] Inside the gates, in 2025, close to 1,000 Allied Universal guards worked around the clock, and Indio PD announced "zero tolerance."[^cp-nbc25sec] Weekend 1 of 2026 ended with 97 arrests, mostly for drug possession and fake IDs.[^cp-nbc26w1]
 
 :::lore The 2007 riot
 The legend goes that the campground rioted after Rage Against the Machine closed the 2007 festival. The source is one OC Weekly writer's 2018 history, built from attendee posts on the Coachella forum: helicopters overhead, SWAT nearby, a Taser.[^cp-ocw18] The next year, by the same account, brought heavy multi-agency patrols and a 2 a.m. curfew, which people mostly partied through.[^cp-ocw18] Research for this chapter found no police report on the night, and no second account of it. By 2014, the same writer says, the campground had gone much quieter at night.[^cp-ocw18]
@@ -113,7 +113,7 @@ For the people who live next to the polo grounds, the rituals are economic. In 2
 
 Hotels across the valley run more than 90% full in April, which Expedia data says is the highest-rate month of the year.[^cp-hotelmgmt] Some luxury homes reportedly rent for "more than $100,000" for one weekend - an anecdote from homeowners and agents, not data.[^cp-nbcairbnb]
 
-The camper, meanwhile, leaves on Monday morning with more than 40,000 others,[^cp-nbc0407] and by the next Thursday somebody else is waiting in a parking lot.
+The camper, meanwhile, leaves on Monday with more than 40,000 others,[^cp-nbc0407] and by the next Thursday somebody else is waiting in a parking lot.
 
 ## Still open
 
@@ -121,17 +121,17 @@ The camper, meanwhile, leaves on Monday morning with more than 40,000 others,[^c
 - When the Ralphs party started, and who first posted it.
 - The first year of RFID wristbands at Coachella: 2010, 2011 or 2012.
 
-[^cp-cvi26]: Coachella Valley Independent (Matt King) - "Parking-Lot Party: Scenes From One of Coachella's Hottest Pre-Festival Gatherings at the Ralphs in Indio" - 2026-04-18 - https://cvindependent.com/2026/04/parking-lot-party-scenes-from-one-of-coachellas-hottest-pre-festival-gatherings-at-the-ralphs-in-indio/
-[^cp-sustain]: Coachella - "Sustainability" - accessed 2026-10-31 - https://coachella.com/sustainability
-[^cp-wiki]: Wikipedia - "Coachella" (citing 2003 coverage) - accessed 2026-10-31 - https://en.wikipedia.org/wiki/Coachella
+[^cp-cvi26]: Coachella Valley Independent (Matt King) - "Parking-Lot Party: Scenes From One of Coachella's Hottest Pre-Festival Gatherings - at the Ralphs in Indio" - 2026-04-18 - https://cvindependent.com/2026/04/parking-lot-party-scenes-from-one-of-coachellas-hottest-pre-festival-gatherings-at-the-ralphs-in-indio/
+[^cp-sustain]: Coachella - "Sustainability" - n.d. (read 2026-10-31) - https://coachella.com/sustainability
+[^cp-wiki]: Wikipedia - "Coachella" - n.d. (read 2026-10-31) - https://en.wikipedia.org/wiki/Coachella
 [^cp-ocw18]: OC Weekly (Mary Carreon) - "The Evolution Of Coachella's Campgrounds" - 2018-04-20 - https://www.ocweekly.com/?p=88797
 [^cp-pnt10]: Phoenix New Times - "Coachella 2010 Dates Confirmed, Layaway Plan Available" - 2010 - https://www.phoenixnewtimes.com/?p=40532050
-[^cp-bizbash10]: BizBash - "Coachella Sells Out With Three-Day Passes, Towering Ferris Wheel, and Upgraded Camping" - 2010-04-19 - https://www.bizbash.com/event-production-planning/coachella-sells-out-with-three-day-passes-towering-ferris-wheel-and-upgraded-camping
+[^cp-bizbash10]: BizBash (Alesandra Dubin) - "Coachella Sells Out With Three-Day Passes, Towering Ferris Wheel, and Upgraded Camping" - 2010-04-19 - https://www.bizbash.com/event-production-planning/coachella-sells-out-with-three-day-passes-towering-ferris-wheel-and-upgraded-camping
 [^cp-camping]: Coachella - "Camping" - 2026 - https://www.coachella.com/camping
 [^cp-passes]: Coachella - "Passes" - accessed 2026-10-31 - https://www.coachella.com/passes
 [^cp-cbs18]: CBS Los Angeles - "With Coachella Campground Closed, Festival-Goers Improvise With 'Walmartchella'" - 2018-04-20 - https://www.cbsnews.com/losangeles/news/walmartchella/
 [^cp-kesq18]: KESQ - "THURS AM: Stranded Coachella campers have nowhere to go" - 2018-04-19 - https://kesq.com/?p=304240
-[^cp-nbcla18]: NBC Los Angeles - "Stranded Coachella Festival Campers Take Refuge in Temporary Sites" - 2018-04-19 - https://www.nbclosangeles.com/news/stranded-coachella-festival-campers-take-refuge-in-temporary-sites/44081/?amp=1
+[^cp-nbcla18]: NBC Los Angeles (City News Service) - "Stranded Coachella Festival Campers Take Refuge in Temporary Sites" - 2018-04-19 - https://www.nbclosangeles.com/news/stranded-coachella-festival-campers-take-refuge-in-temporary-sites/44081/?amp=1
 [^cp-patch25]: Patch (Kat Schuster) - "'Unacceptable': Coachella Apologizes For Traffic Chaos During Heat Wave" - 2025-04-16 - https://patch.com/california/palmdesert/coachella-apologizes-unacceptable-chaotic-traffic-lines
 [^cp-kesq25a]: KESQ (Luis Avila) - "Carmageddon: Campers stuck in line for hours trying to get into Coachella music festival" - 2025-04-10 - https://kesq.com/?p=1660977
 [^cp-kesq25b]: KESQ (Julia Castro and Luis Avila) - "Goldenvoice apologizes for Coachella traffic chaos and promises changes for Weekend 2" - 2025-04-16 - https://kesq.com/?p=1663117
@@ -142,29 +142,29 @@ The camper, meanwhile, leaves on Monday morning with more than 40,000 others,[^c
 [^cp-tulum]: Not to be confused with Day Zero, Damian Lazarus's festival in the jungle outside Tulum, which he started in 2012. W Magazine (Arthur Lubow) - "Day Zero Turns a Tulum Jungle Into an Electronic Music Festival" - 2024-01-19 - https://www.wmagazine.com/culture/day-zero-tulum-music-festival-rave-founder-interview
 [^cp-fader19]: The FADER (Salvatore Maicki) - "Kanye West's Easter Sunday service at Coachella will be held atop 'the mountain'" - 2019-04-03 - https://thefader.com/2019/04/03/kanye-west-coachella-easter-sunday-service-coachella-2019-the-mountain
 [^cp-lat19]: Los Angeles Times, via PressReader - "He just might take a day off" - 2019-04-23 - https://www.pressreader.com/usa/los-angeles-times/20190423/282007558797522
-[^cp-variety19]: Variety - "Kanye West Takes Coachella to Church With Easter Sunday Service" - 2019 - https://variety.com/2019/music/news/kanye-west-takes-coachella-to-church-with-easter-sunday-service-1203194108
+[^cp-variety19]: Variety - "Kanye West Takes Coachella to Church With Easter Sunday Service" - 2019-04 - https://variety.com/2019/music/news/kanye-west-takes-coachella-to-church-with-easter-sunday-service-1203194108
 [^cp-world19]: WORLD - "Easter at Coachella" - 2019 - https://wng.org/roundups/easter-at-coachella-1617225726
 [^cp-tmz19]: TMZ - "Over 50,000 People Attended Kanye West's Coachella Sunday Service" - 2019-04-22 - https://www.tmz.com/2019/04/22/kanye-west-sunday-service-50000-people-coachella/
 [^cp-ocwsec]: OC Weekly (Mary Carreon) - "Coachella Sets The Standard Of Security In High Risk Festival Environment" - 2018-04-16 - https://www.ocweekly.com/?p=88753
 [^cp-kesq26]: KESQ (Timothy Foster) - "Coachella weekend one marked by strong police presence and security" - 2026-04-12 - https://kesq.com/news/2026/04/12/coachella-weekend-one-marked-by-strong-police-presence-and-security/
-[^cp-nbc25sec]: NBC Palm Springs - "Security tightens ahead of three festival weekends in Indio as thousands arrive" - 2025-04-10 - https://www.nbcpalmsprings.com/local-and-community/2025/04/10/security-tightens-ahead-of-three-festival-weekends-in-indio-as-thousands-arrive
-[^cp-nbc26w1]: NBC Palm Springs - "Coachella weekend 1 sees 97 arrests, police say festival largely safe and well-behaved" - 2026-04-14 - https://www.nbcpalmsprings.com/2026/04/14/coachella-weekend-1-sees-97-arrests-police-say-festival-largely-safe-and-wellbehaved
+[^cp-nbc25sec]: NBC Palm Springs - "Security Tightens Ahead of Three Festival Weekends in Indio as Thousands Arrive" - 2025-04-10 - https://www.nbcpalmsprings.com/local-and-community/2025/04/10/security-tightens-ahead-of-three-festival-weekends-in-indio-as-thousands-arrive
+[^cp-nbc26w1]: NBC Palm Springs - "Coachella Weekend 1 Sees 97 Arrests, Police Say Festival Largely Safe and Well-Behaved" - 2026-04-14 - https://www.nbcpalmsprings.com/2026/04/14/coachella-weekend-1-sees-97-arrests-police-say-festival-largely-safe-and-wellbehaved
 [^cp-pnt16]: Phoenix New Times - "The Slow Death of Coachella's Local Vendor Economy" - about 2016 - https://www.phoenixnewtimes.com/music/the-slow-death-of-coachellas-local-vendor-economy-8246020/
 [^cp-distractify]: Distractify (Chrissy Bobic) - "Hot Dog Vendors Are All About Opportunity When It Comes to Thrifty Coachella Attendees" - 2025-04-15 - https://www.distractify.com/p/hot-dog-vendors-storm-coachella
 [^cp-lvsun10]: Las Vegas Sun (Michael Mishak) - "Strangechella" - 2010-04-21 - https://lasvegassun.com/news/2010/apr/21/strangechella/
 [^cp-lvsun11]: Las Vegas Sun - "After rough 2010, Coachella tries to iron itself out" - 2011-04-13 - https://m.lasvegassun.com/news/2011/apr/13/after-rough-2010-coachella-tries-iron-itself-out/
 [^cp-secureid12]: SecureIDNews - "Coachella rakes in more fans via RFID social media" - 2012-05-14 - https://www.secureidnews.com/?p=22280
 [^cp-intellitix]: Intellitix (vendor) - "Coachella Festival loves RFID technology for access control" - about 2014 - https://intellitix.com/hub/coachella-festival-loves-rfid-technology-access-control
-[^cp-cvi14]: Coachella Valley Independent (Christina Lange) - "Wristband Roulette: Coachella Tickets Are Sold Out, and You Really Want to Go? Here's What Not to Do" - 2014-02-17 - https://cvindependent.com/2014/02/wristband-roulette-coachella-tickets-are-sold-out-and-you-really-want-to-go-here-s-what-not-to-do/
+[^cp-cvi14]: Coachella Valley Independent (Christina Lange) - "Wristband Roulette: Coachella Tickets Are Sold Out, and You Really Want to Go - Here's What Not to Do" - 2014-02-17 - https://cvindependent.com/2014/02/wristband-roulette-coachella-tickets-are-sold-out-and-you-really-want-to-go-here-s-what-not-to-do/
 [^cp-scam26]: NBC Palm Springs - "'Scamchella' Surge: Ticket Fraud Casts Shadow Over Festival Season" - 2026-04-17 - https://www.nbcpalmsprings.com/2026/04/17/scamchella-surge-ticket-fraud-casts-shadow-over-festival-season
 [^cp-npr25]: NPR - "Word of the Week: Coachella began as a typo. Here's what happened next" - 2025-04-16 - https://www.npr.org/2025/04/16/nx-s1-5365781/coachella-festival-valley-history
 [^cp-britannica]: Encyclopaedia Britannica - "Coachella Valley Festival" - accessed 2026-10-31 - https://www.britannica.com/art/Coachella-Valley-Festival
-[^cp-nbcjfk]: NBC Palm Springs - "Coachella weekend one nears as local hospitals brace for patient surge" - 2026-04-09 - https://nbcpalmsprings.com/2026/04/09/coachella-weekend-one-nears-as-local-hospitals-brace-for-patient-surge
+[^cp-nbcjfk]: NBC Palm Springs - "Coachella Weekend One Nears as Local Hospitals Brace for Patient Surge" - 2026-04-09 - https://nbcpalmsprings.com/2026/04/09/coachella-weekend-one-nears-as-local-hospitals-brace-for-patient-surge
 [^cp-ocw16]: OC Weekly - "What's It Like Living Right Next to Coachella?" - 2016-04-22 - https://www.ocweekly.com/?p=107674
-[^cp-hotelmgmt]: Hotel Management - "Coachella, Stagecoach festivals are filling hotel rooms in Southern California's desert in April" - 2017 - https://www.hotelmanagement.net/operate/coachella-stagecoach-festivals-are-filling-hotel-rooms-southern-california-desert-april
-[^cp-nbcairbnb]: NBC Palm Springs (Brett Rosen) - "Festival season fuels surge in Airbnb prices across Coachella Valley" - 2026-03-24 - https://www.nbcpalmsprings.com/2026/03/24/festival-season-fuels-surge-in-airbnb-prices-across-coachella-valley
+[^cp-hotelmgmt]: Hotel Management - "How Coachella, Stagecoach Festival are filling hotel rooms in the Southern California desert" - 2017 - https://www.hotelmanagement.net/operate/coachella-stagecoach-festivals-are-filling-hotel-rooms-southern-california-desert-april
+[^cp-nbcairbnb]: NBC Palm Springs (Brett Rosen) - "Festival Season Fuels Surge in Airbnb Prices Across Coachella Valley" - 2026-03-24 - https://www.nbcpalmsprings.com/2026/03/24/festival-season-fuels-surge-in-airbnb-prices-across-coachella-valley
 [^cp-nbc0407]: NBC Palm Springs - "Coachella 2026 Traffic Plan: Road Closures, Alternate Routes and Drone Ban Announced in Indio" - 2026-04-07 - https://www.nbcpalmsprings.com/local-and-community/2026/04/07/coachella-2026-traffic-plan-road-closures-alternate-routes-and-drone-ban-announced-in-indio
-[^cp-psl]: Palm Springs Life - "Haute Safari" - undated - https://www.palmspringslife.com/Haute-Safari/
-[^cp-forty5]: The Forty-Five (Geena Ling) - "Coachella 2026: headliners, lineup and tickets" - 2025-10-23 - https://thefortyfive.com/news/coachella-2026-headliners-lineup-tickets/
+[^cp-psl]: Palm Springs Life - "Haute Safari" - n.d. - https://www.palmspringslife.com/Haute-Safari/
+[^cp-forty5]: The Forty-Five (Geena Ling) - "Everything you need to know about Coachella 2026" - 2025-10-23 - https://thefortyfive.com/news/coachella-2026-headliners-lineup-tickets/
 [^cp-inquirer]: Philadelphia Inquirer (Michael Hinkelman) - "Changing the way fans attend live-music events" - 2015-03-04 - https://www.inquirer.com/philly/business/20150304_Changing_the_way_fans_attend_live-music_events.html
 [^cp-vmtabout]: Valley Music Travel - "About Us" - accessed 2026-10-31 - https://www.valleymusictravel.com/about-us/

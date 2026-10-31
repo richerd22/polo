@@ -11,7 +11,7 @@ That's the pattern of this chapter. Coachella rarely invents things outright. It
 
 ## Reunions that became tours
 
-The festival's reputation for reunions starts in 2004. The re-formed Pixies played the main stage before Radiohead and, in Rolling Stone's words, "nearly stole the show."[^ws-rs04] It wasn't their first show back. That was an unannounced warm-up at the Fine Line in Minneapolis on April 13, 2004.[^ws-startrib] Coachella was the big public test, and they toured on it until late 2005.[^ws-rs04]
+The festival's reputation for reunions starts in 2004. The re-formed Pixies played the main stage before Radiohead and, in Rolling Stone's words, "nearly stole the show."[^ws-rs04] It wasn't their first show back. That was a warm-up added on a week's notice at the Fine Line in Minneapolis on April 13, 2004.[^ws-startrib] Coachella was the big public test, and they toured on it until late 2005.[^ws-rs04]
 
 Then came the bigger ones.
 
@@ -127,81 +127,81 @@ Other festivals took up the idea. KAABOO's CEO, Jason Felts: "Chefs are the new 
 [^ws-fader19]: The FADER (David Renshaw) - "Burna Boy is not happy with his place on the Coachella poster" - 2019-01-03 - https://www.thefader.com/2019/01/03/burna-boy-coachella-poster-reaction
 [^ws-cnn19]: CNN - "Burna Boy is Africa's breakout star" - 2019-11-21 - https://cnn.com/2019/11/21/africa/burna-boy-is-africas-breakout-star/index.html
 [^ws-notjustok]: notjustok (Linorajj) - "Burna Boy's African Giant album nominated for Grammy Awards" - 2019-11-20 - https://notjustok.com/news/burna-boys-african-giant-album-nominated-for-grammy-awards/
-[^ws-rs04]: Rolling Stone - "Flashback: The Pixies reunite at Coachella in 2004" - c. 2013 - https://www.rollingstone.com/music/music-news/flashback-the-pixies-reunite-at-coachella-in-2004-67628/
-[^ws-startrib]: Star Tribune - "Now streaming: Pixies 2004 reunion kickoff at Fine Line" - undated - https://www.startribune.com/now-streaming-pixies-2004-reunion-kickoff-at-fine-line-in-minneapolis/600035316
-[^ws-blabber07]: Blabbermouth - "Rage Against the Machine reunites at Coachella" - 2007-04-30 - https://blabbermouth.net/news/rage-against-the-machine-reunites-at-coachella-photos-setlist-available
+[^ws-rs04]: Rolling Stone - "Flashback: The Pixies Reunite at Coachella in 2004" - c. 2013 - https://www.rollingstone.com/music/music-news/flashback-the-pixies-reunite-at-coachella-in-2004-67628/
+[^ws-startrib]: Star Tribune (Chris Riemenschneider) - "Now streaming: Pixies 2004 reunion kickoff at Fine Line" - n.d. - https://www.startribune.com/now-streaming-pixies-2004-reunion-kickoff-at-fine-line-in-minneapolis/600035316
+[^ws-blabber07]: Blabbermouth - "Rage Against the Machine Reunites at Coachella; Photos, Setlist Available" - 2007-04-30 - https://blabbermouth.net/news/rage-against-the-machine-reunites-at-coachella-photos-setlist-available
 [^ws-rsrage]: Rolling Stone - Rage Against the Machine reunion flashback - c. 2020 - https://www.rollingstone.com/music/music-news/rage-against-the-machine-tour-reunite-coachella-79633/
 [^ws-wikirage]: Wikipedia - "Rage Against the Machine reunion tour" - accessed 2026-10-31 - https://en.wikipedia.org/wiki/Rage_Against_the_Machine_reunion_tour
-[^ws-loudwire22]: Loudwire - "It's now official that Rage Against the Machine aren't playing Coachella 2022" - 2022-01-13 - https://loudwire.com/its-now-official-that-rage-against-the-machine-arent-playing-coachella-2022/
+[^ws-loudwire22]: Loudwire (Philip Trapp) - "It's Now Official That Rage Against the Machine Aren't Playing Coachella" - 2022-01-13 - https://loudwire.com/its-now-official-that-rage-against-the-machine-arent-playing-coachella-2022/
 [^ws-fader24]: The FADER - "Rage Against the Machine have no tour plans, says Brad Wilk" - 2024-01-04 - https://thefader.com/2024/01/04/rage-against-the-machine-no-tour-plans-brad-wilk
-[^ws-spin12]: Spin - "Pulp confirm beginnings of first US tour in 14 years" - 2012-01-23 - https://www.spinmagazine.com/2012/01/pulp-confirm-beginnings-first-us-tour-14-years/
-[^ws-bv13]: BrooklynVegan - Blur and the Stone Roses at Coachella 2013 - c. 2013-01 - https://www.brooklynvegan.com/blur-the-stone/
+[^ws-spin12]: SPIN (Marc Hogan) - "Pulp Confirm Beginnings of First U.S. Tour in 14 Years" - 2012-01-23 - https://www.spinmagazine.com/2012/01/pulp-confirm-beginnings-first-us-tour-14-years/
+[^ws-bv13]: BrooklynVegan - "Blur and The Stone Roses are finally returning to America" - c. 2013-01 - https://www.brooklynvegan.com/blur-the-stone/
 [^ws-billboard14]: Billboard - "Outkast to tour 40 festivals in 2014" - c. 2014-01-13 - https://www.billboard.com/music/rb-hip-hop/outkast-tour-40-festivals-2014-5869587
-[^ws-ucr16]: Ultimate Classic Rock (Nick DeRiso) - "Guns N' Roses to play warm-up gig tonight in Los Angeles" - 2016-04-01 - https://ultimateclassicrock.com/guns-n-roses-troubadour/
+[^ws-ucr16]: Ultimate Classic Rock (Nick DeRiso) - "UPDATED: Guns N' Roses to Play Warm-Up Gig Tonight in Los Angeles" - 2016-04-01 - https://ultimateclassicrock.com/guns-n-roses-troubadour/
 [^ws-blabber19]: Blabbermouth (citing Billboard) - "Guns N' Roses' 'Not in This Lifetime' tour has grossed more than $580 million" - 2019-11-22 - https://blabbermouth.net/news/guns-n-roses-not-in-this-lifetime-tour-has-grossed-more-than-580-million
-[^ws-kpopstarz]: KpopStarz - K-pop artists at Coachella: BLACKPINK, 2NE1 - 2022-04-18 - https://www.kpopstarz.com/articles/306083/20220418/kpop-artists-coachella-blackpink-2ne1.htm
+[^ws-kpopstarz]: KpopStarz (Alexa Lewis) - "K-Pop Artists Who Have Made History at Coachella: BLACKPINK, 2NE1, More!" - 2022-04-18 - https://www.kpopstarz.com/articles/306083/20220418/kpop-artists-coachella-blackpink-2ne1.htm
 [^ws-abscbn]: ABS-CBN - "K-pop sensation 2NE1 reunites for global tour" - 2024-07-21 - https://abs-cbn.com/entertainment/2024/7/21/k-pop-sensation-2ne1-reunites-for-global-tour-2321
-[^ws-loudwire23]: Loudwire - "Blink-182 Coachella 2023 setlist and video with Tom DeLonge" - 2023-04-15 - https://loudwire.com/blink-182-coachella-2023-setlist-video-tom-delonge/
-[^ws-fox13]: FOX 13 Seattle - "No Doubt reunites at Coachella 2024" - 2024-04-15 - https://fox13seattle.com/news/no-doubt-reunites-coachella-2024
-[^ws-avclub25]: The A.V. Club - "No Doubt reuniting for Las Vegas Sphere residency" - 2025-10-10 - https://www.avclub.com/no-doubt-gwen-stefani-reuniting-las-vegas-sphere
-[^ws-boombox]: The Boombox (Charley Rogulewski) - "Coachella founder explains back-to-back weekends in 2012" - 2011-06-05 - https://theboombox.com/coachella-founder-explains-back-to-back-weekends-in-2012/
+[^ws-loudwire23]: Loudwire (Taylor Linzinmeir) - "Setlist + Video - blink-182 Play First Reunion Show With Tom DeLonge at Coachella" - 2023-04-15 - https://loudwire.com/blink-182-coachella-2023-setlist-video-tom-delonge/
+[^ws-fox13]: FOX 13 Seattle - "No Doubt reunites at Coachella 2024 for first live show in nearly 10 years" - 2024-04-15 - https://fox13seattle.com/news/no-doubt-reunites-coachella-2024
+[^ws-avclub25]: The A.V. Club - "No Doubt and Gwen Stefani to reunite inside the Sphere" - 2025-10-10 - https://www.avclub.com/no-doubt-gwen-stefani-reuniting-las-vegas-sphere
+[^ws-boombox]: The Boombox (Charley Rogulewski) - "Coachella Founder Explains Back-to-Back Weekends in 2012" - 2011-06-05 - https://theboombox.com/coachella-founder-explains-back-to-back-weekends-in-2012/
 [^ws-mfw]: Music Festival Wizard - "Austin City Limits will be two weekends in 2013" - c. 2012-08 - https://www.musicfestivalwizard.com/austin-city-limits-will-be-two-weekends-in-2013/
 [^ws-cnbc16]: CNBC - "'Oldchella' set to be a boon of at least $250 million to Coachella Valley" - 2016-10-07 - https://www.cnbc.com/2016/10/07/oldchella-set-to-be-a-boon-of-at-least-250-million-to-coachella-valley.html
-[^ws-cnet]: CBS News / CNET (Daniel Terdiman) - "How the Coachella webcast changed the music biz" - 2011-04-20 - https://www.cbsnews.com/news/how-the-coachella-webcast-changed-the-music-biz/
-[^ws-ap11]: Inquirer Technology / Associated Press - YouTube to stream Lollapalooza and ACL - 2011-07-23 - https://technology.inquirer.net/?p=2675
+[^ws-cnet]: CBS News (Daniel Terdiman, originally CNET) - "How the Coachella Webcast changed the music biz" - 2011-04-20 - https://www.cbsnews.com/news/how-the-coachella-webcast-changed-the-music-biz/
+[^ws-ap11]: Inquirer Technology / Associated Press - "YouTube to stream Lollapalooza, Austin City Limits" - 2011-07-23 - https://technology.inquirer.net/?p=2675
 [^ws-fader18]: The FADER (Jordan Darville) - "#Beychella sets record for most simultaneous Coachella live streams" - 2018-04-17 - https://www.thefader.com/2018/04/17/beyonce-coachella-youtube-most-simultaneous-coachella-live-streams
-[^ws-mbw]: Music Business Worldwide (Murray Stassen) - "Coachella stays exclusive to YouTube through 2030 as Goldenvoice renews livestream deal" - 2026-09-23 - https://www.musicbusinessworldwide.com/coachella-stays-exclusive-to-youtube-through-2030-as-goldenvoice-renews-livestream-deal/
-[^ws-andscape]: Andscape (Aaron Dodson) - "The strange legacy of Tupac's hologram after Coachella" - 2017-04-14 - https://andscape.com/features/the-strange-legacy-of-tupacs-hologram-after-coachella
-[^ws-spin14]: Spin - Michael Jackson hologram at the Billboard Music Awards - 2014-05 - https://www.spin.com/2014/05/michael-jackson-hologram-billboard-music-awards/
+[^ws-mbw]: Music Business Worldwide (Murray Stassen) - "YouTube extends exclusive Coachella livestream deal with Goldenvoice through 2030" - 2026-09-23 - https://www.musicbusinessworldwide.com/coachella-stays-exclusive-to-youtube-through-2030-as-goldenvoice-renews-livestream-deal/
+[^ws-andscape]: Andscape (Aaron Dodson) - "The strange legacy of Tupac's 'hologram' lives on five years after its historic Coachella debut" - 2017-04-14 - https://andscape.com/features/the-strange-legacy-of-tupacs-hologram-after-coachella
+[^ws-spin14]: Spin - "Hologram Michael Jackson to Perform at Billboard Music Awards" - 2014-05 - https://www.spin.com/2014/05/michael-jackson-hologram-billboard-music-awards/
 [^ws-wsb18]: WSB-TV - "Roy Orbison, 30 years gone, will tour as a hologram" - 2018-07-20 - https://wsbtv.com/living/roy-orbison-30-years-gone-will-tour-as-a-hologram/794222878
-[^ws-lat23]: Los Angeles Times via AOL - "EDM may have waned, but the Sahara tent..." - 2023-04-09 - https://www.aol.com/news/edm-may-waned-sahara-tent-120013512.html
-[^ws-laweekly10]: LA Weekly - "deadmau5 blazes new trails in the desert" - 2010-04-17 - https://www.laweekly.com/deadmau5-blazes-new-trails-in-the-desert/
-[^ws-fi22]: Festival Insider - "How dance music grew to dominate Coachella" - 2022-02-08 - https://festivalinsider.com/articles/how-dance-music-grew-to-dominate-coachella
+[^ws-lat23]: Los Angeles Times (August Brown), via AOL - "EDM may have waned, but the Sahara Tent remains the beating heart of Coachella" - 2023-04-09 - https://www.aol.com/news/edm-may-waned-sahara-tent-120013512.html
+[^ws-laweekly10]: LA Weekly (Dennis Romero) - "Deadmau5 Blazes New Trails In The Desert" - 2010-04-17 - https://www.laweekly.com/deadmau5-blazes-new-trails-in-the-desert/
+[^ws-fi22]: Festival Insider (Jonah Flint) - "How Dance Music Grew to Dominate Coachella" - 2022-02-08 - https://festivalinsider.com/articles/how-dance-music-grew-to-dominate-coachella
 [^ws-wiki19]: Wikipedia - "Coachella 2019" (citing Billboard, 2019-04-15) - accessed 2026-10-31 - https://en.wikipedia.org/wiki/Coachella_2019
-[^ws-rs23]: Rolling Stone - "Coachella 2023 headliners: Bad Bunny, BLACKPINK, Frank Ocean" - c. 2023-01 - https://www.rollingstone.com/music/music-news/2023-coachella-headliners-bad-bunny-blackpink-frank-ocean-1234657207/
+[^ws-rs23]: Rolling Stone - "Bad Bunny and Blackpink Make History as 2023 Coachella Headliners, Frank Ocean Makes Grand Return" - c. 2023-01 - https://www.rollingstone.com/music/music-news/2023-coachella-headliners-bad-bunny-blackpink-frank-ocean-1234657207/
 [^ws-remezcla]: Remezcla (Lucas Villa) - "Karol G's headlining Coachella 2026, becoming first Latina to do so" - 2025-09-16 - https://remezcla.com/music/karol-gs-headlining-coachella-2026-becoming-first-latina-to-do-so/
-[^ws-fader26]: The FADER - "Every surprise guest at Coachella 2026" - 2026-04-13 - https://www.thefader.com/2026/04/13/every-surprise-guest-coachella-2026
+[^ws-fader26]: The FADER (Tobias Hess) - "Every surprise guest at Coachella 2026: Becky G, M.I.A., and more" - 2026-04-13 - https://www.thefader.com/2026/04/13/every-surprise-guest-coachella-2026
 [^ws-billboard22]: Billboard - interview with 88rising's Sean Miyashiro on Coachella - c. 2022-04 - https://www.billboard.com/culture/events/88rising-coachella-sean-miyashiro-interview-1235062156/
 [^ws-wikihitc]: Wikipedia - "Head in the Clouds Festival" - accessed 2026-10-31 - https://en.wikipedia.org/wiki/Head_in_the_Clouds_Festival
-[^ws-quartz]: Quartz - "Coachella 2019: Burna Boy and Mr Eazi the only African acts on the lineup" - c. 2019-01 - https://qz.com/africa/1515509/coachella-2019-burna-boy-mr-eazi-only-african-acts-on-lineup
-[^ws-rsca]: Rolling Stone Canada - "Justin Bieber's Coachella 2026 performance" - 2026-04-13 - https://ca.rollingstone.com/justin-bieber-performance-coachella-2026/
+[^ws-quartz]: Quartz - "Coachella is the festival where underground artists go mainstream, except for African acts" - c. 2019-01 - https://qz.com/africa/1515509/coachella-2019-burna-boy-mr-eazi-only-african-acts-on-lineup
+[^ws-rsca]: Rolling Stone Canada (Jeff Miller) - "Justin Bieber Draws Massive Crowd for Messy, 'Swag'-Heavy Set at Coachella" - 2026-04-13 - https://ca.rollingstone.com/justin-bieber-performance-coachella-2026/
 [^ws-ctv]: CTV News - "Has Coachella escaped the problematic legacy of boho chic?" - 2022-04-18 - https://www.ctvnews.ca/entertainment/has-coachella-escaped-the-problematic-legacy-of-boho-chic-1.5866011
 [^ws-dazed26]: Dazed (Sophie Wilson) - "When exactly did the Coachella aesthetic become so soulless?" - 2026-04-20 - https://www.dazeddigital.com/fashion/article/70114/1/when-exactly-coachella-aesthetic-soulless-sheinchella-influencers
-[^ws-nylon]: NYLON - Coachella trends through festival history - 2024-04-15 - https://www.nylon.com/fashion/coachella-trends-festival-history
+[^ws-nylon]: NYLON - "25 Years of Coachella Style" - 2024-04-15 - https://www.nylon.com/fashion/coachella-trends-festival-history
 [^ws-hm15]: H&M Group - "H&M to announce the first ever co-branded collection with the Coachella Valley Music & Arts Festival" - 2015-01-12 - https://hmgroup.com/news/hm-to-announce-the-first-ever-co-branded-collection-with-the-coachella-valley-music-arts-festival/
 [^ws-rock]: Newspaper Rock - "Alessandra Ambrosio in headdress" - 2014-04-10 - https://newspaperrock.bluecorncomics.com/2014/04/alessandra-ambrosio-in-headdress.html
-[^ws-cbc14]: CBC News - Bass Coast festival bans headdresses - 2014-08-02 - https://www.cbc.ca/1.2723719
+[^ws-cbc14]: CBC News - "Bass Coast festival headdress ban ruffles feathers and sparks debate" - 2014-08-02 - https://www.cbc.ca/1.2723719
 [^ws-dazed14]: Dazed - "Glastonbury bans sale of Native American headdresses" - 2014-10-15 - https://www.dazeddigital.com/music/article/22183/1/glastonbury-bans-sale-of-native-american-headdresses
-[^ws-nme15]: NME - Osheaga bans Native American headdresses - 2015-07-14 - https://www.nme.com/?p=1215296
+[^ws-nme15]: NME (David Renshaw) - "Native American headresses banned at Canada's Osheaga festival" - 2015-07-14 - https://www.nme.com/?p=1215296
 [^ws-da15]: Dancing Astronaut (Lucy Davidson) - "Electric Forest bans headdresses for 2016 edition" - 2015-11-17 - https://dancingastronaut.com/2015/11/electric-forest-bans-headdresses-festivals-2016-edition/
 [^ws-sfist]: SFist - "American Indian headdresses now officially banned at Outside Lands" - 2019-07-26 - https://sfist.com/2019/07/26/american-indian-headdresses-now-officially-banned-at-outside-lands
-[^ws-hypebeast23]: Hypebeast (Dylan Kelly) - "How Coachella became the influencer's Met Gala" - 2023-04-13 - https://hypebeast.com/2023/4/how-coachella-became-influencers-met-gala-style-fashion-evolution-shift
+[^ws-hypebeast23]: Hypebeast (Dylan Kelly) - "How Coachella Became the Influencer's Met Gala" - 2023-04-13 - https://hypebeast.com/2023/4/how-coachella-became-influencers-met-gala-style-fashion-evolution-shift
 [^ws-bizbash12]: BizBash - "As Coachella expands to two weekends, brands stick to the first" - 2012-04-16 - https://www.bizbash.com/programming-entertainment/as-coachella-expands-to-two-weekends-brands-stick-to-the-first
 [^ws-bof]: Business of Fashion (Liz Flora) - "Revolve invented influencer marketing as we know it. Now it's pulling back" - 2024 - https://Businessoffashion.com/articles/marketing-pr/revolve-invented-influencer-marketing-as-we-know-it-now-its-pulling-back/
-[^ws-wwd]: WWD via Yahoo (Elizabeth Grace Coyne) - the first-ever Revolve Festival, 2015 - 2024-04-12 - https://ca.news.yahoo.com/first-ever-revolve-festival-2015-185139744.html
-[^ws-retailbrew]: Retail Brew (Halie LeSavage) - festival fashion: Revolve and ASOS suffer without music festivals - 2020-04-13 - https://www.retailbrew.com/stories/2020/04/13/festival-fashion-revolve-asos-suffers-without-music-festivals
+[^ws-wwd]: WWD (Elizabeth Grace Coyne), via Yahoo - "What the First-ever Revolve Festival Was Like in 2015 Compared to 2024: The Coachella Weekend Party's Evolution" - 2024-04-12 - https://ca.news.yahoo.com/first-ever-revolve-festival-2015-185139744.html
+[^ws-retailbrew]: Retail Brew (Halie LeSavage) - "Festival Fashion at Revolve and Asos Suffers Without Music Festivals" - 2020-04-13 - https://www.retailbrew.com/stories/2020/04/13/festival-fashion-revolve-asos-suffers-without-music-festivals
 [^ws-glossy19]: Glossy (Priya Rao) - "'There's definitely been a decline': fashion and beauty brands pull back on Coachella" - 2019-04-10 - https://www.glossy.co/fashion/theres-definitely-been-a-decline-fashion-and-beauty-brands-pull-back-on-coachella
-[^ws-hypebae]: Hypebae - Revolve Festival Coachella "Fyre" backlash and statement - 2022-04-19 - https://hypebae.com/2022/4/revolve-coachella-festival-fyre-backlash-statement-info
+[^ws-hypebae]: Hypebae (Pauline De Leon) - "REVOLVE Responds to Backlash Over Its Fyre Festival-Like Coachella Event" - 2022-04-19 - https://hypebae.com/2022/4/revolve-coachella-festival-fyre-backlash-statement-info
 [^ws-zwicky]: Arnold Zwicky's Blog - "Bookchella" - 2022-04-28 - https://arnoldzwicky.org/2022/04/28/bookchella/
 [^ws-dictionary]: Dictionary.com - "Beychella" (pop culture entry) - 2019-05-01 - https://www.dictionary.com/e/pop-culture/beychella
-[^ws-hypebot16]: Hypebot - "Coachella sues underground fest Hoodchella for $100K over name" - 2016-02-04 - https://www.hypebot.com/coachella-sues-underground-fest-hoodchella-for-100k-over-name
-[^ws-buzzbands16]: Buzzbands.LA - Brokechella renamed - 2016-01-14 - https://buzzbands.la/2016/01/14/brokechella-3/
+[^ws-hypebot16]: Hypebot (Bruce Houghton) - "Coachella Sues Underground Fest Hoodchella For $100K Over Name" - 2016-02-04 - https://www.hypebot.com/coachella-sues-underground-fest-hoodchella-for-100k-over-name
+[^ws-buzzbands16]: Buzzbands.LA (Kevin Bronson) - "Brokechella gets a new name: Meet BROKE LA" - 2016-01-14 - https://buzzbands.la/2016/01/14/brokechella-3/
 [^ws-promo]: Promotion Centre (blog) - "Welsh festival forced to rebrand after Coachella complaint" - 2025-06-04 - https://promotioncentre.co.uk/blog/welsh-festival-forced-to-rebrand-after-coachella-complaint/
 [^ws-wtr]: World Trademark Review (Nisha Shetty) - "No, you can't take the 'chella' out of Coachella" - 2025-07-25 - https://www.worldtrademarkreview.com/article/no-you-cant-take-the-chella-out-of-coachella
 [^ws-dailyliberal]: Collie Mail / Daily Liberal - "Get sparkly for first Col-Chella festival under outback stars" - 2023-10 - https://www.dailyliberal.com.au/story/8399395/get-sparkly-for-first-col-chella-festival-under-outback-stars/
 [^ws-ticketnews]: TicketNews - "Coachella 2010 revives layaway plan for second year as ticket presales begin" - 2009-12-16 - https://www.ticketnews.com/2009/12/coachella-2010-revives-layaway-plan-for-second-year-as-ticket-presales-begin/
-[^ws-entrepreneur]: Entrepreneur (Sherin Shibu, citing Billboard) - "Most Coachella attendees bought their $600 tickets this year with a buy now, pay later option" - 2025-04-24 - https://www.entrepreneur.com/business-news/most-coachella-attendees-buy-tickets-with-buy-now-pay-later/490596
-[^ws-urbandaddy]: UrbanDaddy - "Welcome to the jungle: introducing your Coachella Safari Tent" - 2010-04-07 - https://urbandaddy.com/articles/9449/los-angeles/welcome-to-the-jungle-introducing-your-coachella-safari-tent
-[^ws-psl]: Palm Springs Life - "Haute Safari" - undated - https://www.palmspringslife.com/Haute-Safari/
-[^ws-caltoday]: California Today (Pat Sharyon) - "Passes for Coachella 2026: complete guide to pricing options and add-ons" - 2025-09-16, updated 2026-03-25 - https://californiatoday.com/guides/entertainment/passes-for-coachella-2026-complete-guide-to-pricing-options-and-add-ons/
+[^ws-entrepreneur]: Entrepreneur (Sherin Shibu, citing Billboard) - "Most Coachella Attendees Bought Their $600 Tickets This Year with a Buy Now, Pay Later Option" - 2025-04-24 - https://www.entrepreneur.com/business-news/most-coachella-attendees-buy-tickets-with-buy-now-pay-later/490596
+[^ws-urbandaddy]: UrbanDaddy - "Welcome to the Jungle: Introducing Your Coachella Safari Tent" - 2010-04-07 - https://urbandaddy.com/articles/9449/los-angeles/welcome-to-the-jungle-introducing-your-coachella-safari-tent
+[^ws-psl]: Palm Springs Life - "Haute Safari" - n.d. - https://www.palmspringslife.com/Haute-Safari/
+[^ws-caltoday]: California Today (Pat Sharyon) - "Passes for Coachella 2026: Complete guide to pricing, options, and add-ons" - 2025-09-16 (updated 2026-03-25) - https://californiatoday.com/guides/entertainment/passes-for-coachella-2026-complete-guide-to-pricing-options-and-add-ons/
 [^ws-wikistage]: Wikipedia - "Stagecoach Festival" - accessed 2026-10-31 - https://en.wikipedia.org/wiki/Stagecoach_Festival
 [^ws-kesq24]: KESQ (Jesus Reyes) - "Coachella, Stagecoach sold around 250K tickets for 2024 festivals, city reports" - 2024-06-13 - https://kesq.com/news/festival-season/2024/06/13/coachella-stagecoach-sold-around-250k-tickets-for-2024-festivals-city-reports
-[^ws-ucrdt]: Ultimate Classic Rock - Desert Trip festival gross - 2016-07-22 - https://ultimateclassicrock.com/desert-trip-festival-gross/
-[^ws-louder]: Louder / Metal Hammer - "Inside Power Trip festival 2023" - 2023-12-18 - https://www.loudersound.com/features/inside-power-trip-festival-2023
-[^ws-buzzbands21]: Buzzbands.LA - Just Like Heaven 2022 - 2021-06-21 - https://buzzbands.la/?p=272873
+[^ws-ucrdt]: Ultimate Classic Rock (Jeff Giles) - "Desert Trip Festival's Gross Is Roughly $160 Million" - 2016-07-22 - https://ultimateclassicrock.com/desert-trip-festival-gross/
+[^ws-louder]: Louder / Metal Hammer (Rich Hobson) - "Inside the brilliance and the absurdity of Power Trip festival 2023" - 2023-12-18 - https://www.loudersound.com/features/inside-power-trip-festival-2023
+[^ws-buzzbands21]: Buzzbands.LA (Kevin Bronson) - "Just Like Heaven festival returns in 2022, with Interpol, Modest Mouse, the Shins, M.I.A., Franz Ferdinand and more" - 2021-06-21 - https://buzzbands.la/?p=272873
 [^ws-wikicruel]: Wikipedia - "Cruel World Festival" - accessed 2026-10-31 - https://en.wikipedia.org/wiki/Cruel_World_Festival
-[^ws-gv]: Goldenvoice - Festivals - accessed 2026-10-31 - https://goldenvoice.com/festivals
-[^ws-insidehook]: InsideHook (Tobias Carroll) - are festivals becoming nostalgia factories? - 2024-06-04 - https://www.insidehook.com/?p=855118
-[^ws-uproxx]: UPROXX (Steve Bramucci) - food at music festivals: Coachella, KAABOO, BeachLife - 2019-10-17 - https://uproxx.com/life/food-at-music-festivals-coachella-kaaboo-beachlife
-[^ws-laweekly15]: LA Weekly (Besha Rodell) - "Coachella is getting serious about food, but do festivalgoers care?" - 2015-04-15 - https://www.laweekly.com/coachella-is-getting-serious-about-food-but-do-festivalgoers-care/
-[^ws-timeout16]: Time Out Los Angeles - "Coachella announces its Outstanding in the Field chef lineup for 2016" - 2016-03 - https://www.timeout.com/los-angeles/blog/coachella-announces-its-outstanding-in-the-field-chef-lineup-for-2016-030316
+[^ws-gv]: Goldenvoice - "Festivals" - n.d. (read 2026-10-31) - https://goldenvoice.com/festivals
+[^ws-insidehook]: InsideHook (Tobias Carroll) - "When It Comes to Music Festivals, Nostalgia Is in Vogue" - 2024-06-04 - https://www.insidehook.com/?p=855118
+[^ws-uproxx]: UPROXX (Steve Bramucci) - "Welcome To The New Era Of Food At Music Festivals" - 2019-10-17 - https://uproxx.com/life/food-at-music-festivals-coachella-kaaboo-beachlife
+[^ws-laweekly15]: LA Weekly (Besha Rodell) - "Coachella Is Getting Serious About Food. But Do Festivalgoers Care?" - 2015-04-15 - https://www.laweekly.com/coachella-is-getting-serious-about-food-but-do-festivalgoers-care/
+[^ws-timeout16]: Time Out Los Angeles (Erin Kuschner) - "Coachella announces its Outstanding in the Field chef lineup for 2016" - 2016-03-03 - https://www.timeout.com/los-angeles/blog/coachella-announces-its-outstanding-in-the-field-chef-lineup-for-2016-030316
