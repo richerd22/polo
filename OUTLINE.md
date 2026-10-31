@@ -47,6 +47,13 @@ Premise: a polo club, the land around it, and how Goldenvoice came to run all of
 
 Still needs: current acreage; the date the land deal closed; why drinks were fenced in.
 
+### 3b - The polo club (research running)
+Premise: you pay a lot every year to hang out at a polo club - so how does polo work, and what are the grounds the other 50 weeks?
+- How polo is played: field, chukkers, handicaps, the line of the ball (USPA rulebook)
+- Empire Polo Club's own polo life, and what happens to the turf
+- What stays up all year now (Spectra, the steel Sahara and Quasar, the bunker), and whether any of it opens off-season
+- Plus a small browser polo game: beginner and expert modes
+
 ### 4 - The stages and the spaces within
 Premise: three tents named for deserts became a dozen spaces, some of them festivals of their own.
 - Mojave, Gobi and Sahara all date to 1999 (Palm Springs Life)
@@ -236,5 +243,6 @@ These are my tallies; the full lists are in each research file's "Unconfirmed" s
   - Street View is linked, never screenshotted.
   - Where no image works, a text card stands in.
 - **Housekeeping:** a takedown address, a $6 DMCA agent registration, a corrections log, and an independence line in the footer.
+- **The polo game:** one self-contained page (`/play`), keyboard and touch, beginner mode (simple rules) and expert mode (line of the ball, fouls, chukkers, handicaps). No dependencies, no tracking.
 - **Launch:** Mar 22 - Apr 2, 2027, while the boards go up. Coachella 2027 is Apr 9-11 and 16-18.
 - **Upkeep:** the billboard chapter is updated every spring.
