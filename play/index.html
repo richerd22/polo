@@ -6,6 +6,7 @@
 <title>Polo - polo.cold.fyi</title>
 <meta name="description" content="A small browser polo game from polo.cold.fyi. Ride right-handed, respect the line of the ball, and play beginner 2v2 or expert 4v4 with handicaps, ride-offs, hooks and the real penalty ladder.">
 <meta name="color-scheme" content="light dark">
+<link rel="icon" href="data:,">
 <style>
 @font-face{font-family:"Stencil";src:url(/fonts/big-shoulders-stencil-display-latin-900-normal.woff2) format("woff2");font-weight:900;font-display:swap}
 @font-face{font-family:"Mono";src:url(/fonts/jetbrains-mono-latin-400-normal.woff2) format("woff2");font-weight:400;font-display:swap}
@@ -106,7 +107,7 @@ body.touch #hint{bottom:calc(max(14px,env(safe-area-inset-bottom)) + 150px)}
 #tSide{right:max(32px,env(safe-area-inset-right));bottom:calc(max(22px,env(safe-area-inset-bottom)) + 108px);width:58px;height:58px;background:rgba(29,26,22,.8);font-size:14px}
 .tb:active{filter:brightness(1.2)}
 body:not(.expert) #tSide{display:none}
-body[data-st=halftime] #touch,body[data-st=interval] #touch,body[data-st=over] #touch{display:none}
+body[data-st=halftime] #touch,body[data-st=interval] #touch,body[data-st=over] #touch,body[data-st=halftime] #board,body[data-st=halftime] #mini,body[data-st=halftime] #status,body[data-st=interval] #status,body[data-st=halftime] #banner{display:none}
 
 /* small overlays */
 .mid{justify-content:center}
@@ -307,7 +308,7 @@ let W = 0, H = 0, DPR = 1, SC = 10;
 function resize() {
   W = innerWidth; H = innerHeight; DPR = Math.min(2, devicePixelRatio || 1);
   cv.width = Math.round(W * DPR); cv.height = Math.round(H * DPR);
-  SC = clamp(Math.min(W / 105, H / 62), 5, 16);
+  SC = clamp(Math.min(W / 80, H / 50), 6.5, 20);
   const r = mm.getBoundingClientRect();
   mm.width = Math.max(1, Math.round((r.width || 132) * DPR)); mm.height = Math.max(1, Math.round((r.height || 72) * DPR));
   updateTurnHint();
@@ -364,11 +365,11 @@ setMute(muted);
 const AX = window.polo = {
   version: 1, mode: null, state: 'menu', chukker: 0, chukkers: 0, clock: '', clockSeconds: 0, overtime: false, suddenDeath: false,
   teams: { home: 'Avenue 51 (you)', away: 'Polo Road' }, score: { home: 0, away: 0 }, handicapGoals: { home: 0, away: 0 },
-  attacking: { home: null, away: null }, rightOfWay: null, lastFoul: null, you: null, paused: false, events: []
+  attacking: { home: null, away: null }, units: 'yards; field 300 x 160, x east, y south', ball: null, rightOfWay: null, lastFoul: null, you: null, paused: false, events: []
 };
 function evt(type, data) {
   if (!G || G.demo) return;
-  const e = Object.assign({ type, chukker: G.chukker, clock: clockStr() }, data || {});
+  const e = Object.assign({ chukker: G.chukker, clock: clockStr() }, data || {}, { event: type });
   AX.events.push(e); if (AX.events.length > 40) AX.events.shift();
   try { dispatchEvent(new CustomEvent('polo', { detail: e })); } catch (er) {}
 }
@@ -798,7 +799,7 @@ function contacts(dt) {
         (loser === q ? p : q).v *= 0.95;
         sfx.bump();
         if (G.expert && (p.human || q.human)) floatText((p.x + q.x) / 2, (p.y + q.y) / 2 - 2, 'RIDE-OFF');
-      } else {
+      } else if (G.stateT > 1.5 && Math.max(cp, cq) > 4) {
         const by = cp >= cq ? p : q, vs = by === p ? q : p;
         foul(by, vs, 'ride', ang > 70 * Math.PI / 180 ? 2 : 1);
         return;
@@ -897,7 +898,7 @@ function endChukker() {
       return endGame();
     }
     if (n === G.nChuk / 2) return startHalftime();
-    interval('END OF CHUKKER ' + n, `${G.score[0]} - ${G.score[1]}`, G.expert ? `Fresh ponies. You're on ${PONIES[(G.ponyIdx + 1) % PONIES.length]}.` : `${G.nChuk - n} to go.`);
+    interval(`END OF CHUKKER ${n} · ${SHORT[0]} v ${SHORT[1]}`, `${G.score[0]} - ${G.score[1]}`, G.expert ? `Fresh ponies. You're on ${PONIES[(G.ponyIdx + 1) % PONIES.length]}.` : `${G.nChuk - n} to go.`);
   });
 }
 function interval(kicker, title, sub) {
@@ -918,10 +919,11 @@ function nextChukker() {
 }
 function startHalftime() {
   G.state = 'halftime'; G.stateT = 0; if (G.goalsInPlay === 0) G.swapHalf = true;
+  bq.length = 0; $('banner').classList.remove('on'); bOn = false; bT = 0;
   G.dv = { t: 15, items: [], n: 0, done: false, spawn: 0, cx: W / 2, cy: H / 2, endT: 0 };
   evt('halftime');
 }
-function endHalftime() { if (!G.dv) return; G.stomped += G.dv.n; G.divots.length = 0; G.dvi = 0; evt('divotStomp', { stomped: G.dv.n }); G.dv = null; interval('HALFTIME', `${G.score[0]} - ${G.score[1]}`, G.expert ? `Fresh ponies. You're on ${PONIES[(G.ponyIdx + 1) % PONIES.length]}.` : 'Second half.'); G.stateT = 0.4; }
+function endHalftime() { if (!G.dv) return; G.stomped += G.dv.n; G.divots.length = 0; G.dvi = 0; evt('divotStomp', { stomped: G.dv.n }); G.dv = null; interval(`HALFTIME · ${SHORT[0]} v ${SHORT[1]}`, `${G.score[0]} - ${G.score[1]}`, G.expert ? `Fresh ponies. You're on ${PONIES[(G.ponyIdx + 1) % PONIES.length]}.` : 'Second half.'); G.stateT = 0.4; }
 function endGame() {
   G.state = 'over'; sfx.bell(3); sfx.crowd(0.8, 2.5);
   const w = G.score[0] > G.score[1] ? 0 : 1;
@@ -1005,6 +1007,10 @@ function step(dt) {
   ballStep(dt);
   if (G.state === 'play') { computeROW(); crossingCheck(); }
   if (G.state === 'play' || G.state === 'setpiece' || G.state === 'lineup') contacts(dt);
+  if (G.state === 'setpiece' && G.setp && G.setp.taker.human && G.stateT > 12) {   // you dawdled: a teammate takes it
+    const h = G.setp.taker, m = G.players.filter(o => o.team === h.team && !o.human).sort((a, b) => Math.hypot(a.x - G.ball.x, a.y - G.ball.y) - Math.hypot(b.x - G.ball.x, b.y - G.ball.y))[0];
+    if (m) { h.frozen = true; h.v = 0; m.frozen = false; G.setp.taker = m; G.stateT = 4; hint('Teammate takes the hit.', 2); }
+  }
   if (G.state === 'setpiece' && G.setp && !G.setp.taker.human && G.stateT > 9) {   // AI taker stalls: just hit it
     const b = G.ball, a = G.setp.taker.aimA; b.vx = Math.cos(a) * 36; b.vy = Math.sin(a) * 36; b.dirA = a; b.last = G.setp.taker; b.lastTeam = G.setp.team; b.hitT = G.t; releaseSet();
   }
@@ -1188,7 +1194,7 @@ function render(dt) {
   const hu = G.human;
   if (hu) { ell(X(hu.x), Y(hu.y), 1.75 * SC, 1.05 * SC, hu.a); ctx.strokeStyle = P.t0; ctx.lineWidth = Math.max(1.5, 0.18 * SC); ctx.setLineDash([4, 3]); ctx.stroke(); ctx.setLineDash([]); }
   // dust
-  for (const d of G.dust) { ctx.fillStyle = `rgba(${night ? '120,100,70' : '210,190,150'},${d.t * 0.5})`; ell(X(d.x), Y(d.y), (d.r + (0.7 - d.t)) * SC, (d.r + (0.7 - d.t)) * SC); ctx.fill(); }
+  for (const d of G.dust) { ctx.fillStyle = `rgba(${night ? '120,100,70' : '214,196,156'},${d.t * 0.28})`; ell(X(d.x), Y(d.y), (d.r + (0.7 - d.t) * 0.6) * SC, (d.r + (0.7 - d.t) * 0.6) * SC); ctx.fill(); }
   // umpire at throw-in
   if (G.state === 'lineup') drawHorse({ x: G.throwX, y: 45, a: Math.PI / 2, v: 0, gait: 0, coat: '#c8c2b6', team: 0, swing: 0, hookT: 0 }, true);
   // players by y
@@ -1215,7 +1221,7 @@ function render(dt) {
 function offArrow(x, y, col) {
   const sx = X(x), sy = Y(y), m = 22;
   if (sx > 0 && sx < W && sy > 0 && sy < H) return;
-  const cx = clamp(sx, m, W - m), cy = clamp(sy, m + 60, H - m), a = Math.atan2(sy - cy, sx - cx);
+  const cx = clamp(sx, m, W - m), cy = clamp(sy, m + 100, H - m), a = Math.atan2(sy - cy, sx - cx);
   ctx.save(); ctx.translate(cx, cy); ctx.rotate(a); ctx.fillStyle = col; ctx.strokeStyle = '#1d1a16'; ctx.lineWidth = 2;
   ctx.beginPath(); ctx.moveTo(12, 0); ctx.lineTo(-6, -8); ctx.lineTo(-6, 8); ctx.closePath(); ctx.stroke(); ctx.fill(); ctx.restore();
 }
@@ -1293,7 +1299,8 @@ function hud(dt) {
   AX.score.home = G.score[0]; AX.score.away = G.score[1]; AX.handicapGoals.home = G.hcpGoals[0]; AX.handicapGoals.away = G.hcpGoals[1];
   AX.attacking.home = G.dir[0] > 0 ? 'east' : 'west'; AX.attacking.away = G.dir[1] > 0 ? 'east' : 'west';
   AX.rightOfWay = label(G.row); AX.lastFoul = G.lastFoul; AX.paused = G.paused;
-  AX.you = h ? { number: h.num, role: ROLE[h.num], swingSide: h.side > 0 ? 'offside' : 'nearside', stamina: Math.round(h.stam * 100), pony: G.expert ? PONIES[G.ponyIdx % PONIES.length] : null } : null;
+  const b = G.ball; AX.ball = { x: Math.round(b.x * 10) / 10, y: Math.round(b.y * 10) / 10, speed: Math.round(Math.hypot(b.vx, b.vy) * 10) / 10 };
+  AX.you = h ? { x: Math.round(h.x * 10) / 10, y: Math.round(h.y * 10) / 10, heading: Math.round(h.a * 100) / 100, speed: Math.round(h.v * 10) / 10, number: h.num, role: ROLE[h.num], swingSide: h.side > 0 ? 'offside' : 'nearside', stamina: Math.round(h.stam * 100), pony: G.expert ? PONIES[G.ponyIdx % PONIES.length] : null } : null;
 }
 
 /* ---------- pause / visibility ---------- */
@@ -1356,13 +1363,14 @@ function updateTurnHint() { const t = $('turn'); if (t && (innerWidth >= innerHe
 /* ---------- loop ---------- */
 let last = performance.now(), acc = 0;
 const H_STEP = 1 / 120;
+const SPEED = clamp(+(new URLSearchParams(location.search).get('speed') || 1), 1, 8);   // test/agent fast-forward
 function frame(now) {
   requestAnimationFrame(frame);
   const dt = Math.min(0.05, (now - last) / 1000); last = now;
   if (G && !G.paused && !(G.demo && reduced)) {
-    acc += dt; let n = 0;
-    while (acc >= H_STEP && n < 10) { step(H_STEP); acc -= H_STEP; n++; }
-    if (n >= 10) acc = 0;
+    acc += dt * SPEED; let n = 0;
+    while (acc >= H_STEP && n < 10 * SPEED) { step(H_STEP); acc -= H_STEP; n++; }
+    if (n >= 10 * SPEED) acc = 0;
   }
   render(G && G.paused ? 0 : dt);
   hud(dt);
