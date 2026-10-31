@@ -47,12 +47,18 @@ Premise: a polo club, the land around it, and how Goldenvoice came to run all of
 
 Still needs: current acreage; the date the land deal closed; why drinks were fenced in.
 
-### 3b - The polo club (research running)
-Premise: you pay a lot every year to hang out at a polo club - so how does polo work, and what are the grounds the other 50 weeks?
-- How polo is played: field, chukkers, handicaps, the line of the ball (USPA rulebook)
-- Empire Polo Club's own polo life, and what happens to the turf
-- What stays up all year now (Spectra, the steel Sahara and Quasar, the bunker), and whether any of it opens off-season
-- Plus a small browser polo game: beginner and expert modes
+### 3b - The polo club
+Premise: you pay a lot every year to hang out at a polo club - which stopped playing polo in 2021.
+- Polo ended at Empire in Nov 2021 when Goldenvoice took over year-round; staff got three days' notice (KESQ 2021; Desert Sun 2022)
+- Desert polo moved next door to Eldorado (founded 1957, 13 fields), which Goldenvoice bought in 2012 and leases back each season until April (research file)
+- Al Haagen III founded Empire in 1987; it had the only fully lit grass polo field in the US (Museum of Polo 2023)
+- How polo works: 4 a side, 7-minute chukkers, handicaps from -2 to 10, the line of the ball, right-hand-only mallets, fresh horses each chukker (USPA)
+- What stays all year: the 38-ft Radiohead bunker under the fields (permanent, per its designer), the steel Sahara on 1,500 tons of concrete, the Rose Garden, the Forum and Hacienda del Toro as event venues
+- The grounds the rest of the year: Desert Trip, Power Trip, an MLS/NWSL preseason tournament (Feb 2026), dog shows, weddings
+- The game: beginner 2v2 with a divot-stomp halftime; expert 4v4 with handicaps, ride-offs and the penalty ladder
+
+The lore: "Polo Capital of the West" - nobody on record says it, so it stays out.
+Still needs: whether Spectra stands year-round; turf repair costs; which field holds which stage.
 
 ### 4 - The stages and the spaces within
 Premise: three tents named for deserts became a dozen spaces, some of them festivals of their own.
