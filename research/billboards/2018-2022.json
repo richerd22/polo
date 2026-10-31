@@ -1,0 +1,178 @@
+[
+  {
+    "year": 2019,
+    "entry_type": "artist_promo",
+    "artist": "Billie Eilish",
+    "title": "Billie Eilish I-10 album/Coachella boards",
+    "what_it_showed": "Minimal imagery with scribbled text promoting her latest album (When We All Fall Asleep, Where Do We Go?, per release timing - the source says only 'latest album') and her Coachella performance. No verbatim text reported.",
+    "location": "Interstate 10, on the route leading to the concert and campgrounds (no direction or cross street reported)",
+    "promoted": "Latest album and her Coachella 2019 set (first Coachella appearance, Saturday, weekends 1 and 2)",
+    "aftermath": "Not reported in the sources.",
+    "sources": [
+      {"publication": "OAAA (Out of Home Advertising Association of America) blog - 'Billboards Headlining at Coachella'", "date": "2019-04-22", "url": "https://oaaa.org/blog-posts/billboards-headlining-at-coachella/"},
+      {"publication": "MarkMeets - 'What We Can Learn From the Phenomenon of Coachella Billboards' (secondary, cites unnamed 'industry advertising reports')", "date": "undated", "url": "https://markmeets.com/posts/what-we-can-learn-from-the-phenomenon-of-coachella-billboards/"}
+    ],
+    "image_sources": [
+      {"url": "https://dashtwo.com/blog/guide-to-coachella-billboards/", "credit": "Dash Two (ad agency) - image alt text 'Billie Eilish' in a 'Guide-To-Coachella-2020' upload set; year and placement not stated on the page", "photo_type": "agency/official (unverified that it is the same board)"}
+    ],
+    "confidence": "medium",
+    "notes": "Only one solid source (OAAA trade blog). Billboard (2022) separately lists 'Billie Eilish's Adobe campaign' as MilkMoney agency work, with no year or location - not confirmed to be the same thing."
+  },
+  {
+    "year": 2019,
+    "entry_type": "art_installation",
+    "artist": "Cara Romero (Desert X 2019)",
+    "title": "Jackrabbit, Cottontail & Spirits of the Desert",
+    "what_it_showed": "Enlarged photographs of four young Chemehuevi boys as 'time-traveling visitors' returning to ancestral lands; one shows a figure running in front of the Palm Springs wind turbines, another shows all four boys in headdresses beneath the text 'NO WALL'.",
+    "location": "Gene Autry Trail, Palm Springs - northbound between Via Escuela (also given as Vista Chino) and the 10 Freeway (Cactus Hugs). OAAA describes it as 'a billboard on the 10 Freeway'. Desert X lists coordinates 33.853965, -116.506052.",
+    "promoted": "Desert X 2019 biennial (Feb 9 - Apr 21, 2019), overlapping Coachella 2019. Not a Coachella artist promo.",
+    "aftermath": "Temporary installation; ended with Desert X 2019.",
+    "sources": [
+      {"publication": "The Spaces - 'Billboards bring Native American culture into the spotlight at Desert X' (Annabel Herrick)", "date": "2019-02-14", "url": "https://thespaces.com/billboards-bring-native-american-culture-into-the-spotlight-at-desert-x/"},
+      {"publication": "Cactus Hugs - Desert X 2019 guide to the Jackrabbit billboard installation", "date": "undated (2019)", "url": "https://cactushugs.com/the-desert-x-2019-guide-to-the-jackrabbit-billboard-installation-in-palm-springs/"},
+      {"publication": "OAAA blog", "date": "2019-04-22", "url": "https://oaaa.org/blog-posts/billboards-headlining-at-coachella/"},
+      {"publication": "Desert X (official artist page)", "date": "2019", "url": "https://desertx.org/dx/desert-x-19/cara-romero"}
+    ],
+    "image_sources": [
+      {"url": "https://thespaces.com/billboards-bring-native-american-culture-into-the-spotlight-at-desert-x/", "credit": "James Mead for The Spaces", "photo_type": "press/editorial"},
+      {"url": "https://desertx.org/dx/desert-x-19/cara-romero", "credit": "Desert X (no photographer named)", "photo_type": "official"}
+    ],
+    "confidence": "high",
+    "notes": "Sources conflict on count: The Spaces says five billboards, Cactus Hugs says four. Included because it is a Palm Springs approach-road billboard during festival season; it is art, not festival promotion."
+  },
+  {
+    "year": 2020,
+    "entry_type": "year_note",
+    "artist": null,
+    "title": "Coachella 2020 cancelled - booked boards cancelled",
+    "what_it_showed": "No artist billboard found. Billboard reports that Dash Two (LA out-of-home agency, Gino Sesto) had booked 20 Coachella billboards in 2020, all of which were cancelled when the festival shut down.",
+    "location": "Coachella route (unspecified)",
+    "promoted": "n/a",
+    "aftermath": "Billboard also reports car dealers and casinos stopped carving Coachella-weekend space out of their year-round contracts after the 2020 and 2021 cancellations.",
+    "sources": [
+      {"publication": "Billboard (Pro) - 'On the Road to Coachella? Those Billboards Are There Just for You'", "date": "2022 (inferred from text; byline/date not retrieved)", "url": "https://www.billboard.com/pro/coachella-billboards-interstate-10-festival-advertising-strategy/"}
+    ],
+    "image_sources": [],
+    "confidence": "medium",
+    "notes": "Searches for any artist/teaser board that stayed up in April 2020 returned nothing."
+  },
+  {
+    "year": 2021,
+    "entry_type": "art_installation",
+    "artist": "Xaviera Simmons (Desert X 2021)",
+    "title": "Because You Know Ultimately We Will Band A Militia",
+    "what_it_showed": "A series of billboards in standard ad typography with public-domain Met images and text statements. Quoted lines: 'You Are Entering the Reparations Framework'; 'California Once Tried to Ban Black People.'; 'You Keep Our Most Brilliant Minds in a Perpetual Loop of Articulating and Translating the Ramifications of Your Systemic Generational Plunder.'; 'We call for radical distribution of resources because economic precarity is another form of harm.' (beside a portrait of Marsha P. Johnson); 'Rupture your guilt amnesia.'",
+    "location": "Gene Autry Trail, Palm Springs, between Via Escuela and Interstate 10 (Time Out). PBS SoCal notes a Rocky's Pawn Shop billboard ('Make America Great') stands opposite.",
+    "promoted": "Desert X 2021 (Mar 12 - May 16, 2021), held in the year Coachella was cancelled. Not a festival promo.",
+    "aftermath": "Temporary installation.",
+    "sources": [
+      {"publication": "PBS SoCal Artbound - 'Palm Springs Billboards Prompt Heavy Road Trip Conversations' (Rohini Walker)", "date": "2021-04-21", "url": "https://pbssocal.org/shows/artbound/xaivera-simmons-because-you-know-ultimately-we-will-band-a-militia"},
+      {"publication": "Time Out Los Angeles - '6 installations to see at Desert X 2021' (Michael Juliano)", "date": "2021-03-11", "url": "https://www.timeout.com/los-angeles/news/6-installations-to-see-at-desert-x-2021-031121"},
+      {"publication": "LAist - Desert X returns with political statements", "date": "2021-04-07", "url": "https://laist.com/2021/04/07/desert_x_returns_with_political_statements.php"}
+    ],
+    "image_sources": [
+      {"url": "https://pbssocal.org/shows/artbound/xaivera-simmons-because-you-know-ultimately-we-will-band-a-militia", "credit": "Lance Gerber (main + slideshows); Martin Mancha (Rocky's/installation gallery)", "photo_type": "press/official"},
+      {"url": "https://www.timeout.com/los-angeles/news/6-installations-to-see-at-desert-x-2021-031121", "credit": "Lance Gerber, courtesy the artist and Desert X", "photo_type": "official"},
+      {"url": "https://laist.com/2021/04/07/desert_x_returns_with_political_statements.php", "credit": "Courtesy of Desert X", "photo_type": "official"}
+    ],
+    "confidence": "high",
+    "notes": "Board count not given; a PBS caption mentions four in a line. Only 2021 billboard found in the valley; no Coachella-related artist billboard found for 2021."
+  },
+  {
+    "year": 2022,
+    "entry_type": "artist_promo",
+    "artist": "Travis Scott / Cactus Jack Records",
+    "title": "Utopia 'Wrong Way' boards",
+    "what_it_showed": "Four sequential billboards: 'PSST….' (also rendered 'Psst…….'), 'Looking for UTOPIA?', 'WRONG WAY!', then the Cactus Jack logo (fourth board reportedly logo only).",
+    "location": "Off I-10, on the side headed away from the Coachella festival grounds in Indio (Complex, Highsnobiety, The Fader). Uproxx says only 'near the Coachella grounds'. Billboard (Pro) places the 'PSST . . . Looking for UTOPIA?' board on I-10 between Riverside and Indio.",
+    "promoted": "Teased the long-delayed album Utopia, during the festival Scott had been removed from headlining after the Astroworld tragedy.",
+    "aftermath": "Utopia was released July 28, 2023 (release date from general record, not from the cited articles).",
+    "sources": [
+      {"publication": "Complex (Brenton Blanchet)", "date": "2022-04-11", "url": "https://www.complex.com/music/travis-scott-utopia-album-promoted-on-billboards-near-coachella-removed-from-headlining"},
+      {"publication": "The Fader (David Renshaw)", "date": "2022-04-11", "url": "https://www.thefader.com/2022/04/11/travis-scott-utopia-billboards-coachella-site"},
+      {"publication": "Uproxx (Caitlin White)", "date": "2022-04-10", "url": "https://uproxx.com/music/travis-scott-utopia-billboards-coachella"},
+      {"publication": "Highsnobiety (Alexandra Pauly)", "date": "2022-04-11", "url": "https://www.highsnobiety.com/p/travis-scott-utopia-billboards"}
+    ],
+    "image_sources": [
+      {"url": "https://www.complex.com/music/travis-scott-utopia-album-promoted-on-billboards-near-coachella-removed-from-headlining", "credit": "Cactus Jack Records Instagram (four billboard images, location-tagged 'Coachella'); no photographer named", "photo_type": "official (label)"},
+      {"url": "https://uproxx.com/music/travis-scott-utopia-billboards-coachella", "credit": "Embedded X post from account 'saint'; not explicitly credited as the photographer", "photo_type": "fan/social"}
+    ],
+    "confidence": "high",
+    "notes": "Lead images on Highsnobiety (Jamie McCarthy/Getty) and The Fader (Getty) are of Scott, not the billboards."
+  },
+  {
+    "year": 2022,
+    "entry_type": "artist_promo",
+    "artist": "Omar Apollo",
+    "title": "'Heterosexuality Can Be Cured'",
+    "what_it_showed": "Bold red type on yellow: 'HETEROSEXUALITY CAN BE CURED' / 'JUST WATCH OMAR APOLLO ON FRIDAY'.",
+    "location": "Interstate 10, right-hand side for drivers coming from Los Angeles, around the Palm Springs area en route to Indio (PRIDE). Billboard (Pro): I-10, Riverside to Indio.",
+    "promoted": "His Friday set at Coachella 2022 (first Coachella appearance); debut album Ivory had been announced Feb 2022.",
+    "aftermath": "Widely cited in later 'best Coachella billboards' lists (Gen Admission 2024 ranked it #1; The Forty-Five 2024 cited it as precedent for Sabrina Carpenter's boards).",
+    "sources": [
+      {"publication": "PRIDE.com (Taylor Henderson)", "date": "2022-04-15", "url": "https://www.pride.com/comedy/2022/4/15/heterosexuality-can-be-cured-reads-perfect-coachella-billboard"},
+      {"publication": "Billboard (Pro) - 'On the Road to Coachella? Those Billboards Are There Just for You'", "date": "2022 (inferred)", "url": "https://www.billboard.com/pro/coachella-billboards-interstate-10-festival-advertising-strategy/"},
+      {"publication": "The Forty-Five (Rhian Daly)", "date": "2024-04-04", "url": "https://thefortyfive.com/?p=29554"},
+      {"publication": "Gen Admission - 'Top 5 Most Unhinged Coachella Billboards of All Time' (Fran Papageorgiou)", "date": "2024-04-14", "url": "https://www.genadmission.org/articles/coachella-billboards"}
+    ],
+    "image_sources": [
+      {"url": "https://www.instagram.com/p/CcWAOpGvbF8/", "credit": "Instagram post linked by PRIDE.com; posting account not named in the article", "photo_type": "unknown (social)"},
+      {"url": "https://www.genadmission.org/articles/coachella-billboards", "credit": "Omar Apollo on X", "photo_type": "official (artist post)"}
+    ],
+    "confidence": "high"
+  },
+  {
+    "year": 2022,
+    "entry_type": "artist_promo",
+    "artist": "Louis the Child",
+    "title": "'Louis the Child Is Two People'",
+    "what_it_showed": "'LOUIS THE CHILD IS TWO PEOPLE'",
+    "location": "I-10, Riverside to Indio (no direction or cross street given)",
+    "promoted": "The duo's Coachella 2022 appearance (implied; source does not state the set).",
+    "aftermath": "Not reported.",
+    "sources": [
+      {"publication": "Billboard (Pro) - 'On the Road to Coachella? Those Billboards Are There Just for You'", "date": "2022 (inferred)", "url": "https://www.billboard.com/pro/coachella-billboards-interstate-10-festival-advertising-strategy/"}
+    ],
+    "image_sources": [],
+    "confidence": "medium",
+    "notes": "No photo or second source found."
+  },
+  {
+    "year": 2022,
+    "entry_type": "charity",
+    "artist": "Matoma (with Music Saves UA)",
+    "title": "'Drop Beats Not Bombs'",
+    "what_it_showed": "Blue-and-yellow (Ukrainian flag colors) boards; one side reads 'Drop Beats', the other 'Not Bombs' (The Fader). New Hit Singles renders it 'DROP BEATS NOT BOMBS'.",
+    "location": "Along the highway leading to and from the festival grounds in Indio (The Fader); 'on the road into Coachella' (New Hit Singles). Road not named.",
+    "promoted": "Fundraising for Ukraine via the nonprofit Music Saves UA (vamp.org.ua), during Coachella weekend 2.",
+    "aftermath": "Matoma was asked about the boards in an August 2022 EDMTunes interview.",
+    "sources": [
+      {"publication": "The Fader (Sandra Song)", "date": "2022-04-24", "url": "https://thefader.com/2022/04/24/matoma-coachella-ukraine-billboards"},
+      {"publication": "New Hit Singles (Peter Shep, citing NME)", "date": "2022-04-24", "url": "https://newhitsingles.com/?p=251712"},
+      {"publication": "EDMTunes (Gabriel Krongold) - interview", "date": "2022-08-29", "url": "https://www.edmtunes.com/?p=322250"}
+    ],
+    "image_sources": [
+      {"url": "https://thefader.com/2022/04/24/matoma-coachella-ukraine-billboards", "credit": "Second image uncredited (lead image is Monica Schipper/Getty of Matoma, not the board)", "photo_type": "unknown"}
+    ],
+    "confidence": "high",
+    "notes": "Number of boards not stated ('a number of billboards')."
+  },
+  {
+    "year": 2022,
+    "entry_type": "artist_promo",
+    "artist": "FINNEAS",
+    "title": "'Naked' pun board",
+    "what_it_showed": "Described only as 'a pun on Finneas' song \"Naked\"'. No verbatim text found.",
+    "location": "Not stated (article context: I-10).",
+    "promoted": "His Sunday Coachella 2022 set; single 'Naked' was released March 25, 2022.",
+    "aftermath": "Not reported.",
+    "sources": [
+      {"publication": "Gen Admission - 'Top 5 Most Unhinged Coachella Billboards of All Time' (Fran Papageorgiou)", "date": "2024-04-14", "url": "https://www.genadmission.org/articles/coachella-billboards"}
+    ],
+    "image_sources": [
+      {"url": "https://www.genadmission.org/articles/coachella-billboards", "credit": "@pigsandplans on Instagram", "photo_type": "media/social"}
+    ],
+    "confidence": "low",
+    "notes": "Single small-blog source; year 2022 is per that list. Needs the original Pigeons & Planes post to confirm text."
+  }
+]

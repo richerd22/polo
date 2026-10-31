@@ -1,0 +1,207 @@
+[
+  {
+    "year": 2014,
+    "year_note": "Inferred. A DASH TWO post dated January 20, 2015 calls it 'their billboard from last year'. No source names the festival year directly.",
+    "artist": "Miami Horror",
+    "title": "Miami Horror Coachella billboard (band photo)",
+    "what_it_showed": "Not described. The only detail is a caption: 'Up top a pic of Miami Horror standing proudly in front of their billboard from last year'.",
+    "where": "Not stated. The post discusses the LA-to-Empire Polo Field drive in general terms only.",
+    "promoted": "Not stated. Presumably the band's Coachella appearance, but no source says so.",
+    "aftermath": null,
+    "placed_by": "DASH TWO (LA out-of-home agency), per its own blog",
+    "sources": [
+      {"publication": "DASH TWO blog (agency's own site)", "date": "2015-01-20", "url": "https://dashtwo.com/blog/coachella-billboard-advertising/"}
+    ],
+    "image_sources": [
+      {"url": "https://dashtwo.com/wp-content/uploads/2019/06/Miami-Horror-Coachella.jpg", "page": "https://dashtwo.com/blog/coachella-billboard-advertising/", "credit": "None stated (DASH TWO page metadata image)", "photo_type": "agency/promotional photo (band posing in front of board)", "note": "Image appears only as the page's Open Graph image, not in the body. Not viewed."}
+    ],
+    "confidence": "low",
+    "confidence_note": "Agency self-promotion only, and the year is inferred."
+  },
+  {
+    "year": 2016,
+    "artist": "BØRNS",
+    "title": "BØRNS shimmering 'eye catcher' billboard",
+    "what_it_showed": "Not quoted. HITS describes a billboard that 'sparkles'/shimmers when the wind blows.",
+    "where": "Not stated. DASH TWO lists it among the boards 'you'll be seeing on way' to Coachella 2016.",
+    "promoted": "Teased BØRNS ahead of his Coachella 2016 set.",
+    "aftermath": null,
+    "placed_by": "Interscope Records with DASH TWO",
+    "sources": [
+      {"publication": "DASH TWO blog, 'Dash Two Coachella 2016 Billboard Trail' (Rodolfo Queiroz)", "date": "2016-04-15", "url": "https://dashtwo.com/blog/dash-two-coachella-2016-billboard-trail/"},
+      {"publication": "HITS Daily Double, 'GLITTER ROCK'", "date": "undated on page (context indicates April 2016)", "url": "https://www.hitsdailydouble.com/news&id=300681&title+GLITTER-ROCK"}
+    ],
+    "image_sources": [],
+    "confidence": "medium",
+    "confidence_note": "Two sources, but HITS points readers to the DASH TWO campaign, so they are not fully independent. The HITS item has no visible date."
+  },
+  {
+    "year": 2016,
+    "artist": "AlunaGeorge",
+    "title": "AlunaGeorge Coachella 2016 billboard",
+    "what_it_showed": "Not described in text. A photo is on the page.",
+    "where": "Not stated. Listed among boards on the way to Coachella 2016.",
+    "promoted": "Not stated. AlunaGeorge played Coachella 2016.",
+    "aftermath": null,
+    "placed_by": "DASH TWO campaign (an Interscope client per the post's author bio; the post does not tie this specific board to a label)",
+    "sources": [
+      {"publication": "DASH TWO blog, 'Dash Two Coachella 2016 Billboard Trail'", "date": "2016-04-15", "url": "https://dashtwo.com/blog/dash-two-coachella-2016-billboard-trail/"}
+    ],
+    "image_sources": [
+      {"url": "https://dashtwo.com/wp-content/uploads/2019/06/Coachella-AlunaGeorge-Billboard.jpg", "page": "https://dashtwo.com/blog/dash-two-coachella-2016-billboard-trail/", "credit": "None stated (DASH TWO)", "photo_type": "agency/official photo"}
+    ],
+    "confidence": "medium",
+    "confidence_note": "One source, the placing agency's own blog."
+  },
+  {
+    "year": 2016,
+    "artist": "Anohni",
+    "title": "Anohni Coachella 2016 billboard",
+    "what_it_showed": "Not described in text. A photo is on the page.",
+    "where": "Not stated. Listed among boards on the way to Coachella 2016.",
+    "promoted": "Not stated. Anohni played Coachella 2016; her album 'Hopelessness' came out May 2016 (general knowledge, not from this source).",
+    "aftermath": null,
+    "placed_by": "DASH TWO campaign",
+    "sources": [
+      {"publication": "DASH TWO blog, 'Dash Two Coachella 2016 Billboard Trail'", "date": "2016-04-15", "url": "https://dashtwo.com/blog/dash-two-coachella-2016-billboard-trail/"}
+    ],
+    "image_sources": [
+      {"url": "https://dashtwo.com/wp-content/uploads/2019/06/Coachella-Anohni-Billboard.jpg", "page": "https://dashtwo.com/blog/dash-two-coachella-2016-billboard-trail/", "credit": "None stated (DASH TWO)", "photo_type": "agency/official photo"}
+    ],
+    "confidence": "medium",
+    "confidence_note": "One source, the placing agency's own blog."
+  },
+  {
+    "year": 2016,
+    "artist": "Flume",
+    "title": "Flume Coachella 2016 billboard",
+    "what_it_showed": "Not described in text. A photo is on the page.",
+    "where": "Not stated. Listed among boards on the way to Coachella 2016.",
+    "promoted": "Not stated. Flume played Coachella 2016; 'Skin' was released May 2016 (general knowledge, not from this source).",
+    "aftermath": null,
+    "placed_by": "DASH TWO campaign",
+    "sources": [
+      {"publication": "DASH TWO blog, 'Dash Two Coachella 2016 Billboard Trail'", "date": "2016-04-15", "url": "https://dashtwo.com/blog/dash-two-coachella-2016-billboard-trail/"}
+    ],
+    "image_sources": [
+      {"url": "https://dashtwo.com/wp-content/uploads/2019/06/Coachella-Flume-Billboard.jpg", "page": "https://dashtwo.com/blog/dash-two-coachella-2016-billboard-trail/", "credit": "None stated (DASH TWO)", "photo_type": "agency/official photo"}
+    ],
+    "confidence": "medium",
+    "confidence_note": "One source, the placing agency's own blog."
+  },
+  {
+    "year": 2016,
+    "artist": "Baauer",
+    "title": "Baauer Coachella 2016 billboard",
+    "what_it_showed": "Not described.",
+    "where": "Not stated. Listed among boards on the way to Coachella 2016.",
+    "promoted": "Not stated. Baauer played Coachella 2016; 'Aa' was released March 2016 (general knowledge, not from this source).",
+    "aftermath": null,
+    "placed_by": "DASH TWO campaign",
+    "sources": [
+      {"publication": "DASH TWO blog, 'Dash Two Coachella 2016 Billboard Trail'", "date": "2016-04-15", "url": "https://dashtwo.com/blog/dash-two-coachella-2016-billboard-trail/"}
+    ],
+    "image_sources": [
+      {"url": "https://dashtwo.com/blog/dash-two-coachella-2016-billboard-trail/", "credit": "None stated", "photo_type": "agency/official photo", "note": "Image is referenced only in page metadata; direct file URL not confirmed."}
+    ],
+    "confidence": "low",
+    "confidence_note": "Named once in the agency post, no image confirmed in the body."
+  },
+  {
+    "year": 2017,
+    "artist": "Kendrick Lamar",
+    "title": "'DAMN.' billboard on the road to Coachella",
+    "what_it_showed": "Not described. The post includes a time-lapse of the install.",
+    "where": "'Roadside' on the way to Coachella. No road or town given.",
+    "promoted": "The album 'DAMN.' (released April 14, 2017, the first day of Coachella weekend one). Kendrick headlined and played 'DAMN.' material at Coachella 2017.",
+    "aftermath": "'DAMN.' debuted at No. 1 on the Billboard 200 (Stereogum, April 2017).",
+    "placed_by": "DASH TWO (installer per its blog)",
+    "sources": [
+      {"publication": "DASH TWO blog, 'Outdoor Advertising Campaigns Time Lapse Videos' (Rodolfo Queiroz)", "date": "2017-06-07", "url": "https://dashtwo.com/blog/outdoor-advertising-campaigns-time-lapse/"},
+      {"publication": "Stereogum (album chart debut, context only; does not mention the billboard)", "date": "2017-04", "url": "https://stereogum.com/1936737/kendrick-lamar-earns-third-1-album-with-biggest-debut-of-2017/news"}
+    ],
+    "image_sources": [
+      {"url": "https://dashtwo.com/blog/outdoor-advertising-campaigns-time-lapse/", "credit": "DASH TWO", "photo_type": "agency/official time-lapse video", "note": "No direct still or video URL extracted."}
+    ],
+    "confidence": "medium",
+    "confidence_note": "One source for the billboard itself, the installing agency's own blog. No press coverage found."
+  },
+  {
+    "year": 2017,
+    "artist": "Lady Gaga",
+    "title": "Lady Gaga Coachella 2017 billboard",
+    "what_it_showed": "Not described. The time-lapse is titled 'Coachella 2017 Billboard' and notes it went up in windy conditions.",
+    "where": "Near Coachella. No road given.",
+    "promoted": "Lady Gaga's Coachella 2017 headline sets (she replaced Beyoncé). She debuted the single 'The Cure' at the festival (Time, Washington Blade, April 2017).",
+    "aftermath": "'The Cure' was released April 16, 2017, during her weekend-one set.",
+    "placed_by": "DASH TWO",
+    "sources": [
+      {"publication": "DASH TWO blog, 'Outdoor Advertising Campaigns Time Lapse Videos'", "date": "2017-06-07", "url": "https://dashtwo.com/blog/outdoor-advertising-campaigns-time-lapse/"},
+      {"publication": "Washington Blade (single debut, context only; does not mention the billboard)", "date": "2017-04-17", "url": "https://www.washingtonblade.com/2017/04/17/lady-gaga-premieres-new-song-cure-coachella/"}
+    ],
+    "image_sources": [
+      {"url": "https://dashtwo.com/blog/outdoor-advertising-campaigns-time-lapse/", "credit": "DASH TWO", "photo_type": "agency/official time-lapse video", "note": "No direct still extracted."}
+    ],
+    "confidence": "medium",
+    "confidence_note": "One source, the agency's own blog."
+  },
+  {
+    "year": 2017,
+    "artist": "Lady Gaga",
+    "title": "Lady Gaga wall mural at an Indio liquor store (wallscape, not a billboard)",
+    "what_it_showed": "A Lady Gaga mural. Design and text are not described.",
+    "where": "Exterior wall of K&A Market and Yunes Laundromat (owner Salah Alwishah) in Indio, described as near the Coachella route. No street address is given.",
+    "promoted": "Lady Gaga's Coachella 2017 performance for Interscope Records. It drove a giveaway of 250 free limited-edition t-shirts.",
+    "aftermath": null,
+    "placed_by": "DASH TWO for Interscope Records",
+    "sources": [
+      {"publication": "DASH TWO case study 'Lady Gaga Coachella Wall Mural' (page dated 2024, campaign 2017)", "date": "2024 (page); campaign April 2017", "url": "https://dashtwo.com/casestudy/lady-gaga/"},
+      {"publication": "DASH TWO blog 'Lady Gaga Coachella mural'", "date": "not extracted", "url": "https://dashtwo.com/blog/lady-gaga-coachella-mural/"}
+    ],
+    "image_sources": [
+      {"url": "https://dashtwo.com/wp-content/uploads/2018/03/Lady-Gaga.jpg", "page": "https://dashtwo.com/casestudy/lady-gaga/", "credit": "None stated (DASH TWO)", "photo_type": "agency/official photo"},
+      {"url": "https://dashtwo.com/wp-content/uploads/2020/03/Whatisawallscape_Lady-Gaga.jpg", "page": "https://dashtwo.com/casestudy/lady-gaga/", "credit": "None stated (DASH TWO)", "photo_type": "agency/official photo"}
+    ],
+    "confidence": "medium",
+    "confidence_note": "Agency sources only. It is a mural, not a billboard, so drop it if the archive is strictly billboards."
+  },
+  {
+    "year": "2017 or earlier (not stated)",
+    "artist": "Interscope Records (label)",
+    "title": "Interscope 'mileage' billboard for fans leaving Coachella",
+    "what_it_showed": "A mileage-style sign showing the distance to Interscope's offices. Exact text is not given.",
+    "where": "Facing fans returning home from Coachella. No road or direction given.",
+    "promoted": "The label itself.",
+    "aftermath": null,
+    "placed_by": "DASH TWO",
+    "sources": [
+      {"publication": "DASH TWO blog, 'Outdoor Advertising Campaigns Time Lapse Videos'", "date": "2017-06-07", "url": "https://dashtwo.com/blog/outdoor-advertising-campaigns-time-lapse/"}
+    ],
+    "image_sources": [],
+    "confidence": "low",
+    "confidence_note": "One agency mention with no year. The 2017 post date gives an upper bound only."
+  },
+  {
+    "year": 2017,
+    "artist": "Jennifer Bolande (Desert X art installation, not an artist promo)",
+    "title": "'Visible Distance / Second Sight' landscape billboards",
+    "what_it_showed": "No ad copy. Each billboard showed a photograph of the landscape it blocks, which lines up with the horizon as you approach.",
+    "where": "Gene Autry Trail in Palm Springs, at the Gene Autry Trail exit off the I-10 (LAist), on both northbound and southbound sides (Daily Bruin). Desert X gives Gene Autry Trail at Vista Chino (33.844917, -116.505839) and says to drive north from Vista Chino or south from the 10. Conflict: a Daily Bruin correction says the boards were not on Vista Chino; the Desert X archive uses Vista Chino as its reference point.",
+    "promoted": "Desert X 2017 (February 25 - April 30, 2017), which overlapped Coachella 2017.",
+    "aftermath": "Removed after Desert X closed. Count conflict: the Daily Bruin first says six billboards, then says she planned six double-sided boards and ended up with three because of complications with Lamar Advertising.",
+    "placed_by": "Desert X / Lamar Advertising inventory",
+    "sources": [
+      {"publication": "LAist (Annie Lloyd)", "date": "2017-03-19", "url": "https://laist.com/news/entertainment/check-out-these-uncanny-desert-x-bi"},
+      {"publication": "Daily Bruin, 'UCLA professor's billboard art piece frames road to Coachella'", "date": "2017-04-19", "url": "https://dailybruin.com/2017/04/19/ucla-professors-billboard-art-piece-frames-road-to-coachella/"},
+      {"publication": "Desert X archive", "date": "undated", "url": "https://desertx.org/dx/archive/visible-distance-second-sight"},
+      {"publication": "Viewpoint Vancouver (via Twisted Sifter)", "date": "2017-03-20", "url": "https://viewpointvancouver.ca/2017/03/20/public-art-trumps-billboards-in-coachella-valley/"}
+    ],
+    "image_sources": [
+      {"url": "https://desertx.org/dx/archive/visible-distance-second-sight", "credit": "Lance Gerber (per Desert X)", "photo_type": "official/press photo"},
+      {"url": "https://dailybruin.com/2017/04/19/ucla-professors-billboard-art-piece-frames-road-to-coachella/", "credit": "Lance Gerber (billboard photo); Kristie-Valerie Hoang/Daily Bruin (feature image)", "photo_type": "press photo / news photo"},
+      {"url": "https://mymodernmet.com/jennifer-bolande-desert-billboards", "credit": "not checked", "photo_type": "press photo (likely Lance Gerber)"}
+    ],
+    "confidence": "high",
+    "confidence_note": "Several independent outlets. It is a public art piece on Coachella approach roads, not a promo, so tag or drop it according to the archive's scope."
+  }
+]
