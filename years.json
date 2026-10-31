@@ -1,0 +1,689 @@
+[
+  {
+    "year": 1993,
+    "dates": "Nov 5, 1993",
+    "days": 1,
+    "weekends": 0,
+    "headliners": ["Pearl Jam"],
+    "attendance": "about 25,000",
+    "capacity": null,
+    "ga_price": null,
+    "vip_price": null,
+    "gross": null,
+    "moments": [
+      "Prologue: during the Vs. Tour, Pearl Jam refused to play Los Angeles because of their dispute with Ticketmaster over service charges. They played the Empire Polo Club in Indio instead, for almost 25,000 people.",
+      "Paul Tollett, whose Goldenvoice booked the date, has said this show planted the seed for the festival."
+    ],
+    "firsts": ["First large concert at the Empire Polo Club"],
+    "sources": [
+      {"publication": "Los Angeles Times (Steve Hochman, 'Pearl Jam Blossoms in Desert', p. F3), via Wikipedia 'Coachella' footnote", "url": "https://en.wikipedia.org/wiki/Coachella", "date": "1993-11-08"}
+    ],
+    "notes": "Not a Coachella edition. The LA Times original was not fetched; the attendance figure is from its Wikipedia citation."
+  },
+  {
+    "year": 1999,
+    "dates": "Oct 9-10, 1999",
+    "days": 2,
+    "weekends": 1,
+    "headliners": ["Beck", "Tool", "Rage Against the Machine"],
+    "attendance": "roughly 17,000-20,000 per day (Ringer); Wikipedia: ~17,000 day one + ~20,000 day two = ~37,000",
+    "capacity": "Goldenvoice hoped for roughly double the actual turnout (Ringer: 'about half of what Goldenvoice had hoped')",
+    "ga_price": "$50 per day plus fees",
+    "vip_price": null,
+    "gross": "Not reported. Tollett put the loss at 'around a million dollars' (Ringer); GRAMMY.com gives $850,000",
+    "moments": [
+      "Ran in October heat over 100 degrees. Kid Koala said his vinyl melted mid-set.",
+      "Lost money badly. Tom Morello says the festival asked Rage for its fee back; Far Out reports they returned half.",
+      "Undercard included the Chemical Brothers, Moby, Morrissey, Underworld, DJ Shadow, A Perfect Circle and Jurassic 5. Ninja Tune supplied nine acts."
+    ],
+    "firsts": ["First Coachella Valley Music and Arts Festival", "Empire Polo Club as the festival site"],
+    "sources": [
+      {"publication": "The Ringer (Rob Harvilla)", "url": "https://www.theringer.com/music/2019/10/9/20905896/how-coachella-99-lost-a-million-dollars-started-music-festival-empire", "date": "2019-10-09"},
+      {"publication": "GRAMMY.com (Nina Frazier)", "url": "https://www.grammy.com/news/first-coachella-valley-music-festival-1999", "date": "2024-10-09"},
+      {"publication": "Wikipedia 'Coachella' (index)", "url": "https://en.wikipedia.org/wiki/Coachella", "date": "accessed 2026-10-31"}
+    ],
+    "notes": "Wikipedia says Pollstar named it festival of the year; not independently verified."
+  },
+  {
+    "year": 2000,
+    "dates": "Not held (tentative October 2000 dates cancelled)",
+    "days": 0,
+    "weekends": 0,
+    "headliners": [],
+    "attendance": null,
+    "capacity": null,
+    "ga_price": null,
+    "vip_price": null,
+    "gross": null,
+    "moments": [
+      "Skipped after the 1999 losses. Per Wikipedia, Tollett blamed oversaturation of Southern California festivals.",
+      "Goldenvoice instead co-staged Pasquale Rotella's Nocturnal Wonderland at the Empire Polo Club in September 2000."
+    ],
+    "firsts": [],
+    "sources": [
+      {"publication": "The Ringer (Rob Harvilla)", "url": "https://www.theringer.com/music/2019/10/9/20905896/how-coachella-99-lost-a-million-dollars-started-music-festival-empire", "date": "2019-10-09"},
+      {"publication": "Wikipedia 'Coachella'", "url": "https://en.wikipedia.org/wiki/Coachella", "date": "accessed 2026-10-31"}
+    ],
+    "notes": "The oversaturation reason and the Nocturnal Wonderland swap come only from Wikipedia. The Ringer says only that the loss meant it 'did not return in 2000 at all'."
+  },
+  {
+    "year": 2001,
+    "dates": "Apr 28, 2001",
+    "days": 1,
+    "weekends": 1,
+    "headliners": ["Jane's Addiction"],
+    "attendance": "about 35,000 (Daily Bruin); Wikipedia gives 32,000",
+    "capacity": null,
+    "ga_price": "$65 (Wikipedia)",
+    "vip_price": null,
+    "gross": null,
+    "moments": [
+      "Moved to spring and cut to one day. Jane's Addiction headlined, with Perry Farrell in a white jumpsuit and fedora.",
+      "Rest of the bill: Weezer, The Roots, Mos Def, Fatboy Slim (closing with a 90-minute set), Paul Oakenfold, the Chemical Brothers (who covered 'Iron Man'), and Sigur Ros (their first Southern California show).",
+      "In March 2001 Tollett agreed to sell Goldenvoice to AEG, reportedly for $7 million."
+    ],
+    "firsts": ["First spring (April) edition", "First edition under AEG ownership of Goldenvoice"],
+    "sources": [
+      {"publication": "Daily Bruin (Ruvin Spivak)", "url": "https://dailybruin.com/2001/04/30/music-tracks-field/", "date": "2001-04-30"},
+      {"publication": "Jane's Addiction official tour archive", "url": "https://janesaddiction.org/tour/show/janes-addiction/2001-04-28/29/", "date": "n.d."},
+      {"publication": "The Ringer", "url": "https://www.theringer.com/music/2019/10/9/20905896/how-coachella-99-lost-a-million-dollars-started-music-festival-empire", "date": "2019-10-09"}
+    ],
+    "notes": "The $65 price and the $7M AEG sale figure come via Wikipedia footnotes."
+  },
+  {
+    "year": 2002,
+    "dates": "Apr 27-28, 2002",
+    "days": 2,
+    "weekends": 1,
+    "headliners": ["Bjork", "Oasis", "Siouxsie and the Banshees (reunion, per Wikipedia)"],
+    "attendance": "55,000 (Wikipedia)",
+    "capacity": null,
+    "ga_price": null,
+    "vip_price": null,
+    "gross": null,
+    "moments": [
+      "Bjork drew one of the day's biggest crowds and came back for the encore wearing a large green shell on her dress.",
+      "The Chemical Brothers closed Saturday, and Oasis played Sunday.",
+      "The Sahara tent already had a laser show projected onto circular screens."
+    ],
+    "firsts": ["Back to two days", "Queens of the Stone Age called the first local Coachella Valley band to play (Wikipedia)"],
+    "sources": [
+      {"publication": "Daily Bruin (Mary Williams)", "url": "https://dailybruin.com/2002/04/28/coachella-rocks-out-festival-g/", "date": "2002-04-28"},
+      {"publication": "Wikipedia 'Coachella'", "url": "https://en.wikipedia.org/wiki/Coachella", "date": "accessed 2026-10-31"}
+    ],
+    "notes": "Attendance and the Siouxsie reunion billing are from Wikipedia only. The Daily Bruin confirms a Sahara tent with lasers by 2002, so the Sahara is not a later addition."
+  },
+  {
+    "year": 2003,
+    "dates": "Apr 26-27, 2003",
+    "days": 2,
+    "weekends": 1,
+    "headliners": ["Beastie Boys", "Red Hot Chili Peppers", "Iggy and the Stooges (reunion)"],
+    "attendance": "around 30,000 per day (Las Vegas Sun); Wikipedia gives 60,000 total",
+    "capacity": null,
+    "ga_price": "$140 two-day pass; $75 per day (Wikipedia)",
+    "vip_price": null,
+    "gross": null,
+    "moments": [
+      "Iggy Pop reunited with Ron and Scott Asheton as the Stooges, their first show together in about 30 years. The Las Vegas Sun ranked it second-best of the weekend.",
+      "MCA gave an anti-war speech during the Beastie Boys' set, weeks after the invasion of Iraq, and the crowd reaction was mixed.",
+      "The White Stripes and Blur also played the main stage. Co-founder Rick Van Santen died that December, aged 41."
+    ],
+    "firsts": ["First on-site camping (Wikipedia: 2,252 sites; OC Weekly calls 2004 'the second year camping was permitted')"],
+    "sources": [
+      {"publication": "Las Vegas Sun (Spencer Patterson)", "url": "https://lasvegassun.com/news/2003/may/02/columnist-spencer-patterson-coachella-a-festival-f/", "date": "2003-05-02"},
+      {"publication": "OC Weekly (Mary Carreon), 'The Evolution of Coachella's Campgrounds'", "url": "https://www.ocweekly.com/?p=88797", "date": "2018-04-20"},
+      {"publication": "Far Out Magazine", "url": "https://faroutmagazine.co.uk/iggy-pop-the-stooges-reunited-after-30-years-coachella/", "date": "n.d."}
+    ],
+    "notes": "The Las Vegas Sun page header shows a 2024 date, but the URL path is 2003/may/02. The 2,252 campsite count is Wikipedia-only."
+  },
+  {
+    "year": 2004,
+    "dates": "May 1-2, 2004",
+    "days": 2,
+    "weekends": 1,
+    "headliners": ["Radiohead", "The Cure"],
+    "attendance": "roughly 100,000 over two days, about 50,000 per day (Las Vegas Sun); Wikipedia gives 110,000",
+    "capacity": "sold out",
+    "ga_price": "$75 per day or $142 for both days",
+    "vip_price": null,
+    "gross": null,
+    "moments": [
+      "The Pixies' reunion was one of the biggest stories of the weekend. Beck and the Flaming Lips also played.",
+      "Radiohead headlined despite fears they would cancel, but booming bass from the second stage bled into their quieter songs.",
+      "Temperatures went above 100 degrees, and Saturday afternoon was described as brutal."
+    ],
+    "firsts": ["First sellout"],
+    "sources": [
+      {"publication": "Las Vegas Sun", "url": "https://lasvegassun.com/news/2004/may/07/columnist-spencer-patterson-audiences-feel-the-hea/", "date": "2004-05-07"},
+      {"publication": "Rolling Stone, 'Flashback: The Pixies Reunite at Coachella in 2004'", "url": "https://www.rollingstone.com/music/music-news/flashback-the-pixies-reunite-at-coachella-in-2004-67628/", "date": "n.d. (not fetched)"},
+      {"publication": "The Ringer", "url": "https://www.theringer.com/music/2019/10/9/20905896/how-coachella-99-lost-a-million-dollars-started-music-festival-empire", "date": "2019-10-09"}
+    ],
+    "notes": "The Pixies were billed below the two headliners, not as a headliner. AEG bought half of Coachella in 2004 (Ringer). Wikipedia says Tollett regrets not adding a third day for Bowie; unverified."
+  },
+  {
+    "year": 2005,
+    "dates": "Apr 30-May 1, 2005",
+    "days": 2,
+    "weekends": 1,
+    "headliners": ["Coldplay", "Nine Inch Nails", "New Order (Sunday closer after NIN, per Rolling Stone)"],
+    "attendance": "about 50,000 per day expected (Las Vegas Sun); Rolling Stone estimated 50,000",
+    "capacity": "not sold out at press time (Las Vegas Sun, Apr 29)",
+    "ga_price": "$81 per day or $152 for two days",
+    "vip_price": null,
+    "gross": null,
+    "moments": [
+      "Arcade Fire played Sunday on the Outdoor Stage. Rolling Stone called the set 'galvanizing' and said it drew a massive crowd.",
+      "Bauhaus reunited for the first time since 1998, with Peter Murphy hanging upside down during 'Bela Lugosi's Dead'. Gang of Four's original lineup played its first North American show since 1981.",
+      "Coldplay's 'Yellow' turned into a crowd singalong."
+    ],
+    "firsts": [],
+    "sources": [
+      {"publication": "Rolling Stone, 'Coldplay, NIN Rock SoCal'", "url": "https://www.rollingstone.com/music/music-news/coldplay-nin-rock-socal-246514/", "date": "n.d. (May 2005)"},
+      {"publication": "Las Vegas Sun (Spencer Patterson)", "url": "https://lasvegassun.com/news/2005/apr/29/columnist-spencer-patterson-coachella-reaches-out-/", "date": "2005-04-29"}
+    ],
+    "notes": "The lineup had 92 acts on five stages. Wikipedia says a Cocteau Twins reunion was cancelled; not checked."
+  },
+  {
+    "year": 2006,
+    "dates": "Apr 29-30, 2006",
+    "days": 2,
+    "weekends": 1,
+    "headliners": ["Depeche Mode", "Tool"],
+    "attendance": "more than 100,000 over two days (Billboard); Wikipedia gives 120,000",
+    "capacity": null,
+    "ga_price": null,
+    "vip_price": null,
+    "gross": "$9 million (Wikipedia table)",
+    "moments": [
+      "Daft Punk debuted the LED pyramid in the Sahara tent on Saturday night. Water & Music describes a tent built for about 10,000 that reportedly held more than 40,000, and says the show set off a live-production 'arms race'.",
+      "Madonna played the Sahara dance tent, came on about 20 minutes late to boos, and did about six songs. Billboard called it a fun novelty but a logistical nightmare.",
+      "Kanye West, Massive Attack (with Liz Fraser), Gnarls Barkley and Scissor Sisters were also on the bill."
+    ],
+    "firsts": ["Daft Punk pyramid live debut"],
+    "sources": [
+      {"publication": "Billboard (Jonathan Cohen, Todd Martens, Brian Cohen reporting)", "url": "https://www.billboard.com/music/music-news/coachella-valley-music-arts-festival-april-29-30-2006-indio-calif-empire-polo-58544", "date": "n.d. (May 2006)"},
+      {"publication": "Water & Music (Kristin Robinson)", "url": "https://www.waterandmusic.com/15-years-ago-daft-punks-coachella-set-helped-spark-an-arms-race-for-live-music-technology", "date": "2021-04-29"}
+    ],
+    "notes": "Ticket price not verified. The 40,000-in-the-tent figure is reported, not documented."
+  },
+  {
+    "year": 2007,
+    "dates": "Apr 27-29, 2007",
+    "days": 3,
+    "weekends": 1,
+    "headliners": ["Bjork", "Red Hot Chili Peppers", "Rage Against the Machine (reunion)"],
+    "attendance": "186,000-187,000 aggregate (Wikipedia); Billboard via Dancing Astronaut gives '62,000 attendees', likely a daily figure",
+    "capacity": "day three sold out instantly (Diffuser)",
+    "ga_price": "$249 three-day; $85 single day (very limited)",
+    "vip_price": null,
+    "gross": "$16.3 million (Wikipedia); 'about $16 million' (Billboard via Dancing Astronaut)",
+    "moments": [
+      "Rage Against the Machine closed Sunday, Apr 29, their first show since splitting in 2000. They opened with 'Testify', and Zack de la Rocha made a political statement during 'Wake Up'.",
+      "OC Weekly reports a riot in the campground after the Rage set, with helicopters and SWAT present. Diffuser reports fires and damaged art installations."
+    ],
+    "firsts": ["First three-day Coachella", "Stagecoach country festival launched on the same grounds (May 2007)"],
+    "sources": [
+      {"publication": "JamBase", "url": "https://www.jambase.com/article/coachella-2007-rage-bjork", "date": "2007-01-22"},
+      {"publication": "Diffuser (Michael Christopher)", "url": "https://diffuser.fm/rage-against-machine-reunion-coachella/", "date": "2017-04-28"},
+      {"publication": "OC Weekly", "url": "https://www.ocweekly.com/?p=88797", "date": "2018-04-20"},
+      {"publication": "Dancing Astronaut (citing Billboard)", "url": "https://dancingastronaut.com/2017/10/coachella-officially-surpasses-festival-franchise-records-2017/", "date": "2017-10"}
+    ],
+    "notes": ""
+  },
+  {
+    "year": 2008,
+    "dates": "Apr 25-27, 2008",
+    "days": 3,
+    "weekends": 1,
+    "headliners": ["Jack Johnson", "Prince", "Roger Waters"],
+    "attendance": "more than 150,000 (CBC); Wikipedia gives 151,666",
+    "capacity": "first non-sellout since 2003 (Wikipedia)",
+    "ga_price": "$269 three-day; camping $55 per person",
+    "vip_price": null,
+    "gross": "$13.8 million (Wikipedia)",
+    "moments": [
+      "Prince headlined Saturday, played past midnight and declared 'From now on, this is Prince's house!' His cover of Radiohead's 'Creep' became the story of the weekend. His team had the fan footage taken down, and he restored it himself in 2015.",
+      "Roger Waters played Dark Side of the Moon. The inflatable pig was let go and floated off into the night."
+    ],
+    "firsts": [],
+    "sources": [
+      {"publication": "CBC News", "url": "https://www.cbc.ca/lite/story/1.753236", "date": "2008-04-28"},
+      {"publication": "JamBase, 'Coachella: Prince Added'", "url": "https://www.jambase.com/article/coachella-prince-added", "date": "2008-04-09"},
+      {"publication": "The Current (MPR, Colleen Cowie)", "url": "https://www.thecurrent.org/feature/2019/01/03/remember-when-prince-ruled-coachella-and-controversially-covered-radiohead-in-2008", "date": "2019-01-03"}
+    ],
+    "notes": "Wikipedia says 2008 lost money because of unsold tickets and high booking fees; not checked against a primary source. Prince's reported fee ($4-5M in listicles) is unverified."
+  },
+  {
+    "year": 2009,
+    "dates": "Apr 17-19, 2009",
+    "days": 3,
+    "weekends": 1,
+    "headliners": ["Paul McCartney", "The Killers", "The Cure"],
+    "attendance": "152,962 aggregate (Wikipedia)",
+    "capacity": null,
+    "ga_price": "$269 three-day (layaway plan offered); $120 single day at the door",
+    "vip_price": null,
+    "gross": "$15,328,863 (Wikipedia)",
+    "moments": [
+      "Paul McCartney opened the festival on Friday with a two-and-a-half-hour set and two encores. Wikipedia says he ran 54 minutes past curfew.",
+      "The Cure's set was cut off after running about 30 minutes past curfew. Leonard Cohen made a rare appearance."
+    ],
+    "firsts": ["First layaway payment plan for passes (per AP description)"],
+    "sources": [
+      {"publication": "Associated Press, via The Washington Times", "url": "https://www.washingtontimes.com/news/2009/apr/18/an-energized-paul-mccartney-opens-coachella-fest/", "date": "2009-04-18"},
+      {"publication": "Pollstar, 'Coachella's Bad Boys' (redirected, not fetched)", "url": "https://news.pollstar.com/2009/04/21/coachellas-bad-boys/", "date": "2009-04-21"}
+    ],
+    "notes": "The curfew overrun figures are from Wikipedia. It is not confirmed that layaway was a first; the AP only says it was offered."
+  },
+  {
+    "year": 2010,
+    "dates": "Apr 16-18, 2010",
+    "days": 3,
+    "weekends": 1,
+    "headliners": ["Jay-Z", "Muse", "Gorillaz"],
+    "attendance": "about 75,000 per day (UPI); 225,000 aggregate (Wikipedia)",
+    "capacity": "all 75,000 three-day passes sold out in advance (BizBash)",
+    "ga_price": "$269, three-day passes only",
+    "vip_price": "Safari tent camping package $5,000",
+    "gross": "$21,703,500 (Wikipedia)",
+    "moments": [
+      "Overcrowding: LA Weekly reported gate-crashing, fistfights and 'near-riot' conditions at the gates on Friday, counterfeit tickets, three-hour entry waits, and a near-crush at an exit on Sunday. Tollett said in 2011: 'The mistakes were in the planning.'",
+      "The Eyjafjallajokull volcanic ash cloud stranded seven acts in England.",
+      "Jay-Z brought out Beyonce as a surprise guest."
+    ],
+    "firsts": ["First year selling three-day passes only, on nontransferable wristbands (BizBash)", "Ferris wheel on site by this year (BizBash)", "Webcast of individual sets (CBS/CNET; the full YouTube multistage stream came in 2011)"],
+    "sources": [
+      {"publication": "UPI", "url": "https://www.upi.com/Entertainment_News/Music/2010/04/18/Coachella-Fest-draws-record-crowds/UPI-65451271610186/", "date": "2010-04-18"},
+      {"publication": "LA Weekly (Dennis Romero)", "url": "https://www.laweekly.com/five-ways-organizers-can-make-coachella-a-better-experience/", "date": "2010-04-20"},
+      {"publication": "BizBash (Alesandra Dubin)", "url": "https://www.bizbash.com/event-production-planning/coachella-sells-out-with-three-day-passes-towering-ferris-wheel-and-upgraded-camping", "date": "2010-04-19"},
+      {"publication": "Las Vegas Sun, 'After rough 2010, Coachella tries to iron itself out'", "url": "https://m.lasvegassun.com/news/2011/apr/13/after-rough-2010-coachella-tries-iron-itself-out/", "date": "2011-04-13"}
+    ],
+    "notes": "'The crush' was overcrowding and gate-crashing. No mass-casualty crowd crush was reported. UPI counted 69 arrests over the weekend."
+  },
+  {
+    "year": 2011,
+    "dates": "Apr 15-17, 2011",
+    "days": 3,
+    "weekends": 1,
+    "headliners": ["Kings of Leon", "Arcade Fire", "Kanye West"],
+    "attendance": "225,000 aggregate, 75,000 paid per day (Wikipedia); Tollett would not announce capacity in advance",
+    "capacity": "sold out within a week",
+    "ga_price": "$269 three-day plus fees (resale at $400 and up)",
+    "vip_price": null,
+    "gross": "$24,993,698 (Wikipedia)",
+    "moments": [
+      "Fixes after 2010: a wrought-iron perimeter fence, an extra road lane partly funded by Goldenvoice, and an end to the ticket-for-wristband exchange.",
+      "YouTube streamed three stages on separate channels, about 61 bands with Wrigley as sponsor, and nearly 4 million people watched.",
+      "On May 31, 2011, Goldenvoice announced a second identical weekend for 2012."
+    ],
+    "firsts": ["First full YouTube livestream", "Permanent perimeter fence"],
+    "sources": [
+      {"publication": "Las Vegas Sun", "url": "https://m.lasvegassun.com/news/2011/apr/13/after-rough-2010-coachella-tries-iron-itself-out/", "date": "2011-04-13"},
+      {"publication": "CBS News / CNET (Daniel Terdiman)", "url": "https://www.cbsnews.com/news/how-the-coachella-webcast-changed-the-music-biz/", "date": "2011-04-20"},
+      {"publication": "The Boombox (Charley Rogulewski)", "url": "https://theboombox.com/coachella-founder-explains-back-to-back-weekends-in-2012/", "date": "2011-06-05"}
+    ],
+    "notes": "The Strokes were also top-billed. Wikipedia lists 'Kanye West / The Strokes'."
+  },
+  {
+    "year": 2012,
+    "dates": "Apr 13-15 and Apr 20-22, 2012",
+    "days": 6,
+    "weekends": 2,
+    "headliners": ["The Black Keys", "Radiohead", "Dr. Dre and Snoop Dogg"],
+    "attendance": "158,387 paid across both weekends (80,726 + 77,661) (Wikipedia, Billboard Boxscore footnote)",
+    "capacity": "W1 sold out in about 40 minutes, W2 about two hours later (mxdwn)",
+    "ga_price": "$285 per weekend plus service charge",
+    "vip_price": "$665 upgrade",
+    "gross": "$47,313,403 (Wikipedia, Billboard Boxscore)",
+    "moments": [
+      "The Tupac 'hologram' during Dr. Dre and Snoop Dogg's set on Apr 15: a Pepper's ghost projection on Mylar. Digital Domain built it, AV Concepts staged it, and it was Dre's idea.",
+      "First year with two weekends. Tollett preferred cloning the festival to adding about 40,000 people a day."
+    ],
+    "firsts": ["First two-weekend year"],
+    "sources": [
+      {"publication": "IBTimes (Peggy Truong)", "url": "https://www.ibtimes.com/coachella-2012-five-things-know-you-go-393668", "date": "2012-01-10"},
+      {"publication": "mxdwn (Maggie Tuesday Reynolds)", "url": "https://music.mxdwn.com/2012/01/13/news/coachella-2012-sells-out-both-weekends-within-hours-opening-ticket-sales/amp/", "date": "2012-01-13"},
+      {"publication": "Andscape (Aaron Dodson)", "url": "https://andscape.com/features/the-strange-legacy-of-tupacs-hologram-after-coachella", "date": "2017-04-14"},
+      {"publication": "The Boombox", "url": "https://theboombox.com/coachella-founder-explains-back-to-back-weekends-in-2012/", "date": "2011-06-05"}
+    ],
+    "notes": "This corrects an implied $315 GA (from Wikipedia's '$349, up $34'): the advertised 2012 price was $285 plus fees. Dancing Astronaut notes that 2013 prices no longer carried the extra service charges, which may explain the gap. The 2012 gross was not seen directly in a Billboard source."
+  },
+  {
+    "year": 2013,
+    "dates": "Apr 12-14 and Apr 19-21, 2013",
+    "days": 6,
+    "weekends": 2,
+    "headliners": ["Blur", "The Stone Roses", "Phoenix", "Red Hot Chili Peppers"],
+    "attendance": "180,000 (Wikipedia)",
+    "capacity": null,
+    "ga_price": "$349",
+    "vip_price": "$799",
+    "gross": "$67.2 million (Billboard, via SPIN / Dancing Astronaut)",
+    "moments": [
+      "Poetic Kinetics' giant snail installation (Wikipedia).",
+      "Indio approved a deal keeping the festival there through 2030 and raising the city's per-ticket fee from $2.33 to $5.01 starting in 2014."
+    ],
+    "firsts": ["Yuma tent introduced (Wikipedia)", "Sahara tent expanded (Wikipedia)"],
+    "sources": [
+      {"publication": "Dancing Astronaut", "url": "https://dancingastronaut.com/2012/05/coachella-announces-2013-dates-and-prices-tickets-available-thursday/", "date": "2012-05-14"},
+      {"publication": "SPIN (Colin Joyce)", "url": "https://www.spinmagazine.com/2014/07/coachella-gross-2014-78-million-goldenvoice/", "date": "2014-07-08"},
+      {"publication": "Hypebot (Bruce Houghton)", "url": "https://www.hypebot.com/goldenvoice-signs-deal-to-stage-coachella-stagecoach-in-indio-thru-2030/", "date": "2013-04-05"}
+    ],
+    "notes": "No single defining moment was verified in this pass."
+  },
+  {
+    "year": 2014,
+    "dates": "Apr 11-13 and Apr 18-20, 2014",
+    "days": 6,
+    "weekends": 2,
+    "headliners": ["Outkast", "Muse", "Arcade Fire"],
+    "attendance": "96,500 per day, 579,000 admissions across six days (Billboard via SPIN)",
+    "capacity": "all six days sold out",
+    "ga_price": null,
+    "vip_price": "Wikipedia: VIP over $5,000 (likely a premium package, not standard VIP)",
+    "gross": "$78,332,000 (Billboard via SPIN / Dancing Astronaut), the third straight record year",
+    "moments": [
+      "Outkast reunited for their first shows in about a decade, with Janelle Monae and Future as guests. It was the festival's most-tweeted moment, and Billboard called it 'imperfect'.",
+      "AXS TV broadcast weekend two (Wikipedia). Heineken House debuted."
+    ],
+    "firsts": ["TV broadcast of weekend 2 on AXS TV (Wikipedia)", "Heineken House (Wikipedia)"],
+    "sources": [
+      {"publication": "SPIN (Colin Joyce), citing Billboard", "url": "https://www.spinmagazine.com/2014/07/coachella-gross-2014-78-million-goldenvoice/", "date": "2014-07-08"},
+      {"publication": "Colorlines (Jamilah King)", "url": "https://colorlines.com/articles/outkasts-reunion-features-janelle-monae-gets-mixed-reviews", "date": "2014-04-14"}
+    ],
+    "notes": "Wikipedia calls the 579,000 figure a typo. It is not: it is cumulative daily admissions (96,500 x 6). Unique attendees would be about 193,000."
+  },
+  {
+    "year": 2015,
+    "dates": "Apr 10-12 and Apr 17-19, 2015",
+    "days": 6,
+    "weekends": 2,
+    "headliners": ["AC/DC", "Jack White", "Drake"],
+    "attendance": "198,000 tickets sold (Pollstar)",
+    "capacity": "198,000",
+    "ga_price": "$375 (low end of Pollstar range)",
+    "vip_price": "$899 (high end of Pollstar range)",
+    "gross": "$84,264,264 (Pollstar 2015 year-end top 20 festivals)",
+    "moments": [
+      "On weekend one Sunday, Madonna appeared during Drake's set and kissed him. His visible reaction went viral.",
+      "AC/DC headlined Friday despite online grumbling, and LAist said the whole crowd sang along."
+    ],
+    "firsts": ["SiriusXM broadcast (Wikipedia)"],
+    "sources": [
+      {"publication": "Pollstar 2015 Year End Top 20 Worldwide Festival Grosses (PDF mirror)", "url": "https://flypaper.soundfly.com/wp-content/uploads/2016/01/2015YearEndTop20WorldwideFestivalGrosses.pdf", "date": "2016-01"},
+      {"publication": "LAist / KPCC The Frame", "url": "https://laist.com/shows/the-frame/coachella-2015-madonna-kisses-drake-ac-dcs-still-got-it", "date": "2015-04-13"}
+    ],
+    "notes": "The PDF is a third-party mirror of the Pollstar chart."
+  },
+  {
+    "year": 2016,
+    "dates": "Apr 15-17 and Apr 22-24, 2016",
+    "days": 6,
+    "weekends": 2,
+    "headliners": ["LCD Soundsystem", "Guns N' Roses", "Calvin Harris"],
+    "attendance": "198,000 tickets sold (Pollstar)",
+    "capacity": "100% sold. In March 2016 Indio raised the daily cap from 99,000 to 125,000, effective the following year (Wikipedia)",
+    "ga_price": "$399 (low end of Pollstar range)",
+    "vip_price": "$899 (high end of Pollstar range)",
+    "gross": "$94,218,000 (Pollstar 2016 year-end; the chart misprints it as '$94,218,0000')",
+    "moments": [
+      "Guns N' Roses with Slash and Duff McKagan: Axl Rose had broken his foot and performed seated on a guitar-studded throne built by Dave Grohl. He brought out Angus Young the day his move to AC/DC as frontman was announced.",
+      "Weekend two included tributes to Prince, who died Apr 21, 2016 (Wikipedia)."
+    ],
+    "firsts": ["Despacio tent (Wikipedia)", "Same year Goldenvoice staged Desert Trip on the grounds in October ($160.1M gross)"],
+    "sources": [
+      {"publication": "Pollstar 2016 Year End Top 20 Worldwide Festival Grosses (PDF)", "url": "https://data.pollstar.com/chart/2017/01/2016YearEndTop20WorldwideFestivalGrosses_347.pdf", "date": "2017-01"},
+      {"publication": "VICE (Jeff Weiss)", "url": "https://www.vice.com/en/article/guns-n-roses-coachella-2016-reunion-review", "date": "2016-04-17"}
+    ],
+    "notes": "Wikipedia also lists an N.W.A reunion with Ice Cube on weekend one; not verified here."
+  },
+  {
+    "year": 2017,
+    "dates": "Apr 14-16 and Apr 21-23, 2017",
+    "days": 6,
+    "weekends": 2,
+    "headliners": ["Radiohead", "Lady Gaga (replacing Beyonce)", "Kendrick Lamar"],
+    "attendance": "250,000 (Pollstar)",
+    "capacity": "250,000, 100% sold",
+    "ga_price": "$399 (low end of Pollstar range)",
+    "vip_price": "$899 (high end of Pollstar range)",
+    "gross": "$114,593,000 (Pollstar). The first recurring festival to gross over $100M (Billboard via Dancing Astronaut)",
+    "moments": [
+      "Beyonce withdrew on doctors' advice during her pregnancy, and Lady Gaga took the Saturday slot.",
+      "Radiohead's Friday weekend-one set lost sound at least four times, starting during 'Ful Stop'. Thom Yorke joked about aliens.",
+      "Tollett told The New Yorker each headliner was paid $3-4M."
+    ],
+    "firsts": ["La Grande XL Ferris wheel debuted, replacing the original La Grande wheel (LA Times)", "Sonora tent and Antarctic dome (Wikipedia)", "First festival over $100M gross"],
+    "sources": [
+      {"publication": "Pollstar 2017 Year End Top 20 Worldwide Festival Grosses (PDF)", "url": "https://data.pollstar.com/chart/2018/01/60-top20worldwidefestivalMoveAd_633.pdf", "date": "2018-01"},
+      {"publication": "Yahoo Entertainment (with ET reporting)", "url": "https://www.yahoo.com/entertainment/radiohead-apos-headlining-coachella-performance-163000962.html", "date": "2017-04-15 (approx.)"},
+      {"publication": "Los Angeles Times (Vanessa Franko), via TNS / Brunswick News", "url": "https://thebrunswicknews.com/what-it-takes-to-build-coachellas-most-recognizable-icon/article_5db60bd2-952f-5237-aa10-37d3278c54e7.html", "date": "2026-04-13"},
+      {"publication": "mxdwn (McKenzie Dillon), relaying The New Yorker", "url": "https://music.mxdwn.com/2017/04/10/news/coachella-founder-paul-tollett-states-2017-headliners-were-each-paid-between-3-4-million/", "date": "2017-04-10"}
+    ],
+    "notes": "Scenes for A Star Is Born were filmed here (Wikipedia; unverified). The Anschutz anti-LGBTQ donations controversy broke in Jan 2017 (The FADER, 2017-01-05)."
+  },
+  {
+    "year": 2018,
+    "dates": "Apr 13-15 and Apr 20-22, 2018",
+    "days": 6,
+    "weekends": 2,
+    "headliners": ["The Weeknd", "Beyonce", "Eminem"],
+    "attendance": "not reported",
+    "capacity": "125,000 per day permitted (Wikipedia, Indio 2016 vote)",
+    "ga_price": "$429 ($504 with shuttle)",
+    "vip_price": "$999",
+    "gross": "not reported",
+    "moments": [
+      "Beychella: Beyonce headlined Saturday, Apr 14 and Apr 21, the first Black woman to headline. The two-hour HBCU-homecoming show had a drumline and marching band, a Destiny's Child reunion, Jay-Z, and Solange. Netflix released Homecoming on Apr 17, 2019.",
+      "40 mph winds kept the weekend-two campgrounds closed until 3 a.m. Friday, and many campers waited in a Walmart parking lot (OC Weekly)."
+    ],
+    "firsts": ["First Black woman headliner", "Record 458,000 concurrent YouTube viewers (Wikipedia)"],
+    "sources": [
+      {"publication": "CBS Los Angeles", "url": "https://www.cbsnews.com/losangeles/news/2018-coachella-tickets-sale/", "date": "2018-01-05"},
+      {"publication": "NPR All Songs Considered", "url": "https://www.npr.org/sections/allsongs/2018/04/15/602635742/beyonc-marks-her-homecoming-at-coachella-2018", "date": "2018-04-15"},
+      {"publication": "GRAMMY.com (Jennifer Velez)", "url": "https://grammy.com/news/beyonce-created-space-celebrate-black-culture-coachella-more-things-homecoming-taught", "date": "2019-04-19"},
+      {"publication": "OC Weekly", "url": "https://www.ocweekly.com/?p=88797", "date": "2018-04-20"}
+    ],
+    "notes": "GRAMMY.com gives 'April 13 and 22', which is wrong: she played the Saturday slots, Apr 14 and Apr 21. Wikipedia reports booking fees around $8M and Teen Vogue harassment reporting; not verified."
+  },
+  {
+    "year": 2019,
+    "dates": "Apr 12-14 and Apr 19-21, 2019",
+    "days": 6,
+    "weekends": 2,
+    "headliners": ["Childish Gambino", "Tame Impala", "Ariana Grande"],
+    "attendance": "not reported",
+    "capacity": null,
+    "ga_price": "$429",
+    "vip_price": "$999",
+    "gross": "not reported",
+    "moments": [
+      "Ariana Grande, at 25, was the youngest headliner and the fourth woman to headline. She reunited four members of NSYNC (not Justin Timberlake), and Diddy, Mase and Nicki Minaj also came out.",
+      "Kanye West was ruled out as a headliner after demanding a custom dome stage (The Guardian, Jan 14, 2019). He held his first public Sunday Service on Easter, Apr 21, in the campgrounds instead.",
+      "Lead rigger Christopher Griffin, 49, died in a fall during setup on Apr 6. Solange cancelled a week before."
+    ],
+    "firsts": ["Both weekends livestreamed on YouTube for the first time (USA Today, 2019-04-08)", "20th edition"],
+    "sources": [
+      {"publication": "IQ Magazine (Anna Grace)", "url": "https://www.iq-mag.net/2019/01/speedy-sell-out-coachella-2019/", "date": "2019-01-07"},
+      {"publication": "AFP (Maggy Donaldson), via The Jakarta Post", "url": "https://www.thejakartapost.com/life/2019/04/16/ariana-grande-youngest-ever-coachella-headliner-reunites-nsync", "date": "2019-04-16"},
+      {"publication": "Wikipedia 'Coachella 2019' (citing The Guardian 2019-01-14, NME 2019-04-01, Desert Sun 2019-04-08, USA Today 2019-04-08)", "url": "https://en.wikipedia.org/wiki/Coachella_2019", "date": "accessed 2026-10-31"}
+    ],
+    "notes": "GA sold out in about 40 minutes and all passes in six hours (IQ). Justin Bieber guested with Ariana on weekend two (widely reported; not fetched)."
+  },
+  {
+    "year": 2020,
+    "dates": "Cancelled (scheduled Apr 10-12 and Apr 17-19; moved to Oct 9-11 and 16-18, then cancelled)",
+    "days": 0,
+    "weekends": 0,
+    "headliners": ["Rage Against the Machine (scheduled)", "Travis Scott (scheduled)", "Frank Ocean (scheduled)"],
+    "attendance": null,
+    "capacity": null,
+    "ga_price": null,
+    "vip_price": null,
+    "gross": null,
+    "moments": [
+      "Postponed to October in March 2020 over COVID-19. Riverside County health officer Dr. Cameron Kaiser cancelled it in June 2020.",
+      "The documentary '20 Years in the Desert' premiered on YouTube on Apr 10, 2020."
+    ],
+    "firsts": ["First cancellation since the skipped 2000"],
+    "sources": [
+      {"publication": "CNN (Chloe Melas, Sandra Gonzalez), via Wikipedia", "url": "https://en.wikipedia.org/wiki/Coachella", "date": "2020-03-10"},
+      {"publication": "ABC7 Los Angeles", "url": "https://abc7.com/entertainment/coachella-stagecoach-ordered-to-cancel-for-2020/6241651/", "date": "2020-06-10"},
+      {"publication": "Pollstar, 'Coachella Releasing Free Documentary On YouTube'", "url": "https://news.pollstar.com/2020/04/06/coachella-releasing-free-documentary-on-youtube/", "date": "2020-04-06"}
+    ],
+    "notes": "The exact October dates were not verified."
+  },
+  {
+    "year": 2021,
+    "dates": "Cancelled (scheduled Apr 9-11 and Apr 16-18)",
+    "days": 0,
+    "weekends": 0,
+    "headliners": [],
+    "attendance": null,
+    "capacity": null,
+    "ga_price": null,
+    "vip_price": null,
+    "gross": null,
+    "moments": [
+      "Cancelled again under California pandemic restrictions. Riverside County's health officer formally cancelled it in January 2021.",
+      "Oct 2021: Goldenvoice signed a new Empire Polo Club lease running to 2050."
+    ],
+    "firsts": [],
+    "sources": [
+      {"publication": "Wikipedia 'Coachella'", "url": "https://en.wikipedia.org/wiki/Coachella", "date": "accessed 2026-10-31"},
+      {"publication": "Dancing Astronaut (Cameron DeFaria)", "url": "https://dancingastronaut.com/2021/10/goldenvoice-inks-new-lease-to-keep-coachella-in-indio-through-2050/", "date": "2021-10-27"}
+    ],
+    "notes": "Find a primary (Desert Sun or LA Times) source for the January 2021 cancellation."
+  },
+  {
+    "year": 2022,
+    "dates": "Apr 15-17 and Apr 22-24, 2022",
+    "days": 6,
+    "weekends": 2,
+    "headliners": ["Harry Styles", "Billie Eilish", "Swedish House Mafia and The Weeknd (replacing Ye)"],
+    "attendance": "not reported. Variety reported that Styles' opening-night crowd topped 100,000",
+    "capacity": null,
+    "ga_price": "$449-$549 before fees (tiered)",
+    "vip_price": "$929 (tier 1) to $1,119 (tier 4) before fees",
+    "gross": "not reported",
+    "moments": [
+      "Ye dropped out about Apr 4, less than two weeks before. Swedish House Mafia and The Weeknd were announced as replacements on Apr 6.",
+      "Harry Styles brought out Shania Twain on weekend one and Lizzo on weekend two.",
+      "First edition after the pandemic. Rage Against the Machine and Travis Scott (removed after Astroworld) were carried over from 2020 and didn't play. 2NE1 reunited, and Brockhampton played their final shows."
+    ],
+    "firsts": ["88rising's 'Head in the Clouds' showcase as the first full-label showcase (Rank Magazine, via Wikipedia)"],
+    "sources": [
+      {"publication": "IBTimes (Sandra Okerulu)", "url": "https://ibtimes.com/coachella-2022-how-much-are-tickets-lineup-features-harry-styles-kanye-west-billie-3375156", "date": "2022-01-13"},
+      {"publication": "Los Angeles Times", "url": "https://www.latimes.com/entertainment-arts/music/story/2022-04-06/coachella-replaces-kanye-west-swedish-house-mafia-the-weeknd", "date": "2022-04-06"},
+      {"publication": "Rolling Stone", "url": "https://www.rollingstone.com/music/music-news/harry-styles-shania-twain-new-songs-coachella-1338556/", "date": "2022-04-16"},
+      {"publication": "Variety, 'Harry Styles' Coachella Crowd Topped 100,000' (via Wikipedia)", "url": "https://en.wikipedia.org/wiki/Coachella", "date": "2022-04-20"}
+    ],
+    "notes": "Billie Eilish (20) would beat Ariana (25) as youngest headliner, but no source confirming the claim was found. Check before publishing."
+  },
+  {
+    "year": 2023,
+    "dates": "Apr 14-16 and Apr 21-23, 2023",
+    "days": 6,
+    "weekends": 2,
+    "headliners": ["Bad Bunny", "BLACKPINK", "Frank Ocean (W1)", "Blink-182 (W2, replacing Ocean)"],
+    "attendance": "not reported",
+    "capacity": "weekend 2 did not sell out, the first time since 2012 (Desert Sun)",
+    "ga_price": "$549 (W2 at sale time; $599 with shuttle)",
+    "vip_price": "$1,069",
+    "gross": "not reported",
+    "moments": [
+      "Bad Bunny opened Friday as the first Latin, Spanish-language headliner. Post Malone joined for 'La Cancion'.",
+      "BLACKPINK became the first Korean or Asian act to headline. All three headliners were nonwhite, a first.",
+      "Frank Ocean started about an hour late after a planned ice-rink show was scrapped, following leg fractures from an on-site injury. He pulled out of weekend two and Blink-182 replaced him. Goldenvoice was fined $133,000 for curfew overruns."
+    ],
+    "firsts": ["First Latin headliner", "First Asian / K-pop headliner", "First all-nonwhite headliner slate", "All six stages livestreamed (TechCrunch 2023-04-03, not fetched)"],
+    "sources": [
+      {"publication": "The FADER (Jordan Darville)", "url": "https://thefader.com/2023/04/15/watch-bad-bunny-headline-coachella-2023", "date": "2023-04-15"},
+      {"publication": "CBS News", "url": "https://www.cbsnews.com/amp/news/coachella-headlined-entirely-nonwhite-artists-first-time-festival-history-bad-bunny-frank-ocean-blackpink", "date": "2023-01-10"},
+      {"publication": "Stereogum (Rachel Brodsky)", "url": "https://stereogum.com/2220996/frank-ocean-pulls-out-of-coachella-weekend-2/news", "date": "2023-04-19"},
+      {"publication": "Desert Sun (Brian Blueskye), via Yahoo", "url": "https://www.yahoo.com/entertainment/coachella-2023-weekend-2-passes-212746165.html", "date": "2023-04-20"}
+    ],
+    "notes": "Wikipedia cites Billboard (2023-04-21) for losses of 'millions' and over $4M on the unused rink. The $4M figure was not seen directly."
+  },
+  {
+    "year": 2024,
+    "dates": "Apr 12-14 and Apr 19-21, 2024",
+    "days": 6,
+    "weekends": 2,
+    "headliners": ["Lana Del Rey", "Tyler, the Creator", "Doja Cat", "No Doubt (reunion, sub-headline)"],
+    "attendance": "Indio counted 81,690 (W1) and 80,148 (W2) tickets (KESQ)",
+    "capacity": "about 80% of 250,000 sold by opening (Billboard)",
+    "ga_price": "$499 / $549 / $599 tiers ($619-$719 with shuttle)",
+    "vip_price": "$1,069-$1,269",
+    "gross": "not reported",
+    "moments": [
+      "The slowest sales in a decade: weekend one took 27 days to sell out, and sales were down 14-17% year over year.",
+      "No Doubt played their first show since 2015, with Olivia Rodrigo as a guest.",
+      "Billie Eilish joined Lana Del Rey for 'Ocean Eyes' and 'Video Games'."
+    ],
+    "firsts": [],
+    "sources": [
+      {"publication": "Billboard (Dave Brooks)", "url": "https://ca.billboard.com/business/touring/coachella-ticket-sales-lower-than-usual-2024-festival-trend-1235655410", "date": "2024-04-12"},
+      {"publication": "UPROXX (Alex Gonzalez)", "url": "https://uproxx.com/music/how-much-are-tickets-for-coachella-2024", "date": "2024-01-16"},
+      {"publication": "KESQ (Jesus Reyes)", "url": "https://kesq.com/news/festival-season/2024/06/13/coachella-stagecoach-sold-around-250k-tickets-for-2024-festivals-city-reports", "date": "2024-06-13"},
+      {"publication": "Wikipedia 'Coachella 2024' (citing People and Billboard 2024-04-14)", "url": "https://en.wikipedia.org/wiki/Coachella_2024", "date": "accessed 2026-10-31"}
+    ],
+    "notes": "Stagecoach 2024 (89,003) outsold each Coachella weekend. The KESQ counts (about 81K per weekend) are far below the 125K daily cap; these may be city-taxed tickets only."
+  },
+  {
+    "year": 2025,
+    "dates": "Apr 11-13 and Apr 18-20, 2025",
+    "days": 6,
+    "weekends": 2,
+    "headliners": ["Lady Gaga", "Green Day", "Post Malone", "Travis Scott (special slot)"],
+    "attendance": "about 120,000 per weekend, about 240,000 total (NBC Palm Springs); Wikipedia gives about 245,000",
+    "capacity": "W1 GA sold out by Dec 2024; W2 widely available, resold below face by April",
+    "ga_price": "$549 at Dec 2024 tier; $649 W1 / $599 W2 by April 2025",
+    "vip_price": "$1,399 W1 / $1,199 W2",
+    "gross": "not reported",
+    "moments": [
+      "Lady Gaga debuted the Mayhem show ('Mayhem in the Desert'), an opera-house set in four acts. She was the second woman to headline twice, after Bjork.",
+      "Green Day's Coachella debut included a 'not part of the MAGA agenda' line. Travis Scott built 'The Village by Cactus Jack'.",
+      "The LA Philharmonic, conducted by Gustavo Dudamel, became the first major orchestra to play (Apr 12)."
+    ],
+    "firsts": ["First major orchestra (LA Phil)", "YouTube dedicated Coachella livestream app (Sherwood News)"],
+    "sources": [
+      {"publication": "Digital Music News (Ashley King)", "url": "https://www.digitalmusicnews.com/2025/04/07/coachella-weekend-2-passes-dropping-below-face-value/", "date": "2025-04-07"},
+      {"publication": "Digital Music News (Ashley King)", "url": "https://www.digitalmusicnews.com/2024/12/02/coachella-ticket-sales-sluggish-weekend-2-widely-available/", "date": "2024-12-02"},
+      {"publication": "BrooklynVegan", "url": "https://www.brooklynvegan.com/lady-gaga-turned-coachella-into-a-demonic-opera-with-debut-mayhem-live-show-review/", "date": "2025-04"},
+      {"publication": "NBC Palm Springs", "url": "https://www.nbcpalmsprings.com/local-and-community/2026/04/13/coachella-and-stagecoach-generate-700-million-boost-indio-economy-and-jobs", "date": "2026-04-13"},
+      {"publication": "Wikipedia 'Coachella 2025' (citing Reuters 2025-04-13, Rolling Stone 2025-04-13)", "url": "https://en.wikipedia.org/wiki/Coachella_2025", "date": "accessed 2026-10-31"}
+    ],
+    "notes": "The Go-Go's played their first show since 2022. Charli XCX brought out Lorde, Billie Eilish and Troye Sivan."
+  },
+  {
+    "year": 2026,
+    "dates": "Apr 10-12 and Apr 17-19, 2026",
+    "days": 6,
+    "weekends": 2,
+    "headliners": ["Sabrina Carpenter", "Justin Bieber", "Karol G", "Anyma (Friday late slot)"],
+    "attendance": "not reported; sold out",
+    "capacity": "GA and VIP for both weekends sold out within about three days of the Sep 2025 on-sale (VICE; Rolling Stone 2025-09-22)",
+    "ga_price": "from $649 (W1) / $549 (W2); $779 / $679 with shuttle",
+    "vip_price": "from $1,299 (W1) / $1,199 (W2)",
+    "gross": "not reported (Latin Post's $220-240M claim is unsourced; do not use)",
+    "moments": [
+      "Justin Bieber's first headline set was reportedly paid 'north of $10 million' (Rolling Stone, via Complex). He played a laptop/YouTube nostalgia segment and a stripped-down B-stage set from Swag, with guests including SZA and Billie Eilish on weekend two.",
+      "Karol G became the first Latina headliner. Madonna joined Sabrina Carpenter on weekend two for the live debut of 'Bring Your Love'.",
+      "The 'bunker': Radiohead's KID A MNESIA Motion Picture House, a roughly 17,000 sq ft underground installation without the band. Wind cancelled Anyma's weekend-one set, and the Strokes closed Apr 18 with visuals condemning strikes on Iran and Gaza."
+    ],
+    "firsts": ["First Latina headliner (Karol G)", "Bini, first Filipino group", "Noga Erez, first Israeli singer", "Permanent-construction underground art venue on the grounds"],
+    "sources": [
+      {"publication": "California Today (Pat Sharyon)", "url": "https://californiatoday.com/guides/entertainment/passes-for-coachella-2026-complete-guide-to-pricing-options-and-add-ons/", "date": "2025-09-16, updated 2026-03-25"},
+      {"publication": "VICE (Lauren Boisvert)", "url": "https://www.vice.com/en/article/both-coachella-2026-weekends-sold-out-just-three-days-after-passes-went-on-sale/", "date": "2025-09-23"},
+      {"publication": "Billboard Canada (Heather Taylor-Singh)", "url": "https://ca.billboard.com/music/concerts/justin-bieber-coachella-recap-2026", "date": "2026-04-13"},
+      {"publication": "Complex (Trace William Cowen), relaying Rolling Stone", "url": "https://www.complex.com/music/a/tracewilliamcowen/justin-bieber-coachella-2026-deal-10-million", "date": "2025-09-17"},
+      {"publication": "Rolling Stone (Maya Georgi, Julyssa Lopez)", "url": "https://www.rollingstone.com/music/music-latin/karol-g-coachella-performance-1235545608/", "date": "2026-04-13"},
+      {"publication": "Stereogum (Chris DeVille)", "url": "https://stereogum.com/2495193/radiohead-are-taking-their-coachella-bunker-art-installation-on-tour/news", "date": "2026-04-08"},
+      {"publication": "Stereogum (Danielle Chelosky)", "url": "https://stereogum.com/2495497/anyma-coachella-set-canceled-due-to-wind/news", "date": "2026-04-11"},
+      {"publication": "The Independent", "url": "https://www.the-independent.com/arts-entertainment/music/news/the-strokes-coachella-set-gaza-trump-video-b2960778.html", "date": "2026-04-20"}
+    ],
+    "notes": "This was the 25th edition. The lineup was announced unusually early, on Sep 15, 2025. In Sep 2026 YouTube extended its livestream deal through 2030, and says the 2026 stream set a concurrent-viewer record but gave no number."
+  }
+]

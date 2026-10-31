@@ -1,0 +1,19 @@
+# Polo: how Coachella actually works
+
+> A cited, independent deep dive on how the Coachella festival works - the grounds (Empire Polo Club), polo itself, the stages, the 2006 Daft Punk pyramid, the moments, the transport system, camping rituals, the lineup, the build, the money, the desert season and an archive of artist billboards on the I-10.
+
+About 2,316 words, 47 sources, updated October 2026. Not affiliated with Coachella, Goldenvoice or AEG.
+
+## Chapters
+- [The grounds](https://polo.cold.fyi/grounds/): For 22 years Coachella was a tenant, renting a polo club in Indio for a few weeks each spring and handing it back. Goldenvoice bought the land next door in 2012, and in 2021 took over the whole club year-round on a lease that runs to 2050. Somewhere between 78 and 1,000 acres, depending on who is counting, now flips from Coachella to Stagecoach in under a week.
+
+## Data
+- https://polo.cold.fyi/chapters.json
+- https://polo.cold.fyi/sources.json
+- https://polo.cold.fyi/years.json - every edition 1999-2026 plus 1993
+- https://polo.cold.fyi/billboards.json - the billboard archive
+
+## Other
+- [Play polo](https://polo.cold.fyi/play/): a small browser polo game
+- [Everything on one page](https://polo.cold.fyi/all/)
+- [All sources](https://polo.cold.fyi/sources/)
