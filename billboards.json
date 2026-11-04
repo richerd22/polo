@@ -8,8 +8,8 @@
    "title": "'United States of Addison' million-dollar bill",
    "said": "A $1,000,000 bill with her face in the centre, 'Addison' in her signature font, and 'The United States of Addison' on the right.",
    "where": "I-10 near Indio",
-   "promoted": "Her Coachella 2026 set",
-   "aftermath": "",
+   "promoted": "Her first Coachella sets, Coachella Stage, Saturday: 5:30pm April 11, 5:25-6:20pm April 18.",
+   "aftermath": "Spin-off: Irv's Burgers sold a collectible cup with Rae's face on a dollar bill; 1,000 sold online within an hour (Modern Retail).",
    "type": "artist_promo",
    "confidence": "high",
    "sources": [
@@ -32,6 +32,36 @@
      "publication": "Richard Lathrop (photo, polo.cold.fyi)",
      "date": "2026-04-16",
      "url": "https://polo.cold.fyi/img/billboards/2026-addison-rae-million.jpg"
+    },
+    {
+     "publication": "Yahoo",
+     "url": "https://www.yahoo.com/entertainment/music/article/sabrina-carpenter-mona-lisa-and-ozempic-a-roundup-of-the-buzziest-coachella-2026-billboards-221209584.html",
+     "date": "2026-04-09"
+    },
+    {
+     "publication": "AOL (Connor Surmonte)",
+     "url": "https://www.aol.com/articles/most-chaotic-coachella-2026-billboards-171642000.html",
+     "date": "2026-04-10"
+    },
+    {
+     "publication": "Creative Bloq (Natalie Fear)",
+     "url": "https://www.creativebloq.com/design/advertising/from-sabrina-carpenter-to-katseye-check-out-the-best-coachella-billboards-of-2026",
+     "date": "2026-04-09"
+    },
+    {
+     "publication": "NME",
+     "url": "https://www.nme.com/news/music/coachella-2026-set-times-jack-white-surprise-last-minute-line-up-addition-watch-online-3938820",
+     "date": "2026-04-10"
+    },
+    {
+     "publication": "Time Out Los Angeles (Michael Juliano)",
+     "url": "https://www.timeout.com/los-angeles/news/coachella-2026-set-times-and-streaming-schedule-for-weekend-2-the-full-list-to-keep-track-of-041726",
+     "date": "2026-04-17"
+    },
+    {
+     "publication": "Modern Retail (Melissa Daniels)",
+     "url": "https://www.modernretail.co/marketing/bloom-pacsun-and-more-chase-coachella-crowds-on-the-way-to-the-show-with-roadside-activations/",
+     "date": "2026-04-10"
     }
    ],
    "photos": [
@@ -49,6 +79,86 @@
      "h": 1174,
      "alt": "Billboard styled as a million-dollar bill with Addison Rae's portrait, wind turbines and a freight train behind",
      "caption": "Eastbound I-10 among the turbines, April 16, 2026.",
+     "credit": "Richard Lathrop",
+     "license": "© Richard Lathrop, used with permission",
+     "license_kind": "own",
+     "taken": "2026-04-16"
+    }
+   ],
+   "rights": "own"
+  },
+  {
+   "year": 2026,
+   "artist": "Anyma",
+   "title": "ÆDEN - Friday main stage closing",
+   "said": "Black board: 'ANYMA presents ÆDEN', a giant android torso with arms out, 'FRIDAY', 'MAIN STAGE CLOSING', 'WORLD PREMIERE'. Lamar.",
+   "where": "I-10 eastbound between Beaumont and Banning, Mount San Gorgonio behind (photo location)",
+   "promoted": "His midnight closing set on the Coachella Stage, Friday April 10 and 17, billed as the world premiere of the ÆDEN show.",
+   "aftermath": "Weekend one never happened: strong wind hit the stage build and the festival cancelled it. He played a b2b with Marlon Hoffstadt at Do LaB at 10:45pm Saturday instead. Weekend two went ahead, with Lisa, Matt Bellamy, Swae Lee and Joji. Richard's photo (April 16) shows the board still up the day before the rescheduled premiere.",
+   "type": "artist_promo",
+   "confidence": "high",
+   "sources": [
+    {
+     "publication": "Richard Lathrop (photo, polo.cold.fyi)",
+     "date": "2026-04-16",
+     "url": "https://polo.cold.fyi/img/billboards/2026-anyma-aeden.jpg"
+    },
+    {
+     "publication": "V Magazine",
+     "url": "https://vmagazine.com/article/the-coachella-valleys-hottest-billboards-of-2026/",
+     "date": "2026-04-07"
+    },
+    {
+     "publication": "NME",
+     "url": "https://www.nme.com/news/music/coachella-2026-set-times-jack-white-surprise-last-minute-line-up-addition-watch-online-3938820",
+     "date": "2026-04-10"
+    },
+    {
+     "publication": "Time Out Los Angeles (Michael Juliano)",
+     "url": "https://www.timeout.com/los-angeles/news/coachella-2026-set-times-and-streaming-schedule-for-weekend-2-the-full-list-to-keep-track-of-041726",
+     "date": "2026-04-17"
+    },
+    {
+     "publication": "mxdwn",
+     "url": "https://music.mxdwn.com/2026/04/11/news/anymas-coachella-set-cancelled-after-weather-affected-stage-build/",
+     "date": "2026-04-11"
+    },
+    {
+     "publication": "Beatportal (Rachel Narozniak)",
+     "url": "https://www.beatportal.com/articles/1372264-anymas-weekend-1-coachella-set-canceled-due-to-strong-wind-conditions",
+     "date": "2026-04"
+    },
+    {
+     "publication": "Beatportal (Rachel Narozniak)",
+     "url": "https://www.beatportal.com/articles/1372368-anyma-to-close-coachellas-do-lab-stage-with-marlon-hoffstadt-after-cancelled-friday-performance",
+     "date": "2026-04"
+    },
+    {
+     "publication": "mxdwn",
+     "url": "https://music.mxdwn.com/2026/04/18/news/muses-matt-bellamy-lisa-of-blackpink-swae-lee-joji-make-appearances-at-anymas-aeden-premiere-at-coachella/",
+     "date": "2026-04-18"
+    }
+   ],
+   "photos": [
+    {
+     "url": "https://twitter.com/anyma_eva/status/2043135582973345951",
+     "credit": "Anyma (@anyma_eva) on X - cancellation statement, seen embedded in mxdwn; not a board photo",
+     "kind": "official post (linked, not copied)"
+    },
+    {
+     "url": "https://twitter.com/anyma_eva/status/2043492248822612204",
+     "credit": "Anyma (@anyma_eva) on X - 'Tonight. 22:45. DoLab stage', seen embedded in mxdwn",
+     "kind": "official post (linked, not copied)"
+    }
+   ],
+   "media": [
+    {
+     "kind": "photo",
+     "file": "img/billboards/2026-anyma-aeden.jpg",
+     "w": 1600,
+     "h": 1024,
+     "alt": "Black billboard by the freeway with a giant android figure and ANYMA ÆDEN Friday main stage closing, snowy peak behind",
+     "caption": "Eastbound between Beaumont and Banning, April 16, 2026.",
      "credit": "Richard Lathrop",
      "license": "© Richard Lathrop, used with permission",
      "license_kind": "own",
@@ -272,8 +382,8 @@
    "artist": "Justin Bieber",
    "title": "'SWAG' strip",
    "said": "A strip of billboards with a pastel \"SWAG\" (his Grammy-nominated album title).",
-   "where": "I-10 near Indio",
-   "promoted": "Album 'SWAG' and his headlining sets",
+   "where": "I-10 near Indio; Paste: Bieber 'rented out a strip of billboards' on I-10.",
+   "promoted": "His album SWAG (July 2025) and his Saturday headlining sets, Coachella Stage, 11:25pm, April 11 and 18.",
    "aftermath": "",
    "type": "artist_promo",
    "confidence": "high",
@@ -297,6 +407,26 @@
      "publication": "Richard Lathrop (photo, polo.cold.fyi)",
      "date": "2026-04-16",
      "url": "https://polo.cold.fyi/img/billboards/2026-bieber-swag.jpg"
+    },
+    {
+     "publication": "Yahoo",
+     "url": "https://www.yahoo.com/entertainment/music/article/sabrina-carpenter-mona-lisa-and-ozempic-a-roundup-of-the-buzziest-coachella-2026-billboards-221209584.html",
+     "date": "2026-04-09"
+    },
+    {
+     "publication": "AOL (Connor Surmonte)",
+     "url": "https://www.aol.com/articles/most-chaotic-coachella-2026-billboards-171642000.html",
+     "date": "2026-04-10"
+    },
+    {
+     "publication": "NME",
+     "url": "https://www.nme.com/news/music/coachella-2026-set-times-jack-white-surprise-last-minute-line-up-addition-watch-online-3938820",
+     "date": "2026-04-10"
+    },
+    {
+     "publication": "Time Out Los Angeles (Michael Juliano)",
+     "url": "https://www.timeout.com/los-angeles/news/coachella-2026-set-times-and-streaming-schedule-for-weekend-2-the-full-list-to-keep-track-of-041726",
+     "date": "2026-04-17"
     }
    ],
    "photos": [
@@ -378,6 +508,70 @@
    ],
    "media": [],
    "rights": "link-only"
+  },
+  {
+   "year": 2026,
+   "artist": "Kaskade",
+   "title": "ORIGIN //",
+   "said": "Black board, a blurred blue silhouette in profile: 'ORIGIN //' and 'kaskade'. Outfront.",
+   "where": "I-10 eastbound east of Cabazon, among the San Gorgonio Pass wind turbines (photo location); EDMTunes (April 6) reported a cryptic 'Origin //' billboard spotted in Palm Springs. Richard's board is on I-10 east of Cabazon (Outfront).",
+   "promoted": "His new live show and album ORIGIN //, debuted closing the Sahara on Sunday, April 12 and 19 (10:45pm W1, 10:50pm W2). His first Coachella set in 11 years.",
+   "aftermath": "He played nine unreleased IDs and said the album would come out that summer. The 12-track ORIGIN // came out September 25, 2026, with an ORIGIN // tour ending in Austin on November 20.",
+   "type": "artist_promo",
+   "confidence": "high",
+   "sources": [
+    {
+     "publication": "Richard Lathrop (photo, polo.cold.fyi)",
+     "date": "2026-04-16",
+     "url": "https://polo.cold.fyi/img/billboards/2026-kaskade-origin.jpg"
+    },
+    {
+     "publication": "EDMTunes",
+     "url": "https://www.edmtunes.com/2026/04/06/kaskade-teases-massive-solo-return-to-coachella-2026-with-new-live-show/",
+     "date": "2026-04-06"
+    },
+    {
+     "publication": "NME",
+     "url": "https://www.nme.com/news/music/coachella-2026-set-times-jack-white-surprise-last-minute-line-up-addition-watch-online-3938820",
+     "date": "2026-04-10"
+    },
+    {
+     "publication": "Time Out Los Angeles (Michael Juliano)",
+     "url": "https://www.timeout.com/los-angeles/news/coachella-2026-set-times-and-streaming-schedule-for-weekend-2-the-full-list-to-keep-track-of-041726",
+     "date": "2026-04-17"
+    },
+    {
+     "publication": "EDMTunes (Jay Seabrook)",
+     "url": "https://www.edmtunes.com/2026/04/23/kaskades-coachella-set-teased-upcoming-album-origin/",
+     "date": "2026-04-24"
+    },
+    {
+     "publication": "Era of EDM",
+     "url": "https://magazine.eraofedm.com/kaskade-closes-coachella-2026-with-landmark-origin-show-ushering-in-a-new-live-era/",
+     "date": "2026-05-04"
+    },
+    {
+     "publication": "EDM Identity",
+     "url": "https://edmidentity.com/2026/09/25/kaskade-origin/",
+     "date": "2026-09-25"
+    }
+   ],
+   "photos": [],
+   "media": [
+    {
+     "kind": "photo",
+     "file": "img/billboards/2026-kaskade-origin.jpg",
+     "w": 1600,
+     "h": 960,
+     "alt": "Black Outfront billboard reading ORIGIN // kaskade with a blue blurred profile, desert hills and turbines behind",
+     "caption": "Eastbound I-10 east of Cabazon, April 16, 2026.",
+     "credit": "Richard Lathrop",
+     "license": "© Richard Lathrop, used with permission",
+     "license_kind": "own",
+     "taken": "2026-04-16"
+    }
+   ],
+   "rights": "own"
   },
   {
    "year": 2026,
@@ -468,8 +662,8 @@
    "artist": "Major Lazer",
    "title": "Ozempic iMessage bubble",
    "said": "A lone blue iMessage bubble: \"come shake that lil ozempic ass sunday 6pm at major lazer\"",
-   "where": "I-10 between Palm Springs and Indio (Paste)",
-   "promoted": "Their Sunday 6pm set",
+   "where": "I-10 between Palm Springs and Indio (Paste); Lamar board by the San Gorgonio windmills (V Magazine photo shows turbines behind it).",
+   "promoted": "Their Sunday set on the Coachella Stage, 6:10-7:10pm, April 12 and 19.",
    "aftermath": "",
    "type": "artist_promo",
    "confidence": "high",
@@ -493,6 +687,31 @@
      "publication": "Richard Lathrop (photo, polo.cold.fyi)",
      "date": "2026-04-16",
      "url": "https://polo.cold.fyi/img/billboards/2026-major-lazer-ozempic.jpg"
+    },
+    {
+     "publication": "Yahoo",
+     "url": "https://www.yahoo.com/entertainment/music/article/sabrina-carpenter-mona-lisa-and-ozempic-a-roundup-of-the-buzziest-coachella-2026-billboards-221209584.html",
+     "date": "2026-04-09"
+    },
+    {
+     "publication": "AOL (Connor Surmonte)",
+     "url": "https://www.aol.com/articles/most-chaotic-coachella-2026-billboards-171642000.html",
+     "date": "2026-04-10"
+    },
+    {
+     "publication": "V Magazine",
+     "url": "https://vmagazine.com/article/the-coachella-valleys-hottest-billboards-of-2026/",
+     "date": "2026-04-07"
+    },
+    {
+     "publication": "NME",
+     "url": "https://www.nme.com/news/music/coachella-2026-set-times-jack-white-surprise-last-minute-line-up-addition-watch-online-3938820",
+     "date": "2026-04-10"
+    },
+    {
+     "publication": "Time Out Los Angeles (Michael Juliano)",
+     "url": "https://www.timeout.com/los-angeles/news/coachella-2026-set-times-and-streaming-schedule-for-weekend-2-the-full-list-to-keep-track-of-041726",
+     "date": "2026-04-17"
     }
    ],
    "photos": [
@@ -514,6 +733,192 @@
      "w": 1600,
      "h": 1024,
      "alt": "Black billboard with one blue text-message bubble and the word Delivered",
+     "caption": "Eastbound I-10 among the turbines, April 16, 2026.",
+     "credit": "Richard Lathrop",
+     "license": "© Richard Lathrop, used with permission",
+     "license_kind": "own",
+     "taken": "2026-04-16"
+    }
+   ],
+   "rights": "own"
+  },
+  {
+   "year": 2026,
+   "artist": "Maruchan",
+   "title": "Still here when the festival payment plan kicks in",
+   "said": "Yellow board, a cup of Maruchan Instant Lunch on the left: 'STILL HERE WHEN THE FESTIVAL PAYMENT PLAN KICKS IN.' and 'FREE RAMEN | EXIT 104 | CABAZON OUTLETS'. Lamar. A first board down the road asked whether festival finances were adding up (Modern Retail prints 'ain't matching', DASH TWO 'aren't mathing').",
+   "where": "I-10 eastbound east of Cabazon, among the San Gorgonio Pass wind turbines (photo location); Two sequential I-10 bulletins 2.29 and 3.37 miles east of Main St, Cabazon, per DASH TWO. DASH TWO's text says 'westbound', but its location line says WF (west-facing), which reads to eastbound drivers, matching Richard's eastbound photo.",
+   "promoted": "Maruchan's MaruMart pop-up at Cabazon Outlets: free ramen, April 9-13 and 16-20, 2026.",
+   "aftermath": "DASH TWO says it bought the boards, printed vinyl snipes to cover 'Free Ramen' when each pop-up weekend ended, and logged about 3.09M estimated impressions over four weeks, at $44,670 total media value.",
+   "type": "brand",
+   "confidence": "high",
+   "sources": [
+    {
+     "publication": "Richard Lathrop (photo, polo.cold.fyi)",
+     "date": "2026-04-16",
+     "url": "https://polo.cold.fyi/img/billboards/2026-maruchan-billboard.jpg"
+    },
+    {
+     "publication": "DASH TWO case study",
+     "url": "https://dashtwo.com/casestudy/maruchan-coachella-billboards/",
+     "date": "2026-08-18"
+    },
+    {
+     "publication": "Modern Retail (Melissa Daniels)",
+     "url": "https://www.modernretail.co/marketing/bloom-pacsun-and-more-chase-coachella-crowds-on-the-way-to-the-show-with-roadside-activations/",
+     "date": "2026-04-10"
+    }
+   ],
+   "photos": [],
+   "media": [
+    {
+     "kind": "photo",
+     "file": "img/billboards/2026-maruchan-billboard.jpg",
+     "w": 1600,
+     "h": 1557,
+     "alt": "Yellow Maruchan billboard: Still here when the festival payment plan kicks in. Free ramen, exit 104, Cabazon Outlets",
+     "caption": "Eastbound I-10 among the turbines, April 16, 2026.",
+     "credit": "Richard Lathrop",
+     "license": "© Richard Lathrop, used with permission",
+     "license_kind": "own",
+     "taken": "2026-04-16"
+    }
+   ],
+   "rights": "own"
+  },
+  {
+   "year": 2026,
+   "artist": "Maruchan",
+   "title": "Noodle-curtain pop-up at Cabazon",
+   "said": "Not a billboard: the pop-up the board pointed to. An inflatable white arch printed 'Maruchan', hung with fabric noodle streamers to walk through, a giant 'Maruchan Instant Lunch' cup, a silver trailer and a stocked stand.",
+   "where": "Cabazon, off I-10 (the board says exit 104, Cabazon Outlets) (photo location); Cabazon Outlets, 48750 Seminole Dr., Cabazon. Shipping-container store plus an Airstream trailer kitchen.",
+   "promoted": "Free ramen samples, a DIY ramen bowl station, specialty recipes, limited-edition merch, photo spots and giveaways; it plugged the new Flamin' Hot chicken flavor. Open Thu-Mon 10am-9pm, Sunday to 8pm, April 9-13 and 16-20, free; media preview April 8.",
+   "aftermath": "Maruchan's marketing director called it the brand's biggest activation to date, after a smaller trial at L.A. Comic Con, and said the container and Airstream would be reused.",
+   "type": "activation",
+   "confidence": "high",
+   "sources": [
+    {
+     "publication": "Richard Lathrop (photo, polo.cold.fyi)",
+     "date": "2026-04-16",
+     "url": "https://polo.cold.fyi/img/billboards/2026-maruchan-popup.jpg"
+    },
+    {
+     "publication": "Maruchan press release (PR Underground, via Observer-Reporter)",
+     "url": "https://stocks.observer-reporter.com/observerreporter/article/prunderground-2026-3-25-maruchan-greets-festival-goers-in-cabazon-with-immersive-pop-up",
+     "date": "2026-03-25"
+    },
+    {
+     "publication": "EDM Maniac (Peter Volpe)",
+     "url": "https://edmmaniac.com/maruchan-pop-up-coachella-2026/",
+     "date": "2026-04-06"
+    },
+    {
+     "publication": "Foodbeast (Reach Guinto)",
+     "url": "https://www.foodbeast.com/news/maruchan-brings-free-ramen-and-merch-to-coachella-weekend/",
+     "date": "2026-03-26"
+    },
+    {
+     "publication": "Modern Retail (Melissa Daniels)",
+     "url": "https://www.modernretail.co/marketing/bloom-pacsun-and-more-chase-coachella-crowds-on-the-way-to-the-show-with-roadside-activations/",
+     "date": "2026-04-10"
+    },
+    {
+     "publication": "DASH TWO case study",
+     "url": "https://dashtwo.com/casestudy/maruchan-coachella-billboards/",
+     "date": "2026-08-18"
+    }
+   ],
+   "photos": [],
+   "media": [
+    {
+     "kind": "photo",
+     "file": "img/billboards/2026-maruchan-popup.jpg",
+     "w": 1600,
+     "h": 1600,
+     "alt": "Inflatable white Maruchan arch hung with noodle-like streamers in a parking lot, a silver trailer beside it",
+     "caption": "The arch, April 16, 2026.",
+     "credit": "Richard Lathrop",
+     "license": "© Richard Lathrop, used with permission",
+     "license_kind": "own",
+     "taken": "2026-04-16"
+    },
+    {
+     "kind": "video",
+     "file": "img/billboards/2026-maruchan-noodle-curtain.mp4",
+     "poster": "img/billboards/2026-maruchan-noodle-curtain-poster.jpg",
+     "w": 720,
+     "h": 1280,
+     "alt": "Video walking through hanging fabric noodles toward a Maruchan trailer and a giant Instant Lunch cup",
+     "caption": "Walking through the noodles, same afternoon.",
+     "credit": "Richard Lathrop",
+     "license": "© Richard Lathrop, used with permission",
+     "license_kind": "own",
+     "taken": "2026-04-16"
+    }
+   ],
+   "rights": "own"
+  },
+  {
+   "year": 2026,
+   "artist": "Nine Inch Noize",
+   "title": "Album out 4.17.26",
+   "said": "Black board in red caps: 'NINE INCH NOIZE' with the Ns flipped backwards, and 'ALBUM OUT 4.17.26'. Lamar.",
+   "where": "I-10 eastbound east of Cabazon, among the San Gorgonio Pass wind turbines (photo location)",
+   "promoted": "The album Nine Inch Noize (Nine Inch Nails with Boys Noize), out April 17, 2026, between the two weekends, plus their Sahara sets: Saturday April 11 and 18, 8-8:45pm, moved from an original Friday slot.",
+   "aftermath": "The board came first: FLOOD and Uproxx say a billboard on the route set off album rumors before the band confirmed it on Instagram on April 8 ('NINE INCH NOIZE - HALO 38 - APRIL 17TH').",
+   "type": "artist_promo",
+   "confidence": "high",
+   "sources": [
+    {
+     "publication": "Richard Lathrop (photo, polo.cold.fyi)",
+     "date": "2026-04-16",
+     "url": "https://polo.cold.fyi/img/billboards/2026-nine-inch-noize.jpg"
+    },
+    {
+     "publication": "Consequence Live",
+     "url": "https://concerts.consequence.net/articles/nine-inch-nails-boys-noize-nine-inch-noize-album",
+     "date": "2026-04-08"
+    },
+    {
+     "publication": "Uproxx",
+     "url": "https://uproxx.com/indie/nine-inch-noize-album-coachella/",
+     "date": "2026-04-08"
+    },
+    {
+     "publication": "FLOOD",
+     "url": "https://floodmagazine.com/220150/nine-inch-nails-boys-noize-nine-inch-noize-announce/",
+     "date": "2026-04"
+    },
+    {
+     "publication": "NME",
+     "url": "https://www.nme.com/news/music/coachella-2026-set-times-jack-white-surprise-last-minute-line-up-addition-watch-online-3938820",
+     "date": "2026-04-10"
+    },
+    {
+     "publication": "Time Out Los Angeles (Michael Juliano)",
+     "url": "https://www.timeout.com/los-angeles/news/coachella-2026-set-times-and-streaming-schedule-for-weekend-2-the-full-list-to-keep-track-of-041726",
+     "date": "2026-04-17"
+    },
+    {
+     "publication": "Consequence Live",
+     "url": "https://concerts.consequence.net/articles/coachella-2026-set-times",
+     "date": "2026-04"
+    }
+   ],
+   "photos": [
+    {
+     "url": "https://www.instagram.com/p/DW4GLPjkYlN/",
+     "credit": "Nine Inch Nails / Boys Noize on Instagram (per Consequence) - album announcement, not a board photo; seen as embed only",
+     "kind": "official post (linked, not copied)"
+    }
+   ],
+   "media": [
+    {
+     "kind": "photo",
+     "file": "img/billboards/2026-nine-inch-noize.jpg",
+     "w": 1600,
+     "h": 1237,
+     "alt": "Black billboard with red text NINE INCH NOIZE album out 4.17.26, freight train and turbines behind, a flatbed truck in the next lane",
      "caption": "Eastbound I-10 among the turbines, April 16, 2026.",
      "credit": "Richard Lathrop",
      "license": "© Richard Lathrop, used with permission",
@@ -570,9 +975,9 @@
    "artist": "Sabrina Carpenter",
    "title": "'This next billboard is gonna blow your…'",
    "said": "First board: \"THIS NEXT BILLBOARD IS GONNA BLOW YOUR\" with 'MIND' left off. Next board: a giant image of her in a sparkly silver minidress (Yahoo: lying down) with light bulbs that turn on at sunset.",
-   "where": "I-10 between Palm Springs and Indio (Paste); I-10 near Indio (Yahoo)",
-   "promoted": "Her headlining sets (her first as a Coachella headliner; she played in 2024 below the headliners)",
-   "aftermath": "",
+   "where": "I-10 between Palm Springs and Indio (Paste); I-10 near Indio (Yahoo); Paste: between Palm Springs and Indio, the two boards one after the other.; I-10 eastbound near Bob Hope Dr, Rancho Mirage (Richard's video, April 20).",
+   "promoted": "Her Friday headlining sets on the Coachella Stage: April 10 at 9:05pm, April 17 at 9pm.",
+   "aftermath": "Paste and Yahoo both note the board lights up at night: real bulbs switch on at sunset. Richard's dusk video shows it lit.",
    "type": "artist_promo",
    "confidence": "high",
    "sources": [
@@ -590,6 +995,36 @@
      "publication": "Richard Lathrop (photo, polo.cold.fyi)",
      "date": "2026-04-20",
      "url": "https://polo.cold.fyi/img/billboards/2026-sabrina-live-from-coachella.jpg"
+    },
+    {
+     "publication": "Yahoo",
+     "url": "https://www.yahoo.com/entertainment/music/article/sabrina-carpenter-mona-lisa-and-ozempic-a-roundup-of-the-buzziest-coachella-2026-billboards-221209584.html",
+     "date": "2026-04-09"
+    },
+    {
+     "publication": "AOL (Connor Surmonte)",
+     "url": "https://www.aol.com/articles/most-chaotic-coachella-2026-billboards-171642000.html",
+     "date": "2026-04-10"
+    },
+    {
+     "publication": "Pedestrian.TV (Tom Disalvo)",
+     "url": "https://www.pedestrian.tv/music/coachella-billboards-2026/",
+     "date": "2026-04-09"
+    },
+    {
+     "publication": "Creative Bloq (Natalie Fear)",
+     "url": "https://www.creativebloq.com/design/advertising/from-sabrina-carpenter-to-katseye-check-out-the-best-coachella-billboards-of-2026",
+     "date": "2026-04-09"
+    },
+    {
+     "publication": "NME",
+     "url": "https://www.nme.com/news/music/coachella-2026-set-times-jack-white-surprise-last-minute-line-up-addition-watch-online-3938820",
+     "date": "2026-04-10"
+    },
+    {
+     "publication": "Time Out Los Angeles (Michael Juliano)",
+     "url": "https://www.timeout.com/los-angeles/news/coachella-2026-set-times-and-streaming-schedule-for-weekend-2-the-full-list-to-keep-track-of-041726",
+     "date": "2026-04-17"
     }
    ],
    "photos": [
@@ -772,6 +1207,90 @@
   },
   {
    "year": 2026,
+   "artist": "Warner Bros. - Digger",
+   "title": "The giant shovel in Indio",
+   "said": "Not a billboard: a giant red-and-grey shovel driven into a mound of sand, lit at night. A plaque on a stake reads '\"In Digger We Trust\" - Tap Phone Here'. A sign warns 'Shovel can get extremely hot. Please do not touch!' A public filming notice says the exhibit was being filmed for the motion picture Digger and Warner Bros. Entertainment, dates April 10 - April 26, 2026, location Indio, California.",
+   "where": "Indio, at John Nobles Avenue and Monroe Street, about 15 minutes from the festival grounds (LA Times); about two miles north of the polo grounds (photo location)",
+   "promoted": "Warner Bros.' Digger, Alejandro G. Iñárritu's black comedy with Tom Cruise as Digger Rockwell, released October 2, 2026.",
+   "aftermath": "Cruise posted it on X on April 10, the festival's first day: 'In DIGGER We Trust.' The Warner Bros. TikTok documented the build. AceShowbiz: it trended on TikTok, with commenters baffled.",
+   "type": "activation",
+   "confidence": "high",
+   "sources": [
+    {
+     "publication": "Richard Lathrop (photo, polo.cold.fyi)",
+     "date": "2026-04-16",
+     "url": "https://polo.cold.fyi/img/billboards/2026-digger-notice.jpg"
+    },
+    {
+     "publication": "TheWrap (Alex Welch)",
+     "url": "https://www.thewrap.com/culture-lifestyle/culture/digger-tom-cruise-movie-giant-shovel-installation-coachella/",
+     "date": "2026-04-10"
+    },
+    {
+     "publication": "Los Angeles Times (David Viramontes), via Daily Gazette syndication",
+     "url": "https://www.dailygazette.com/tribune/why-is-there-a-giant-shovel-in-the-desert-outside-coachella-tom-cruise-has-the/article_b237183b-693a-5433-aca3-8cbd2ac670cc.html",
+     "date": "2026-04-10"
+    },
+    {
+     "publication": "AceShowbiz",
+     "url": "https://www.aceshowbiz.com/news/view/00253984.html",
+     "date": "2026-04-16"
+    },
+    {
+     "publication": "OpenStreetMap Nominatim reverse lookup",
+     "url": "https://nominatim.openstreetmap.org/reverse?lat=33.711&lon=-116.233&format=jsonv2&zoom=18",
+     "date": "2026-11-04"
+    }
+   ],
+   "photos": [
+    {
+     "url": "https://twitter.com/TomCruise/status/2042603666885243121",
+     "credit": "Tom Cruise (@TomCruise) on X, April 10, 2026 - seen embedded in TheWrap; X not opened",
+     "kind": "official post (linked, not copied)"
+    }
+   ],
+   "media": [
+    {
+     "kind": "photo",
+     "file": "img/billboards/2026-digger-shovel.jpg",
+     "w": 1200,
+     "h": 1600,
+     "alt": "A giant rust-red shovel standing in a mound of sand at night",
+     "caption": "The shovel at night, April 16, 2026.",
+     "credit": "Richard Lathrop",
+     "license": "© Richard Lathrop, used with permission",
+     "license_kind": "own",
+     "taken": "2026-04-16"
+    },
+    {
+     "kind": "photo",
+     "file": "img/billboards/2026-digger-plaque.jpg",
+     "w": 1200,
+     "h": 1600,
+     "alt": "Leather-look plaque on a stake reading In Digger We Trust, Tap Phone Here",
+     "caption": "The plaque.",
+     "credit": "Richard Lathrop",
+     "license": "© Richard Lathrop, used with permission",
+     "license_kind": "own",
+     "taken": "2026-04-16"
+    },
+    {
+     "kind": "photo",
+     "file": "img/billboards/2026-digger-notice.jpg",
+     "w": 1200,
+     "h": 1600,
+     "alt": "Signs on a fence: Warning, shovel can get extremely hot, and a Warner Bros. public filming notice for the film Digger",
+     "caption": "The fine print, with the dates.",
+     "credit": "Richard Lathrop",
+     "license": "© Richard Lathrop, used with permission",
+     "license_kind": "own",
+     "taken": "2026-04-16"
+    }
+   ],
+   "rights": "own"
+  },
+  {
+   "year": 2026,
    "artist": "2PAC",
    "title": "2PAC board",
    "said": "Billboard image credited to UMG; no text or purpose reported.",
@@ -796,40 +1315,6 @@
    ],
    "media": [],
    "rights": "link-only"
-  },
-  {
-   "year": 2026,
-   "artist": "Anyma",
-   "title": "ÆDEN - Friday main stage closing",
-   "said": "Black board: 'ANYMA presents ÆDEN', a giant android torso with arms out, 'FRIDAY', 'MAIN STAGE CLOSING', 'WORLD PREMIERE'. Lamar.",
-   "where": "I-10 eastbound between Beaumont and Banning, Mount San Gorgonio behind (photo location)",
-   "promoted": "His Friday closing set on the Coachella Stage, billed as a world premiere of ÆDEN",
-   "aftermath": "Wind cancelled the weekend-one Friday set; he played a Do LaB b2b that Sunday and moved the full show to weekend two (see 2026 in the year-by-year record).",
-   "type": "artist_promo",
-   "confidence": "medium",
-   "sources": [
-    {
-     "publication": "Richard Lathrop (photo, polo.cold.fyi)",
-     "date": "2026-04-16",
-     "url": "https://polo.cold.fyi/img/billboards/2026-anyma-aeden.jpg"
-    }
-   ],
-   "photos": [],
-   "media": [
-    {
-     "kind": "photo",
-     "file": "img/billboards/2026-anyma-aeden.jpg",
-     "w": 1600,
-     "h": 1024,
-     "alt": "Black billboard by the freeway with a giant android figure and ANYMA ÆDEN Friday main stage closing, snowy peak behind",
-     "caption": "Eastbound between Beaumont and Banning, April 16, 2026.",
-     "credit": "Richard Lathrop",
-     "license": "© Richard Lathrop, used with permission",
-     "license_kind": "own",
-     "taken": "2026-04-16"
-    }
-   ],
-   "rights": "own"
   },
   {
    "year": 2026,
@@ -934,40 +1419,6 @@
   },
   {
    "year": 2026,
-   "artist": "Kaskade",
-   "title": "ORIGIN //",
-   "said": "Black board, a blurred blue silhouette in profile: 'ORIGIN //' and 'kaskade'. Outfront.",
-   "where": "I-10 eastbound east of Cabazon, among the San Gorgonio Pass wind turbines (photo location)",
-   "promoted": "Kaskade's ORIGIN // (the board names no date or stage)",
-   "aftermath": "",
-   "type": "artist_promo",
-   "confidence": "medium",
-   "sources": [
-    {
-     "publication": "Richard Lathrop (photo, polo.cold.fyi)",
-     "date": "2026-04-16",
-     "url": "https://polo.cold.fyi/img/billboards/2026-kaskade-origin.jpg"
-    }
-   ],
-   "photos": [],
-   "media": [
-    {
-     "kind": "photo",
-     "file": "img/billboards/2026-kaskade-origin.jpg",
-     "w": 1600,
-     "h": 960,
-     "alt": "Black Outfront billboard reading ORIGIN // kaskade with a blue blurred profile, desert hills and turbines behind",
-     "caption": "Eastbound I-10 east of Cabazon, April 16, 2026.",
-     "credit": "Richard Lathrop",
-     "license": "© Richard Lathrop, used with permission",
-     "license_kind": "own",
-     "taken": "2026-04-16"
-    }
-   ],
-   "rights": "own"
-  },
-  {
-   "year": 2026,
    "artist": "KATSEYE",
    "title": "'Sahara's Gnarly'",
    "said": "\"Sahara's Gnarly\" in dripping neon-green font (reference to their track 'Gnarly' and the Sahara tent).",
@@ -995,118 +1446,34 @@
   },
   {
    "year": 2026,
-   "artist": "Maruchan",
-   "title": "Still here when the festival payment plan kicks in",
-   "said": "Yellow board, a cup of Maruchan Instant Lunch on the left: 'STILL HERE WHEN THE FESTIVAL PAYMENT PLAN KICKS IN.' and 'FREE RAMEN | EXIT 104 | CABAZON OUTLETS'. Lamar.",
-   "where": "I-10 eastbound east of Cabazon, among the San Gorgonio Pass wind turbines (photo location)",
-   "promoted": "A free-ramen pop-up at the Cabazon outlets, off exit 104 (per the board)",
-   "aftermath": "",
-   "type": "brand",
-   "confidence": "medium",
-   "sources": [
-    {
-     "publication": "Richard Lathrop (photo, polo.cold.fyi)",
-     "date": "2026-04-16",
-     "url": "https://polo.cold.fyi/img/billboards/2026-maruchan-billboard.jpg"
-    }
-   ],
-   "photos": [],
-   "media": [
-    {
-     "kind": "photo",
-     "file": "img/billboards/2026-maruchan-billboard.jpg",
-     "w": 1600,
-     "h": 1557,
-     "alt": "Yellow Maruchan billboard: Still here when the festival payment plan kicks in. Free ramen, exit 104, Cabazon Outlets",
-     "caption": "Eastbound I-10 among the turbines, April 16, 2026.",
-     "credit": "Richard Lathrop",
-     "license": "© Richard Lathrop, used with permission",
-     "license_kind": "own",
-     "taken": "2026-04-16"
-    }
-   ],
-   "rights": "own"
-  },
-  {
-   "year": 2026,
-   "artist": "Maruchan",
-   "title": "Noodle-curtain pop-up at Cabazon",
-   "said": "Not a billboard: the pop-up the board pointed to. An inflatable white arch printed 'Maruchan', hung with fabric noodle streamers to walk through, a giant 'Maruchan Instant Lunch' cup, a silver trailer and a stocked stand.",
-   "where": "Cabazon, off I-10 (the board says exit 104, Cabazon Outlets) (photo location)",
-   "promoted": "Maruchan; free ramen for festival traffic",
-   "aftermath": "",
-   "type": "activation",
-   "confidence": "medium",
-   "sources": [
-    {
-     "publication": "Richard Lathrop (photo, polo.cold.fyi)",
-     "date": "2026-04-16",
-     "url": "https://polo.cold.fyi/img/billboards/2026-maruchan-popup.jpg"
-    }
-   ],
-   "photos": [],
-   "media": [
-    {
-     "kind": "photo",
-     "file": "img/billboards/2026-maruchan-popup.jpg",
-     "w": 1600,
-     "h": 1600,
-     "alt": "Inflatable white Maruchan arch hung with noodle-like streamers in a parking lot, a silver trailer beside it",
-     "caption": "The arch, April 16, 2026.",
-     "credit": "Richard Lathrop",
-     "license": "© Richard Lathrop, used with permission",
-     "license_kind": "own",
-     "taken": "2026-04-16"
-    },
-    {
-     "kind": "video",
-     "file": "img/billboards/2026-maruchan-noodle-curtain.mp4",
-     "poster": "img/billboards/2026-maruchan-noodle-curtain-poster.jpg",
-     "w": 720,
-     "h": 1280,
-     "alt": "Video walking through hanging fabric noodles toward a Maruchan trailer and a giant Instant Lunch cup",
-     "caption": "Walking through the noodles, same afternoon.",
-     "credit": "Richard Lathrop",
-     "license": "© Richard Lathrop, used with permission",
-     "license_kind": "own",
-     "taken": "2026-04-16"
-    }
-   ],
-   "rights": "own"
-  },
-  {
-   "year": 2026,
-   "artist": "Nine Inch Noize",
-   "title": "Album out 4.17.26",
-   "said": "Black board in red caps: 'NINE INCH NOIZE' with the Ns flipped backwards, and 'ALBUM OUT 4.17.26'. Lamar.",
-   "where": "I-10 eastbound east of Cabazon, among the San Gorgonio Pass wind turbines (photo location)",
-   "promoted": "An album out April 17, 2026, the Friday of weekend two (per the board)",
-   "aftermath": "",
+   "artist": "Marlon Hoffstadt",
+   "title": "DADDY TRANCE",
+   "said": "THE ONLY REAL RAVE AT COACHELLA / DADDY TRANCE / MARLON HOFFSTADT / FRIDAY SAHARA",
+   "where": "Outfront board (V Magazine photo).",
+   "promoted": "His Friday Sahara set (6:15pm, W1, per NME).",
+   "aftermath": "On weekend one he ended up playing b2b with Anyma at Do LaB after Anyma's main-stage set was cancelled.",
    "type": "artist_promo",
    "confidence": "medium",
    "sources": [
     {
-     "publication": "Richard Lathrop (photo, polo.cold.fyi)",
-     "date": "2026-04-16",
-     "url": "https://polo.cold.fyi/img/billboards/2026-nine-inch-noize.jpg"
+     "publication": "V Magazine",
+     "url": "https://vmagazine.com/article/the-coachella-valleys-hottest-billboards-of-2026/",
+     "date": "2026-04-07"
+    },
+    {
+     "publication": "NME",
+     "url": "https://www.nme.com/news/music/coachella-2026-set-times-jack-white-surprise-last-minute-line-up-addition-watch-online-3938820",
+     "date": "2026-04-10"
+    },
+    {
+     "publication": "Beatportal (Rachel Narozniak)",
+     "url": "https://www.beatportal.com/articles/1372368-anyma-to-close-coachellas-do-lab-stage-with-marlon-hoffstadt-after-cancelled-friday-performance",
+     "date": "2026-04"
     }
    ],
    "photos": [],
-   "media": [
-    {
-     "kind": "photo",
-     "file": "img/billboards/2026-nine-inch-noize.jpg",
-     "w": 1600,
-     "h": 1237,
-     "alt": "Black billboard with red text NINE INCH NOIZE album out 4.17.26, freight train and turbines behind, a flatbed truck in the next lane",
-     "caption": "Eastbound I-10 among the turbines, April 16, 2026.",
-     "credit": "Richard Lathrop",
-     "license": "© Richard Lathrop, used with permission",
-     "license_kind": "own",
-     "taken": "2026-04-16"
-    }
-   ],
-   "rights": "own"
+   "media": [],
+   "rights": "link-only"
   },
   {
    "year": 2026,
@@ -1252,8 +1619,8 @@
    "title": "Sahara + Sunday",
    "said": "Orange board: 'SUBTRONICS', a seated figure in the middle, 'SAHARA + SUNDAY'.",
    "where": "I-10 eastbound east of Cabazon, among the San Gorgonio Pass wind turbines (photo location)",
-   "promoted": "His Sunday set in the Sahara tent (per the board)",
-   "aftermath": "",
+   "promoted": "His Coachella debut in the Sahara, Sunday April 12 and 19, 9:05-10:05pm, right before Kaskade.",
+   "aftermath": "He debuted 'Eyes Cut Deeper' with Inéz in the weekend-one set and released it April 17.",
    "type": "artist_promo",
    "confidence": "medium",
    "sources": [
@@ -1261,6 +1628,21 @@
      "publication": "Richard Lathrop (photo, polo.cold.fyi)",
      "date": "2026-04-16",
      "url": "https://polo.cold.fyi/img/billboards/2026-subtronics.jpg"
+    },
+    {
+     "publication": "NME",
+     "url": "https://www.nme.com/news/music/coachella-2026-set-times-jack-white-surprise-last-minute-line-up-addition-watch-online-3938820",
+     "date": "2026-04-10"
+    },
+    {
+     "publication": "Time Out Los Angeles (Michael Juliano)",
+     "url": "https://www.timeout.com/los-angeles/news/coachella-2026-set-times-and-streaming-schedule-for-weekend-2-the-full-list-to-keep-track-of-041726",
+     "date": "2026-04-17"
+    },
+    {
+     "publication": "EDMTunes (Jaesyun)",
+     "url": "https://www.edmtunes.com/2026/04/17/subtronics-inez-eyes-cut-deeper/",
+     "date": "2026-04-17"
     }
    ],
    "photos": [],
@@ -1313,7 +1695,7 @@
    "title": "Teal and orange duotone portrait",
    "said": "No words at all: a split image, the left half teal and the right half orange, of an older man's face with his arms raised over his head. Lamar. If you know whose board this was, write in.",
    "where": "I-10 eastbound east of Cabazon, among the San Gorgonio Pass wind turbines (photo location)",
-   "promoted": "Unknown",
+   "promoted": "Still unknown.",
    "aftermath": "",
    "type": "unknown",
    "confidence": "medium",
@@ -1343,70 +1725,12 @@
   },
   {
    "year": 2026,
-   "artist": "Warner Bros. - Digger",
-   "title": "The giant shovel in Indio",
-   "said": "Not a billboard: a giant red-and-grey shovel driven into a mound of sand, lit at night. A plaque on a stake reads '\"In Digger We Trust\" - Tap Phone Here'. A sign warns 'Shovel can get extremely hot. Please do not touch!' A public filming notice says the exhibit was being filmed for the motion picture Digger and Warner Bros. Entertainment, dates April 10 - April 26, 2026, location Indio, California.",
-   "where": "Indio, about two miles north of the polo grounds (photo location)",
-   "promoted": "The Warner Bros. film Digger",
-   "aftermath": "",
-   "type": "activation",
-   "confidence": "medium",
-   "sources": [
-    {
-     "publication": "Richard Lathrop (photo, polo.cold.fyi)",
-     "date": "2026-04-16",
-     "url": "https://polo.cold.fyi/img/billboards/2026-digger-notice.jpg"
-    }
-   ],
-   "photos": [],
-   "media": [
-    {
-     "kind": "photo",
-     "file": "img/billboards/2026-digger-shovel.jpg",
-     "w": 1200,
-     "h": 1600,
-     "alt": "A giant rust-red shovel standing in a mound of sand at night",
-     "caption": "The shovel at night, April 16, 2026.",
-     "credit": "Richard Lathrop",
-     "license": "© Richard Lathrop, used with permission",
-     "license_kind": "own",
-     "taken": "2026-04-16"
-    },
-    {
-     "kind": "photo",
-     "file": "img/billboards/2026-digger-plaque.jpg",
-     "w": 1200,
-     "h": 1600,
-     "alt": "Leather-look plaque on a stake reading In Digger We Trust, Tap Phone Here",
-     "caption": "The plaque.",
-     "credit": "Richard Lathrop",
-     "license": "© Richard Lathrop, used with permission",
-     "license_kind": "own",
-     "taken": "2026-04-16"
-    },
-    {
-     "kind": "photo",
-     "file": "img/billboards/2026-digger-notice.jpg",
-     "w": 1200,
-     "h": 1600,
-     "alt": "Signs on a fence: Warning, shovel can get extremely hot, and a Warner Bros. public filming notice for the film Digger",
-     "caption": "The fine print, with the dates.",
-     "credit": "Richard Lathrop",
-     "license": "© Richard Lathrop, used with permission",
-     "license_kind": "own",
-     "taken": "2026-04-16"
-    }
-   ],
-   "rights": "own"
-  },
-  {
-   "year": 2026,
    "artist": "Ye",
    "title": "BULLY - new album out now",
    "said": "'BULLY', 'YE' and 'ブリー' (Bully in Japanese katakana) on yellow, two grappling wrestler-style figures, 'NEW ALBUM OUT NOW' with a small label logo.",
    "where": "Beaumont, seen from the I-10 eastbound approach - the westernmost board in this set (photo location)",
-   "promoted": "A new album; the board itself doesn't mention Coachella",
-   "aftermath": "",
+   "promoted": "Ye's album Bully, his first release through Gamma. It came out March 28, 2026 with 18 tracks and debuted at No. 2 on the Billboard 200 with 152,000 units.",
+   "aftermath": "Not a Coachella board. Complex reported Bully billboards around the country in March, first dated March 20, then March 27.",
    "type": "artist_promo",
    "confidence": "medium",
    "sources": [
@@ -1414,6 +1738,21 @@
      "publication": "Richard Lathrop (photo, polo.cold.fyi)",
      "date": "2026-04-16",
      "url": "https://polo.cold.fyi/img/billboards/2026-ye-bully.jpg"
+    },
+    {
+     "publication": "Complex",
+     "url": "https://www.complex.com/music/a/jaelaniturnerwilliams/kanye-west-bully-album-release-date",
+     "date": "2026-03-11"
+    },
+    {
+     "publication": "Billboard Canada",
+     "url": "https://ca.billboard.com/music/rb-hip-hop/kanye-west-bully-tracklist-no-ai-1236207321/",
+     "date": "2026-03-26"
+    },
+    {
+     "publication": "99 Jamz (Cox Media Group)",
+     "url": "https://www.99jamzmiami.com/news/yes-bully-debuts-2-billboard-200/C74MYSTNUY357EOCN3YLUYKQKQ/",
+     "date": "2026-04-06"
     }
    ],
    "photos": [],
@@ -1432,6 +1771,27 @@
     }
    ],
    "rights": "own"
+  },
+  {
+   "year": 2026,
+   "artist": "Pacsun",
+   "title": "Bold black billboard",
+   "said": "",
+   "where": "Along the freeway into the valley (Modern Retail; exact spot not given).",
+   "promoted": "Pacsun's Coachella push: a roadside stand on Highway 111 with merch and flash tattoos, and a first-ever house party.",
+   "aftermath": "",
+   "type": "brand",
+   "confidence": "low",
+   "sources": [
+    {
+     "publication": "Modern Retail (Melissa Daniels)",
+     "url": "https://www.modernretail.co/marketing/bloom-pacsun-and-more-chase-coachella-crowds-on-the-way-to-the-show-with-roadside-activations/",
+     "date": "2026-04-10"
+    }
+   ],
+   "photos": [],
+   "media": [],
+   "rights": "link-only"
   },
   {
    "year": 2026,
@@ -1507,8 +1867,8 @@
    "title": "'I got charmed at Coachella' (vandalized)",
    "said": "Original: \"I got charmed at Coachella\" in lavender text (reference to her album 'Charm'). Altered by taggers: Stereogum reports it read \"I got fucked by Clairo at Coachella\"; Billboard Brasil and Channel X describe 'charmed' being replaced with a profanity.",
    "where": "Highway from Los Angeles to Indio (no specific spot)",
-   "promoted": "Her Saturday set, Outdoor Theatre",
-   "aftermath": "Art collective Indecline (@thisisindecline) claimed it, captioned 'Late Stage Capitalism headlining the Main Stage of America.' Clairo tweeted a photo captioned 'If you're lucky' and commented 'Unfortunately for me , this is very cool . Lol'; she denied it was a staged stunt.",
+   "promoted": "Her Saturday set at the Outdoor Theatre, 8:15pm, April 12 and 19.",
+   "aftermath": "INDECLINE took credit on Instagram ('Late Stage Capitalism headlining the Main Stage of America'). Clairo posted the defaced board on X, 'If you're lucky', and commented 'Unfortunately for me, this is very cool. Lol'.",
    "type": "artist_promo",
    "confidence": "high",
    "sources": [
@@ -1536,6 +1896,11 @@
      "publication": "Richard Lathrop (photo, polo.cold.fyi)",
      "date": "2025-04-17",
      "url": "https://polo.cold.fyi/img/billboards/2025-clairo-charmed.jpg"
+    },
+    {
+     "publication": "Pitchfork via Yahoo",
+     "url": "https://www.yahoo.com/entertainment/articles/coachella-2025-lineup-schedule-set-023050489.html",
+     "date": "2025-04-06"
     }
    ],
    "photos": [
@@ -1548,6 +1913,21 @@
      "url": "https://thefortyfive.com/news/the-best-coachella-billboards-for-2025/",
      "credit": "@concertleaks (Apr 2, 2025) - original unaltered board",
      "kind": "aggregator social photo"
+    },
+    {
+     "url": "https://twitter.com/clairo/status/1910743791272943823",
+     "credit": "Clairo (@clairo) on X, April 11, 2025 - seen embedded in Stereogum",
+     "kind": "official post (linked, not copied)"
+    },
+    {
+     "url": "https://www.instagram.com/p/DIT4y1UshOv/",
+     "credit": "INDECLINE (@thisisindecline) on Instagram - seen embedded in Stereogum",
+     "kind": "official post (linked, not copied)"
+    },
+    {
+     "url": "https://www.instagram.com/reel/DIR0Rf9J0mb/",
+     "credit": "KESQ News Channel 3 (@kesq_news_channel_3) on Instagram - seen embedded in Stereogum",
+     "kind": "official post (linked, not copied)"
     }
    ],
    "media": [
@@ -1571,9 +1951,9 @@
    "artist": "Ed Sheeran (Atlantic Records)",
    "title": "Pink coordinates billboard",
    "said": "'MEET ME ON THE FLOOR...' and '33.68271° N, 116.23477° W' in white on magenta, with a hand-drawn play-button triangle, on an Outfront board (Richard Lathrop photo). Outfront's blog describes it as a cryptic pink coordinates board for Atlantic.",
-   "where": "Not specified",
-   "promoted": "A surprise Sheeran performance (he was added to the 2025 bill after FKA twigs withdrew)",
-   "aftermath": "He played Coachella Weekend 2 (Mojave stage per We Write About Music).",
+   "where": "Not specified; Outfront board, I-10 east of Cabazon. The coordinates fall inside OpenStreetMap's outline of the Empire Polo Club, near its east edge (reverse lookup gives the Monroe Street address range), i.e. on the festival grounds.",
+   "promoted": "Atlantic Records' cryptic tease for a surprise Ed Sheeran performance, per Outfront; the copy is a lyric from his new album. He was a late add: Mojave, 3pm, Saturday April 19 (weekend two only).",
+   "aftermath": "He also ran an 'Old Phone Pub' pop-up at the festival and played it with Shaboozey and Alex Warren on Sunday April 20.",
    "type": "artist_promo",
    "confidence": "high",
    "sources": [
@@ -1586,6 +1966,31 @@
      "publication": "Richard Lathrop (photo, polo.cold.fyi)",
      "date": "2025-04-17",
      "url": "https://polo.cold.fyi/img/billboards/2025-ed-sheeran-meet-me-on-the-floor.jpg"
+    },
+    {
+     "publication": "Variety Australia (Chris Willman)",
+     "url": "https://au.variety.com/2025/music/news/ed-sheeran-weezer-join-coachella-bill-set-times-21445/",
+     "date": "2025-04-06"
+    },
+    {
+     "publication": "Pitchfork via Yahoo",
+     "url": "https://www.yahoo.com/entertainment/articles/coachella-2025-lineup-schedule-set-023050489.html",
+     "date": "2025-04-06"
+    },
+    {
+     "publication": "Billboard Canada",
+     "url": "https://ca.billboard.com/music/music-news/ed-sheeran-shaboozey-alex-warren-coachella-2025-pop-up-1235951217/",
+     "date": "2025-04-21"
+    },
+    {
+     "publication": "OpenStreetMap Nominatim reverse lookup",
+     "url": "https://nominatim.openstreetmap.org/reverse?lat=33.68271&lon=-116.23477&format=jsonv2&zoom=18",
+     "date": "2026-11-04"
+    },
+    {
+     "publication": "OpenStreetMap Nominatim search, Empire Polo Club",
+     "url": "https://nominatim.openstreetmap.org/search?q=Empire+Polo+Club+Indio&format=jsonv2",
+     "date": "2026-11-04"
     }
    ],
    "photos": [],
@@ -1711,8 +2116,8 @@
    "title": "Yeat board",
    "said": "'CO[bell]CHELLA' in white on black, a bell standing in for the first A, with small text 'YEAT', 'SAHARA TENT', 'FRIDAY NIGHT' (Richard Lathrop photo). Stereogum ranked it #14 and said it 'means nothing' outside his fanbase.",
    "where": "Desert highway from LA to Coachella; photographed on I-10 eastbound among the wind turbines east of Cabazon (Lamar)",
-   "promoted": "His Coachella set",
-   "aftermath": "",
+   "promoted": "His Friday set in the Sahara, 9:10pm, April 11 and 18.",
+   "aftermath": "Stereogum ranked it 14th of 15: 'Must've missed that era.'",
    "type": "artist_promo",
    "confidence": "high",
    "sources": [
@@ -1725,6 +2130,11 @@
      "publication": "Richard Lathrop (photo, polo.cold.fyi)",
      "date": "2025-04-17",
      "url": "https://polo.cold.fyi/img/billboards/2025-yeat-cochella.jpg"
+    },
+    {
+     "publication": "Pitchfork via Yahoo",
+     "url": "https://www.yahoo.com/entertainment/articles/coachella-2025-lineup-schedule-set-023050489.html",
+     "date": "2025-04-06"
     }
    ],
    "photos": [],
@@ -2290,7 +2700,7 @@
    "title": "The moustache",
    "said": "A close-up of a man's moustache and grin, white text 'SAHARA SATURDAY'. No name on the board. It stood a few hundred feet from John Summit's board, and Dom Dolla and John Summit also had a joint board as Everything Always.",
    "where": "Beside the railroad tracks on a surface road between Palm Desert and Indio, eastbound (photo location)",
-   "promoted": "A Saturday Sahara set (per the board)",
+   "promoted": "If it's his, his Saturday Sahara closing set: 11:55pm April 20 (W2). On weekend one he brought out Nelly Furtado, with Taylor Swift and Travis Kelce in the crowd.",
    "aftermath": "",
    "type": "artist_promo",
    "confidence": "medium",
@@ -2299,6 +2709,21 @@
      "publication": "Richard Lathrop (photo, polo.cold.fyi)",
      "date": "2024-04-18",
      "url": "https://polo.cold.fyi/img/billboards/2024-dom-dolla-sahara-saturday.jpg"
+    },
+    {
+     "publication": "EDM Identity",
+     "url": "https://edmidentity.com/2024/04/19/coachella-2024-weekend-2-live-stream/",
+     "date": "2024-04-19"
+    },
+    {
+     "publication": "The Groove Cartel",
+     "url": "https://thegroovecartel.com/news/dom-dolla-coachella-2024/",
+     "date": "2024-04-15"
+    },
+    {
+     "publication": "We Rave You (Daniel Sikljan)",
+     "url": "https://weraveyou.com/2024/04/john-summit-dom-dolla-deliver-unforgettable-b2b-at-coachella-2024/",
+     "date": "2024-04-15"
     }
    ],
    "photos": [],
@@ -2324,8 +2749,8 @@
    "title": "Outdoor Theatre + Friday",
    "said": "Dark board, 'Everything Always' in blackletter-style script, 'OUTDOOR THEATRE + FRIDAY'.",
    "where": "Beside the railroad tracks on a surface road between Palm Desert and Indio, eastbound (photo location)",
-   "promoted": "Their Friday Outdoor Theatre set (per the board)",
-   "aftermath": "",
+   "promoted": "Dom Dolla and John Summit's b2b project at the Outdoor Theatre, Friday April 12 and 19; 8:10pm on April 19.",
+   "aftermath": "They called it the 'best night of our lives' on social media, per We Rave You.",
    "type": "artist_promo",
    "confidence": "medium",
    "sources": [
@@ -2333,6 +2758,21 @@
      "publication": "Richard Lathrop (photo, polo.cold.fyi)",
      "date": "2024-04-18",
      "url": "https://polo.cold.fyi/img/billboards/2024-everything-always.jpg"
+    },
+    {
+     "publication": "We Rave You (Daniel Sikljan)",
+     "url": "https://weraveyou.com/2024/04/john-summit-dom-dolla-deliver-unforgettable-b2b-at-coachella-2024/",
+     "date": "2024-04-15"
+    },
+    {
+     "publication": "We Rave You",
+     "url": "https://weraveyou.com/2024/04/john-summit-coachella/",
+     "date": "2024-04"
+    },
+    {
+     "publication": "EDM Identity",
+     "url": "https://edmidentity.com/2024/04/19/coachella-2024-weekend-2-live-stream/",
+     "date": "2024-04-19"
     }
    ],
    "photos": [],
@@ -2358,7 +2798,7 @@
    "title": "How TF we feelin baby?",
    "said": "Black board: 'COACHELLA, HOW TF WE FEELIN BABY?' with a photo of him over a crowd, 'SAHARA' and 'JOHN SUMMIT SUNDAY NIGHT'. Lamar.",
    "where": "Beside the railroad tracks on a surface road between Palm Desert and Indio, eastbound (photo location)",
-   "promoted": "His Sunday night Sahara set (per the board)",
+   "promoted": "His Sunday Sahara closing set, 10:55pm on April 21 (weekend two), after DJ Snake; his first Coachella since 2022.",
    "aftermath": "",
    "type": "artist_promo",
    "confidence": "medium",
@@ -2367,6 +2807,26 @@
      "publication": "Richard Lathrop (photo, polo.cold.fyi)",
      "date": "2024-04-18",
      "url": "https://polo.cold.fyi/img/billboards/2024-john-summit-how-tf.jpg"
+    },
+    {
+     "publication": "We Rave You (Creighton Branch)",
+     "url": "https://weraveyou.com/2024/04/john-summit-closes-out-coachella-2024-at-the-sahara-tent-in-superstar-fashion/",
+     "date": "2024-04-25"
+    },
+    {
+     "publication": "EDM Identity",
+     "url": "https://edmidentity.com/2024/04/19/coachella-2024-weekend-2-live-stream/",
+     "date": "2024-04-19"
+    },
+    {
+     "publication": "We Rave You",
+     "url": "https://weraveyou.com/2024/04/john-summit-coachella/",
+     "date": "2024-04"
+    },
+    {
+     "publication": "Entertainment Weekly via AOL",
+     "url": "https://www.aol.com/why-john-summit-isnt-mad-140000419.html",
+     "date": "2024-10-14"
     }
    ],
    "photos": [],
