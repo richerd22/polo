@@ -77,6 +77,12 @@ What got built was Radiohead's Motion Picture House: about 17,000 square feet wi
 
 It had a long run-up. *KID A MNESIA* first came out in 2021 as a free digital exhibition for PS5, PC and Mac.[^mo-stereogum26] A physical 20th-anniversary installation planned that year was cancelled over logistics and COVID.[^mo-farout] The desert finally got it built, five years late and underground.
 
+Getting in cost nothing but planning. Visits were booked as free reservations in the festival's app, and the core was the 75-minute film built from thousands of Yorke and Donwood sketches, paintings, collages, recordings and notes.[^mo-vau26sets] Yorke's own description of what it's about:
+
+> "a monster trapped in a derelict museum of the lost and forgotten."[^mo-needle26]
+
+It was air-conditioned, which in Indio in April may have been the bigger draw.[^mo-showbams26]
+
 So Radiohead made the 2026 poster without playing a note. Ed O'Brien did tell reporters the band plans to play 20 shows a year from 2027.[^mo-stereogum26] After the festival the Motion Picture House went on tour: Brooklyn from May 6, Mexico City from October 27 and San Francisco's Palace of Fine Arts from January 14, 2027.[^mo-kidamnesia] The film runs 75 minutes, and visits are booked in two-hour slots. Stereogum also listed a Chicago run at Cinespace in the summer, which the official site doesn't show.[^mo-kidamnesia][^mo-stereogum26] The official FAQ says "the Coachella Bunker experience" was different in some ways from the touring version.[^mo-kidamnesia] It wasn't the first artist-built world on the grounds, either. Desert Sun points to Travis Scott's "The Village by Cactus Jack" in 2025.[^mo-desertsun]
 
 ## Other nights people bring up
@@ -97,19 +103,43 @@ So Radiohead made the 2026 poster without playing a note. Ed O'Brien did tell re
 
 **Justin Bieber, 2026.** Bieber went from cameo regular (with Ariana Grande in 2019, with Daniel Caesar and Giveon in 2022) to Saturday headliner, on a deal he negotiated himself. Rolling Stone's Canadian edition thought the crowd might have been "the biggest ever" at Coachella, and also that "Bieber missed the mark": a minimal set heavy on nostalgia, with people leaving during the acoustic deep cuts.[^mo-rsca]
 
+**Sabrinawood, 2026.** Two years after telling the crowd "see you back here when I headline," Sabrina Carpenter did.[^mo-cos26sab] Her first Friday was a tour of fake Hollywood, under a giant "Sabrinawood" sign: Sam Elliott as a traffic cop in the opening film, dancers dressed as poodles for "Manchild," Will Ferrell as an electrician, and the voice of Samuel L. Jackson.[^mo-nme26sab] Susan Sarandon played an older Carpenter in a monologue that ran nearly seven minutes. For weekend two the role went to Geena Davis, Sarandon's *Thelma & Louise* co-star, in a shorter cut, and Terry Crews took Ferrell's part.[^mo-wrap26sab] The same firm, Stufish, designed both Carpenter's show and Bieber's bare one the next night.[^mo-wp26]
+
+**Karol G, 2026.** On the first Sunday Karol G opened with "Latina Foreva," brought out an all-female mariachi band, Becky G and Wisin, and premiered a song with Greg González of Cigarettes After Sex.[^mo-rs26karol] She told the crowd who she was:
+
+> "I am Carolina Giraldo from Medellin, Colombia. And today, I am the first Latina woman to headline Coachella."[^mo-cx26karol]
+
+Wallpaper's critic noted a cave-painting creation myth, a parrot-shaped float and a shallow pool built in the middle of the crowd.[^mo-wp26] A week later she added Peso Pluma, J Balvin and Ryan Castro, and ended with "Nos Vamos de Tour" on the screen.[^mo-mx26karol]
+
+**The Strokes, 2026.** On the first Saturday Julian Casablancas joked about the military draft. On the second, the band played "Oblivius" for the first time in a decade over a video accusing the CIA of political killings, which ended on footage of bombings in Gaza and Iran. The festival's YouTube stream showed it in full.[^mo-ind26]
+
+The surprise slot changed hands too. Jack White, who had headlined 11 years earlier, was added for 45 minutes at 3 p.m. in the Mojave on the first Saturday.[^mo-vau26sets] On the second, the same slot went to Kacey Musgraves.[^mo-showbams26]
+
 **Anyma and the wind, 2026.** Anyma was due to follow Sabrina Carpenter at midnight on the first Friday. The festival called it off: "Due to strong wind conditions affecting Anyma's stage build, he is unable to perform tonight."[^mo-stereogum26b] The same winds brought down a light fixture during John Summit's Do LaB set, injuring a festivalgoer, and that stage was closed.[^mo-stereogum26b] By Sunday the Do LaB had a new Instagram post: "Let's end at the beginning. Anyma b2b Marlon Hoffstadt close out the Do LaB at 10:45pm tonight."[^mo-variety26] His full *ÆDEN* show moved to weekend two.[^mo-stereogum26b] On a site that stages a different spectacle every year, the weather got a credit.
 
 ## Weekend two gets the guests (2026)
 
 For most of the two-weekend era, weekend two was the sequel. Surprise guests were part of the house style, and the famous ones above (Madonna in 2015, \*NSYNC in 2019, Shania Twain in 2022) all came on the first weekend. In 2026 almost all of the big ones landed a week later. Madonna joined Sabrina Carpenter for three songs, timed to her new single. SZA and Sexyy Red came out for Justin Bieber, and Bieber serenaded Billie Eilish. Olivia Rodrigo joined Addison Rae, and Snoop Dogg joined Giveon.[^mo-varietyau]
 
+Up close: Madonna rose out of the stage during Carpenter's "Juno," as it turned into "Vogue." Then came an unreleased song, then "Like a Prayer." It was 20 years to the day since she had played the dance tent, in the same boots and corset, she said: "it's like a full circle moment."[^mo-bbca26mad] Bieber kept the laptop bit but brought Billie Eilish for "One Less Lonely Girl," SZA for "Snooze," Sexyy Red, Dijon and Big Sean, who did two songs Bieber hadn't sung in public since 2017.[^mo-cos26bieb] And Anyma finally got his main-stage *ÆDEN* show, with Lisa of BLACKPINK, Muse's Matt Bellamy, Swae Lee and Joji.[^mo-mx26anyma]
+
 Variety's Jem Aswad asked the industry why. One agent said weekend one "is driven heavily by influencer culture." Another insider put it as: "Weekend two is always better... more to see and less to be seen."[^mo-varietyau] Others said guests on weekend two protect a headliner's first-weekend spotlight. Sources said it was not a plan coordinated by Goldenvoice or YouTube.[^mo-varietyau] The festival has two identical weekends on paper. In practice they've started to split: weekend one for being seen, weekend two for whoever turns up.
+
+:::numbers The stream, 2025-2026
+- 2025: six stages live, plus the Quasar stage in vertical video for Shorts, and the first "Watch With" streams, such as Lady Gaga alongside the creator Zach Campbell[^mo-yt25][^mo-yt25w1]
+- More than half the views on the official channel came from outside the US, three years running, per YouTube in 2025[^mo-yt25w1]
+- 2025: more than half of livestream watch time came from TVs, per YouTube[^mo-dmn26]
+- 2026: seven stages, the Coachella Stage, Outdoor Theatre and Sahara in 4K for the first time, plus a 24/7 "Coachella TV" channel[^mo-dmn26]
+- 2026: "the most viewers watching at one time in the history of Coachella on YouTube," per YouTube, with no number given[^mo-yt2030]
+- The last published peak is still Beyoncé's, about 458,000, in 2018[^mo-fader18]
+:::
 
 ## Still open
 
 - Who designed and built the bunker, what it cost beyond the $2.5M permit valuation, and whether it stays under the polo fields now that the film is on tour.
 - What the Tupac really cost. Nobody has put a figure on the record.
 - What the rink itself cost. Wikipedia credits Billboard with a figure; the reporting we could read says only "millions."
+- The peak livestream audience for 2025 or 2026. YouTube called 2026 a record without saying what the record is.
 
 [^mo-hypebeast12]: Hypebeast (John Ifejika) - "Tupac hologram cost at least $100K" - 2012-04-16 - https://hypebeast.com/2012/4/tupac-hologram-cost-10-million
 [^mo-okayplayer]: Okayplayer (Jaelani Turner Williams) - "Frank Ocean's Planned Ice Rink Was Used During Second Coachella Weekend" - 2023-04-24 - https://www.okayplayer.com/frank-oceans-planned-ice-rink-was-used-during-second-coachella-weekend/413613
@@ -153,3 +183,21 @@ Variety's Jem Aswad asked the industry why. One agent said weekend one "is drive
 [^mo-lat23]: Los Angeles Times (August Brown), via AOL - "EDM may have waned, but the Sahara Tent remains the beating heart of Coachella" - 2023-04-09 - https://www.aol.com/news/edm-may-waned-sahara-tent-120013512.html
 [^mo-rsca]: Rolling Stone Canada (Jeff Miller) - "Justin Bieber Draws Massive Crowd for Messy, 'Swag'-Heavy Set at Coachella" - 2026-04-13 - https://ca.rollingstone.com/justin-bieber-performance-coachella-2026/
 [^mo-variety26]: Variety Australia (Arushi Jacob) - "Anyma to Perform Surprise Set With Marlon Hoffstadt at Coachella After Canceled Performance on Friday" - 2026-04-13 - https://au.variety.com/2026/music/news/anyma-surprise-set-coachella-cancelled-performance-35207/
+[^mo-vau26sets]: Variety Australia (staff) - "Coachella Announces Set Times, With Jack White as Surprise Last-Minute Addition" - 2026-04-07 - https://au.variety.com/2026/music/news/coachella-announces-set-times-2026-jack-white-addition-34990/
+[^mo-needle26]: The Needle Drop (Christian Potter) - "Radiohead turn 'KID A MNESIA' into a walkable fever dream" - 2026-04-08 - https://theneedledrop.com/news/radiohead-turn-kid-a-mnesia-into-a-walkable-fever-dream/
+[^mo-showbams26]: Showbams - "Coachella keeps the twists & turns coming with 2026 set times revealing Jack White, Kacey Musgraves as latest surprise guests" - 2026-04-07 (updated 2026-04-21) - https://showbams.com/2026/04/06/coachella-keeps-the-twists-turns-coming-with-2026-set-times-revealing-jack-white-as-festivals-latest-surprise-guest
+[^mo-cos26sab]: Consequence - "Sabrina Carpenter Turns Coachella Into Sabrinawood" - 2026-04-11 - https://concerts.consequence.net/articles/sabrina-carpenter-coachella-review
+[^mo-nme26sab]: NME (Poppy Burton) - "Sabrina Carpenter revives spirit of Old Hollywood with Coachella set featuring Susan Sarandon, Will Ferrell, and men dressed as dogs" - 2026-04-11 - https://www.nme.com/news/music/sabrina-carpenter-revives-spirit-of-old-hollywood-with-coachella-set-featuring-susan-saradon-will-ferrell-and-men-dressed-as-dogs-3939607
+[^mo-wrap26sab]: TheWrap (Alyssa Ray) - "Coachella 2026: Sabrina Carpenter Brings Out Madonna, Geena Davis and Terry Crews as Surprise Guests" - 2026-04-18 - https://www.thewrap.com/creative-content/music/coachella-2026-sabrina-carpenter-geena-davis-mid-set-monologue/
+[^mo-wp26]: Wallpaper* (Kevin EG Perry) - "From Sabrinawood to Bieber's minimalism: Coachella 2026's best stage designs" - 2026-04-13 - https://www.wallpaper.com/art/music/best-coachella-stage-design-2026
+[^mo-rs26karol]: Rolling Stone (Maya Georgi) - "Karol G's Historic Coachella Set Included Becky G, Wisin, and Tons of Latin Genres" - 2026-04-13 - https://www.rollingstone.com/music/music-latin/karol-g-coachella-performance-1235545608/
+[^mo-cx26karol]: Complex (Trace William Cowen) - "Karol G at Coachella: Peso Pluma, J Balvin, and More Surprise Guests Take the Stage for Weekend 2" - 2026-04-20 - https://www.complex.com/music/a/tracewilliamcowen/karol-g-coachella-peso-pluma-j-balvin
+[^mo-mx26karol]: mxdwn (Akeem Ivory) - "Karol G Invites Peso Pluma, Becky G, J. Balvin, Ryan Castro Onstage During Coachella Weekend Two Set" - 2026-04-20 - https://music.mxdwn.com/2026/04/20/news/karol-g-invites-peso-pluma-becky-g-j-balvin-ryan-castro-onstage-during-coachella-weekend-two-set/
+[^mo-ind26]: The Independent (Carsen Holaday) - "The Strokes end Coachella set with fiery video condemning US and Israeli bombings in Iran and Gaza" - 2026-04-20 - https://www.the-independent.com/arts-entertainment/music/news/the-strokes-coachella-set-gaza-trump-video-b2960778.html
+[^mo-bbca26mad]: Billboard Canada (first published by Billboard US) - "Sabrina Carpenter Brings Out Madonna for Coachella Weekend Two" - 2026-04-18 - https://ca.billboard.com/music/concerts/madonna-sabrina-carpenter-coachella-2026-1236226082/
+[^mo-cos26bieb]: Consequence - "Justin Bieber Brings Out Billie Eilish, SZA at Coachella Weekend Two" - 2026-04-19 - https://concerts.consequence.net/articles/justin-bieber-coachella-billie-eilish-sza
+[^mo-mx26anyma]: mxdwn (Aryn Honaker) - "Muse's Matt Bellamy, Lisa of Blackpink, Swae Lee & Joji Make Appearances at Anyma's ÆDEN Premiere at Coachella" - 2026-04-18 - https://music.mxdwn.com/2026/04/18/news/muses-matt-bellamy-lisa-of-blackpink-swae-lee-joji-make-appearances-at-anymas-aeden-premiere-at-coachella/
+[^mo-yt25]: YouTube Blog (Ali Rivera) - "Get ready! Catch Coachella 2025 live, only on YouTube" - 2025-04-02 - https://blog.youtube/news-and-events/coachella-2025-livestream-how-to-watch/
+[^mo-yt25w1]: YouTube Blog - "Coachella weekend 1: How to watch the full livestream on YouTube" - 2025-04-15 - https://blog.youtube/news-and-events/the-countdown-to-coachella-weekend-1-begins/
+[^mo-dmn26]: Digital Music News (Dylan Smith) - "YouTube Pulls Out All the Stops for Coachella 2026" - 2026-04-08 - https://www.digitalmusicnews.com/2026/04/07/coachella-2026-livestream-youtube/
+[^mo-yt2030]: YouTube Blog (Lyor Cohen) - "Coachella will stream exclusively on YouTube through 2030" - 2026-09-23 - https://blog.youtube/news-and-events/made-on-youtube-coachella-exclusively-stream-youtube-2030/

@@ -21,6 +21,8 @@ The two open-air stages are a smaller mystery. Palm Springs Life's account of 19
 
 The main stage, now the Coachella Stage, is the one on the posters and the livestream thumbnails. In 2013 it was built by Brown United on six legs, and the stagehands called it "Optimus Brown." It carried about 165,000 pounds of gear on a structure rated for 500,000.[^st-plsn13] Rat Sound has handled the audio almost from the start - 18 of the first 19 years, as of 2018 - and that year the main stage field alone had 168 L-Acoustics K2 cabinets.[^st-foh18]
 
+In 2026 two of its three headliners came from the same shop. Stufish built both Sabrina Carpenter's Friday, a Hollywood set with a "Sabrinawood" sign, and Justin Bieber's Saturday, a nearly bare stage under a ring of light that Wallpaper's critic thought looked more and more like a ring light.[^st-wp26] That year the Coachella Stage, the Outdoor Theatre and the Sahara were also streamed in 4K for the first time.[^st-dmn26]
+
 The Outdoor Theatre sits next to it, and it is the stage people mean when they say "sunset set."[^st-discotech] In 2013 it had a 65 x 45 ft roof and sliding trusses so one act's lights could roll off while the next act's rolled on.[^st-plsn13] It also has the strangest second life of any stage on the grounds. When the country festival Stagecoach takes over the polo fields after Coachella, its main stage goes up on the Outdoor Theatre site, according to a 2014 report.[^st-soundgirls]
 
 ## The Sahara keeps moving
@@ -87,6 +89,8 @@ From there it grew, one negotiation at a time. Dede describes 2008 as the year t
 
 In 2014 it moved to a corner with a backstage, and the brothers started calling it "the official sixth stage at Coachella."[^st-fader25] The festival still does not put Do LaB on the set-time grid. It lists it on the poster, in small type, as an art installation, and the lineup comes out separately on Do LaB's own channels, usually in late March.[^st-var23] Dede called the tiny poster credit a "badge of honor."[^st-ew23]
 
+In 2026 the separate announcement came early. Billboard had the Do LaB and Quasar lineups by the end of January, with Tinashe and Andy C on weekend one and Seth Troxler, A-Trak and SBTRKT on weekend two.[^st-mic26]
+
 Water stayed the theme. Misters, water cannons and performers with flower-covered water guns have been cooling the crowd since the start; as Dede put it, "we knew how intense it was out here."[^st-law25][^st-npr22] By 2022 the structure was a 200 x 200 ft tent of colored fabric triangles holding about 10,000 people at night.[^st-npr22] In 2025 the stage ran on battery power, according to the festival.[^st-coachsus]
 
 ### The surprise sets
@@ -115,6 +119,8 @@ Quasar is the newest stage, and it exists because 60 to 90 minutes is not long e
 
 Shaw heard about the project at the end of January 2024, which gave her under four months to build it, the tightest timeline of her career.[^st-ew24] The result is two asymmetric LED walls showing a live Unreal Engine model of the Coachella landscape, rendered in real time.[^st-ew24] It sits on the Sahara's former ground.[^st-mixmagasia] The 2024 bookings set the format: Honey Dijon with Green Velvet, a Jamie xx, Floating Points and Daphni b3b, and a sunset set from Eric Prydz b2b Anyma.[^st-djmag24][^st-mixmagasia]
 
+By 2026, its third year, the format was settled: three-hour sets on both weekends, with different acts each weekend.[^st-mic26][^st-showbams26] Weekend one had PAWSA, David Guetta and Fatboy Slim. Weekend two had Armin van Buuren with Adam Beyer, a "Pardon My French" set from DJ Snake and a "Blood Oath" set from Sara Landry.[^st-mic26]
+
 In 2025 Red Bull built a place to watch it from. KTLA described the Red Bull Mirage as a two-story, 20,000-square-foot installation near Quasar, with bars and shade, open to any GA wristband.[^st-ktla25] By 2026 Flaunt was calling it three tiers, with DJ sets, a daytime happy hour and a Nobu omakase dinner on the Saturday; the top level was mostly kept for artists and guests.[^st-flaunt26] Whether it grew a floor between years, or the two outlets counted differently, is not clear.
 
 ## Despacio: seven stacks and one disco ball
@@ -133,6 +139,10 @@ The one room named for a cold place was a dome. In 2017 Goldenvoice put up a 120
 
 Heineken has been Coachella's official beer since 2002.[^st-talents14][^st-prn19] Before the House there were the Heineken Domes; PLSN used one as a landmark in 2013.[^st-plsn13] In 2014 Heineken House replaced them, with sets from Skrillex, Outkast, Lorde and Girl Talk, Snapchat clues to secret performers, and beer lockers opened by fingerprint.[^st-talents14] In 2019 it moved, got a new structure and its first 21-plus beer garden, and booked De La Soul and The Roots.[^st-prn19] By 2025 it was air-conditioned, with Pusha T and Afrojack.[^st-edmid25]
 
+## The Bunker
+
+The 2026 map, posted on April 9, changed so little from 2025 that Showbams called it the first year it could remember with no major modifications.[^st-showbams26] The one new room was underground: a 17,000-square-foot, air-conditioned bunker near the Sahara, holding Radiohead's *KID A MNESIA* installation.[^st-showbams26] The moments chapter has the story. Whether it gets a second tenant is one of this chapter's open questions.
+
 ## Retired, temporary and never built
 
 Some rooms did not last.
@@ -147,6 +157,7 @@ Some rooms did not last.
 - Who named the tents after deserts, and when the second stage became the Outdoor Theatre.
 - The 2024 Sahara's real footprint: 320 ft long, or 400 x 410 ft.
 - Whether the Red Bull Mirage gained a third level in 2026 or was always that tall.
+- What goes into the bunker after Radiohead, now that the installation is on tour.
 
 [^st-brit]: Encyclopaedia Britannica - "World's largest deserts" - n.d. - https://britannica.com/topic/worlds-largest-deserts-2225895
 [^st-psl]: Palm Springs Life - "First Coachella music festival" - n.d. - https://www.palmspringslife.com/first-coachella-music-festival/
@@ -197,3 +208,7 @@ Some rooms did not last.
 [^st-pacdomes]: Pacific Domes - "Coachella Festival Oasis Dome" - n.d. - https://pacificdomes.com/?p=11793
 [^st-rs22]: Rolling Stone - Coachella 2022 recap: Billie Eilish, Megan Thee Stallion, Danny Elfman - 2022-04 - https://www.rollingstone.com/music/music-features/coachella-2022-recap-billie-eilish-megan-thee-stallion-danny-elfman-1338779/
 [^st-dmn19]: Digital Music News (Paul Resnikoff), relaying Billboard (Dave Brooks) - "Kanye West Cancelled Coachella Because They Wouldn't Build Him a Giant Dome In the Middle of the Festival" - 2019-01-13 - https://www.digitalmusicnews.com/2019/01/13/kanye-west-cancelled-coachella-dome/
+[^st-wp26]: Wallpaper* (Kevin EG Perry) - "From Sabrinawood to Bieber's minimalism: Coachella 2026's best stage designs" - 2026-04-13 - https://www.wallpaper.com/art/music/best-coachella-stage-design-2026
+[^st-dmn26]: Digital Music News (Dylan Smith) - "YouTube Pulls Out All the Stops for Coachella 2026" - 2026-04-08 - https://www.digitalmusicnews.com/2026/04/07/coachella-2026-livestream-youtube/
+[^st-mic26]: Mic Drop Music (Cheyenne Leitch), citing Billboard - "Coachella 2026 Doubles Down on Its Electronic Core" - 2026-01-30 - https://micdropmusic.com/?p=31335
+[^st-showbams26]: Showbams - "Coachella keeps the twists & turns coming with 2026 set times revealing Jack White, Kacey Musgraves as latest surprise guests" - 2026-04-07 (updated 2026-04-21) - https://showbams.com/2026/04/06/coachella-keeps-the-twists-turns-coming-with-2026-set-times-revealing-jack-white-as-festivals-latest-surprise-guest

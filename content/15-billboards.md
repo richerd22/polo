@@ -55,13 +55,44 @@ Addison Rae's million-dollar bill among the turbines east of Cabazon, April 16, 
 Photo: Richard Lathrop
 :::
 
-There is also a different kind of board off the interstate. The art biennial Desert X has put billboard works in the valley, starting in 2017 with a work by Jennifer Bolande on the road into Palm Springs.[^bb-dx] The season chapter covers those.
+There is also a different kind of board off the interstate. The art biennial Desert X has put billboard works in the valley, starting in 2017 with a work by Jennifer Bolande on the road into Palm Springs.[^bb-dx] The season chapter covers those. One of them sat right in this landscape: in 2019 one of Cara Romero's billboards stood in front of the Palm Springs wind turbines.[^bb-spaces19]
+
+## The landmarks between the boards
+
+The boards aren't the only things on the road built to be seen from a car. A lot of people driving the pass every day see the same ones: the Riverside County Transportation Commission puts the traffic through the San Gorgonio Pass at more than 160,000 people a day.[^bb-cvr]
+
+**The dinosaurs.** Claude Bell bought land at Cabazon in 1946 for $5,000. The state leveled the hilly lot for free, in exchange for its gravel, which went into an overpass on the new freeway.[^bb-lat86] Bell, a sculptor who ran the portrait studio at Knott's Berry Farm for 35 years, started his brontosaurus, Dinny, in 1964. It was built from steel and cement the state had abandoned after a flash flood buried them, girders from a defunct drive-in in Banning, and 1,200 bags of cement. It is 150 feet long, and by Bell's count it took 11 years and $250,000. It had glowing red eyes at night, and it cost 50 cents to go inside.[^bb-lat86] He got the idea at about age 10, from Lucy, the elephant-shaped building in Atlantic City.[^bb-lat86]
+
+The tyrannosaurus, Mr. Rex, started rising in 1981: 65 feet tall, with a staircase to a lookout in its mouth 55 feet up and a channel in the tail meant for a slide that Bell worried was too steep.[^bb-lat86] Bell died in 1988 at 91. His obituary listed Dinny at 150 tons and Rex at 100, and noted they were in *Pee-wee's Big Adventure*.[^bb-lat88]
+
+Then the dinosaurs changed owners and, for a while, beliefs. Wikipedia's history says Gary Kanter, an Orange County developer, had bought the property by 1995.[^bb-wikidino] By 2005 the gift shop sold toy dinosaurs labeled "Don't swallow it! The fossil record does not support evolution."[^bb-lat05] Kanter told the Los Angeles Times he had first looked up at Dinny's belly and thought: "He's like a movable Golden Gate bridge."[^bb-lat05] Visitors have reported the creationist material gone since about 2017, and the Kanters still ran the site as of 2021, by Wikipedia's account. After Paul Reubens died in 2023, Mr. Rex was repainted in Pee-wee's grey suit and red bow tie.[^bb-wikidino]
+
+**The outlets.** Just east, off the Malki Road exit on Seminole Drive next to Morongo Casino, is Desert Hills Premium Outlets.[^bb-rebus14] It has been there since 1990 and expanded in 2000, 2008 and 2014, according to a 2025 Patch item.[^bb-patchdh] The 2014 round added 50 stores and a 1,100-space parking garage, for 650,000 square feet and 180 stores in all.[^bb-rebus14] KESQ put that expansion at more than $100 million.[^bb-kesqdh]
+
+During festival weeks the brands come to the exits instead of the malls coming to the festival. In 2026 Maruchan set up "MaruMart," a convenience-store pop-up at Cabazon Outlets, also on Seminole Drive, from April 9 to 13 and 16 to 20, free to enter.[^bb-edmm26] Modern Retail reported it was built in a shipping container, with an Airstream trailer for the ramen, and advertised with boards around the exit. Maruchan's marketing director, Katelyn Stokes:
+
+> "You can see the pop-up from the highway, and it grounds people with a landmark that's easy to find."[^bb-mr26]
+
+Her other line explains the whole genre: "Since we're not in the festival, this is a way for the brand to still be present."[^bb-mr26] Pacsun paired a black billboard on the freeway with a roadside stand on Highway 111, and Bloom Nutrition wrapped a 7-Eleven near the Palm Springs airport in pink for the Thursday and Friday of arrival.[^bb-mr26]
+
+**The turbines.** The San Gorgonio Pass sits between Mount San Gorgonio, at 11,502 feet, and Mount San Jacinto, at 10,786.[^bb-lat86] It is the gap where a Mediterranean climate to the west meets the desert to the east, which, in Wikipedia's summary, makes it one of the most consistently windy places in the country.[^bb-wikiwind] The first try came in 1926, when Dew Oliver built a turbine near Whitewater with a generator salvaged from a Seal Beach roller coaster; the wind burned it out.[^bb-wikiwind] Southern California Edison tested two machines near its Devers substation from 1980, and one, an Alcoa vertical-axis turbine, destroyed itself two weeks after installation, on the eve of the first American Wind Energy Conference in Palm Springs.[^bb-wikiwind] By 1987, 14 operators had put up more than 4,200 turbines. Since then old ones have been swapped for fewer, bigger ones, and the federal turbine database counted 667 in May 2025.[^bb-wikiwind]
+
+**The shovel.** The last landmark of 2026 was about 2 miles short of the polo grounds. On the festival's first morning, April 10, Tom Cruise posted a photo on X of a giant shovel, with coordinates and the caption "In DIGGER We Trust."[^bb-wrapdig] It promoted *Digger*, Alejandro G. Iñárritu's black comedy starring Cruise, his first non-franchise film since 2017; Warner Bros.' teaser had shown him swinging the same shovel.[^bb-wrapdig] AceShowbiz put it at 50 feet and 24,000 pounds, at John Nobles Avenue and Monroe Street.[^bb-acedig] The signs beside it said the shovel "can get extremely hot," and that anyone entering the exhibit agreed to be filmed for Warner marketing from April 10 to 26.[^bb-digsigns] The film opened on October 2 to about $8 million, Cruise's lowest opening since *Lions for Lambs* in 2007.[^bb-tvidig]
+
+:::figure img/billboards/2026-digger-shovel.jpg 1200x1600 | A giant red shovel planted in a mound of sand at night, in Indio
+The *Digger* shovel in Indio, about 2 miles north of the polo grounds, the night of April 16, 2026.
+Photo: Richard Lathrop
+:::
 
 ## How it started
 
 No one has documented a "first" Coachella billboard, but a label got there by 2013. That April, Republic Records put up eight boards on the I-10 into Indio: one with its logo, five for its acts on the bill, including James Blake and Ben Howard, and two for Black Sabbath and Kid Cudi, who had albums coming and no set.[^bb-thr13] The label had tried it the year before. Its marketing chief, Jim Roppo, said:
 
 > "We had done a few last year - I think we did three."[^bb-thr13]
+
+Roppo was also selling the boards to the industry. The festival was where managers and film people would be, and Lamar, the owner, told him the boards got "something like 2 million impressions" in the weeks outside the festival.[^bb-thr13] Two Republic acts on the bill got no board, because they had no album coming. "I hope they're not mad," he said. He was already booking for the next year, and he laughed when he said why:
+
+> "Coachella has locked in through 2030, and we're doing the same for the billboards."[^bb-thr13]
 
 That puts the first label boards on the road in 2012. The earliest band photo found for this archive is in a DASH TWO blog post from January 2015, which shows the band Miami Horror "standing proudly in front of their billboard from last year," meaning 2014.[^bb-dash15] The same post says only "a handful of billboards" were left for the 2015 festival.[^bb-dash15] That is an agency talking about its own work, so it carries a low confidence label below.
 
@@ -86,6 +117,14 @@ When the festival came back, so did the boards, unevenly. DASH TWO booked 15, fi
 There were fewer faces to go around. Before the pandemic, local car dealers and casinos with year-round contracts sublet their boards to Coachella advertisers at a discount. After the 2020-21 cancellations, they stopped putting those boards in the deal.[^bb-bbpro]
 
 Scott's "Wrong way!" set the tone for what came next: boards built to be photographed, not just read. In 2025, a board reading "KIKI BOY 2025" went up with no explanation, and Rolling Stone asked whether Frank Ocean was teasing something.[^bb-rs25] Not every board is welcome. In 2024, Goldenvoice demanded that the AIDS Healthcare Foundation take down its "Catch More Than Vibes?" board on the westbound I-10.[^bb-nbcps24] And in 2026, enough boards were vandalized that officials planned stronger security for them.[^bb-nbcps26]
+
+The AIDS Healthcare Foundation is the most persistent of the uninvited. Its 2024 board, "Catch More Than Vibes?", went up on March 26, facing westbound traffic leaving the valley, with the address of its free STD testing site.[^bb-ahf24] Adweek put it about 15 miles out from the grounds.[^bb-adweek24] AHF told OOH Today that AEG/Goldenvoice's legal department said the art was too close to its copyrighted imagery and threatened action if the board wasn't down in 48 hours. AHF said the photo came from Getty Images.[^bb-ooh24] Its marketing VP, Jason Farmer:
+
+> "We were ready to fight them if they kept pushing us to take it down."[^bb-ooh24]
+
+The board stayed up and the media owner kept running it.[^bb-ooh24] In 2025 AHF came back on the same westbound stretch with "Bad Romance?" from March 31 to April 27, the title of a Lady Gaga song in a year she played the first Friday.[^bb-ahf25][^bb-foxwx25]
+
+That spring a board for the DJ Disco Lines read "Accidentally smoked that s***, now I'm playing at Coachella." Amber Royer, who lost her son to fentanyl and runs the nonprofit Out of the Ashes, told KESQ: "It makes it sound like drugs lead to success, fun and fame."[^bb-kesq25] Lamar, which owns the board, declined to comment.[^bb-kesq25] The same week, graffiti writers painted GRIM over the whole of a Snow Strippers board. Their label's founder, a graffiti artist himself, covered it with a new promo, and Stereogum thought it looked better than the original.[^bb-sg25]
 
 ## How this archive works
 
@@ -131,3 +170,26 @@ Instagram roundups collect the boards every year too. They are a good place to l
 [^bb-geo]: Google - "Geo Guidelines" (Brand Resource Center) - n.d. (read 2026-10-31) - https://about.google/brand-resource-center/products-and-services/geo-guidelines/
 [^bb-desertsun26]: The Desert Sun (Ema Sasic), via Yahoo - "Headed to Indio? Be on the lookout for these Coachella billboards" - 2026-04-02 - https://www.yahoo.com/entertainment/music/articles/headed-indio-lookout-coachella-billboards-181955932.html
 [^bb-thr13]: The Hollywood Reporter (Jem Aswad, Billboard) - "The Road to Coachella Belongs to Republic Records" - 2013-04-12 - https://www.hollywoodreporter.com/news/general-news/road-coachella-belongs-republic-records-438812/
+[^bb-cvr]: Riverside County Transportation Commission - "Coachella Valley Rail" fact sheet - 2025-02-14 - https://www.rctc.org/wp-content/uploads/2025/02/CVR_Fact_Sheet_021425.pdf
+[^bb-lat86]: Los Angeles Times (Mike Eberts) - "Dinosaur Garden Blooms in Desert: At 89, Claude Bell Has Even More Beasts Up His Sleeve" - 1986-01-23 - https://www.latimes.com/archives/la-xpm-1986-01-23-vw-27870-story.html
+[^bb-lat88]: Los Angeles Times (Burt A. Folkart) - "Claude K. Bell; He Described Himself as a 'Nut on Dinosaurs'" - 1988-09-21 - https://www.latimes.com/archives/la-xpm-1988-09-21-mn-2146-story.html
+[^bb-wikidino]: Wikipedia - "Cabazon Dinosaurs" - n.d. (read 2026-11-04) - https://en.wikipedia.org/wiki/Cabazon_Dinosaurs
+[^bb-lat05]: Los Angeles Times (Ashley Powers) - "Adam, Eve and T. Rex" - 2005-08-27 - https://www.latimes.com/archives/la-xpm-2005-aug-27-me-dinosaurs27-story.html
+[^bb-rebus14]: REBusiness Online - "Desert Hills Premium Outlets in Cabazon Opens 50-Store Expansion" - 2014-04-30 - https://rebusinessonline.com/desert-hills-premium-outlets-in-cabazon-opens-50-store-expansion/
+[^bb-patchdh]: Patch (Shaena Engle) - "Desert Hills Premium Outlets Welcomes New Luxury Brands Ahead of National Outlet Shopping Day" - 2025-06-09 - https://patch.com/california/palmsprings-ca/desert-hills-premium-outlets-welcomes-new-luxury-brands-ahead-national
+[^bb-kesqdh]: KESQ - "Desert Hills Premium Outlets adding 50 new stores" - 2014-04-22 - https://kesq.com/?p=73573
+[^bb-edmm26]: EDM Maniac - "Maruchan To Pop Up Outside Coachella With Free Noodles Both Festival Weekends" - 2026-04-06 - https://edmmaniac.com/maruchan-pop-up-coachella-2026/
+[^bb-mr26]: Modern Retail (Melissa Daniels) - "Bloom, Pacsun and more chase Coachella crowds on the way to the show with roadside activations" - 2026-04-10 - https://www.modernretail.co/marketing/bloom-pacsun-and-more-chase-coachella-crowds-on-the-way-to-the-show-with-roadside-activations/
+[^bb-wikiwind]: Wikipedia - "San Gorgonio Pass wind farm" (citing the U.S. Wind Turbine Database, v8.1, May 2025) - n.d. (read 2026-11-04) - https://en.wikipedia.org/wiki/San_Gorgonio_Pass_wind_farm
+[^bb-wrapdig]: TheWrap (Alex Welch) - "Why Tom Cruise Put a Massive Shovel in the Desert for Coachella" - 2026-04-10 - https://www.thewrap.com/culture-lifestyle/culture/digger-tom-cruise-movie-giant-shovel-installation-coachella/
+[^bb-acedig]: AceShowbiz (editorial team, with AI assistance) - "Why a 24,000-Pound Shovel Is Trending on TikTok Linked to Tom Cruise Film" - 2026-04-16 - https://www.aceshowbiz.com/news/view/00253984.html
+[^bb-digsigns]: Signs at the *Digger* shovel exhibit, Indio ("Warning" sign and "Public Filming Notification") - photographed by Richard Lathrop - 2026-04-16
+[^bb-tvidig]: TV Insider (Dan Clarendon), citing The Hollywood Reporter - "'Digger' Headed for Worst Opening for a Tom Cruise Film in Nearly 20 Years" - 2026-10-03 - https://www.tvinsider.com/1294836/digger-box-office-first-weekend-tom-cruise-film/
+[^bb-ahf24]: AIDS Healthcare Foundation, via Business Wire - "Coachella Concerned That People Have Sex, Says AHF" - 2024-03-28 - https://investor.wedbush.com/wedbush/article/bizwire-2024-3-28-coachella-concerned-that-people-have-sex-says-ahf
+[^bb-adweek24]: Adweek (Robert Klara) - "Coachella Went After a Nonprofit Behind an STD Awareness - and Missed a Big Marketing Opportunity" - 2024-04-18 - https://www.adweek.com/brand-marketing/coachella-went-after-a-nonprofit-behind-an-std-awareness-and-missed-a-big-marketing-opportunity/
+[^bb-ooh24]: OOH Today - "Coachella is not 'Vibing' with AHF's Latest Ad" - 2024-04-15 - https://oohtoday.com/coachella-is-not-vibing-with-ahfs-latest-ad
+[^bb-ahf25]: AIDS Healthcare Foundation (Ged Kenslea) - "'Bad Romance?' Festival Billboard Promotes STD Testing" - 2025-04-01 - https://www.aidshealth.org/2025/04/bad-romance-festival-billboard-promotes-std-testing/
+[^bb-foxwx25]: FOX Weather - "Coachella festivalgoers experience record heat during the first weekend" - 2025-04-10 - https://www.foxweather.com/weather-news/coachella-festival-potential-record-high-temperatures-first-weekend
+[^bb-kesq25]: KESQ (Shay Lawson) - "Coachella billboard sparks controversy among families affected by Fentanyl Crisis" - 2025-04-21 - https://kesq.com/?p=1663909
+[^bb-sg25]: Stereogum (Chris DeVille) - "Fans Are Vandalizing Coachella Billboards And Artists Are Rolling With It" - 2025-04-11 - https://stereogum.com/2303983/coachella-billboards-vandalized-clairo-snow-strippers/news
+[^bb-spaces19]: The Spaces (Annabel Herrick) - "Billboards bring Native American culture into the spotlight at Desert X" - 2019-02-14 - https://thespaces.com/billboards-bring-native-american-culture-into-the-spotlight-at-desert-x/
