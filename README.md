@@ -11,6 +11,7 @@ Independent. Not affiliated with Coachella, Goldenvoice or AEG.
   - `research/chapters/` - one file per chapter cluster
 - `incoming/billboards/` - Richard Lathrop's original photos and videos (full resolution, with EXIF and GPS). Gitignored, so they are never committed or published.
 - `img/billboards/` - the published copies: resized (1600px and an 800px `-sm`), EXIF and GPS stripped, plates blurred, videos muted. Logged in `research/billboards/richard-2024-2026.md`.
+- `img/cc/` - Creative Commons photos from Flickr and Wikimedia Commons (no NC or ND licences), resized the same way. Each figure credits the photographer, links the original page and names the licence.
 - `data/still_needed.json` - boards reported in the press or posted officially, with no image yet (rendered at the bottom of /billboards/). Unverified leads wait in `research/billboards/still-needed-leads.json`.
 - `data/billboards.raw.json` - every billboard found so far, merged, unreviewed. Fields: year, artist, title, shows_says, location, promoted, aftermath, sources, image_sources, confidence, entry_type, notes
 - The site itself lands here once the outline is approved (GitHub Pages, `main`, root)

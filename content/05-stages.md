@@ -152,6 +152,80 @@ Some rooms did not last.
 - **Despacio and the Antarctic:** pop-ups that come back when someone wants them to, so far in 2016 and 2023, and 2017 and 2019.[^st-musictech][^st-ld17][^st-pacdomes19]
 - **The Kanye dome:** for 2019, Kanye West reportedly wanted a huge dome in the middle of the grounds. Goldenvoice said no, partly because it would have meant moving stages and a toilet area tied to sewer and water lines, and Ariana Grande took the slot within 24 hours. That account comes from Billboard's reporting, via Digital Music News; neither side confirmed it.[^st-dmn19]
 
+## In pictures
+
+Other people's photos, used under the Creative Commons licence named under each one.
+
+:::figure img/cc/main-stage-goroadtrippin.jpg 1600x953 | The Coachella main stage at the 2013 festival
+The Coachella main stage at the 2013 festival.
+Photo: [Joanna Kalafatis (Flickr: GoRoadTrippin)](https://www.flickr.com/photos/116655078@N03/12358396245/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/main-stage-2008-feverblue.jpg 1594x896 | The main stage at Coachella 2008, seen from the field in daylight
+The main stage at Coachella 2008, seen from the field in daylight.
+Photo: [Will Keightley (Flickr: feverblue)](https://www.flickr.com/photos/85455733@N00/2443777306/) · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), via Flickr
+:::
+
+:::figure img/cc/main-stage-toastyken.jpg 1600x849 | The main stage lit up at night during Coachella 2013
+The main stage lit up at night during Coachella 2013.
+Photo: [Kenneth Lu (Flickr: ToastyKen)](https://www.flickr.com/photos/24226200@N00/8692337870/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/sahara-tent-2007.jpg 1600x1200 | The Sahara tent at Coachella 2007
+The Sahara tent at Coachella 2007.
+Photo: [Will Keightley (Flickr: feverblue)](https://www.flickr.com/photos/85455733@N00/476509559/) · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), via Flickr
+:::
+
+:::figure img/cc/sahara-justice-2007.jpg 1600x1200 | Justice performing in the Sahara tent at Coachella 2007
+Justice performing in the Sahara tent at Coachella 2007.
+Photo: [Yvonne Esperanza (Flickr: E Vön Zita)](https://www.flickr.com/photos/12052457@N06/1364758559/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/sahara-photosam.jpg 1600x1065 | Inside the Sahara tent at Coachella 2012
+Inside the Sahara tent at Coachella 2012.
+Photo: [Sam Litvin (Flickr: photosam88)](https://www.flickr.com/photos/70181267@N00/7110482559/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/mojave-simian-mobile-disco.jpg 1000x667 | Simian Mobile Disco's light show in the Mojave tent at Coachella 2013
+Simian Mobile Disco's light show in the Mojave tent at Coachella 2013.
+Photo: [Sean H (Flickr: John Rabbit)](https://www.flickr.com/photos/35116312@N02/8660242398/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/gobi-tent-2009.jpg 1024x768 | Inside the Gobi tent at Coachella 2009, before Ida Maria's set
+Inside the Gobi tent at Coachella 2009, before Ida Maria's set.
+Photo: [Jandy Stone (Flickr: faithx5)](https://www.flickr.com/photos/89855080@N00/3456872096/) · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), via Flickr
+:::
+
+:::figure img/cc/yuma-tent-2014.jpg 1600x1066 | The Yuma tent at Coachella 2014
+The Yuma tent at Coachella 2014.
+Photo: [Fred von Lohmann (Flickr: vonlohmann)](https://www.flickr.com/photos/96142941@N00/13943466554/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/yuma-tent-cc0.jpg 1600x1200 | The Yuma tent during weekend one of Coachella 2016
+The Yuma tent during weekend one of Coachella 2016.
+Photo: [Fred von Lohmann (Flickr: vonlohmann)](https://www.flickr.com/photos/96142941@N00/26046958804/) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/), via Flickr
+:::
+
+:::figure img/cc/yuma-jon-hopkins-2015.jpg 1600x1200 | Jon Hopkins playing the Yuma tent at Coachella 2015
+Jon Hopkins playing the Yuma tent at Coachella 2015.
+Photo: [David Jones](https://www.flickr.com/photos/45457437@N00/19728172446/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/do-lab-2013-penner.jpg 1600x1200 | The Do LaB stage at Coachella 2013
+The Do LaB stage at Coachella 2013.
+Photo: [Scott Penner](https://www.flickr.com/photos/31648498@N00/8679807248/) · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), via Flickr
+:::
+
+:::figure img/cc/do-lab-sky-2013.jpg 667x1000 | Spires and balloons at the Do LaB during weekend one of Coachella 2013
+Spires and balloons at the Do LaB during weekend one of Coachella 2013.
+Photo: [Sean H (Flickr: John Rabbit)](https://www.flickr.com/photos/35116312@N02/8674462366/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/do-lab-helix-poeticus-2013.jpg 1024x575 | The Do LaB and the Helix Poeticus snail at Coachella 2013
+The Do LaB and the Helix Poeticus snail at Coachella 2013.
+Photo: [sachoben](https://commons.wikimedia.org/wiki/File:Coachella_2013_Do_Lab_and_Helix_Poeticus.jpg) · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons
+:::
+
 ## Still open
 
 - Who named the tents after deserts, and when the second stage became the Outdoor Theatre.

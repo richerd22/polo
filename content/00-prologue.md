@@ -76,6 +76,25 @@ He was not counting on the heat, or on how few of them would come back the first
 This is the founding story Goldenvoice tells, and it's mostly true. Tollett has said the Pearl Jam show showed him the site could work for a festival.[^pro-npr] Wikipedia goes further. Citing Billboard in 2012, it says Tollett credited the concert with having "sowed the seeds for an eventual music festival there."[^pro-wikivs] The documented version is a little slower. The first festival was in October 1999, six years later, and it nearly sank the company.[^pro-ringer] The seed was real. It took a while to come up.
 :::
 
+## In pictures
+
+Other people's photos, used under the Creative Commons licence named under each one.
+
+:::figure img/cc/date-palm-grove-postcard.jpg 1500x974 | A postcard of a date palm grove in the Coachella Valley, issued around 1930 to 1945
+A postcard of a date palm grove in the Coachella Valley, issued around 1930 to 1945.
+Photo: [Boston Public Library](https://www.flickr.com/photos/24029425@N06/7535831972/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/date-palms-isca.jpg 1600x1063 | Rows of date palms in the Coachella Valley in June 2016
+Rows of date palms in the Coachella Valley in June 2016.
+Photo: [ISCA Tech (Flickr: ISCATechnologies)](https://www.flickr.com/photos/141728823@N04/27659812366/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/valley-desert-view-trail.jpg 1600x1201 | The Coachella Valley seen from the Desert View trail in April 2008
+The Coachella Valley seen from the Desert View trail in April 2008.
+Photo: [bossco](https://www.flickr.com/photos/43521640@N00/2420611710/) · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), via Flickr
+:::
+
 ## Still open
 
 - The original 1993 LA Times review (Steve Hochman, "Pearl Jam Blossoms in Desert," Nov 8, 1993) is behind a wall this project couldn't get past. If you have a copy, the attendance figure and any word on ticket prices would help.

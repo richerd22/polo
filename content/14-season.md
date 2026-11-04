@@ -138,6 +138,55 @@ Since 2021, Goldenvoice has had the polo club year-round, not just for the festi
 
 The season, in other words, is getting longer. Desert X is moving into the fall. October has had rock and metal. August has pool parties. The festival is still the two weekends everyone plans around, but the valley has been filling in the calendar on either side.
 
+## In pictures
+
+Other people's photos, used under the Creative Commons licence named under each one.
+
+:::figure img/cc/festival-8-empire-polo-2009.jpg 768x1024 | Trey Anastasio of Phish at Festival 8, held at the Empire Polo Club in Indio on November 1, 2009
+Trey Anastasio of Phish at Festival 8, held at the Empire Polo Club in Indio on November 1, 2009.
+Photo: [Dan Shinneman](https://www.flickr.com/photos/37665616@N07/4085290486/) · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), via Flickr
+:::
+
+:::figure img/cc/date-festival-camels.jpg 1024x768 | Racing camels at the Date Festival in Indio in February 2004
+Racing camels at the Date Festival in Indio in February 2004.
+Photo: [David Hoshor (Flickr: dnhoshor)](https://www.flickr.com/photos/27742866@N00/123749914/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/date-festival-prizes.jpg 1600x1144 | The fairgrounds and Ferris wheel before the Riverside County Fair and National Date Festival opened in February 2013
+The fairgrounds and Ferris wheel before the Riverside County Fair and National Date Festival opened in February 2013.
+Photo: [Randy Heinitz](https://www.flickr.com/photos/36509286@N03/8470111076/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/shields-date-garden-lund.jpg 1600x1200 | Shields Date Garden in Indio, California, in March 2013
+Shields Date Garden in Indio, California, in March 2013.
+Photo: [Ken Lund](https://www.flickr.com/photos/75683070@N00/8603736094/) · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), via Flickr
+:::
+
+:::figure img/cc/shields-sign-rhinny.jpg 1600x1200 | The Shields Date Gardens roadside sign, photographed in April 2010
+The Shields Date Gardens roadside sign, photographed in April 2010.
+Photo: [rhinny](https://www.flickr.com/photos/89856030@N00/4539028573/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/tramway-prayitno.jpg 1280x1600 | A Palm Springs Aerial Tramway car in May 2011
+A Palm Springs Aerial Tramway car in May 2011.
+Photo: [Flickr user 34128007@N04](https://www.flickr.com/photos/34128007@N04/5779132582/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/salton-sea-lund.jpg 1600x1200 | The Salton Sea, photographed in October 2014
+The Salton Sea, photographed in October 2014.
+Photo: [Ken Lund](https://www.flickr.com/photos/75683070@N00/15035645544/) · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), via Flickr
+:::
+
+:::figure img/cc/stagecoach-2011-entrance.jpg 1195x1600 | The entrance to the Stagecoach Festival in 2011
+The entrance to the Stagecoach Festival in 2011.
+Photo: [Laundry Week](https://commons.wikimedia.org/wiki/File:Stagecoach_2011_entrance.jpg) · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons
+:::
+
+:::figure img/cc/desert-trip-2016-empire-polo.jpg 1600x902 | The grounds and Ferris wheel at Desert Trip, held at the Empire Polo Club in October 2016
+The grounds and Ferris wheel at Desert Trip, held at the Empire Polo Club in October 2016.
+Photo: [Raph_PH](https://commons.wikimedia.org/wiki/File:DesertTrip2016-5_(30280875946).jpg) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons
+:::
+
 ## Still open
 
 - **Splash House's first year.** 2013 or 2014? The McLeans would know.

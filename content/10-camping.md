@@ -115,6 +115,25 @@ Hotels across the valley run more than 90% full in April, which Expedia data say
 
 The camper, meanwhile, leaves on Monday with more than 40,000 others,[^cp-nbc0407] and by the next Thursday somebody else is waiting in a parking lot.
 
+## In pictures
+
+Other people's photos, used under the Creative Commons licence named under each one.
+
+:::figure img/cc/tent-city-2004.jpg 1023x698 | Campers in the Coachella tent city in 2004
+Campers in the Coachella tent city in 2004.
+Photo: [Dave Gingrich (Flickr: ndanger)](https://www.flickr.com/photos/12583853@N00/143458054/) · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), via Flickr
+:::
+
+:::figure img/cc/camping-2007-home.jpg 1024x768 | A camper's tent at Coachella 2007, captioned by the photographer as home for three days
+A camper's tent at Coachella 2007, captioned by the photographer as home for three days.
+Photo: [Fabricio Zuardi (Flickr: fczuardi)](https://www.flickr.com/photos/49503114626@N01/478763122/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/campland-yoga.jpg 1200x1600 | Morning yoga in the Coachella campground during weekend one of 2012
+Morning yoga in the Coachella campground during weekend one of 2012.
+Photo: [DM (Flickr: edenmorrison)](https://www.flickr.com/photos/57919552@N06/7155038364/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
 ## Still open
 
 - Which agency, or which private firm, rides the horses in the campgrounds.

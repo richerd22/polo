@@ -141,6 +141,15 @@ Instagram roundups collect the boards every year too. They are a good place to l
 
 **Send a sighting.** Seen a board that isn't here, or have a better photo of one that is? Email hello@thirdpolararch.com with the photo, where you saw it (road, direction, nearest exit) and when. Say whether you'd like to be credited, and how. Either is fine.
 
+## In pictures
+
+Other people's photos, used under the Creative Commons licence named under each one.
+
+:::figure img/cc/desert-x-billboard.jpg 1024x576 | Billboard art in the Coachella Valley shown as part of Desert X in March 2017
+Billboard art in the Coachella Valley shown as part of Desert X in March 2017.
+Photo: [ShashiBellamkonda](https://www.flickr.com/photos/35899785@N00/32586551553/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
 ## Still open
 
 - **2012.** Republic says it ran about three boards that year. Which acts, and where? If you have a photo, we'd like to see it.

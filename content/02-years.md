@@ -35,6 +35,25 @@ It did not go up in a straight line. It went up in steps, and each step was a fo
 
 Every row links its sources. If you have a better one, especially a Boxscore printout or a city report, the corrections address is at the bottom of every page.
 
+## In pictures
+
+Other people's photos, used under the Creative Commons licence named under each one.
+
+:::figure img/cc/bloc-party-2005.jpg 1600x1092 | Bloc Party at Coachella 2005
+Bloc Party at Coachella 2005.
+Photo: [Paul Carless (Flickr: paulcarless)](https://www.flickr.com/photos/7158334@N07/12882404703/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/coachella-2006-mulling.jpg 1600x1200 | A crowd under a tent at Coachella 2006
+A crowd under a tent at Coachella 2006.
+Photo: [Barry Mulling (Flickr: Mulling it Over)](https://www.flickr.com/photos/36521970415@N01/140153004/) · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), via Flickr
+:::
+
+:::figure img/cc/sky-writing-2015.jpg 1600x1200 | Skywriting spelling out Coachella 2015 above the festival
+Skywriting spelling out Coachella 2015 above the festival.
+Photo: [David Jones](https://www.flickr.com/photos/45457437@N00/19759029361/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
 [^yr-ringer]: The Ringer (Rob Harvilla) - "How Coachella '99 Lost a Million Dollars and Started an Empire" - 2019-10-09 - https://www.theringer.com/music/2019/10/9/20905896/how-coachella-99-lost-a-million-dollars-started-music-festival-empire
 [^yr-grammy]: GRAMMY.com (Nina Frazier) - "On This Day In Music: The First Coachella Festival Took Place In The California Desert" - 2024-10-09 - https://www.grammy.com/news/first-coachella-valley-music-festival-1999
 [^yr-pollstar17]: Pollstar - "2017 Year End Top 20 Worldwide Festival Grosses" (PDF) - 2018-01 - https://data.pollstar.com/chart/2018/01/60-top20worldwidefestivalMoveAd_633.pdf

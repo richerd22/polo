@@ -141,6 +141,25 @@ On February 22, 2021, the duo posted "Epilogue," an eight-minute video built fro
 
 Then, in October 2026, the pyramid came back as plastic. LEGO announced an official set of the *Alive 2007* pyramid stage, with more details promised for 2027.[^dp-jambase26] It started as a LEGO Ideas design by Patrick Harboun, from Luxembourg, and his son, made during lockdown; it won a 2020 music challenge and later passed 10,000 supporters.[^dp-jambase26][^dp-yanko26] Cédric Hervet of Daft Arts called the pyramid "one of the most recognisable expressions of Daft Punk's visual world."[^dp-jambase26] Not bad for something built for one Saturday night.
 
+## In pictures
+
+Other people's photos, used under the Creative Commons licence named under each one.
+
+:::figure img/cc/daft-punk-2006-1.jpg 1000x665 | Daft Punk performing at the 2006 Coachella festival at the Empire Polo Club in Indio
+Daft Punk performing at the 2006 Coachella festival at the Empire Polo Club in Indio.
+Photo: [Tammy Lo](https://commons.wikimedia.org/wiki/File:Coachella_Valley_Music_and_Arts_Festival_2006_Daft_Punk_1_(140072992).jpg) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons
+:::
+
+:::figure img/cc/daft-punk-2006-3.jpg 1000x666 | Daft Punk on stage at the 2006 Coachella festival in Indio
+Daft Punk on stage at the 2006 Coachella festival in Indio.
+Photo: [Tammy Lo](https://commons.wikimedia.org/wiki/File:Coachella_Valley_Music_and_Arts_Festival_2006_Daft_Punk_3_(140072994).jpg) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons
+:::
+
+:::figure img/cc/daft-punk-at-coachella.jpg 1024x768 | Daft Punk playing Robot Rock at Coachella 2006
+Daft Punk playing Robot Rock at Coachella 2006.
+Photo: [Marcelo Teson](https://commons.wikimedia.org/wiki/File:Daft_punk_at_coachella.jpg) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons
+:::
+
 ## Still open
 
 - What the pyramid cost, and who paid for which part.

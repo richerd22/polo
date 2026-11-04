@@ -123,6 +123,20 @@ Read in order, the beginning is a run of near-misses. A company paid for by smug
 
 Van Santen did not see the sellout.[^beg-starbulletin][^beg-npr] Tovar did, and he is still there every April.[^beg-latimes25]
 
+## In pictures
+
+Other people's photos, used under the Creative Commons licence named under each one.
+
+:::figure img/cc/coachella-2001-tjscenes.jpg 1024x850 | Iggy Pop playing the main stage at Coachella 2001, from a scanned print
+Iggy Pop playing the main stage at Coachella 2001, from a scanned print.
+Photo: [cesar bojorquez (Flickr: tj scenes)](https://www.flickr.com/photos/92258912@N00/76375658/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/no-resale-2003.jpg 1024x697 | A City of Indio notice banning ticket resale at Coachella 2003
+A City of Indio notice banning ticket resale at Coachella 2003.
+Photo: [Keith Fujimoto](https://www.flickr.com/photos/36712891@N07/3776760950/) · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), via Flickr
+:::
+
 ## Still open
 
 - The original source for the $7M AEG price. Contemporary reporting from March 2001 (LA Times, Billboard, Pollstar) would settle it.

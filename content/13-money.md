@@ -198,6 +198,15 @@ The money moved inside the fence instead. SponsorUnited counted the 2026 on-site
 
 The company with the most riding on the festival doesn't sponsor it at all. Revolve, the online fashion retailer, "typically earns about 30% of its yearly revenue in the weeks around Coachella," Retail Brew reported in 2020, citing New York Times reporting. When the 2020 festival was postponed, Revolve's festival-style orders dropped to about a fifth of normal.[^mon-retailbrew] Revolve's own party, and what happened to it, is in the next chapter.
 
+## In pictures
+
+Other people's photos, used under the Creative Commons licence named under each one.
+
+:::figure img/cc/indio-ken-lund.jpg 1600x1200 | A street in Indio, California, in October 2010
+A street in Indio, California, in October 2010.
+Photo: [Ken Lund](https://www.flickr.com/photos/75683070@N00/5144064963/) · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), via Flickr
+:::
+
 ## Still open
 
 - **The gross after 2017.** If you have a Boxscore or Pollstar figure for any Coachella since, we'd like to see it.

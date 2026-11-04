@@ -143,6 +143,40 @@ More than 40,000 campers leave after each weekend.[^gt-nbc0407] It's been about 
 
 Then the roads reopen, the buses go back to wherever they came from, and Indio does it again the next Thursday.
 
+## In pictures
+
+Other people's photos, used under the Creative Commons licence named under each one.
+
+:::figure img/cc/cabazon-dinosaurs-hilton.jpg 1600x1067 | The Cabazon Dinosaurs in March 2019
+The Cabazon Dinosaurs in March 2019.
+Photo: [Tom Hilton](https://www.flickr.com/photos/54259492@N00/40454080213/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/cabazon-dinosaurs-inkknife.jpg 1554x1596 | Dinny, the Cabazon brontosaurus built by Claude Bell, in October 2007
+Dinny, the Cabazon brontosaurus built by Claude Bell, in October 2007.
+Photo: [Don Graham (Flickr: inkknife_2000)](https://www.flickr.com/photos/23155134@N06/5991349409/) · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), via Flickr
+:::
+
+:::figure img/cc/dinny-and-mr-rex.jpg 1600x1067 | Ms. Dinny and Mr. Rex at the Cabazon roadside attraction in September 2012
+Ms. Dinny and Mr. Rex at the Cabazon roadside attraction in September 2012.
+Photo: [Steven Miller (Flickr: Sam Howzit)](https://www.flickr.com/photos/12508217@N08/8062857932/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/wind-farm-san-jacinto.jpg 1600x1200 | The San Gorgonio Pass Wind Farm with Mount San Jacinto behind it in March 2014
+The San Gorgonio Pass Wind Farm with Mount San Jacinto behind it in March 2014.
+Photo: [Ken Lund](https://www.flickr.com/photos/75683070@N00/13170274684/) · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), via Flickr
+:::
+
+:::figure img/cc/wind-farm-kcds.jpg 1600x1032 | Wind turbines in the San Gorgonio Pass near Palm Springs in August 2009
+Wind turbines in the San Gorgonio Pass near Palm Springs in August 2009.
+Photo: [Ken (Flickr: kcdsTM)](https://www.flickr.com/photos/35486117@N00/3896279780/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/indio-greyhound-station.jpg 1038x1600 | The Greyhound bus station sign in Indio in April 2011
+The Greyhound bus station sign in Indio in April 2011.
+Photo: [Randy Heinitz](https://www.flickr.com/photos/36509286@N03/5605970551/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
 ## Still open
 
 - How many coaches and drivers VMT runs, and which charter companies supply them.

@@ -134,6 +134,25 @@ Variety's Jem Aswad asked the industry why. One agent said weekend one "is drive
 - The last published peak is still Beyoncé's, about 458,000, in 2018[^mo-fader18]
 :::
 
+## In pictures
+
+Other people's photos, used under the Creative Commons licence named under each one.
+
+:::figure img/cc/crowd-2010-nelson.jpg 1600x1200 | Fans crowd in for Faith No More at Coachella 2010
+Fans crowd in for Faith No More at Coachella 2010.
+Photo: [Philip Nelson](https://www.flickr.com/photos/23294020@N03/4531779775/) · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), via Flickr
+:::
+
+:::figure img/cc/roger-waters-2008.jpg 1600x1200 | Roger Waters performing at Coachella 2008
+Roger Waters performing at Coachella 2008.
+Photo: [Fred von Lohmann (Flickr: vonlohmann)](https://www.flickr.com/photos/96142941@N00/2449795317/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/kraftwerk-2008.jpg 1600x1200 | Kraftwerk playing Radioactivity at Coachella 2008
+Kraftwerk playing Radioactivity at Coachella 2008.
+Photo: [Fred von Lohmann (Flickr: vonlohmann)](https://www.flickr.com/photos/96142941@N00/2449784729/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
 ## Still open
 
 - Who designed and built the bunker, what it cost beyond the $2.5M permit valuation, and whether it stays under the polo fields now that the film is on tour.

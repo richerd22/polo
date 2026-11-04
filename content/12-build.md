@@ -131,6 +131,50 @@ For most of the festival's life, drinking was fenced. Drinkers "were always conf
 
 Prices since then are mostly what attendees post. In 2026, as reported by attendees and collected by FOODbible, that meant a $24 Red Bull vodka, a $17 coffee and a $23 burrito.[^bd-foodbible26]
 
+## In pictures
+
+Other people's photos, used under the Creative Commons licence named under each one.
+
+:::figure img/cc/astronaut-2014.jpg 1600x900 | The giant astronaut sculpture on the field at Coachella 2014
+The giant astronaut sculpture on the field at Coachella 2014.
+Photo: [Juan Bendana (Flickr: greenplastic875)](https://www.flickr.com/photos/65763797@N00/13900224115/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/astronaut-attack-from-above.jpg 1005x1600 | The Escape Velocity astronaut by Poetic Kinetics moving through the crowd at Coachella 2014
+The Escape Velocity astronaut by Poetic Kinetics moving through the crowd at Coachella 2014.
+Photo: [Ian T. McFarland (Flickr: iantmcfarland)](https://www.flickr.com/photos/72747831@N00/13857936824/) · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), via Flickr
+:::
+
+:::figure img/cc/crane-art-installation.jpg 974x1024 | A crane-shaped art installation at Coachella 2010
+A crane-shaped art installation at Coachella 2010.
+Photo: [usestangerines](https://www.flickr.com/photos/10423396@N00/4552092045/) · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), via Flickr
+:::
+
+:::figure img/cc/hand-of-man-2009.jpg 1200x1600 | Hand of Man, an art installation at Coachella 2009 that visitors could control with a glove
+Hand of Man, an art installation at Coachella 2009 that visitors could control with a glove.
+Photo: [Christie Parker (Flickr: christie_verbose)](https://www.flickr.com/photos/40788075@N00/3464879880/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/bamboo-wave.jpg 1600x1200 | Bamboo Wave, an art installation at Coachella 2008
+Bamboo Wave, an art installation at Coachella 2008.
+Photo: [Juan Bendana (Flickr: greenplastic875)](https://www.flickr.com/photos/65763797@N00/2449569249/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/wristband-2015.jpg 1200x1600 | A Coachella 2015 wristband on a festivalgoer's wrist
+A Coachella 2015 wristband on a festivalgoer's wrist.
+Photo: [David Jones](https://www.flickr.com/photos/45457437@N00/19567765599/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/coachella-2018-raph-7.jpg 1600x896 | A star-shaped sculpture above the crowd during weekend one of Coachella 2018
+A star-shaped sculpture above the crowd during weekend one of Coachella 2018.
+Photo: [Raph_PH](https://www.flickr.com/photos/69880995@N04/42058191541/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/escape-velocity-lightweaver-2014.jpg 1600x1067 | Lightweaver by Stereo-bot and Escape Velocity, the astronaut by Poetic Kinetics, at Coachella 2014 weekend two
+Lightweaver by Stereo-bot and Escape Velocity, the astronaut by Poetic Kinetics, at Coachella 2014 weekend two.
+Photo: [Sam Howzit](https://commons.wikimedia.org/wiki/File:Coachella_2014_Lightweaver_and_Escape_Velocity.jpg) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons
+:::
+
 ## Still open
 
 - How much power the festival draws, and how much of it comes from IID's grid against generators. Nothing has been published.

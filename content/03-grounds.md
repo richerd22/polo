@@ -163,6 +163,55 @@ The smaller festival is not the smaller draw. In 2024 Indio counted 89,003 Stage
 
 The crew window covers all of it. AEG's 2025 stagehand posting asked for availability from March 17 to May 9, with the expected work running March 30 to May 3.[^gr-aegjob] Five weeks, three weekends, one patch of grass.
 
+## In pictures
+
+Other people's photos, used under the Creative Commons licence named under each one.
+
+:::figure img/cc/ferris-wheel-2016.jpg 1600x1200 | The Ferris wheel lit up at night during weekend one of Coachella 2016
+The Ferris wheel lit up at night during weekend one of Coachella 2016.
+Photo: [Fred von Lohmann (Flickr: vonlohmann)](https://www.flickr.com/photos/96142941@N00/26194690870/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/ferris-wheel-2011.jpg 1600x1067 | The Ferris wheel at night at Coachella 2011
+The Ferris wheel at night at Coachella 2011.
+Photo: [solidariat](https://www.flickr.com/photos/99425482@N00/5634442701/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/ferris-wheel-palms.jpg 1200x1600 | The Ferris wheel among palm trees at Coachella 2011
+The Ferris wheel among palm trees at Coachella 2011.
+Photo: [Sam Litvin (Flickr: photosam88)](https://www.flickr.com/photos/70181267@N00/5635952191/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/festival-from-tram-2009.jpg 1600x1200 | The lights of Coachella on the Indio polo fields, seen at night from the Palm Springs Aerial Tramway in April 2009
+The lights of Coachella on the Indio polo fields, seen at night from the Palm Springs Aerial Tramway in April 2009.
+Photo: [bossco](https://www.flickr.com/photos/43521640@N00/3455071960/) · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), via Flickr
+:::
+
+:::figure img/cc/polo-field-day-after-2010.jpg 1600x900 | The Empire Polo Field grounds on the Monday morning after Coachella 2010
+The Empire Polo Field grounds on the Monday morning after Coachella 2010.
+Photo: [Mike Gusman (Flickr: The Steady Decline)](https://www.flickr.com/photos/14061011@N06/4564898152/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/music-oasis-polo-field-2007.jpg 1600x1200 | Lit palm trees at the Music Oasis on the polo field at Coachella 2007
+Lit palm trees at the Music Oasis on the polo field at Coachella 2007.
+Photo: [Yvonne Esperanza (Flickr: E Vön Zita)](https://www.flickr.com/photos/12052457@N06/1365650252/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/coachella-2015-panorama.jpg 1600x511 | A panorama of the field at Coachella 2015
+A panorama of the field at Coachella 2015.
+Photo: [David Jones](https://www.flickr.com/photos/45457437@N00/19567738509/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/coachella-2018-raph-3.jpg 1599x900 | The Ferris wheel and crowds during weekend one of Coachella 2018
+The Ferris wheel and crowds during weekend one of Coachella 2018.
+Photo: [Raph_PH](https://www.flickr.com/photos/69880995@N04/41158003625/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/coachella-umbra-2023.jpg 1600x1600 | An overhead image of Coachella in Indio, California, captured by Umbra Lab on April 23, 2023
+An overhead image of Coachella in Indio, California, captured by Umbra Lab on April 23, 2023.
+Photo: [Umbra Lab, Inc.](https://commons.wikimedia.org/wiki/File:Coachella_(Indio,_CA).tiff) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0), via Wikimedia Commons
+:::
+
 ## Still open
 
 - When the 2012 land purchase closed, and for how much. Riverside County's deed records should say.
