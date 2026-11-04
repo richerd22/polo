@@ -81,7 +81,7 @@ When the festival came back, so did the boards, unevenly. DASH TWO booked 15, fi
 
 There were fewer faces to go around. Before the pandemic, local car dealers and casinos with year-round contracts sublet their boards to Coachella advertisers at a discount. After the 2020-21 cancellations, they stopped putting those boards in the deal.[^bb-bbpro]
 
-Scott's "Wrong way!" set the tone for what came next: boards built to be photographed, not just read. In 2025, Frank Ocean turned up on a board reading "KIKI BOY 2025," with no explanation.[^bb-rs25] Not every board is welcome. In 2024, Goldenvoice demanded that the AIDS Healthcare Foundation take down its "Catch More Than Vibes?" board on the westbound I-10.[^bb-nbcps24] And in 2026, enough boards were vandalized that officials planned stronger security for them.[^bb-nbcps26]
+Scott's "Wrong way!" set the tone for what came next: boards built to be photographed, not just read. In 2025, a board reading "KIKI BOY 2025" went up with no explanation, and Rolling Stone asked whether Frank Ocean was teasing something.[^bb-rs25] Not every board is welcome. In 2024, Goldenvoice demanded that the AIDS Healthcare Foundation take down its "Catch More Than Vibes?" board on the westbound I-10.[^bb-nbcps24] And in 2026, enough boards were vandalized that officials planned stronger security for them.[^bb-nbcps26]
 
 ## How this archive works
 

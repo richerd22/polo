@@ -571,7 +571,7 @@
    "title": "'This next billboard is gonna blow your…'",
    "said": "First board: \"THIS NEXT BILLBOARD IS GONNA BLOW YOUR\" with 'MIND' left off. Next board: a giant image of her in a sparkly silver minidress (Yahoo: lying down) with light bulbs that turn on at sunset.",
    "where": "I-10 between Palm Springs and Indio (Paste); I-10 near Indio (Yahoo)",
-   "promoted": "Her headlining sets (her return as a headliner)",
+   "promoted": "Her headlining sets (her first as a Coachella headliner; she played in 2024 below the headliners)",
    "aftermath": "",
    "type": "artist_promo",
    "confidence": "high",
@@ -639,7 +639,7 @@
    "title": "'She told you she'd come again!'",
    "said": "\"She told you she'd come again!\" over the giant sparkly-dress image (Paste places the text on the second board of the pair; Pedestrian and Creative Bloq quote it). It lights up at night.",
    "where": "I-10 between Palm Springs and Indio (Paste)",
-   "promoted": "Return as Coachella headliner; callback to her 2024 'She's gonna make you come' board",
+   "promoted": "Her return to Coachella, now as a headliner; callback to her 2024 'She's gonna make you come' board",
    "aftermath": "",
    "type": "artist_promo",
    "confidence": "high",
@@ -1607,38 +1607,6 @@
   },
   {
    "year": 2025,
-   "artist": "Frank Ocean",
-   "title": "'KIKI BOY 2025'",
-   "said": "\"KIKI BOY 2025\" on a brown billboard.",
-   "where": "Route into the Coachella Valley (no specific road given)",
-   "promoted": "Unclear. Fans linked it to a private Instagram account @kikiboyyyyyyy (created March 2025) followed by Ocean's @Blonded, SZA and collaborator Michael Uzowuru.",
-   "aftermath": "No confirmed project or reveal in the sources.",
-   "type": "artist_promo",
-   "confidence": "high",
-   "sources": [
-    {
-     "publication": "Uproxx (Derrick Rossignol)",
-     "url": "https://uproxx.com/music/frank-ocean-tease-coachella-billboard",
-     "date": "2025-04-09"
-    },
-    {
-     "publication": "Rolling Stone India",
-     "url": "https://rollingstoneindia.com/cryptic-coachella-billboards-and-mysterious-new-instagram-what-is-frank-ocean-teasing/amp",
-     "date": "2025-04-10"
-    }
-   ],
-   "photos": [
-    {
-     "url": "https://uproxx.com/music/frank-ocean-tease-coachella-billboard",
-     "credit": "X post by @blondedhomer (status 1909682657392562496)",
-     "kind": "fan photo"
-    }
-   ],
-   "media": [],
-   "rights": "link-only"
-  },
-  {
-   "year": 2025,
    "artist": "Lady Gaga (Interscope Records)",
    "title": "Mayhem boards",
    "said": "About three to four billboards that did not name her (Outfront). Driftzine quotes \"Welcome to mayhem, dance or die?\" with her 'monster paw'.",
@@ -1794,6 +1762,38 @@
     }
    ],
    "photos": [],
+   "media": [],
+   "rights": "link-only"
+  },
+  {
+   "year": 2025,
+   "artist": "Frank Ocean",
+   "title": "'KIKI BOY 2025'",
+   "said": "\"KIKI BOY 2025\" on a brown billboard.",
+   "where": "Route into the Coachella Valley (no specific road given)",
+   "promoted": "Unclear. Fans linked it to a private Instagram account @kikiboyyyyyyy (created March 2025) followed by Ocean's @Blonded, SZA and collaborator Michael Uzowuru.",
+   "aftermath": "No confirmed project or reveal in the sources.",
+   "type": "artist_promo",
+   "confidence": "medium",
+   "sources": [
+    {
+     "publication": "Uproxx (Derrick Rossignol)",
+     "url": "https://uproxx.com/music/frank-ocean-tease-coachella-billboard",
+     "date": "2025-04-09"
+    },
+    {
+     "publication": "Rolling Stone India",
+     "url": "https://rollingstoneindia.com/cryptic-coachella-billboards-and-mysterious-new-instagram-what-is-frank-ocean-teasing/amp",
+     "date": "2025-04-10"
+    }
+   ],
+   "photos": [
+    {
+     "url": "https://uproxx.com/music/frank-ocean-tease-coachella-billboard",
+     "credit": "X post by @blondedhomer (status 1909682657392562496)",
+     "kind": "fan photo"
+    }
+   ],
    "media": [],
    "rights": "link-only"
   },

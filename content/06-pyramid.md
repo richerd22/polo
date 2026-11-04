@@ -5,7 +5,7 @@ title: Daft Punk and the pyramid
 short: In 2006 Daft Punk said yes to Coachella after a year of saying no, because their manager, who usually turned offers down without asking them, picked up the phone. They played the Sahara tent at 11 p.m. on a Saturday, inside a pyramid of LED blocks built for that one show, and ran nearly 20 minutes past curfew, with the promoter promising to cover any fine. The pyramid went on to a world tour, a live album, two Grammys and, 20 years later, a LEGO set. The crowd count and the bands it started are legends; the rest is on the record.
 ---
 
-The pyramid was built for one show. Live Design, the trade magazine that covered it, put it plainly: the set "was first designed for a one-time performance" at Coachella.[^dp-ld06] It ended up on a 48-date world tour, a Grammy-winning live album and, in 2026, a LEGO box.[^dp-wikialive][^dp-synth09][^dp-jambase26] All of that started with a phone call their manager almost didn't make.
+The pyramid was built for one show. Live Design, the trade magazine that covered it, put it plainly: the set "was first designed for a one-time performance" at Coachella.[^dp-ld06] It ended up on a 48-date world tour, a Grammy-winning live album and, announced in 2026, a LEGO set.[^dp-wikialive][^dp-synth09][^dp-jambase26] All of that started with a phone call their manager almost didn't make.
 
 ## The offer
 

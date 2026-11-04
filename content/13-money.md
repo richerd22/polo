@@ -137,7 +137,7 @@ For most of the 2010s, selling out was the easy part. Then it wasn't.
 
 In 2024, the first weekend took nearly a month to sell out. About 80% of the year's 250,000 tickets had sold by opening day, and sales were down 14-17% from the year before, according to Billboard's sources.[^mon-bb24] The second weekend never fully sold out.[^mon-pollstar25]
 
-2025 was split. First-weekend general admission was gone by December 2024; second-weekend passes were "widely available."[^mon-dmn24] By April, second-weekend passes were reselling on StubHub for as little as $246, about half of face value.[^mon-dmn25]
+2025 was split. First-weekend general admission was gone by December 2024; second-weekend passes were "widely available."[^mon-dmn24] By April, second-weekend passes were reselling on StubHub for as little as $246, less than half of face value.[^mon-dmn25]
 
 Inside the fence, the prices kept their own pace. In 2025, Digital Music News priced three beers at $45 and two tacos at $16, and hotel packages from about $3,300 to more than $9,000.[^mon-dmn24]
 

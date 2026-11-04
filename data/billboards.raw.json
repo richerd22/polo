@@ -963,8 +963,9 @@
     "photo_type": "fan photo"
    }
   ],
-  "confidence": "high",
-  "notes": "Ocean was not on the 2025 lineup; the billboard is not confirmed as his."
+  "confidence": "medium",
+  "notes": "Ocean was not on the 2025 lineup; the billboard is not confirmed as his.",
+  "confidence_note": "Reported by Rolling Stone, but the board isn't confirmed as Ocean's and he wasn't on the 2025 lineup."
  },
  {
   "year": 2025,
@@ -1540,7 +1541,7 @@
   "title": "'This next billboard is gonna blow your…'",
   "shows_says": "First board: \"THIS NEXT BILLBOARD IS GONNA BLOW YOUR\" with 'MIND' left off. Next board: a giant image of her in a sparkly silver minidress (Yahoo: lying down) with light bulbs that turn on at sunset.",
   "location": "I-10 between Palm Springs and Indio (Paste); I-10 near Indio (Yahoo)",
-  "promoted": "Her headlining sets (her return as a headliner)",
+  "promoted": "Her headlining sets (her first as a Coachella headliner; she played in 2024 below the headliners)",
   "aftermath": null,
   "sources": [
    {
@@ -1607,7 +1608,7 @@
   "title": "'She told you she'd come again!'",
   "shows_says": "\"She told you she'd come again!\" over the giant sparkly-dress image (Paste places the text on the second board of the pair; Pedestrian and Creative Bloq quote it). It lights up at night.",
   "location": "I-10 between Palm Springs and Indio (Paste)",
-  "promoted": "Return as Coachella headliner; callback to her 2024 'She's gonna make you come' board",
+  "promoted": "Her return to Coachella, now as a headliner; callback to her 2024 'She's gonna make you come' board",
   "aftermath": null,
   "sources": [
    {
