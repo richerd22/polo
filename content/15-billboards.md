@@ -2,7 +2,7 @@
 n: 15
 slug: billboards
 title: The billboards on the I-10
-short: Every spring, artists and labels rent billboards on the interstate between Los Angeles and Indio, because there is one road in and the people driving it are exactly the people they want. The boards cost from about $8K to $40K for a few weeks, and one 2026 campaign reportedly ran to $1M. This is a sourced, year-by-year archive of them, from the first one on record in 2014 to the 20 that were booked for 2020 and never went up.
+short: Every spring, artists and labels rent billboards on the interstate between Los Angeles and Indio, because there is one road in and the people driving it are exactly the people they want. The boards cost from about $8K to $40K for a few weeks, and one 2026 campaign reportedly ran to $1M. This is a sourced, year-by-year archive of them, from the first ones on record in 2013 to the 20 that were booked for 2020 and never went up.
 ---
 
 In April 2022, a few days before the festival that had dropped him as a headliner, Travis Scott's label put up a sequence of billboards along the I-10. The first said "Psst..." The next said "Looking for UTOPIA?" The third said "Wrong way!"[^bb-complex22] Scott had been removed from the lineup after Astroworld. The boards were his way onto the road anyway.[^bb-complex22]
@@ -59,7 +59,11 @@ There is also a different kind of board off the interstate. The art biennial Des
 
 ## How it started
 
-No one has documented a "first" Coachella billboard. The earliest found for this archive is in a DASH TWO blog post from January 2015, which shows the band Miami Horror "standing proudly in front of their billboard from last year," meaning 2014.[^bb-dash15] The same post says only "a handful of billboards" were left for the 2015 festival.[^bb-dash15] That is an agency talking about its own work, so it carries a low confidence label below.
+No one has documented a "first" Coachella billboard, but a label got there by 2013. That April, Republic Records put up eight boards on the I-10 into Indio: one with its logo, five for its acts on the bill, including James Blake and Ben Howard, and two for Black Sabbath and Kid Cudi, who had albums coming and no set.[^bb-thr13] The label had tried it the year before. Its marketing chief, Jim Roppo, said:
+
+> "We had done a few last year - I think we did three."[^bb-thr13]
+
+That puts the first label boards on the road in 2012. The earliest band photo found for this archive is in a DASH TWO blog post from January 2015, which shows the band Miami Horror "standing proudly in front of their billboard from last year," meaning 2014.[^bb-dash15] The same post says only "a handful of billboards" were left for the 2015 festival.[^bb-dash15] That is an agency talking about its own work, so it carries a low confidence label below.
 
 Billboard's version is that the boards "first appeared about six years" before its piece, when labels started aiming at festivalgoers and at the performers driving the same road.[^bb-bbpro] The piece is undated, but it treats 2020 and 2021 as past and 2022 as current, which puts the start at about 2016. By 2019, the outdoor-ad trade body OAAA was writing up Billie Eilish's minimal text boards on the I-10.[^bb-oaaa19]
 
@@ -100,7 +104,7 @@ Instagram roundups collect the boards every year too. They are a good place to l
 
 ## Still open
 
-- **Before 2014.** A Hollywood Reporter headline, "The Road to Coachella Belongs to Republic Records," apparently from around 2013, suggests a label was on the road earlier. The page wouldn't load for this project. If you can read it, we'd like to know what it says.
+- **2012.** Republic says it ran about three boards that year. Which acts, and where? If you have a photo, we'd like to see it.
 - **The 20 boards of 2020.** Who booked them, and whether any creative was ever printed.
 - **April Street View captures.** Which springs Google happened to drive the I-10 during festival season.
 
@@ -126,3 +130,4 @@ Instagram roundups collect the boards every year too. They are a good place to l
 [^bb-nbcps24]: NBC Palm Springs (Carmela Karcher) - "Coachella Festival Organizers Demand Removal Of New I-10 Billboard" - 2024-04-02 - https://www.nbcpalmsprings.com/2024/04/02/coachella-festival-organizers-demand-removal-of-new-i-10-billboard
 [^bb-geo]: Google - "Geo Guidelines" (Brand Resource Center) - n.d. (read 2026-10-31) - https://about.google/brand-resource-center/products-and-services/geo-guidelines/
 [^bb-desertsun26]: The Desert Sun (Ema Sasic), via Yahoo - "Headed to Indio? Be on the lookout for these Coachella billboards" - 2026-04-02 - https://www.yahoo.com/entertainment/music/articles/headed-indio-lookout-coachella-billboards-181955932.html
+[^bb-thr13]: The Hollywood Reporter (Jem Aswad, Billboard) - "The Road to Coachella Belongs to Republic Records" - 2013-04-12 - https://www.hollywoodreporter.com/news/general-news/road-coachella-belongs-republic-records-438812/
