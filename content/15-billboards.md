@@ -11,7 +11,7 @@ That is the whole idea in three signs. The festival has a lineup. The highway ha
 
 ## Why the desert
 
-Coachella's own driving directions funnel almost everyone onto the I-10 into the valley.[^bb-directions] Gino Sesto, whose agency DASH TWO has sold Coachella boards since about 2015, put it simply to Billboard:
+Coachella's own driving directions start almost every lot from the I-10 eastbound.[^bb-directions] Gino Sesto, whose agency DASH TWO has sold Coachella boards since about 2015, put it simply to Billboard:
 
 > "It's kind of a perfect storm... you have one way in."[^bb-bbpro]
 
@@ -157,7 +157,7 @@ Photo: [ShashiBellamkonda](https://www.flickr.com/photos/35899785@N00/3258655155
 - **April Street View captures.** Which springs Google happened to drive the I-10 during festival season.
 
 [^bb-complex22]: Complex (Brenton Blanchet) - "Travis Scott's 'Utopia' Album Promoted on Billboards Near Coachella, Festival He Was Removed From Headlining" - 2022-04-11 - https://www.complex.com/music/travis-scott-utopia-album-promoted-on-billboards-near-coachella-removed-from-headlining
-[^bb-directions]: Coachella - "Driving Directions" - n.d. (read 2026-10-31) - https://coachella.com/driving-directions
+[^bb-directions]: Coachella - "Getting Here" - n.d. (read 2026-11-04) - https://www.coachella.com/getting-here
 [^bb-bbpro]: Billboard Pro - "On the Road to Coachella? Those Billboards Are There Just for You" - 2022 (undated; inferred from content) - https://www.billboard.com/pro/coachella-billboards-interstate-10-festival-advertising-strategy/
 [^bb-outfront]: Outfront (Jay Fenster) - "Billboards are the real Coachella influencers" - 2025-04-24 - https://www.outfront.com/blog/billboards-are-real-coachella-influencers
 [^bb-lamar]: Visit Greater Palm Springs - "Lamar Advertising of Palm Springs" (listing) - n.d. - https://www.visitgreaterpalmsprings.com/listing/lamar-advertising-of-palm-springs/19807/

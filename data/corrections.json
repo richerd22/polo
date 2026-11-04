@@ -113,5 +113,35 @@
   "date": "2026-11-04",
   "chapter": "billboards",
   "what": "billboards.raw.json 2013 Republic entry (line ~2804): the notes still say the article could not be read and that this is \"the only sign ... before 2014\", which contradicts the entry's own high confidence and chapter 15. The THR page opened in this pass and says exactly this."
+ },
+ {
+  "date": "2026-11-04",
+  "chapter": "beginning",
+  "what": "2010-2011 fixes: claims sourced to a Las Vegas Sun article that is now gone (the fence, the extra lane, two Paul Tollett quotes) were removed and replaced with PopMatters' 2011 account."
+ },
+ {
+  "date": "2026-11-04",
+  "chapter": "pyramid",
+  "what": "Daft Punk's 2006 set length and the 20 minutes over curfew were removed; their only source, a Las Vegas Weekly article, is gone and nothing else confirms them."
+ },
+ {
+  "date": "2026-11-04",
+  "chapter": "polo",
+  "what": "Polo rules (chukker length, penalties 7-10) reworded to match the USPA 2019 rulebook; an unsupported 2018 tournament date range was removed."
+ },
+ {
+  "date": "2026-11-04",
+  "chapter": "polo",
+  "what": "The Radiohead bunker: square footage, permit month and a Rolling Stone confirmation were removed; the $2.5 million permit now cites the Desert Sun."
+ },
+ {
+  "date": "2026-11-04",
+  "chapter": "build",
+  "what": "Ferris wheel: 'replaced the original in 2017' corrected to 'made its debut in 2017'; stagehand hiring window corrected to about eight weeks."
+ },
+ {
+  "date": "2026-11-04",
+  "chapter": "billboards",
+  "what": "Four boards sourced only to Drift Zine (Jennie, Djo, Lola Young, Discolines) were taken out because the article is gone and nothing else confirms them."
  }
 ]

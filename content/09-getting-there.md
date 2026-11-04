@@ -17,7 +17,7 @@ CID's founder, Dan Berkowitz, became tour manager for the Disco Biscuits in 2004
 
 In October 2018, On Location Experiences bought CID, according to Berkowitz.[^gt-pollstar19] On Location now calls CID "a division of On Location."[^gt-onlocation] Since February 28, 2025, On Location has belonged to TKO Group Holdings, the company behind UFC and WWE, which bought it from Endeavor along with IMG and Professional Bull Riders.[^gt-tko] On Location's own About page still lists its earlier owners: RedBird Capital Partners, Bruin Sports Capital, 32 Equity and the Carlyle Group.[^gt-onlocation] So the chain runs: your shuttle pass, VMT, CID, On Location, TKO. No source shows Goldenvoice or AEG holding a stake in any link of it, and no source rules it out either.
 
-VMT has done the job since at least 2010. That spring Pollstar wrote that "Coachella partnered with Valley Music Travel" for hotel shuttles. 2010 was also the first year everyone got in-and-out privileges, which is what made a hotel shuttle worth having.[^gt-pollstar10] Goldenvoice used VMT again for Desert Trip in 2016: a $25 pass, over 20 stops, and a shuttle coordinator at every pickup.[^gt-deserttrip]
+VMT has done the job since at least 2010. That spring Pollstar wrote that "Coachella has teamed up with Valley Music Travel" for hotel shuttles. 2010 was also the first year everyone got in-and-out privileges, which is what made a hotel shuttle worth having.[^gt-pollstar10] Goldenvoice used VMT again for Desert Trip in 2016: a $25 pass, over 20 stops, and a shuttle coordinator at every pickup.[^gt-deserttrip]
 
 ## The pass
 
@@ -192,7 +192,7 @@ Photo: [Randy Heinitz](https://www.flickr.com/photos/36509286@N03/5605970551/) Â
 [^gt-vmtplat]: Valley Music Travel - "Platinum Services" - accessed 2026-10-31 - https://coachella.valleymusictravel.com/platinum-services
 [^gt-vmtabout]: Valley Music Travel - "About Us" - accessed 2026-10-31 - https://www.valleymusictravel.com/about-us/
 [^gt-pollstar19]: Pollstar - "Q&A with CID Entertainment's Dan Berkowitz" - 2019-01-29 - https://news.pollstar.com/2019/01/29/qs-with-a-pollstar-live-panelist-cid-entertainments-dan-berkowitz-on-boutique-festivals-and-destination-events/
-[^gt-pollstar10]: Pollstar - "Coachella Lodging Filling Up" - 2010-03-23 - http://news.pollstar.com/2010/03/23/coachella-lodging-filling-up/
+[^gt-pollstar10]: Pollstar - "Coachella Lodging Filling Up" - 2010-03-23 - https://news.pollstar.com/2010/03/23/coachella-lodging-filling-up/
 [^gt-deserttrip]: Desert Trip - "Shuttles" - 2016 - https://deserttrip.com/shuttles
 [^gt-vmt15]: Valley Music Travel - "Coachella 2015 local hotel shuttles" - 2015 - https://valleymusictravel.com/events/coachella2015/local-hotel-shuttles
 [^gt-timeout17]: Time Out Los Angeles (Michael Juliano) - "All of the different (and cheapest) ways to get to Coachella" - 2017-04-05 - https://www.timeout.com/los-angeles/blog/all-of-the-different-and-cheapest-ways-to-get-to-coachella-040517
@@ -211,7 +211,7 @@ Photo: [Randy Heinitz](https://www.flickr.com/photos/36509286@N03/5605970551/) Â
 [^gt-nbcrail]: NBC Palm Springs (City News Service) - "Riverside County Transportation Commission Awards $80M for CV Rail Study" - 2026-01-30 - https://www.nbcpalmsprings.com/local-and-community/2026/01/30/riverside-county-transportation-commission-awards-80m-for-cv-rail-study
 [^gt-wikitrm]: Wikipedia - "Jacqueline Cochran Regional Airport" - accessed 2026-10-31 - https://en.wikipedia.org/wiki/Jacqueline_Cochran_Regional_Airport
 [^gt-fortune]: Fortune (Jen Wieczner) - "Uber and Blade Will Fly You to Coachella in a Helicopter for about $4,000" - 2016-03-25 - https://fortune.com/2016/03/25/uber-blade-coachella-helicopter
-[^gt-pjcc17]: Private Jet Card Comparisons (Doug Gollan) - "Coachella Attracts The Private Jet Set" - 2017-04-14 - https://privatejetcardcomparisons.com/2017/04/14/coachella-attracts-the-private-jet-set
+[^gt-pjcc17]: Private Jet Card Comparisons (Doug Gollan) - "Coachella Attracts The Private Jet Set" - 2017-04-14 - https://privatejetcardcomparisons.com/2017/04/14/coachella-attracts-the-private-jet-set/
 [^gt-kesqblade]: KESQ (Crystal Jimenez) - "Hundreds fly into Coachella Valley for the music festival using charter service" - 2022-04-15 - https://kesq.com/?p=870505
 [^gt-pjcc26]: Private Jet Card Comparisons (Doug Gollan) - "JSX sets Coachella pop-up shared private flight from Santa Monica" - 2026-02-04 - https://privatejetcardcomparisons.com/2026/02/04/jsx-sets-coachella-pop-up-shared-private-flight-from-santa-monica/
 [^gt-desertsun24]: The Desert Sun (Jennifer Cortez), via PressReader - "Coachella road closure updates: What to know about detours, delays" - 2024-04-12 - https://www.pressreader.com/usa/the-desert-sun/20240412/281509346220618

@@ -104,7 +104,7 @@ Photo: [bossco](https://www.flickr.com/photos/43521640@N00/2420611710/) · [CC B
 [^pro-wikivs]: Wikipedia - "Vs. Tour" - n.d. (read 2026-10-31; cites Steve Hochman, Los Angeles Times, 1993-11-08, and Andrew Flanagan, Billboard, 2012-11-09) - https://en.wikipedia.org/wiki/Vs._Tour
 [^pro-ringer]: The Ringer (Rob Harvilla) - "How Coachella '99 Lost a Million Dollars and Started an Empire" - 2019-10-09 - https://www.theringer.com/music/2019/10/9/20905896/how-coachella-99-lost-a-million-dollars-started-music-festival-empire
 [^pro-npr]: NPR - "Word of the Week: Coachella began as a typo. Here's what happened next" - 2025-04-16 - https://www.npr.org/2025/04/16/nx-s1-5365781/coachella-festival-valley-history
-[^pro-testimony]: Five Horizons (archive) - "Pearl Jam's testimony before Congress regarding Ticketmaster" (House Government Operations subcommittee) - 1994-06-30 - http://www.fivehorizons.com/archive/articles/testimon.shtml
+[^pro-testimony]: Five Horizons (archive) - "Pearl Jam's testimony before Congress regarding Ticketmaster" (House Government Operations subcommittee) - 1994-06-30 - https://www.fivehorizons.com/archive/articles/testimon.shtml
 [^pro-kiro]: KIRO 7 News (Shawn Garrett) - "1994: A look back at when Pearl Jam took on Ticketmaster" - 2022-11-17 - https://www.kiro7.com/news/local/1994-when-pearl-jam-took-ticketmaster-look-back/UFQFVWKQPJB63FWUAVNRQCMSV4/
 [^pro-lo4l]: Live on 4 Legs (podcast) - "Episode 54: Indio, CA - 11/5/1993" - 2019-11-06 - https://liveon4legs.com/?p=1043
 [^pro-latimes25]: Los Angeles Times (Steve Appleford), via AOL - "Goldenvoice founder Gary Tovar is Coachella's eternal fan: 'When the music moves, you move with it'" - 2025-04-19 - https://www.aol.com/goldenvoice-founder-gary-tovar-coachellas-150048995.html

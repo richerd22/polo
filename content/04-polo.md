@@ -34,7 +34,7 @@ Outdoor polo is four a side.[^po-museumfaq] The positions are numbered on the je
 
 ### Chukkers
 
-A match is divided into periods called chukkers. Under the US Polo Association's (USPA) outdoor rules, a horn sounds after seven minutes of play, and up to 30 seconds of overtime follow. The chukker ends at the next horn, wherever the ball is.[^po-uspa19] US matches usually run six chukkers outdoors, with four to six depending on the tournament.[^po-uspaguide] Argentina plays eight in its biggest opens; four is common in England and Europe.[^po-brit]
+A match is divided into periods called chukkers. Under the US Polo Association's (USPA) outdoor rules, a horn sounds after seven minutes of play, and up to 30 seconds of overtime follow. The chukker ends at the next stoppage, or at a second horn, wherever the ball is.[^po-uspa19] US matches usually run six chukkers outdoors, with four to six depending on the tournament.[^po-uspaguide] Argentina plays eight in its biggest opens; four is common in England and Europe.[^po-brit]
 
 A tie is not a tie for long. Play continues after the last chukker "until one side obtains a goal."[^po-uspa19]
 
@@ -82,7 +82,7 @@ Two mounted umpires call fouls. If they disagree, a referee at midfield decides.
 - **Penalty 5:** a free hit from the spot of the foul or from midfield.
 - **Penalty 6, the "safety":** a 60-yard hit for the attackers when a defender knocks the ball over their own back line.
 
-Penalties 7 to 10 cover the procedural end: re-taking botched hits, sending off a pony or a player, and ejection.[^po-uspaold][^po-uspa18]
+Penalties 7 to 10 cover the rest: removing a player from the fouling team when a foul injures someone, sending off a pony, forfeiting the game, and sending off a player.[^po-uspa18]
 
 ### Divot stomping
 
@@ -146,7 +146,7 @@ Eldorado Polo Club is the older of the two. It was founded in 1957 as a members'
 
 Its founding, per the USPA, was a purchase by 11 polo players led by Willie Tevis. The association puts that first land in Palm Desert, where Palm Springs Life puts it at the old Eldorado Country Club in Indian Wells.[^po-uspa16e][^po-pslparadise] Eldorado hosted the US Open Polo Championship in 1987, 1992 and 1993.[^po-uspa16e] The 1993 winner was Gehache, the team of Glen Holden, a 2-goal player and former US ambassador to Jamaica.[^po-holden24] Holden later co-founded the FIP World Polo Championships, the event Empire was picked to host in 2021.[^po-holden24]
 
-In 2012 Goldenvoice bought it, along with the farms around it.[^po-kesq12] The sale "included a leaseback that let Eldorado keep hosting polo."[^po-uspa17] The club now plays on 13 fields, plus two at Empire's Calhoun Ranch and one at a private ranch. Goldenvoice owns the land, and Eldorado leases it until April, when Goldenvoice hosts Coachella and Stagecoach.[^po-uspa25]
+In 2012 Goldenvoice bought it, along with the farms around it.[^po-kesq12] The club now plays on 13 fields, plus two at Empire's Calhoun Ranch and one at a private ranch. Goldenvoice owns the land, and Eldorado leases it until April, when Goldenvoice hosts Coachella and Stagecoach.[^po-uspa25]
 
 That makes the polo players the festival's tenants, on land that used to be theirs, in a season that ends where the festival's build begins.
 
@@ -158,7 +158,7 @@ The schedule is built around the April handoff. Top-level polo at Eldorado is 12
 
 > "We are guaranteed to play. The polo hardly ever gets rained out."[^po-uspa16e]
 
-The season itself runs roughly mid-December to late March. Eldorado's 2018 tournaments ran from January 6 to April 1.[^po-uspa17] In 2024-25 it had practices from mid-December, women's tournaments between Christmas and New Year, and four 12-goal tournaments in February and March.[^po-uspa25]
+The season itself runs roughly mid-December to late March. In 2024-25 it had practices from mid-December, women's tournaments between Christmas and New Year, and four 12-goal tournaments in February and March.[^po-uspa25]
 
 The overlap is real. The festival has been spreading onto Eldorado land for years: The Desert Sun described "the adjacent Eldorado Polo Club, also used by the festival" in 2015,[^po-ds15] and the Sahara moved onto it in 2018.[^po-ds24] For 2024, the footings for the new Sahara went in starting in December, while polo season was getting under way next door.[^po-ds24]
 
@@ -166,7 +166,7 @@ The overlap is real. The festival has been spreading onto Eldorado land for year
 
 Year-round control means Goldenvoice can build things that don't have to come down.
 
-- **The Radiohead bunker.** In September 2025 Goldenvoice applied to Indio for a permit for a 16,130-square-foot "commercial foundation," valued at $2.5 million.[^po-dsbunker] It became an underground cinema for Radiohead's *KID A MNESIA*: 17,000 square feet and 38 feet high, beneath the polo fields. Loose desert sand ruled out piles, so the builders dug out the whole footprint, built a concrete box with a steel frame, and buried it. The roof carries sand, turf and up to 1,000 people standing on top. Its designers, Wonder Works, say it "remains on the Coachella site as a permanent fixture."[^po-wonder] The Desert Sun was less sure what becomes of it next year.[^po-dsbunker2] The exhibition was announced to travel on to Brooklyn, Chicago, Mexico City and San Francisco; the bunker stayed in Indio.[^po-stereogum]
+- **The Radiohead bunker.** A permit issued by the city of Indio assessed the structure at $2.5 million.[^po-dsbunker2] It became an underground cinema for Radiohead's *KID A MNESIA*: 17,000 square feet and 38 feet high, beneath the polo fields. Loose desert sand ruled out piles, so the builders dug out the whole footprint, built a concrete box with a steel frame, and buried it. The roof carries sand, turf and up to 1,000 people standing on top. Its designers, Wonder Works, say it "remains on the Coachella site as a permanent fixture."[^po-wonder] The Desert Sun was less sure what becomes of it next year.[^po-dsbunker2] The exhibition was announced to travel on to Brooklyn, Chicago, Mexico City and San Francisco; the bunker stayed in Indio.[^po-stereogum]
 - **The steel Sahara.** The 2024 rebuild swapped aluminum for steel, on about 1,500 tons of concrete, roughly 156 truckloads, poured overnight to keep the trucks off Indio's streets.[^po-ds24] The tent's footing has been permanent since at least 2018, buried two feet under the grass.[^po-lat23] Whether the steel itself stays up between festivals, no source says.
 - **The Rose Garden.** Three acres, about 8,000 rose bushes, three Victorian gazebos and a 5,000-square-foot pavilion. It was the edge of the Sunday polo field; now it is the festival's VIP garden and a wedding venue.[^po-aegrose]
 - **The Forum.** A clear-span event building of 48,000 square feet, with a main structure 300 by 160 feet and a 60-foot ceiling.[^po-forum] That is a polo field's proportions, in feet instead of yards. It is probably a coincidence.
@@ -208,9 +208,9 @@ You have stood on the field. Now ride it. Try it: /play/
 [^po-uspaold]: US Polo Association - "Spectator Guide" (earlier edition) - n.d. - https://uspolo.org/sport/spectator-guide-old
 [^po-museumfaq]: Museum of Polo and Hall of Fame - "FAQs" - n.d. - https://polomuseum.org/faqs
 [^po-brit]: Britannica - "Polo: The game" - n.d. - https://www.britannica.com/sports/polo/The-game
-[^po-uspa19]: US Polo Association - "Rule of the Week: 2019 Outdoor Rule Change - Duration of Periods" - 2019-05-07 - https://uspolo.org/news-social/news/rule-of-the-week-2019-outdoor-rule-change-duration-of-periods
+[^po-uspa19]: US Polo Association - "2019 Rulebook" (Rule 14, Duration of Periods) - 2019 - https://www.uspolo.org/assets/docs/2019-Rulebook-for-website_190205_122821.pdf
 [^po-fip]: Federation of International Polo, hosted by USPA - "2016 International Rules" - 2016 - https://uspolo.org/assets/pdf/2016-International-Rules.pdf
-[^po-uspa18]: US Polo Association - "Rule of the Week: Penalty Procedures and Violations" - 2018-08-07 - https://uspolo.org/news-social/news/rule-of-the-week-penalty-procedures-and-violations
+[^po-uspa18]: US Polo Association - "2019 Rulebook" (Rule 37, Specific Penalties) - 2019 - https://www.uspolo.org/assets/docs/2019-Rulebook-for-website_190205_122821.pdf
 [^po-dawson]: Dawson & Bell Polo Club - "Why Is Polo Played Right Hand Only?" - 2019-02-21 - https://dbpoloclub.com/polo-played-right-handed/
 [^po-museum]: Museum of Polo and Hall of Fame - "Alexander Haagen III" - 2023-02-17 - https://polomuseum.org/alexander-haagen-iii/
 [^po-pslparadise]: Palm Springs Life (Louis Gorfain) - "Polo in Paradise" - n.d. (about 2015) - https://www.palmspringslife.com/polo-in-paradise/
@@ -220,9 +220,7 @@ You have stood on the field. Now ride it. Try it: /play/
 [^po-uspa21]: US Polo Association - "2022 XII FIP World Polo Championship makes Florida the epicenter of international competition" - 2021-12-15 - https://uspolo.org/news-social/news/2022-xii-fip-world-polo-championship-makes-florida-the-epicenter-of-international-competition
 [^po-uspa25]: US Polo Association / ClickPoloUSA - "Eldorado: the heart of winter polo on the West Coast" - 2025-01-14 - https://uspolo.org/news-social/news/eldorado-the-heart-of-winter-polo-on-the-west-coast-an-article-by-clickpolousa
 [^po-kesq12]: KESQ - "Coachella Fest Promoters Purchase El Dorado Polo Grounds" - 2012-03-26 - https://kesq.com/?p=58615
-[^po-uspa17]: US Polo Association - "Eldorado Polo Club continues a desert tradition for years to come" - 2017-11-20 - https://uspolo.org/news-social/news/eldoardo-polo-club-continues-a-desert-tradition-for-years-to-come
 [^po-ds24]: The Desert Sun (Ema Sasic), via Yahoo - "Coachella 2024: Sahara Tent is moving locations. Here's what we know" - 2024-02-06 - https://www.yahoo.com/entertainment/coachella-2024-sahara-tent-moving-003831144.html
-[^po-dsbunker]: The Desert Sun (Sam Morgen), via AOL - "What is the structure being built on the Coachella festival grounds?" - n.d. (about 2026) - https://www.aol.com/news/structure-being-built-coachella-festival-224256302.html
 [^po-wonder]: Wonder Works - "Radiohead Motion Picture House" - 2026 - https://wonder.co.uk/mies_portfolio/radiohead-motion-picture-house-kid-a-mnesia/
 [^po-dsbunker2]: The Desert Sun (Sam Morgen) via Yahoo - "What to expect from Coachella's new underground movie theater bunker" - 2026-04-10 - https://www.yahoo.com/entertainment/music/articles/expect-coachellas-underground-movie-theater-020048709.html
 [^po-stereogum]: Stereogum (Chris DeVille) - "Radiohead Are Taking Their Coachella Bunker Art Installation On Tour" - 2026-04-08 - https://stereogum.com/2495193/radiohead-are-taking-their-coachella-bunker-art-installation-on-tour/news

@@ -65,13 +65,13 @@ The careful version comes from Festival Insider. Electronic music at Coachella "
 
 ## The look
 
-Coachella did not invent boho. CTV traces the look to Sienna Miller at Glastonbury in 2004 and to the runways of 2003-05: Chloé, Cavalli, Bottega Veneta.[^ws-ctv] What Coachella did was give it a name and a backdrop. By the mid-2000s, Dazed writes, celebrity attendees including Paris Hilton had made boho "Coachella fashion." Then Instagram arrived:
+Coachella did not invent boho. CNN traces the look to Sienna Miller at Glastonbury in 2004 and to the runways of 2003-05: Chloé, Cavalli, Bottega Veneta.[^ws-ctv] What Coachella did was give it a name and a backdrop. By the mid-2000s, Dazed writes, celebrity attendees including Paris Hilton had made boho "Coachella fashion." Then Instagram arrived:
 
 > "Coachella fashion was no longer just about the clothes. It was about content."[^ws-dazed26]
 
 NYLON's year-by-year timeline runs from forehead headbands (2009) through "a sea of flower crowns," all-white crochet credited to "the Vanessa Hudgens effect" (2018) and florals "boosted by the Revolve Festival" (2019), to "cowboy cosplay" (2024).[^ws-nylon] In 2015 H&M made it official with what it called the "first ever co-branded collection" with the festival, in about 350 North American stores.[^ws-hm15]
 
-The look also had a problem: faux Native American war bonnets. On April 9, 2014, Victoria's Secret model Alessandra Ambrosio posted a selfie in a feathered headdress, captioned as getting inspired for Coachella.[^ws-rock] The bans that followed came from other festivals. Coachella itself never adopted one, per CTV.[^ws-ctv]
+The look also had a problem: faux Native American war bonnets. On April 9, 2014, Victoria's Secret model Alessandra Ambrosio posted a selfie in a feathered headdress, captioned as getting inspired for Coachella.[^ws-rock] The bans that followed came from other festivals: Glastonbury, several Canadian festivals and Outside Lands. In the Coachella Valley, CNN wrote, the headdresses "persisted."[^ws-ctv]
 
 - **Bass Coast** (British Columbia) posted the first widely reported ban, in July 2014. "Our core team felt it was time to take a stand."[^ws-cbc14]
 - **Glastonbury** banned the *sale* of headdresses in October 2014, after a Change.org petition with 65 signatures.[^ws-dazed14]
@@ -79,7 +79,7 @@ The look also had a problem: faux Native American war bonnets. On April 9, 2014,
 - **Electric Forest** banned them from 2016.[^ws-da15]
 - **Outside Lands** added them to its prohibited list in 2019, "out of respect for Native American heritage and culture."[^ws-sfist]
 
-By 2019, CTV wrote, "the most offensive examples had largely disappeared from Coachella."[^ws-ctv]
+By 2019, CNN wrote, "the worst examples of cultural appropriation had effectively been banished from view."[^ws-ctv]
 
 ## The influencers, and the brand houses
 
@@ -165,7 +165,7 @@ Other festivals took up the idea. KAABOO's CEO, Jason Felts: "Chefs are the new 
 [^ws-wikihitc]: Wikipedia - "Head in the Clouds Festival" - accessed 2026-10-31 - https://en.wikipedia.org/wiki/Head_in_the_Clouds_Festival
 [^ws-quartz]: Quartz - "Coachella is the festival where underground artists go mainstream, except for African acts" - c. 2019-01 - https://qz.com/africa/1515509/coachella-2019-burna-boy-mr-eazi-only-african-acts-on-lineup
 [^ws-rsca]: Rolling Stone Canada (Jeff Miller) - "Justin Bieber Draws Massive Crowd for Messy, 'Swag'-Heavy Set at Coachella" - 2026-04-13 - https://ca.rollingstone.com/justin-bieber-performance-coachella-2026/
-[^ws-ctv]: CTV News - "Has Coachella escaped the problematic legacy of boho chic?" - 2022-04-18 - https://www.ctvnews.ca/entertainment/has-coachella-escaped-the-problematic-legacy-of-boho-chic-1.5866011
+[^ws-ctv]: CNN Style (Leah Dolan), via KTVZ - "Coachella is back. But have festivals escaped the problematic legacy of 'boho chic'?" - 2022-04-15 - https://ktvz.com/entertainment/cnn-style/2022/04/15/coachella-is-back-but-have-festivals-escaped-the-problematic-legacy-of-boho-chic/
 [^ws-dazed26]: Dazed (Sophie Wilson) - "When exactly did the Coachella aesthetic become so soulless?" - 2026-04-20 - https://www.dazeddigital.com/fashion/article/70114/1/when-exactly-coachella-aesthetic-soulless-sheinchella-influencers
 [^ws-nylon]: NYLON - "25 Years of Coachella Style" - 2024-04-15 - https://www.nylon.com/fashion/coachella-trends-festival-history
 [^ws-hm15]: H&M Group - "H&M to announce the first ever co-branded collection with the Coachella Valley Music & Arts Festival" - 2015-01-12 - https://hmgroup.com/news/hm-to-announce-the-first-ever-co-branded-collection-with-the-coachella-valley-music-arts-festival/

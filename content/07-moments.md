@@ -5,7 +5,7 @@ title: The moments
 short: The sets people still bring up, and what the paperwork says happened. A Prince cover that kept getting pulled offline, a dead rapper reflected off a sheet of foil, a homecoming with about 200 people on stage, an ice rink that outlasted its headliner, and a $2.5M concrete bunker for a band that never showed up.
 ---
 
-Several of Coachella's best-known moments didn't happen quite the way people remember. The Tupac on the main stage in 2012 was a projection bounced off a sheet of foil.[^mo-andscape] Frank Ocean's ice rink was built, and the first people to stand on it were Skrillex, Fred again.. and Four Tet, a week after Ocean had left the bill.[^mo-okayplayer] In 2026 the poster promised "The Bunker Debut of Radiohead," and Radiohead stayed home.[^mo-desertsun] The festival is very good at making moments. This chapter is about what was underneath them.
+Several of Coachella's best-known moments didn't happen quite the way people remember. The Tupac on the main stage in 2012 was a projection bounced off a sheet of foil.[^mo-andscape] Frank Ocean's ice rink was built, and the first people to stand on it were Skrillex, Fred again.. and Four Tet, a week after Ocean had left the bill.[^mo-okayplayer] In 2026 the poster promised "the bunker debut of Radiohead," and Radiohead stayed home.[^mo-stereogum26] The festival is very good at making moments. This chapter is about what was underneath them.
 
 Daft Punk's 2006 pyramid has [a chapter of its own](/pyramid/). Everything else is here.
 
@@ -31,7 +31,7 @@ The digital Tupac came from Digital Domain, James Cameron's visual-effects compa
 The legend goes that the Tupac cost $10 million. That figure went around in April 2012 and never came with a name attached.[^mo-hypebeast12] The only on-the-record number is Smith's, via MTV, and it's for a different thing: he wouldn't give the real cost, but said a comparable piece could run from $100,000 to more than $400,000.[^mo-hypebeast12] Nobody has published an invoice. The $10M lives on because it sounds like what a dead man on a stage ought to cost.
 :::
 
-Then came the strange part. On September 11, 2012, five months after Coachella, Digital Domain Media Group filed for Chapter 11. It shut its operation in Port St. Lucie, Florida, let most of the 320 staff there go, and its CEO resigned.[^mo-cnn] No source ties the bankruptcy to Tupac. It's just the order things happened in.
+Then came the strange part. On September 11, 2012, five months after Coachella, Digital Domain Media Group filed for Chapter 11. It shut its operation in Port St. Lucie, Florida, cut about 300 of the staff there and kept about 20, and its CEO resigned.[^mo-cnn] No source ties the bankruptcy to Tupac. It's just the order things happened in.
 
 As for the Tupac, the digital asset "has been archived," Andscape reported in 2017, and only the estate has access.[^mo-andscape] Dre has said it was "strictly for Coachella."[^mo-andscape] It didn't stay strictly there for long, though. The next chapter follows it.
 
@@ -71,7 +71,7 @@ Two stories went around that week. TMZ's, as Stereogum summarized it: Ocean hurt
 
 The 2026 poster ended with a line nobody could explain: "The Bunker Debut of Radiohead Kid A Mnesia." Fans started guessing whether that meant Radiohead were playing.[^mo-farout]
 
-The permit file had the better answer. In September 2025 Goldenvoice applied to the City of Indio for a 16,130-square-foot "commercial foundation." City assessors valued it at $2.5M. Reporters found a large sand pit with steel reinforcement near the Sahara tent, and the concrete and steel framing suggested something permanent. A Rolling Stone representative confirmed Radiohead would not perform.[^mo-desertsun]
+The permit file had the better answer. A permit issued by the City of Indio assessed the structure at $2.5M.[^mo-desertsun] And Stereogum spelled it out: "That's not a stealth Radiohead concert."[^mo-stereogum26]
 
 What got built was Radiohead's Motion Picture House: about 17,000 square feet with 38-foot ceilings, under the Empire Polo Fields, open to anyone with a festival wristband.[^mo-flood] Inside were the *KID A MNESIA* film and galleries of full-scale Thom Yorke and Stanley Donwood artwork from the *Kid A* and *Amnesiac* sessions.[^mo-flood] The sound was a "6-point surround" mix built from the original multitracks, and Sean Evans directed the film.[^mo-stereogum26]
 
@@ -83,7 +83,7 @@ Getting in cost nothing but planning. Visits were booked as free reservations in
 
 It was air-conditioned, which in Indio in April may have been the bigger draw.[^mo-showbams26]
 
-So Radiohead made the 2026 poster without playing a note. Ed O'Brien did tell reporters the band plans to play 20 shows a year from 2027.[^mo-stereogum26] After the festival the Motion Picture House went on tour: Brooklyn from May 6, Mexico City from October 27 and San Francisco's Palace of Fine Arts from January 14, 2027.[^mo-kidamnesia] The film runs 75 minutes, and visits are booked in two-hour slots. Stereogum also listed a Chicago run at Cinespace in the summer, which the official site doesn't show.[^mo-kidamnesia][^mo-stereogum26] The official FAQ says "the Coachella Bunker experience" was different in some ways from the touring version.[^mo-kidamnesia] It wasn't the first artist-built world on the grounds, either. Desert Sun points to Travis Scott's "The Village by Cactus Jack" in 2025.[^mo-desertsun]
+So Radiohead made the 2026 poster without playing a note. Ed O'Brien did tell reporters the band plans to play 20 shows a year from 2027.[^mo-stereogum26] After the festival the Motion Picture House went on tour: Brooklyn from May 6, Mexico City from October 27 and San Francisco's Palace of Fine Arts from January 14, 2027.[^mo-kidamnesia] The film runs 75 minutes, and visits are booked in two-hour slots. Stereogum also listed a Chicago run at Cinespace in the summer, which the official site doesn't show.[^mo-kidamnesia][^mo-stereogum26] The official FAQ says "the Coachella Bunker experience" was different in some ways from the touring version.[^mo-kidamnesia] It wasn't the first artist-built world on the grounds, either. In 2025 Travis Scott had the Village by Cactus Jack, which Time Out called "a sort of sculpture park on the festival grounds."[^mo-timeout25]
 
 ## Other nights people bring up
 
@@ -162,11 +162,12 @@ Photo: [Fred von Lohmann (Flickr: vonlohmann)](https://www.flickr.com/photos/961
 
 [^mo-hypebeast12]: Hypebeast (John Ifejika) - "Tupac hologram cost at least $100K" - 2012-04-16 - https://hypebeast.com/2012/4/tupac-hologram-cost-10-million
 [^mo-okayplayer]: Okayplayer (Jaelani Turner Williams) - "Frank Ocean's Planned Ice Rink Was Used During Second Coachella Weekend" - 2023-04-24 - https://www.okayplayer.com/frank-oceans-planned-ice-rink-was-used-during-second-coachella-weekend/413613
-[^mo-desertsun]: The Desert Sun (Sam Morgen), via AOL - "What is the structure being built on the Coachella festival grounds?" - n.d. (about 2026) - https://www.aol.com/news/structure-being-built-coachella-festival-224256302.html
+[^mo-desertsun]: The Desert Sun (Sam Morgen), via Yahoo - "What to expect from Coachella's new underground movie theater bunker" - 2026-04-10 - https://www.yahoo.com/entertainment/music/articles/expect-coachellas-underground-movie-theater-020048709.html
+[^mo-timeout25]: Time Out Los Angeles (Michael Juliano) - "Travis Scott at Coachella 2025: Everything you need to know" - 2025-04-19 - https://www.timeout.com/los-angeles/news/travis-scott-at-coachella-2025-everything-you-need-to-know-weekend-two-041825
 [^mo-current]: The Current, MPR (Colleen Cowie) - "Remember when Prince ruled Coachella (and controversially covered Radiohead) in 2008?" - 2019-01-03 - https://www.thecurrent.org/feature/2019/01/03/remember-when-prince-ruled-coachella-and-controversially-covered-radiohead-in-2008
 [^mo-cos]: Consequence (Alex Young) - "Prince covered Radiohead's 'Creep' at Coachella 2008, and you can finally watch it online" - 2015-12-08 (updated 2015-12-16) - https://consequence.net/2015/12/prince-radiohead-creep-coachella
 [^mo-andscape]: Andscape (Aaron Dodson) - "The strange legacy of Tupac's 'hologram' lives on five years after its historic Coachella debut" - 2017-04-14 - https://andscape.com/features/the-strange-legacy-of-tupacs-hologram-after-coachella
-[^mo-cnn]: CNNMoney - "Digital Domain files for bankruptcy" - 2012-09-11 - https://money.cnn.com/2012/09/11/technology/digital-domain-bankrupt/
+[^mo-cnn]: Cartoon Brew (Chris Arrant), relaying the company's release - "Digital Domain Media Group Files For Chapter 11 Bankruptcy; Searchlight Capital Partners Reaches Agreement To Acquire Digital Domain Productions" - 2012-09-12 - https://www.cartoonbrew.com/biz/digital-domain-media-group-files-for-chapter-11-bankruptcy-searchlight-capital-partners-reaches-agreement-to-acquire-digital-domain-productions-69811.html
 [^mo-grammy19]: GRAMMY.com (Jennifer Velez) - "Beyonce Created A Space To Celebrate Black Culture At Coachella & More Things 'Homecoming' Taught Us" - 2019-04-19 - https://grammy.com/news/beyonce-created-space-celebrate-black-culture-coachella-more-things-homecoming-taught
 [^mo-fader18]: The FADER (Jordan Darville) - "#Beychella sets record for most simultaneous Coachella live streams" - 2018-04-17 - https://www.thefader.com/2018/04/17/beyonce-coachella-youtube-most-simultaneous-coachella-live-streams
 [^mo-dictionary]: Dictionary.com - "Beychella" (pop culture entry) - 2019-05-01 - https://www.dictionary.com/e/pop-culture/beychella

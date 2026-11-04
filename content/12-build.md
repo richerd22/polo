@@ -9,7 +9,7 @@ The 2024 Sahara tent sits on about 1,500 tons of concrete. Crews poured roughly 
 
 ## Five weeks on a polo field
 
-The clearest look at the build calendar comes from a job ad. AEG's stagehand posting for 2025 asked applicants to be available from Mar. 17 to May 9 and gave the expected work period as Mar. 30 to May 3.[^bd-builtin] Duties were staging, truck loading, scenery rigging, and helping with audio, video and lighting, on day, mid and overnight shifts.[^bd-builtin] By the dates, that window takes in both Coachella weekends and Stagecoach, which uses the same grounds right after.
+The clearest look at the build calendar comes from a job ad. AEG's stagehand posting for 2026 asked applicants to be available from Mar. 16 to May 8.[^bd-builtin] Duties were assembling and striking stage gear, loading trucks, helping carpenters with scenery and hanging it in the roof, and assisting with video, sound and light, on day, mid and overnight shifts.[^bd-builtin] By the dates, that window takes in both Coachella weekends and Stagecoach, which uses the same grounds right after.
 
 The crews also have to talk to each other across a site that big. For the two festivals in 2025, Clear-Com's intercom covered 12 stages over three weeks, with 61 wireless beltpacks and 23 networked panels.[^bd-mix25]
 
@@ -79,7 +79,7 @@ In 2014 the same studio brought *Escape Velocity*, an astronaut 36 ft tall made 
 
 ### The wheel
 
-The Ferris wheel is not Goldenvoice's. It belongs to Ray Cammack Shows, a Phoenix-area carnival family in business since 1963.[^bd-pnt] The current wheel, the La Grande XL, replaced the original in 2017. According to the company's Ben Pickett, it arrives on 20 semis and goes up in five days with a 70-ton crane and a 10-person crew, with 36 air-conditioned gondolas.[^bd-tns26wheel] Phoenix New Times, in an undated piece, gives a different build: a 60-ton crane and 10 days.[^bd-pnt] Either way, it is one of the few big things that stays standing for Stagecoach.[^bd-latimes24]
+The Ferris wheel is not Goldenvoice's. It belongs to Ray Cammack Shows, a Phoenix-area carnival family in business since 1963.[^bd-pnt] The current wheel, the La Grande XL, made its debut in 2017, with 36 air-conditioned cabins.[^bd-culturemap] According to its owner it arrives on 20 semis, and the Los Angeles Times reported that it goes up in five days with a 70-ton crane and a 10-person crew.[^bd-tns26wheel] Phoenix New Times, in an undated piece, gives a different build: a 60-ton crane and 10 days.[^bd-pnt] Either way, it is one of the few big things that stays standing for Stagecoach.[^bd-latimes24]
 
 ### Where the pieces go
 
@@ -105,7 +105,7 @@ A Coachella day cost $50 in 1999.[^bd-ringer19] Weekend 1 GA for 2026 started at
 - 2027: weekend 1 tiers from $599 to $699[^bd-tns26]
 :::
 
-Most people do not pay it at once. Coachella introduced payment plans in 2009, during the recession, against what was described as sluggish sales. That year 18-19% of buyers used one.[^bd-aol09][^bd-ticketnews09] By 2025 about 60% did, according to Billboard's figure as reported by Entrepreneur, with $49.99 down, three installments and no interest.[^bd-entre25] Miss a payment by more than 10 days and the order is cancelled automatically, and you get a credit good for a year.[^bd-entre25]
+Most people do not pay it at once. Coachella introduced payment plans in 2009, during the recession: half down, or 10% down and two installments, with no interest.[^bd-aol09] That year about 19% of festivalgoers used one.[^bd-ticketnews09] By 2025 about 60% did, according to Billboard's figure as reported by Entrepreneur, with $49.99 down, three installments and no interest.[^bd-entre25] Miss a payment by more than 10 days and the order is cancelled automatically, and you get a credit good for a year.[^bd-entre25]
 
 The tickets are sold by AXS, which is owned by AEG, the same company behind Goldenvoice.[^bd-ticketnews22] Before that, in 2014, the official seller was Front Gate Tickets.[^bd-cvi14]
 
@@ -185,7 +185,7 @@ Photo: [Sam Howzit](https://commons.wikimedia.org/wiki/File:Coachella_2014_Light
 [^bd-desertsun24]: The Desert Sun (Ema Sasic), via Yahoo - "Coachella 2024: Sahara Tent is moving locations. Here's what we know" - 2024-02-06 - https://www.yahoo.com/entertainment/coachella-2024-sahara-tent-moving-003831144.html
 [^bd-elation]: Elation Lighting (vendor) - "1300+ Elation lights dazzle Coachella 2024" - 2024 - https://www.elationlighting.eu/blog/1300-elation-lights-dazzle-coachella-2024
 [^bd-mix25]: Mix - "Coachella and Stagecoach crews connect in the desert" - 2025-08-26 - https://www.mixonline.com/live-sound/coachella-and-stagecoach-crews-connect-in-the-desert
-[^bd-builtin]: AEG job posting, via Built In - "Stagehands - Coachella & Stagecoach 2025" (now expired) - 2025-03-26 - https://builtin.com/job/stagehands-coachella-stagecoach-2025/4226728
+[^bd-builtin]: AEG job posting, via Built In - "Stagehands- Coachella & Stagecoach 2026" (listing removed 2026-05-04, page still up) - 2026 - https://builtin.com/job/stagehands-coachella-stagecoach-2026/8392787
 [^bd-foh18]: FOH (George Petersen) - "The 2018 Coachella Valley Music and Arts Festival" - 2018-06-06 - https://fohonline.com/articles/production-profile/the-2018-coachella-valley-music-and-arts-festival/
 [^bd-pbs16]: PBS SoCal *Artbound* (Matt Stromberg) - "Paul Clemente and the art of Coachella" - 2016-04-15 - https://pbssocal.org/shows/artbound/paul-clemente-and-the-art-of-coachella
 [^bd-latimes19]: Los Angeles Times, via PressReader - "He just might take a day off" - 2019-04-23 - https://www.pressreader.com/usa/los-angeles-times/20190423/282007558797522
@@ -195,7 +195,7 @@ Photo: [Sam Howzit](https://commons.wikimedia.org/wiki/File:Coachella_2014_Light
 [^bd-hype23]: Hypebeast (Aaron Chow) - "Coachella Fined $117,000 USD for Breaking Curfew Every Night of Weekend 1" - 2023-04-17 - https://hypebeast.com/2023/4/coachella-117000-usd-breaking-curfew-weekend-1-news-info
 [^bd-wmmo26]: WMMO (Natalie Dreier, Cox Media Group), citing TMZ - "Coachella fined after Justin Bieber, Anyma sets go past curfew" - 2026-04-22 - https://www.wmmo.com/news/trending/coachella-fined-over-justin-bieber-anyma-sets-go-past-curfew/ICB3UBTU6NBI5EN52FWWJSIVGI/
 [^bd-iid]: GPS Business Insider (Bob Marra) - "IID and Indio Break Ground on First of Four Major Energy Projects" - 2026-01-07 - https://gpsbusinessinsider.com/iid-and-indio-celebrate-first-major-energy-project/
-[^bd-sust]: Coachella - "Sustainability" - n.d. (read 2026-10-31) - https://coachella.com/sustainability
+[^bd-sust]: Coachella - "Sustainability" - n.d. (read 2026-10-31; page removed from the site by November 2026) - https://coachella.com/sustainability
 [^bd-prg24]: PRG (vendor release) - "PRG provides production support for J Balvin, Doja Cat, Anti Up and more at Coachella 2024" - 2024-05-23 - https://www.prg.com/en/news/prg-provides-production-support-for-j-balvin-doja-cat-anti-up-and-more-at-coachella-2024
 [^bd-cbs11]: CBS News (Daniel Terdiman, originally CNET) - "How the Coachella Webcast changed the music biz" - 2011-04-20 - https://www.cbsnews.com/news/how-the-coachella-webcast-changed-the-music-biz/
 [^bd-tubefilter26]: Tubefilter (Sam Gutelle) - "YouTube's 2026 Coachella coverage includes its answer to FAST platforms" - 2026-04-02 - https://www.tubefilter.com/2026/04/02/youtube-coachella-2026-stations-fast-streams/
@@ -216,7 +216,8 @@ Photo: [Sam Howzit](https://commons.wikimedia.org/wiki/File:Coachella_2014_Light
 [^bd-icon25]: ICON Magazine - "Los Angeles design agency Public Art Company unveils playful art commissions for Coachella Valley Music and Arts Festival" - 2025-04-16 - https://www.iconeye.com/design/public-art-company-art-commissions-coachella-2025
 [^bd-psl]: Palm Springs Life - "Inside the sustainability efforts of Coachella festival and Stagecoach" - n.d. (covers 2024) - https://www.palmspringslife.com/arts-culture/inside-the-sustainability-efforts-of-coachella-festival-and-stagecoach/
 [^bd-pnt]: Phoenix New Times - "Coachella's famous Ferris wheel has Phoenix roots" - n.d. - https://www.phoenixnewtimes.com/arts-culture/phoenix-family-owns-and-operates-iconic-coachella-ferris-wheel-21472485/
-[^bd-tns26wheel]: Los Angeles Times/TNS, via The Recorder - "What it takes to build Coachella's most recognizable icon" - 2026-04 - https://www.recorderonline.com/features/entertainment_news/what-it-takes-to-build-coachellas-most-recognizable-icon/article_6f4e07a1-1236-5044-ad3c-81251de26b8d.html
+[^bd-tns26wheel]: Los Angeles Times (Vanessa Franko)/TNS, via The Brunswick News - "What it takes to build Coachella's most recognizable icon" - 2026-04-13 - https://thebrunswicknews.com/what-it-takes-to-build-coachellas-most-recognizable-icon/article_5db60bd2-952f-5237-aa10-37d3278c54e7.html
+[^bd-culturemap]: CultureMap Houston (Clifford Pugh) - "Wheel of good fortune: Le Grande XL debuts at RodeoHouston carnival midway" - 2017-03-08 - https://houston.culturemap.com/news/city-life/03-08-17-wheel-of-good-fortune-le-grande-ferris-wheel-debuts-at-rodeohouston-midway/
 [^bd-ringer19]: The Ringer (Rob Harvilla) - "How Coachella '99 Lost a Million Dollars and Started an Empire" - 2019-10-09 - https://www.theringer.com/music/2019/10/9/20905896/how-coachella-99-lost-a-million-dollars-started-music-festival-empire
 [^bd-lvsun04]: Las Vegas Sun (Spencer Patterson) - column, "Audiences feel the heat" - 2004-05-07 - https://lasvegassun.com/news/2004/may/07/columnist-spencer-patterson-audiences-feel-the-hea/
 [^bd-jambase07]: JamBase - "Coachella 2007: Rage, Bjork" - 2007-01-22 - https://www.jambase.com/article/coachella-2007-rage-bjork
@@ -227,8 +228,8 @@ Photo: [Sam Howzit](https://commons.wikimedia.org/wiki/File:Coachella_2014_Light
 [^bd-ibt22]: IBTimes (Sandra Okerulu) - "Coachella 2022: How Much Are Tickets? Lineup Features Harry Styles, Kanye West, Billie Eilish" - 2022-01-13 - https://ibtimes.com/coachella-2022-how-much-are-tickets-lineup-features-harry-styles-kanye-west-billie-3375156
 [^bd-dmn24]: Digital Music News (Ashley King) - "Coachella 2025 Isn't Sold Out Yet - VIP Weekend 1 Available, General Admission Weekend 2 Widely Available" - 2024-11-26 - https://www.digitalmusicnews.com/2024/11/26/coachella-2025-not-sold-out/
 [^bd-caltoday]: California Today (Pat Sharyon) - "Passes for Coachella 2026: Complete guide to pricing, options, and add-ons" - 2025-09-16 (updated 2026-03-25) - https://californiatoday.com/guides/entertainment/passes-for-coachella-2026-complete-guide-to-pricing-options-and-add-ons/
-[^bd-tns26]: Los Angeles Times/TNS, via The Recorder - "Coachella Valley Music and Arts Festival announces 2027 dates, ticket sales" - 2026-04-20 - https://www.recorderonline.com/features/entertainment_news/coachella-valley-music-and-arts-festival-announces-2027-dates-ticket-sales/article_24979355-7309-5ed7-93e9-9290edaa0568.html
-[^bd-aol09]: AOL - "Pay for concert on the installment plan" - 2009-03-06 - https://www.aol.com/2009/03/06/pay-for-concert-on-the-installment-plan/
+[^bd-tns26]: Pollstar - "Coachella Unveils 2027 Dates & Ticket Info" - 2026-04-20 - https://news.pollstar.com/2026/04/20/coachella-unveils-2027-dates-ticket-info/
+[^bd-aol09]: LAist (Joshua Pressman) - "Coachella 2009 Tickets 'Recession-Proof' says USA Today" - 2009-01-25 - https://laist.com/news/entertainment/coachella-2009-tickets-recession-pr
 [^bd-entre25]: Entrepreneur (Sherin Shibu, citing Billboard) - "Most Coachella Attendees Bought Their $600 Tickets This Year with a Buy Now, Pay Later Option" - 2025-04-24 - https://www.entrepreneur.com/business-news/most-coachella-attendees-buy-tickets-with-buy-now-pay-later/490596
 [^bd-ticketnews22]: TicketNews - "Coachella Festival Plots 2023 Dates, Advance Tickets on Sale Friday" - 2022-06-16 - https://www.ticketnews.com/2022/06/coachella-festival-plots-2023-dates-advance-tickets-on-sale-friday
 [^bd-cvi14]: Coachella Valley Independent (Christina Lange) - "Wristband Roulette: Coachella Tickets Are Sold Out, and You Really Want to Go - Here's What Not to Do" - 2014-02-17 - https://cvindependent.com/2014/02/wristband-roulette-coachella-tickets-are-sold-out-and-you-really-want-to-go-here-s-what-not-to-do/

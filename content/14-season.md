@@ -13,7 +13,7 @@ That is the valley in April: the festival is the loudest thing in it, but not th
 
 By January 2007, Goldenvoice had a country festival on the calendar. The first Stagecoach ran May 5-6, 2007, at the Empire Polo Field, the week after Coachella, with George Strait and Kenny Chesney on top and Willie Nelson, Emmylou Harris and Brooks & Dunn on the bill. Goldenvoice co-produced it with The Messina Group and Moore Entertainment Group.[^sea-anti07]
 
-It has grown up on the same grass. In 2016, Indio raised its cap from 75,000 to 85,000 a day, alongside Coachella's raise to 125,000.[^sea-pollstar16] In 2025, the state alcohol regulator counted daily peaks of about 82,000 at Stagecoach, against nearly 110,000 at Coachella.[^sea-abc25]
+It has grown up on the same grass. In 2016, Indio raised its cap from 75,000 to 85,000 a day, alongside Coachella's raise to 125,000.[^sea-pollstar16][^sea-mxdwn16] In 2025, the state alcohol regulator counted daily peaks of about 82,000 at Stagecoach, against nearly 110,000 at Coachella.[^sea-abc25]
 
 And sometimes it wins. For 2024, Indio counted 89,003 Stagecoach tickets. Coachella's first weekend had 81,690 and its second 80,148.[^sea-kesq24] That was the year Coachella's sales sagged, but the country crowd was the biggest of the three weekends.
 
@@ -55,7 +55,7 @@ It is produced by a nonprofit, the Desert Biennial, and puts site-specific insta
 
 The 2025 edition, the fifth, had eleven artists across the valley, among them Ronald Rael's 3D-printed adobe walls around a palm tree in Palm Springs and José Dávila's marble blocks, quarried in Mexico and driven across the border.[^sea-dezeen25] None of the eleven works in Dezeen's rundown was a billboard.[^sea-dezeen25]
 
-The schedule is about to change. Desert X's tenth-anniversary edition, curated by its artistic director Neville Wakefield and curator Kaitlin Garcia-Maestas, runs October 30, 2027 to May 7, 2028, opening in the fall instead of late winter.[^sea-dxnews] It runs into May 2028, so it should overlap the festival if 2028 keeps the usual April dates.
+The schedule changes in 2027. Desert X's tenth-anniversary edition, curated by its artistic director Neville Wakefield and curator Kaitlin Garcia-Maestas, runs October 30, 2027 to May 7, 2028, opening in the fall instead of late winter.[^sea-dxnews] It runs into May 2028, so it should overlap the festival if 2028 keeps the usual April dates.
 
 The billboard chapter covers the other kind of board on these roads, the paid ones.
 
@@ -128,7 +128,7 @@ Wind brings dust. On April 17, 2025, the day before weekend two, the South Coast
 
 ## What the season leaves behind
 
-Three weekends of crowds leave a lot on the ground. A City of Indio environmental report found that Coachella, Stagecoach and Desert Trip attendees produced 107 tons of solid waste a day, with about 20% of it recycled.[^sea-waste360] For 2022, the two spring festivals diverted 141 tonnes of mixed recycling and 86 tonnes of compost. Lund University's Kim Nicholas said the emissions from attendees and artists traveling in are "way bigger" than anything on site.[^sea-afp]
+Three weekends of crowds leave a lot on the ground. A City of Indio environmental report found that Coachella, Stagecoach and Desert Trip attendees produced 107 tons of solid waste a day, with about 20% of it recycled.[^sea-waste360] The organizers told AFP the two spring festivals diverted 141 tons of mixed recycling and 86 tons of compost in 2022. Lund University's Kim Nicholas said the emissions from attendees and artists traveling in are "way bigger" than anything on site.[^sea-afp]
 
 The festival's own figures, which it reports itself, are larger. Its sustainability page claims 616,278 pounds composted or recycled across Coachella and Stagecoach in 2024, plus 79,120 pounds of materials donated to the Galilee Center and 56,051 pounds of food to the Coachella Valley Rescue Mission.[^sea-sustain]
 
@@ -196,7 +196,8 @@ Photo: [Raph_PH](https://commons.wikimedia.org/wiki/File:DesertTrip2016-5_(30280
 
 [^sea-dxbolande]: Desert X - "Jennifer Bolande: Visible Distance / Second Sight" (Desert X 2017 archive) - n.d. (read 2026-10-31) - https://desertx.org/dx/archive/visible-distance-second-sight
 [^sea-anti07]: ANTI- Records - "Ramblin' Jack Elliott to play inaugural Stagecoach festival" - 2007-01-11 - https://www.anti.com/news/ramblin-jack-elliott-to-play-innagural-stagecoach-festival
-[^sea-pollstar16]: Pollstar - "Coachella, Stagecoach expansion approved" - 2016-04-19 - http://news.pollstar.com/2016/04/19/coachella-stagecoach-expansion-approved/
+[^sea-mxdwn16]: mxdwn (Ryan Fricke) - "Coachella and Stagecoach festivals will expand attendance up to 161,000 people in the coming years" - 2016-04-08 - https://music.mxdwn.com/2016/04/08/news/coachella-and-stagecoach-festivals-will-expand-attendance-up-to-161000-people-in-the-coming-years/
+[^sea-pollstar16]: Pollstar - "Coachella, Stagecoach expansion approved" - 2016-04-19 - https://news.pollstar.com/2016/04/19/coachella-stagecoach-expansion-approved/
 [^sea-abc25]: California Department of Alcoholic Beverage Control - "ABC partners with law enforcement to prevent underage drinking at California music festivals" - 2025-06-26 - https://www.abc.ca.gov/abc-partners-with-law-enforcement-to-prevent-underage-drinking-at-california-music-festivals/
 [^sea-kesq24]: KESQ (Jesus Reyes) - "Coachella, Stagecoach sold around 250K tickets for 2024 festivals, city reports" - 2024-06-13 - https://kesq.com/news/festival-season/2024/06/13/coachella-stagecoach-sold-around-250k-tickets-for-2024-festivals-city-reports
 [^sea-patch]: Patch - "Goodbye Coachella, hello Stagecoach" - 2014-04-21 - https://patch.com/california/palmdesert/goodbye-coachella-hello-stagecoach
@@ -207,7 +208,7 @@ Photo: [Raph_PH](https://commons.wikimedia.org/wiki/File:DesertTrip2016-5_(30280
 [^sea-l4lm]: Live for Live Music, citing The New York Times (2016-07-19) - "Organizer of Desert Trip Confirms Event Has Already Grossed $160 Million" - 2016-07-21 - https://liveforlivemusic.com/news/organizer-of-desert-trip-confirms-event-has-already-grossed-160-million
 [^sea-louder]: Louder / Metal Hammer (Rich Hobson) - "Inside the brilliance and the absurdity of Power Trip festival 2023" - 2023-12-18 - https://www.loudersound.com/features/inside-power-trip-festival-2023
 [^sea-da21]: Dancing Astronaut (Cameron DeFaria) - "Goldenvoice inks new lease to keep Coachella in Indio through 2050" - 2021-10-27 - https://dancingastronaut.com/2021/10/goldenvoice-inks-new-lease-to-keep-coachella-in-indio-through-2050/
-[^sea-tan16]: The Art Newspaper (Gareth Harris) - "Art among the cacti: recurring exhibition to launch in the southern Californian desert" - 2016-01-06 - https://theartnewspaper.com/2016/01/06/art-among-the-cacti-recurring-exhibition-to-launch-in-the-southern-californian-desert
+[^sea-tan16]: The Art Newspaper (Gareth Harris) - "Art among the cacti: recurring exhibition to launch in the southern Californian desert" - 2016-01-06 - https://www.theartnewspaper.com/2016/01/06/art-among-the-cacti-recurring-exhibition-to-launch-in-the-southern-californian-desert
 [^sea-dxnews]: Desert X - "News" - n.d. (read 2026-10-31) - https://desertx.org/learn/news
 [^sea-bruin]: Daily Bruin (Sidra Rashid) - "UCLA professor's billboard art piece frames road to Coachella" - 2017-04-19 - https://dailybruin.com/2017/04/19/ucla-professors-billboard-art-piece-frames-road-to-coachella/
 [^sea-spaces]: The Spaces (Annabel Herrick) - "Billboards bring Native American culture into the spotlight at Desert X" - 2019-02-14 - https://thespaces.com/billboards-bring-native-american-culture-into-the-spotlight-at-desert-x/
@@ -243,8 +244,8 @@ Photo: [Raph_PH](https://commons.wikimedia.org/wiki/File:DesertTrip2016-5_(30280
 [^sea-nbcps26]: NBC Palm Springs - "Coachella Weekend One Wraps With Historic Headliner, Wind Scares and a Few Surprises" - 2026-04-13 - https://www.nbcpalmsprings.com/local-and-community/2026/04/13/coachella-weekend-one-wraps-with-historic-headliner-wind-scares-and-a-few-surprises
 [^sea-nbcla18]: NBC Los Angeles (City News Service) - "Stranded Coachella Festival Campers Take Refuge in Temporary Sites" - 2018-04-19 - https://www.nbclosangeles.com/news/stranded-coachella-festival-campers-take-refuge-in-temporary-sites/44081/?amp=1
 [^sea-waste360]: Waste360 - "Coachella music festival attendees produce 107 tons of waste each day" - 2017-04-24 - https://www.waste360.com/waste-reduction/coachella-music-festival-attendees-produce-107-tons-of-waste-each-day
-[^sea-afp]: AFP, via The National - "Can music festivals actually go green?" - 2023-04-18 - https://www.thenationalnews.com/arts-culture/music-stage/2023/04/18/can-music-festivals-actually-go-green
-[^sea-sustain]: Coachella - "Sustainability" - n.d. (read 2026-10-31) - https://coachella.com/sustainability
+[^sea-afp]: AFP, via Malay Mail - "Can music festivals actually go green?" - 2023-04-23 - https://www.malaymail.com/news/showbiz/2023/04/23/can-music-festivals-actually-go-green/66044
+[^sea-sustain]: Coachella - "Sustainability" - n.d. (read 2026-10-31; page removed from the site by November 2026) - https://coachella.com/sustainability
 [^sea-nbcps25]: NBC Palm Springs - "Major Development Planned Near Coachella Festival Grounds in Indio" - 2025-06-09 - https://www.nbcpalmsprings.com/2025/06/10/major-development-planned-near-coachella-festival-grounds-in-indio
 [^sea-wiki]: Wikipedia - "Coachella" - n.d. (read 2026-10-31) - https://en.wikipedia.org/wiki/Coachella
 [^sea-kesq22]: KESQ (Crystal Jimenez) - "Hundreds fly into Coachella Valley for the music festival using charter service" - 2022-04-15 - https://kesq.com/?p=870505

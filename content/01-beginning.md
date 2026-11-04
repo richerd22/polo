@@ -82,11 +82,9 @@ The festival grew a piece at a time.
 
 ## Too many people
 
-By 2010 the problem had flipped. For the first time the festival sold only three-day passes, at $269, and all 75,000 sold out in advance.[^beg-bizbash] It still drew what the Las Vegas Sun later called "colossal crowds," with long entry lines and bad traffic.[^beg-lvsun11] Tollett did not dodge it:
+By 2010 the problem had flipped. For the first time the festival sold only three-day passes, at $269, and all 75,000 sold out in advance.[^beg-bizbash] It still drew crowds a 2011 reviewer called "ridiculous," as many as 30,000 of them reportedly gate-crashers.[^beg-lvsun11]
 
-> "The mistakes were in the planning."[^beg-lvsun11]
-
-For 2011 Goldenvoice put a wrought-iron fence around the grounds to stop gate-crashers, paid toward an extra road lane in and out, and dropped the slow ticket-for-wristband swap.[^beg-lvsun11] Tollett's summary of the fixes: "Fewer bodies. More land. Better traffic capabilities."[^beg-lvsun11]
+For 2011 Goldenvoice expanded the grounds, made the tents bigger and built its security around a new wristband. It could not come off without breaking, and its chip was scanned on the approach to the grounds and again at the gates.[^beg-lvsun11]
 
 Then, on May 31, 2011, he announced the move that defines the modern festival: in 2012 Coachella would run twice, on two weekends, with the same lineup.[^beg-boombox] His reasons were demand and resale. "We had too many people who wanted to go," he told Billboard, as The Boombox reported, and he hated watching fans pay "$500-$600" on the secondary market.[^beg-boombox] The obvious alternative was a bigger single weekend, and he turned it down:
 
@@ -164,7 +162,7 @@ Photo: [Keith Fujimoto](https://www.flickr.com/photos/36712891@N07/3776760950/) 
 [^beg-jambase07]: JamBase - "Coachella 2007: Rage, Bjork" - 2007-01-22 - https://www.jambase.com/article/coachella-2007-rage-bjork
 [^beg-diffuser]: Diffuser (Michael Christopher) - "10 Years Ago: Rage Against the Machine Reunite at Coachella" - 2017-04-28 - https://diffuser.fm/rage-against-machine-reunion-coachella/
 [^beg-bw]: Business Wire - "Goldenvoice to Assume Operations of Empire Polo Club in Long-Term Agreement" - 2021-10-27 - https://www.businesswire.com/news/home/20211027006159/en
-[^beg-lvsun11]: Las Vegas Sun - "After rough 2010, Coachella tries to iron itself out" - 2011-04-13 - https://m.lasvegassun.com/news/2011/apr/13/after-rough-2010-coachella-tries-iron-itself-out/
+[^beg-lvsun11]: PopMatters (Crispin Kott) - "Coachella 2011, or How I Learned to Stop Worrying and Love Heatstroke" - 2011-04-19 - https://www.popmatters.com/139770-coachella-2011-or-how-i-learned-to-stop-worrying-and-love-heatstroke-2496048323.html
 [^beg-boombox]: The Boombox (Charley Rogulewski) - "Coachella Founder Explains Back-to-Back Weekends in 2012" - 2011-06-05 - https://theboombox.com/coachella-founder-explains-back-to-back-weekends-in-2012/
 [^beg-mxdwn12]: mxdwn (Maggie Tuesday Reynolds) - "Coachella 2012 Sells Out Both Weekends Within Hours Of Opening Ticket Sales" - 2012-01-13 - https://music.mxdwn.com/2012/01/13/news/coachella-2012-sells-out-both-weekends-within-hours-opening-ticket-sales/amp/
 [^beg-grammy17]: GRAMMY.com (Renée Fabian) - "Music Festivals 2017: Coachella Hauls In Record $114 Million In Profit" - 2017-10-18 - https://www.grammy.com/news/music-festivals-2017-coachella-hauls-record-114-million-profit

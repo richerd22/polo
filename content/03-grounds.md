@@ -137,7 +137,7 @@ The Rose Garden is not part of Stagecoach.[^gr-latsc]
 
 On a site this big, people navigate by the things that stick up.
 
-**The Ferris wheel.** It belongs to Ray Cammack Shows, a Phoenix-area carnival family in business since 1963.[^gr-pnt] It was in place by 2010; nobody has pinned down its first year.[^gr-bizbash] The current wheel, La Grande XL, replaced the original La Grande Wheel in 2017. It arrives on 20 semis and has 36 air-conditioned gondolas and more than 500,000 LEDs.[^gr-recorder] The build depends on who you ask: a 70-ton crane, 10 crew and five days, says the company's vice president in a 2026 report;[^gr-recorder] a 60-ton crane and about 10 days, says an undated Phoenix New Times piece, which also gives the wheel's height as 150 feet.[^gr-pnt] The two may describe different wheels. The rest of the year it tours fairs and rodeos.[^gr-recorder]
+**The Ferris wheel.** It belongs to Ray Cammack Shows, a Phoenix-area carnival family in business since 1963.[^gr-pnt] It was in place by 2010; nobody has pinned down its first year.[^gr-bizbash] The current wheel, La Grande XL, made its debut in 2017 on the Houston rodeo midway, with 36 air-conditioned cabins, and went on to Indio from there.[^gr-culturemap] It arrives on 20 semis, according to its owner.[^gr-recorder] The build depends on who you ask: a 70-ton crane, 10 crew and five days, says a 2026 Los Angeles Times report;[^gr-recorder] a 60-ton crane and about 10 days, says an undated Phoenix New Times piece, which also gives the wheel's height as 150 feet.[^gr-pnt] The two may describe different wheels. The rest of the year it tours other events.[^gr-culturemap]
 
 **Spectra.** The seven-story spiral tower with an observation deck was commissioned in 2018 from Patrick O'Mahony's UK studio, Newsubstance. It was supposed to come down after 2020. Covid delays and fan affection kept it up, and it is now treated as a permanent feature of the festival.[^gr-lamag23] "I don't think there's any other festival in the world that would commission something like this," O'Mahony said.[^gr-lamag23] Whether it stands all year, through the summers and the soccer tournament, no source says outright.
 
@@ -161,7 +161,7 @@ The main stage turns too. Stagecoach's Mane Stage is set 90 degrees clockwise fr
 
 The smaller festival is not the smaller draw. In 2024 Indio counted 89,003 Stagecoach tickets, against 81,690 for Coachella's first weekend and 80,148 for its second.[^gr-kesq24] Stagecoach also gets the end of the season's wind: on April 25, 2026, with gusts of 50-65 mph forecast, it was paused and evacuated for about an hour and a half.[^gr-abc7]
 
-The crew window covers all of it. AEG's 2025 stagehand posting asked for availability from March 17 to May 9, with the expected work running March 30 to May 3.[^gr-aegjob] Five weeks, three weekends, one patch of grass.
+The crew window covers all of it. AEG's 2026 stagehand posting asked for availability from March 16 to May 8.[^gr-aegjob] About eight weeks, three weekends, one patch of grass.
 
 ## In pictures
 
@@ -236,9 +236,9 @@ Photo: [Umbra Lab, Inc.](https://commons.wikimedia.org/wiki/File:Coachella_(Indi
 [^gr-uspa16]: US Polo Association - "Meet Empire Polo Club" - 2016-11-25 - https://uspolo.org/news-social/news/meet-empire-polo-club
 [^gr-cbs12]: CBS Los Angeles - "Coachella Promoters Threaten To Move Away From The Coachella Valley Over Proposed Tax" - 2012-07-05 - https://www.cbsnews.com/losangeles/news/coachella-promoters-threaten-to-move-away-from-the-coachella-valley-over-proposed-tax/
 [^gr-hypebot13]: Hypebot (Bruce Houghton) - "Goldenvoice Signs Deal To Stage Coachella & Stagecoach In Indio Thru 2030" - 2013-04-05 - https://www.hypebot.com/goldenvoice-signs-deal-to-stage-coachella-stagecoach-in-indio-thru-2030/
-[^gr-pollstar16]: Pollstar - "Coachella, Stagecoach expansion approved" - 2016-04-19 - http://news.pollstar.com/2016/04/19/coachella-stagecoach-expansion-approved/
+[^gr-pollstar16]: Pollstar - "Coachella, Stagecoach expansion approved" - 2016-04-19 - https://news.pollstar.com/2016/04/19/coachella-stagecoach-expansion-approved/
 [^gr-mxdwn16]: mxdwn (Ryan Fricke) - "Coachella and Stagecoach festivals will expand attendance up to 161,000 people in the coming years" - 2016-04-08 - https://music.mxdwn.com/2016/04/08/news/coachella-and-stagecoach-festivals-will-expand-attendance-up-to-161000-people-in-the-coming-years/
-[^gr-pollstar25]: Pollstar (Sarah Pittman) - "Snap, Crackle & Pop: What Coachella's Early Lineup Announcement Means For The Biz" - 2025-09-19 - http://news.pollstar.com/2025/09/19/snap-crackle-pop-what-coachellas-early-lineup-announcement-means/
+[^gr-pollstar25]: Pollstar (Sarah Pittman) - "Snap, Crackle & Pop: What Coachella's Early Lineup Announcement Means For The Biz" - 2025-09-19 - https://news.pollstar.com/2025/09/19/snap-crackle-pop-what-coachellas-early-lineup-announcement-means/
 [^gr-abc25]: California Department of Alcoholic Beverage Control - "ABC partners with law enforcement to prevent underage drinking at California music festivals" - 2025-06-26 - https://www.abc.ca.gov/abc-partners-with-law-enforcement-to-prevent-underage-drinking-at-california-music-festivals/
 [^gr-kesq21]: KESQ (Jesus Reyes) - "Indio extends development agreement with Goldenvoice & Coachella Music Festival to 2050" - 2021-08-19 - https://kesq.com/?p=682929
 [^gr-kesq24]: KESQ (Jesus Reyes) - "Coachella, Stagecoach sold around 250K tickets for 2024 festivals, city reports" - 2024-06-13 - https://kesq.com/news/festival-season/2024/06/13/coachella-stagecoach-sold-around-250k-tickets-for-2024-festivals-city-reports
@@ -259,13 +259,14 @@ Photo: [Umbra Lab, Inc.](https://commons.wikimedia.org/wiki/File:Coachella_(Indi
 [^gr-latsc]: Los Angeles Times (Vanessa Franko), via Yahoo - "The differences - and similarities - between the Coachella and Stagecoach festivals" - 2024-04-26 - https://www.yahoo.com/entertainment/differences-similarities-between-coachella-stagecoach-232121095.html
 [^gr-pnt]: Phoenix New Times - "Coachella's famous Ferris wheel has Phoenix roots" - n.d. - https://www.phoenixnewtimes.com/arts-culture/phoenix-family-owns-and-operates-iconic-coachella-ferris-wheel-21472485/
 [^gr-bizbash]: BizBash (Alesandra Dubin) - "Coachella Sells Out With Three-Day Passes, Towering Ferris Wheel, and Upgraded Camping" - 2010-04-19 - https://www.bizbash.com/event-production-planning/coachella-sells-out-with-three-day-passes-towering-ferris-wheel-and-upgraded-camping
-[^gr-recorder]: Los Angeles Times/TNS, via The Recorder - "What it takes to build Coachella's most recognizable icon" - 2026-04 - https://www.recorderonline.com/features/entertainment_news/what-it-takes-to-build-coachellas-most-recognizable-icon/article_6f4e07a1-1236-5044-ad3c-81251de26b8d.html
+[^gr-recorder]: Los Angeles Times (Vanessa Franko)/TNS, via The Brunswick News - "What it takes to build Coachella's most recognizable icon" - 2026-04-13 - https://thebrunswicknews.com/what-it-takes-to-build-coachellas-most-recognizable-icon/article_5db60bd2-952f-5237-aa10-37d3278c54e7.html
+[^gr-culturemap]: CultureMap Houston (Clifford Pugh) - "Wheel of good fortune: Le Grande XL debuts at RodeoHouston carnival midway" - 2017-03-08 - https://houston.culturemap.com/news/city-life/03-08-17-wheel-of-good-fortune-le-grande-ferris-wheel-debuts-at-rodeohouston-midway/
 [^gr-lamag23]: Los Angeles Magazine (Steve Appleford) - "Coachella's monumental artwork sets festival apart" - 2023-04-21 - https://lamag.com/news/coachellas-monumental-artwork-sets-festival-apart
 [^gr-ds15]: The Desert Sun (Bruce Fessier and Ian James), via World Polo News - "Coachella in drought: Polo club looks to cut water use" - 2015-04 - https://worldpolonews.com/2015/coachella-drought-polo-club-looks-cut-water-use
 [^gr-patch]: Patch - "Goodbye Coachella, hello Stagecoach" - 2014-04-21 - https://patch.com/california/palmdesert/goodbye-coachella-hello-stagecoach
 [^gr-soundgirls]: SoundGirls.org - "Rat Sound - Coachella Q & A" - 2014-04-04 - https://soundgirls.org/?p=2167
 [^gr-abc7]: ABC7 Los Angeles - "Stagecoach Country Music Festival temporarily evacuated due to high winds in Indio" - 2026-04-26 - https://abc7.com/post/stagecoach-country-music-festival-temporarily-evacuated-due-high-winds-indio-new-set-times-announced/18968726/
-[^gr-aegjob]: AEG job posting, via Built In - "Stagehands - Coachella & Stagecoach 2025" (now expired) - 2025-03-26 - https://builtin.com/job/stagehands-coachella-stagecoach-2025/4226728
+[^gr-aegjob]: AEG job posting, via Built In - "Stagehands- Coachella & Stagecoach 2026" (listing removed 2026-05-04, page still up) - 2026 - https://builtin.com/job/stagehands-coachella-stagecoach-2026/8392787
 [^gr-wikiindio]: Wikipedia - "Indio, California" - n.d. (read 2026-11-04) - https://en.wikipedia.org/wiki/Indio,_California
 [^gr-wikidate]: Wikipedia - "Riverside County Fair and National Date Festival" - n.d. (read 2026-11-04) - https://en.wikipedia.org/wiki/Riverside_County_Fair_and_National_Date_Festival
 [^gr-pbs12]: PBS SoCal (Susan Straight) - "Many Queens at the Indio Date Festival" - 2012-02-21 - https://pbssocal.org/socal-focus/many-queens-at-the-indio-date-festival

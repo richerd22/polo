@@ -258,7 +258,7 @@ Photo: [sachoben](https://commons.wikimedia.org/wiki/File:Coachella_2013_Do_Lab_
 [^st-npr22]: NPR - "Coachella's music fan fave Do LaB is back!" - 2022-04-22 - https://www.npr.org/2022/04/22/1093356468/coachellas-music-fan-fave-do-lab-is-back
 [^st-var23]: Variety (Lily Moayeri, via Yahoo) - "How Coachella's Do LaB tent, with its unpublished lineups, became the festival's coolest and biggest open secret" - 2023-04-13 - https://malaysia.news.yahoo.com/coachella-lab-tent-unpublished-lineups-200619276.html
 [^st-fader25]: The FADER (Steffanee Wang) - "'We just kept going bigger': How Do LaB became Coachella's electronic oasis" - 2025-04-11 - https://thefader.com/2025/04/11/history-of-do-lab-stage-coachella-20-anniversary-photos
-[^st-coachsus]: Coachella - "Sustainability" - n.d. (read 2026-10-31) - https://coachella.com/sustainability
+[^st-coachsus]: Coachella - "Sustainability" - n.d. (read 2026-10-31; page removed from the site by November 2026) - https://coachella.com/sustainability
 [^st-edmh23]: EDM Honey (Michael Ryan) - "The art of surprise: The origins of Do LaB's longest-held tradition at Coachella" - 2023-04-27 - https://edmhoney.com/?p=129575
 [^st-edmtunes19]: EDMTunes - "Surprise: Major Lazer and friends knock out the Do LaB with Diplo during Coachella" - 2019-04-16 - https://www.edmtunes.com/2019/04/16/surprise-major-lazer-and-friends-knock-out-the-dolab-with-diplo-during-coachella/
 [^st-mixmag26]: Mixmag (Patrick Hinton) - "Coachella's Do LaB dance stage closes after falling light reportedly injures crowd member" - 2026-04-12 - https://mixmag.net/read/coachellas-do-lab-dance-stage-closes-after-falling-light-reportedly-injures-crowd-member-news
