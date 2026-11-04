@@ -1039,6 +1039,11 @@
     "publication": "The Forty-Five (Charlotte Gunn)",
     "url": "https://thefortyfive.com/news/the-best-coachella-billboards-for-2025/",
     "date": "2025-04-12"
+   },
+   {
+    "publication": "Richard Lathrop (photo, polo.cold.fyi)",
+    "date": "2025-04-17",
+    "url": "https://polo.cold.fyi/img/billboards/2025-clairo-charmed.jpg"
    }
   ],
   "image_sources": [
@@ -1054,7 +1059,21 @@
    }
   ],
   "confidence": "high",
-  "notes": "Exact vandalized wording differs between sources."
+  "notes": "Exact vandalized wording differs between sources. Photo (2025-04-17) shows the board unaltered, reading 'i got Charmed at Coachella - SATURDAY - OUTDOOR THEATRE - BY CLAIRO', Lamar, east of Cabazon.",
+  "media": [
+   {
+    "kind": "photo",
+    "file": "img/billboards/2025-clairo-charmed.jpg",
+    "w": 1600,
+    "h": 1174,
+    "alt": "Lavender billboard reading i got Charmed at Coachella, Saturday Outdoor Theatre, by Clairo, wind turbines behind",
+    "caption": "Unaltered, eastbound I-10 among the turbines, April 17, 2025 - weekend two.",
+    "credit": "Richard Lathrop",
+    "license": "© Richard Lathrop, used with permission",
+    "license_kind": "own",
+    "taken": "2025-04-17"
+   }
+  ]
  },
  {
   "year": 2025,
@@ -1234,8 +1253,8 @@
   "year": 2025,
   "artist": "Yeat",
   "title": "Yeat board",
-  "shows_says": "No text reported; Stereogum #14, 'means nothing' outside his fanbase.",
-  "location": "Desert highway from LA to Coachella",
+  "shows_says": "'CO[bell]CHELLA' in white on black, a bell standing in for the first A, with small text 'YEAT', 'SAHARA TENT', 'FRIDAY NIGHT' (Richard Lathrop photo). Stereogum ranked it #14 and said it 'means nothing' outside his fanbase.",
+  "location": "Desert highway from LA to Coachella; photographed on I-10 eastbound among the wind turbines east of Cabazon (Lamar)",
   "promoted": "His Coachella set",
   "aftermath": null,
   "sources": [
@@ -1243,11 +1262,31 @@
     "publication": "Stereogum (Tom Breihan)",
     "url": "https://stereogum.com/2303612/coachella-2025-billboards/lists",
     "date": "2025-04-09"
+   },
+   {
+    "publication": "Richard Lathrop (photo, polo.cold.fyi)",
+    "date": "2025-04-17",
+    "url": "https://polo.cold.fyi/img/billboards/2025-yeat-cochella.jpg"
    }
   ],
   "image_sources": [],
-  "confidence": "medium",
-  "notes": null
+  "confidence": "high",
+  "notes": null,
+  "media": [
+   {
+    "kind": "photo",
+    "file": "img/billboards/2025-yeat-cochella.jpg",
+    "w": 1600,
+    "h": 1159,
+    "alt": "Black billboard reading COCHELLA with a large bell in place of the first A",
+    "caption": "Eastbound I-10 among the turbines, April 17, 2025.",
+    "credit": "Richard Lathrop",
+    "license": "© Richard Lathrop, used with permission",
+    "license_kind": "own",
+    "taken": "2025-04-17"
+   }
+  ],
+  "confidence_note": "Press report plus a dated photo that shows the full copy."
  },
  {
   "year": 2025,
@@ -1283,7 +1322,7 @@
   "year": 2025,
   "artist": "Ed Sheeran (Atlantic Records)",
   "title": "Pink coordinates billboard",
-  "shows_says": "Cryptic pink billboard with latitude/longitude coordinates and a lyric from his new album.",
+  "shows_says": "'MEET ME ON THE FLOOR...' and '33.68271° N, 116.23477° W' in white on magenta, with a hand-drawn play-button triangle, on an Outfront board (Richard Lathrop photo). Outfront's blog describes it as a cryptic pink coordinates board for Atlantic.",
   "location": "Not specified",
   "promoted": "A surprise Sheeran performance (he was added to the 2025 bill after FKA twigs withdrew)",
   "aftermath": "He played Coachella Weekend 2 (Mojave stage per We Write About Music).",
@@ -1292,11 +1331,31 @@
     "publication": "Outfront Media blog",
     "url": "https://www.outfront.com/blog/billboards-are-real-coachella-influencers",
     "date": "2025-04-24"
+   },
+   {
+    "publication": "Richard Lathrop (photo, polo.cold.fyi)",
+    "date": "2025-04-17",
+    "url": "https://polo.cold.fyi/img/billboards/2025-ed-sheeran-meet-me-on-the-floor.jpg"
    }
   ],
   "image_sources": [],
-  "confidence": "medium",
-  "notes": "Outfront is a billboard vendor; likely first-party knowledge but single source."
+  "confidence": "high",
+  "notes": "Outfront is a billboard vendor; likely first-party knowledge but single source.",
+  "media": [
+   {
+    "kind": "photo",
+    "file": "img/billboards/2025-ed-sheeran-meet-me-on-the-floor.jpg",
+    "w": 1600,
+    "h": 1494,
+    "alt": "Magenta billboard reading MEET ME ON THE FLOOR... with map coordinates and a hand-drawn play triangle",
+    "caption": "Eastbound I-10 among the turbines, April 17, 2025.",
+    "credit": "Richard Lathrop",
+    "license": "© Richard Lathrop, used with permission",
+    "license_kind": "own",
+    "taken": "2025-04-17"
+   }
+  ],
+  "confidence_note": "Board owner's own blog plus a dated photo that shows the full copy."
  },
  {
   "year": 2025,
@@ -1493,6 +1552,11 @@
     "publication": "Yahoo/AOL Entertainment (Neia Balao) - via mirror",
     "url": "https://pynbl.pages.dev/blog/sabrina-carpenter-mona-lisa-and-ozempic-a-roundup--sabrina-carpenter-mona-lisa-ozempic-221209749",
     "date": "2026-04-09"
+   },
+   {
+    "publication": "Richard Lathrop (photo, polo.cold.fyi)",
+    "date": "2026-04-20",
+    "url": "https://polo.cold.fyi/img/billboards/2026-sabrina-live-from-coachella.jpg"
    }
   ],
   "image_sources": [
@@ -1508,7 +1572,34 @@
    }
   ],
   "confidence": "high",
-  "notes": "Paste ranked Sabrina #2 overall. Yahoo URL is a mirror; original Yahoo/AOL link not retrieved."
+  "notes": "Paste ranked Sabrina #2 overall. Yahoo URL is a mirror; original Yahoo/AOL link not retrieved. Richard Lathrop's video and photo (2026-04-20, dusk, eastbound I-10 near Bob Hope Drive) show the pair: the text board, then the marquee board with bulbs lit. On that date the marquee read 'Sabrina Carpenter' and 'LIVE! from Coachella'. Paste reports 'She told you she'd come again!' on the second board; the copy may have changed between weekends - both recorded.",
+  "media": [
+   {
+    "kind": "video",
+    "file": "img/billboards/2026-sabrina-dusk-drive.mp4",
+    "poster": "img/billboards/2026-sabrina-dusk-drive-poster.jpg",
+    "w": 720,
+    "h": 1280,
+    "alt": "Video from a moving car at dusk passing a lit billboard reading This next billboard is gonna blow your",
+    "caption": "The setup, at dusk on April 20, 2026, eastbound I-10 near Rancho Mirage.",
+    "credit": "Richard Lathrop",
+    "license": "© Richard Lathrop, used with permission",
+    "license_kind": "own",
+    "taken": "2026-04-20"
+   },
+   {
+    "kind": "photo",
+    "file": "img/billboards/2026-sabrina-live-from-coachella.jpg",
+    "w": 1600,
+    "h": 1024,
+    "alt": "Lit marquee billboard with bulbs around the edge: Sabrina Carpenter lying down in a sparkly dress, LIVE! from Coachella",
+    "caption": "The payoff board a few seconds later, bulbs lit.",
+    "credit": "Richard Lathrop",
+    "license": "© Richard Lathrop, used with permission",
+    "license_kind": "own",
+    "taken": "2026-04-20"
+   }
+  ]
  },
  {
   "year": 2026,
@@ -1647,6 +1738,11 @@
     "publication": "Yahoo/AOL (Neia Balao) - via mirror",
     "url": "https://pynbl.pages.dev/blog/sabrina-carpenter-mona-lisa-and-ozempic-a-roundup--sabrina-carpenter-mona-lisa-ozempic-221209749",
     "date": "2026-04-09"
+   },
+   {
+    "publication": "Richard Lathrop (photo, polo.cold.fyi)",
+    "date": "2026-04-16",
+    "url": "https://polo.cold.fyi/img/billboards/2026-bieber-swag.jpg"
    }
   ],
   "image_sources": [
@@ -1657,7 +1753,21 @@
    }
   ],
   "confidence": "high",
-  "notes": null
+  "notes": null,
+  "media": [
+   {
+    "kind": "photo",
+    "file": "img/billboards/2026-bieber-swag.jpg",
+    "w": 1600,
+    "h": 1067,
+    "alt": "Pink and orange billboard reading SWAG beside the wind turbines, people standing at the roadside below",
+    "caption": "Eastbound I-10 among the turbines, April 16, 2026.",
+    "credit": "Richard Lathrop",
+    "license": "© Richard Lathrop, used with permission",
+    "license_kind": "own",
+    "taken": "2026-04-16"
+   }
+  ]
  },
  {
   "year": 2026,
@@ -1816,6 +1926,11 @@
     "publication": "Creative Bloq (Natalie Fear)",
     "url": "https://www.creativebloq.com/design/advertising/from-sabrina-carpenter-to-katseye-check-out-the-best-coachella-billboards-of-2026",
     "date": "2026-04-09"
+   },
+   {
+    "publication": "Richard Lathrop (photo, polo.cold.fyi)",
+    "date": "2026-04-16",
+    "url": "https://polo.cold.fyi/img/billboards/2026-major-lazer-ozempic.jpg"
    }
   ],
   "image_sources": [
@@ -1831,7 +1946,21 @@
    }
   ],
   "confidence": "high",
-  "notes": null
+  "notes": " Photo (2026-04-16) shows the bubble marked 'Delivered' in iMessage style, on a Lamar board east of Cabazon.",
+  "media": [
+   {
+    "kind": "photo",
+    "file": "img/billboards/2026-major-lazer-ozempic.jpg",
+    "w": 1600,
+    "h": 1024,
+    "alt": "Black billboard with one blue text-message bubble and the word Delivered",
+    "caption": "Eastbound I-10 among the turbines, April 16, 2026.",
+    "credit": "Richard Lathrop",
+    "license": "© Richard Lathrop, used with permission",
+    "license_kind": "own",
+    "taken": "2026-04-16"
+   }
+  ]
  },
  {
   "year": 2026,
@@ -1901,6 +2030,11 @@
     "publication": "Paste (Matt Mitchell)",
     "url": "https://www.pastemagazine.com/music/coachella/the-10-best-coachella-2026-billboards",
     "date": "2026-04-10"
+   },
+   {
+    "publication": "Richard Lathrop (photo, polo.cold.fyi)",
+    "date": "2026-04-16",
+    "url": "https://polo.cold.fyi/img/billboards/2026-addison-rae-million.jpg"
    }
   ],
   "image_sources": [
@@ -1911,7 +2045,21 @@
    }
   ],
   "confidence": "high",
-  "notes": null
+  "notes": " Richard Lathrop's photo (2026-04-16) shows 'MAIN STAGE SATURDAY' and '1M' on the bill; Lamar board, among the wind turbines east of Cabazon.",
+  "media": [
+   {
+    "kind": "photo",
+    "file": "img/billboards/2026-addison-rae-million.jpg",
+    "w": 1600,
+    "h": 1174,
+    "alt": "Billboard styled as a million-dollar bill with Addison Rae's portrait, wind turbines and a freight train behind",
+    "caption": "Eastbound I-10 among the turbines, April 16, 2026.",
+    "credit": "Richard Lathrop",
+    "license": "© Richard Lathrop, used with permission",
+    "license_kind": "own",
+    "taken": "2026-04-16"
+   }
+  ]
  },
  {
   "year": 2026,
@@ -2829,5 +2977,462 @@
   "confidence": "low",
   "notes": "Mobile and aerial fan placements, not road billboards, and the article covers plans as well as what happened. One foreign outlet relying on fanbase tweets; post URLs not captured. Include only if the archive covers fan OOH.",
   "entry_type": "artist_promo"
+ },
+ {
+  "year": 2026,
+  "artist": "Ye",
+  "title": "BULLY - new album out now",
+  "shows_says": "'BULLY', 'YE' and 'ブリー' (Bully in Japanese katakana) on yellow, two grappling wrestler-style figures, 'NEW ALBUM OUT NOW' with a small label logo.",
+  "location": "Beaumont, seen from the I-10 eastbound approach - the westernmost board in this set (photo location)",
+  "promoted": "A new album; the board itself doesn't mention Coachella",
+  "aftermath": null,
+  "entry_type": "artist_promo",
+  "sources": [
+   {
+    "publication": "Richard Lathrop (photo, polo.cold.fyi)",
+    "date": "2026-04-16",
+    "url": "https://polo.cold.fyi/img/billboards/2026-ye-bully.jpg"
+   }
+  ],
+  "image_sources": [],
+  "media": [
+   {
+    "kind": "photo",
+    "file": "img/billboards/2026-ye-bully.jpg",
+    "w": 1600,
+    "h": 1280,
+    "alt": "Yellow billboard with two wrestling figures and the words BULLY and YE, behind a Right Lane Ends sign",
+    "caption": "Beaumont, from the eastbound approach, April 16, 2026.",
+    "credit": "Richard Lathrop",
+    "license": "© Richard Lathrop, used with permission",
+    "license_kind": "own",
+    "taken": "2026-04-16"
+   }
+  ],
+  "confidence": "medium",
+  "confidence_note": "One dated first-hand photo. No press report of this board opened yet.",
+  "notes": "Added 2026-11-04 from Richard Lathrop's road photos."
+ },
+ {
+  "year": 2026,
+  "artist": "Anyma",
+  "title": "ÆDEN - Friday main stage closing",
+  "shows_says": "Black board: 'ANYMA presents ÆDEN', a giant android torso with arms out, 'FRIDAY', 'MAIN STAGE CLOSING', 'WORLD PREMIERE'. Lamar.",
+  "location": "I-10 eastbound between Beaumont and Banning, Mount San Gorgonio behind (photo location)",
+  "promoted": "His Friday closing set on the Coachella Stage, billed as a world premiere of ÆDEN",
+  "aftermath": "Wind cancelled the weekend-one Friday set; he played a Do LaB b2b that Sunday and moved the full show to weekend two (see 2026 in the year-by-year record).",
+  "entry_type": "artist_promo",
+  "sources": [
+   {
+    "publication": "Richard Lathrop (photo, polo.cold.fyi)",
+    "date": "2026-04-16",
+    "url": "https://polo.cold.fyi/img/billboards/2026-anyma-aeden.jpg"
+   }
+  ],
+  "image_sources": [],
+  "media": [
+   {
+    "kind": "photo",
+    "file": "img/billboards/2026-anyma-aeden.jpg",
+    "w": 1600,
+    "h": 1024,
+    "alt": "Black billboard by the freeway with a giant android figure and ANYMA ÆDEN Friday main stage closing, snowy peak behind",
+    "caption": "Eastbound between Beaumont and Banning, April 16, 2026.",
+    "credit": "Richard Lathrop",
+    "license": "© Richard Lathrop, used with permission",
+    "license_kind": "own",
+    "taken": "2026-04-16"
+   }
+  ],
+  "confidence": "medium",
+  "confidence_note": "One dated first-hand photo. Anyma is also part of the UMG/Interscope group entry, which had no text reported.",
+  "notes": "Added 2026-11-04 from Richard Lathrop's road photos."
+ },
+ {
+  "year": 2026,
+  "artist": "Maruchan",
+  "title": "Still here when the festival payment plan kicks in",
+  "shows_says": "Yellow board, a cup of Maruchan Instant Lunch on the left: 'STILL HERE WHEN THE FESTIVAL PAYMENT PLAN KICKS IN.' and 'FREE RAMEN | EXIT 104 | CABAZON OUTLETS'. Lamar.",
+  "location": "I-10 eastbound east of Cabazon, among the San Gorgonio Pass wind turbines (photo location)",
+  "promoted": "A free-ramen pop-up at the Cabazon outlets, off exit 104 (per the board)",
+  "aftermath": null,
+  "entry_type": "brand",
+  "sources": [
+   {
+    "publication": "Richard Lathrop (photo, polo.cold.fyi)",
+    "date": "2026-04-16",
+    "url": "https://polo.cold.fyi/img/billboards/2026-maruchan-billboard.jpg"
+   }
+  ],
+  "image_sources": [],
+  "media": [
+   {
+    "kind": "photo",
+    "file": "img/billboards/2026-maruchan-billboard.jpg",
+    "w": 1600,
+    "h": 1557,
+    "alt": "Yellow Maruchan billboard: Still here when the festival payment plan kicks in. Free ramen, exit 104, Cabazon Outlets",
+    "caption": "Eastbound I-10 among the turbines, April 16, 2026.",
+    "credit": "Richard Lathrop",
+    "license": "© Richard Lathrop, used with permission",
+    "license_kind": "own",
+    "taken": "2026-04-16"
+   }
+  ],
+  "confidence": "medium",
+  "confidence_note": "One dated first-hand photo (Richard Lathrop). No press report opened yet; leads in research/billboards/richard-2024-2026.md.",
+  "notes": "Added 2026-11-04 from Richard Lathrop's road photos."
+ },
+ {
+  "year": 2026,
+  "artist": "Maruchan",
+  "title": "Noodle-curtain pop-up at Cabazon",
+  "shows_says": "Not a billboard: the pop-up the board pointed to. An inflatable white arch printed 'Maruchan', hung with fabric noodle streamers to walk through, a giant 'Maruchan Instant Lunch' cup, a silver trailer and a stocked stand.",
+  "location": "Cabazon, off I-10 (the board says exit 104, Cabazon Outlets) (photo location)",
+  "promoted": "Maruchan; free ramen for festival traffic",
+  "aftermath": null,
+  "entry_type": "activation",
+  "sources": [
+   {
+    "publication": "Richard Lathrop (photo, polo.cold.fyi)",
+    "date": "2026-04-16",
+    "url": "https://polo.cold.fyi/img/billboards/2026-maruchan-popup.jpg"
+   }
+  ],
+  "image_sources": [],
+  "media": [
+   {
+    "kind": "photo",
+    "file": "img/billboards/2026-maruchan-popup.jpg",
+    "w": 1600,
+    "h": 1600,
+    "alt": "Inflatable white Maruchan arch hung with noodle-like streamers in a parking lot, a silver trailer beside it",
+    "caption": "The arch, April 16, 2026.",
+    "credit": "Richard Lathrop",
+    "license": "© Richard Lathrop, used with permission",
+    "license_kind": "own",
+    "taken": "2026-04-16"
+   },
+   {
+    "kind": "video",
+    "file": "img/billboards/2026-maruchan-noodle-curtain.mp4",
+    "poster": "img/billboards/2026-maruchan-noodle-curtain-poster.jpg",
+    "w": 720,
+    "h": 1280,
+    "alt": "Video walking through hanging fabric noodles toward a Maruchan trailer and a giant Instant Lunch cup",
+    "caption": "Walking through the noodles, same afternoon.",
+    "credit": "Richard Lathrop",
+    "license": "© Richard Lathrop, used with permission",
+    "license_kind": "own",
+    "taken": "2026-04-16"
+   }
+  ],
+  "confidence": "medium",
+  "confidence_note": "One dated first-hand photo (Richard Lathrop). No press report opened yet; leads in research/billboards/richard-2024-2026.md.",
+  "notes": "Added 2026-11-04 from Richard Lathrop's road photos."
+ },
+ {
+  "year": 2026,
+  "artist": "Kaskade",
+  "title": "ORIGIN //",
+  "shows_says": "Black board, a blurred blue silhouette in profile: 'ORIGIN //' and 'kaskade'. Outfront.",
+  "location": "I-10 eastbound east of Cabazon, among the San Gorgonio Pass wind turbines (photo location)",
+  "promoted": "Kaskade's ORIGIN // (the board names no date or stage)",
+  "aftermath": null,
+  "entry_type": "artist_promo",
+  "sources": [
+   {
+    "publication": "Richard Lathrop (photo, polo.cold.fyi)",
+    "date": "2026-04-16",
+    "url": "https://polo.cold.fyi/img/billboards/2026-kaskade-origin.jpg"
+   }
+  ],
+  "image_sources": [],
+  "media": [
+   {
+    "kind": "photo",
+    "file": "img/billboards/2026-kaskade-origin.jpg",
+    "w": 1600,
+    "h": 960,
+    "alt": "Black Outfront billboard reading ORIGIN // kaskade with a blue blurred profile, desert hills and turbines behind",
+    "caption": "Eastbound I-10 east of Cabazon, April 16, 2026.",
+    "credit": "Richard Lathrop",
+    "license": "© Richard Lathrop, used with permission",
+    "license_kind": "own",
+    "taken": "2026-04-16"
+   }
+  ],
+  "confidence": "medium",
+  "confidence_note": "One dated first-hand photo (Richard Lathrop). No press report opened yet; leads in research/billboards/richard-2024-2026.md.",
+  "notes": "Added 2026-11-04 from Richard Lathrop's road photos."
+ },
+ {
+  "year": 2026,
+  "artist": "Nine Inch Noize",
+  "title": "Album out 4.17.26",
+  "shows_says": "Black board in red caps: 'NINE INCH NOIZE' with the Ns flipped backwards, and 'ALBUM OUT 4.17.26'. Lamar.",
+  "location": "I-10 eastbound east of Cabazon, among the San Gorgonio Pass wind turbines (photo location)",
+  "promoted": "An album out April 17, 2026, the Friday of weekend two (per the board)",
+  "aftermath": null,
+  "entry_type": "artist_promo",
+  "sources": [
+   {
+    "publication": "Richard Lathrop (photo, polo.cold.fyi)",
+    "date": "2026-04-16",
+    "url": "https://polo.cold.fyi/img/billboards/2026-nine-inch-noize.jpg"
+   }
+  ],
+  "image_sources": [],
+  "media": [
+   {
+    "kind": "photo",
+    "file": "img/billboards/2026-nine-inch-noize.jpg",
+    "w": 1600,
+    "h": 1237,
+    "alt": "Black billboard with red text NINE INCH NOIZE album out 4.17.26, freight train and turbines behind, a flatbed truck in the next lane",
+    "caption": "Eastbound I-10 among the turbines, April 16, 2026.",
+    "credit": "Richard Lathrop",
+    "license": "© Richard Lathrop, used with permission",
+    "license_kind": "own",
+    "taken": "2026-04-16"
+   }
+  ],
+  "confidence": "medium",
+  "confidence_note": "One dated first-hand photo (Richard Lathrop). No press report opened yet; leads in research/billboards/richard-2024-2026.md.",
+  "notes": "Added 2026-11-04 from Richard Lathrop's road photos."
+ },
+ {
+  "year": 2026,
+  "artist": "Subtronics",
+  "title": "Sahara + Sunday",
+  "shows_says": "Orange board: 'SUBTRONICS', a seated figure in the middle, 'SAHARA + SUNDAY'.",
+  "location": "I-10 eastbound east of Cabazon, among the San Gorgonio Pass wind turbines (photo location)",
+  "promoted": "His Sunday set in the Sahara tent (per the board)",
+  "aftermath": null,
+  "entry_type": "artist_promo",
+  "sources": [
+   {
+    "publication": "Richard Lathrop (photo, polo.cold.fyi)",
+    "date": "2026-04-16",
+    "url": "https://polo.cold.fyi/img/billboards/2026-subtronics.jpg"
+   }
+  ],
+  "image_sources": [],
+  "media": [
+   {
+    "kind": "photo",
+    "file": "img/billboards/2026-subtronics.jpg",
+    "w": 1600,
+    "h": 1174,
+    "alt": "Orange billboard reading SUBTRONICS Sahara + Sunday above a pickup truck on the freeway",
+    "caption": "Eastbound I-10 east of Cabazon, April 16, 2026.",
+    "credit": "Richard Lathrop",
+    "license": "© Richard Lathrop, used with permission",
+    "license_kind": "own",
+    "taken": "2026-04-16"
+   }
+  ],
+  "confidence": "medium",
+  "confidence_note": "One dated first-hand photo (Richard Lathrop). No press report opened yet; leads in research/billboards/richard-2024-2026.md.",
+  "notes": "Added 2026-11-04 from Richard Lathrop's road photos."
+ },
+ {
+  "year": 2026,
+  "artist": "Unidentified - help us name it",
+  "title": "Teal and orange duotone portrait",
+  "shows_says": "No words at all: a split image, the left half teal and the right half orange, of an older man's face with his arms raised over his head. Lamar. If you know whose board this was, write in.",
+  "location": "I-10 eastbound east of Cabazon, among the San Gorgonio Pass wind turbines (photo location)",
+  "promoted": "Unknown",
+  "aftermath": null,
+  "entry_type": "unknown",
+  "sources": [
+   {
+    "publication": "Richard Lathrop (photo, polo.cold.fyi)",
+    "date": "2026-04-16",
+    "url": "https://polo.cold.fyi/img/billboards/2026-unidentified-duotone.jpg"
+   }
+  ],
+  "image_sources": [],
+  "media": [
+   {
+    "kind": "photo",
+    "file": "img/billboards/2026-unidentified-duotone.jpg",
+    "w": 1600,
+    "h": 1280,
+    "alt": "Wordless billboard split teal and orange showing a man's face and raised arms, wind turbines behind",
+    "caption": "Eastbound I-10 among the turbines, April 16, 2026. Whose is it?",
+    "credit": "Richard Lathrop",
+    "license": "© Richard Lathrop, used with permission",
+    "license_kind": "own",
+    "taken": "2026-04-16"
+   }
+  ],
+  "confidence": "medium",
+  "confidence_note": "One dated first-hand photo (Richard Lathrop). No press report opened yet; leads in research/billboards/richard-2024-2026.md.",
+  "notes": "Added 2026-11-04 from Richard Lathrop's road photos."
+ },
+ {
+  "year": 2026,
+  "artist": "Warner Bros. - Digger",
+  "title": "The giant shovel in Indio",
+  "shows_says": "Not a billboard: a giant red-and-grey shovel driven into a mound of sand, lit at night. A plaque on a stake reads '\"In Digger We Trust\" - Tap Phone Here'. A sign warns 'Shovel can get extremely hot. Please do not touch!' A public filming notice says the exhibit was being filmed for the motion picture Digger and Warner Bros. Entertainment, dates April 10 - April 26, 2026, location Indio, California.",
+  "location": "Indio, about two miles north of the polo grounds (photo location)",
+  "promoted": "The Warner Bros. film Digger",
+  "aftermath": null,
+  "entry_type": "activation",
+  "sources": [
+   {
+    "publication": "Richard Lathrop (photo, polo.cold.fyi)",
+    "date": "2026-04-16",
+    "url": "https://polo.cold.fyi/img/billboards/2026-digger-notice.jpg"
+   }
+  ],
+  "image_sources": [],
+  "media": [
+   {
+    "kind": "photo",
+    "file": "img/billboards/2026-digger-shovel.jpg",
+    "w": 1200,
+    "h": 1600,
+    "alt": "A giant rust-red shovel standing in a mound of sand at night",
+    "caption": "The shovel at night, April 16, 2026.",
+    "credit": "Richard Lathrop",
+    "license": "© Richard Lathrop, used with permission",
+    "license_kind": "own",
+    "taken": "2026-04-16"
+   },
+   {
+    "kind": "photo",
+    "file": "img/billboards/2026-digger-plaque.jpg",
+    "w": 1200,
+    "h": 1600,
+    "alt": "Leather-look plaque on a stake reading In Digger We Trust, Tap Phone Here",
+    "caption": "The plaque.",
+    "credit": "Richard Lathrop",
+    "license": "© Richard Lathrop, used with permission",
+    "license_kind": "own",
+    "taken": "2026-04-16"
+   },
+   {
+    "kind": "photo",
+    "file": "img/billboards/2026-digger-notice.jpg",
+    "w": 1200,
+    "h": 1600,
+    "alt": "Signs on a fence: Warning, shovel can get extremely hot, and a Warner Bros. public filming notice for the film Digger",
+    "caption": "The fine print, with the dates.",
+    "credit": "Richard Lathrop",
+    "license": "© Richard Lathrop, used with permission",
+    "license_kind": "own",
+    "taken": "2026-04-16"
+   }
+  ],
+  "confidence": "medium",
+  "confidence_note": "Dated first-hand photos, including the on-site Warner Bros. notice with the dates. No press report opened yet.",
+  "notes": "Added 2026-11-04 from Richard Lathrop's road photos."
+ },
+ {
+  "year": 2024,
+  "artist": "John Summit",
+  "title": "How TF we feelin baby?",
+  "shows_says": "Black board: 'COACHELLA, HOW TF WE FEELIN BABY?' with a photo of him over a crowd, 'SAHARA' and 'JOHN SUMMIT SUNDAY NIGHT'. Lamar.",
+  "location": "Beside the railroad tracks on a surface road between Palm Desert and Indio, eastbound (photo location)",
+  "promoted": "His Sunday night Sahara set (per the board)",
+  "aftermath": null,
+  "entry_type": "artist_promo",
+  "sources": [
+   {
+    "publication": "Richard Lathrop (photo, polo.cold.fyi)",
+    "date": "2024-04-18",
+    "url": "https://polo.cold.fyi/img/billboards/2024-john-summit-how-tf.jpg"
+   }
+  ],
+  "image_sources": [],
+  "media": [
+   {
+    "kind": "photo",
+    "file": "img/billboards/2024-john-summit-how-tf.jpg",
+    "w": 1600,
+    "h": 1067,
+    "alt": "Black billboard reading Coachella, how TF we feelin baby? John Summit, Sahara, Sunday night, with a moustache board further down the road",
+    "caption": "With the moustache board just beyond, April 18, 2024.",
+    "credit": "Richard Lathrop",
+    "license": "© Richard Lathrop, used with permission",
+    "license_kind": "own",
+    "taken": "2024-04-18"
+   }
+  ],
+  "confidence": "medium",
+  "confidence_note": "One dated first-hand photo (Richard Lathrop). No press report opened yet; leads in research/billboards/richard-2024-2026.md.",
+  "notes": "Added 2026-11-04 from Richard Lathrop's road photos."
+ },
+ {
+  "year": 2024,
+  "artist": "Dom Dolla (identification not confirmed)",
+  "title": "The moustache",
+  "shows_says": "A close-up of a man's moustache and grin, white text 'SAHARA SATURDAY'. No name on the board. It stood a few hundred feet from John Summit's board, and Dom Dolla and John Summit also had a joint board as Everything Always.",
+  "location": "Beside the railroad tracks on a surface road between Palm Desert and Indio, eastbound (photo location)",
+  "promoted": "A Saturday Sahara set (per the board)",
+  "aftermath": null,
+  "entry_type": "artist_promo",
+  "sources": [
+   {
+    "publication": "Richard Lathrop (photo, polo.cold.fyi)",
+    "date": "2024-04-18",
+    "url": "https://polo.cold.fyi/img/billboards/2024-dom-dolla-sahara-saturday.jpg"
+   }
+  ],
+  "image_sources": [],
+  "media": [
+   {
+    "kind": "photo",
+    "file": "img/billboards/2024-dom-dolla-sahara-saturday.jpg",
+    "w": 1559,
+    "h": 1600,
+    "alt": "Billboard showing only a moustache and a big smile, with the words Sahara Saturday",
+    "caption": "April 18, 2024.",
+    "credit": "Richard Lathrop",
+    "license": "© Richard Lathrop, used with permission",
+    "license_kind": "own",
+    "taken": "2024-04-18"
+   }
+  ],
+  "confidence": "medium",
+  "confidence_note": "Dated photo of the board. The artist is our reading of the moustache, not stated on the board or in any source opened. Write in if you know.",
+  "notes": "Added 2026-11-04 from Richard Lathrop's road photos."
+ },
+ {
+  "year": 2024,
+  "artist": "Everything Always (Dom Dolla x John Summit)",
+  "title": "Outdoor Theatre + Friday",
+  "shows_says": "Dark board, 'Everything Always' in blackletter-style script, 'OUTDOOR THEATRE + FRIDAY'.",
+  "location": "Beside the railroad tracks on a surface road between Palm Desert and Indio, eastbound (photo location)",
+  "promoted": "Their Friday Outdoor Theatre set (per the board)",
+  "aftermath": null,
+  "entry_type": "artist_promo",
+  "sources": [
+   {
+    "publication": "Richard Lathrop (photo, polo.cold.fyi)",
+    "date": "2024-04-18",
+    "url": "https://polo.cold.fyi/img/billboards/2024-everything-always.jpg"
+   }
+  ],
+  "image_sources": [],
+  "media": [
+   {
+    "kind": "photo",
+    "file": "img/billboards/2024-everything-always.jpg",
+    "w": 1600,
+    "h": 1131,
+    "alt": "Dark red billboard reading Everything Always, Outdoor Theatre, Friday, beside a two-lane road",
+    "caption": "April 18, 2024 (soft focus, shot through the windshield).",
+    "credit": "Richard Lathrop",
+    "license": "© Richard Lathrop, used with permission",
+    "license_kind": "own",
+    "taken": "2024-04-18"
+   }
+  ],
+  "confidence": "medium",
+  "confidence_note": "One dated first-hand photo (Richard Lathrop). No press report opened yet; leads in research/billboards/richard-2024-2026.md.",
+  "notes": "Added 2026-11-04 from Richard Lathrop's road photos."
  }
 ]

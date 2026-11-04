@@ -402,7 +402,7 @@ def media_html(m):
     lic = m.get("license", "")
     lic_html = (f'<a href="{e(m["license_url"])}" rel="noopener" target="_blank">{e(lic)}</a>' if m.get("license_url") else e(lic))
     src_html = (f' · <a href="{e(m["source_url"])}" rel="noopener" target="_blank">original</a>' if m.get("source_url") else "")
-    cap = (e(m.get("caption", "")) + " " if m.get("caption") else "") + f"Photo: {e(credit)}" + (f" ({lic_html})" if lic else "") + src_html
+    cap = (e(m.get("caption", "")) + " " if m.get("caption") else "") + f"Photo: {e(credit)}" + (f" ({lic_html})" if lic and m.get("license_kind") != "own" else "") + src_html
     if m.get("kind") == "video":
         poster = "/" + m["poster"].lstrip("/")
         body = (f'<video controls muted playsinline preload="none" poster="{e(poster)}" width="{m["w"]}" height="{m["h"]}" aria-label="{e(m.get("alt",""))}">'

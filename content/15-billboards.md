@@ -50,6 +50,11 @@ The boards cluster where the road narrows. Billboard describes about 50 miles of
 
 DASH TWO's own map of the route, which is a sales pitch and should be read as one, starts with the Banning Pass and Cabazon as the first boards drivers from LA and Orange County see, then the split where Highway 111 peels off toward Palm Springs, then the final mile near the polo club.[^bb-dash25] The wind turbines are a landmark in their own right; in 2026 Slayyyter staged a bunny-suit stunt there.[^bb-adquick]
 
+:::figure img/billboards/2026-addison-rae-million.jpg 1600x1174 | Addison Rae's million-dollar-bill billboard on the I-10 east of Cabazon, with a freight train and wind turbines behind
+Addison Rae's million-dollar bill among the turbines east of Cabazon, April 16, 2026, the Thursday before weekend two.
+Photo: Richard Lathrop
+:::
+
 There is also a different kind of board off the interstate. The art biennial Desert X has put billboard works in the valley, starting in 2017 with a work by Jennifer Bolande on the road into Palm Springs.[^bb-dx] The season chapter covers those.
 
 ## How it started
@@ -85,6 +90,7 @@ The list below is generated from the archive's data, one entry per board or camp
 - **Every board has a source.** Each entry says who reported it, what it showed, where it stood and what it promoted, as far as the sources say. Gaps are left as gaps.
 - **Every board has a confidence label.** High, medium or low, with a note on why. A board seen in several independent reports is high. An agency's own blog post, with no date or location, is low.
 - **Photos are credited and linked.** Official posts by artists, labels and billboard companies are embedded from where they were posted. Fan photos are used only with the photographer's written permission and credit. Nothing is downloaded and rehosted without permission. Where no image can be used, a text card describes the board and links to the source.
+- **What gets hosted here.** Only three kinds of image: photos taken from the road by Richard Lathrop (marked "From the road", with the date taken), Creative Commons photos with their author and license, and brand or label press-kit images. Everything else stays where it was posted, linked with credit. Boards known from the press or social posts with no usable photo yet are in the still-needed list at the bottom.
 - **Street View is cited, not copied.** Google's terms don't allow Street View screenshots for any purpose.[^bb-geo] So where an old Street View capture shows a board, the entry links to that view and gives Google's capture date, such as "Apr 2019," and the date it was checked. Street View is corroboration, not proof.
 - **It is updated every spring.** In 2026, The Desert Sun photographed the boards on March 31, ten days before the first weekend.[^bb-desertsun26]
 
