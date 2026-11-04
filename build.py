@@ -54,6 +54,21 @@ def blocks(md, refs, anchors):
         s = ln.strip()
         if not s:
             para(buf); buf = []; i += 1; continue
+        m = re.match(r"^:::figure\s+(\S+)\s+(\d+)x(\d+)\s*\|\s*(.*)$", s)
+        if m:
+            para(buf); buf = []
+            src, w, h, alt = m.group(1), m.group(2), m.group(3), m.group(4).strip()
+            inner = []
+            i += 1
+            while i < len(lines) and lines[i].strip() != ":::":
+                inner.append(lines[i].strip()); i += 1
+            i += 1
+            full = "/" + src.lstrip("/")
+            sm = re.sub(r"\.(jpe?g|png|webp)$", r"-sm.\1", full)
+            cap = "<br>".join(inline(x, refs) for x in inner if x)
+            html_out.append(f'<figure class="shot"><a href="{e(full)}"><img src="{e(sm)}" alt="{e(alt)}" width="{w}" height="{h}" loading="lazy" decoding="async"></a>'
+                            + (f"<figcaption>{cap}</figcaption>" if cap else "") + "</figure>")
+            continue
         m = re.match(r"^:::(lore|field|numbers)\s*(.*)$", s)
         if m:
             para(buf); buf = []
@@ -249,6 +264,12 @@ sup.fn{font:600 .62em/0 var(--f-mono);margin-left:.08em}sup.fn a{text-decoration
 .board p{margin:.35rem 0;font-size:.97rem}.board .meta{font:400 .78rem/1.5 var(--f-mono);color:var(--muted)}
 .conf{display:inline-block;font:600 .62rem/1 var(--f-mono);text-transform:uppercase;letter-spacing:.07em;padding:.25rem .4rem;border:1px solid currentColor;margin-left:.4rem;vertical-align:middle}
 .conf-high{color:var(--turf)}.conf-medium{color:var(--dust)}.conf-low{color:var(--muted)}
+.shot{margin:1.6rem 0}.shot img,.shot video{display:block;width:100%;height:auto;background:var(--paper2);border:1px solid var(--line)}
+.shot figcaption{font:400 .78rem/1.5 var(--f-mono);color:var(--muted);margin-top:.4rem}
+.board .shots{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,13rem),1fr));gap:.6rem;margin:.7rem 0}
+.board .shots .shot{margin:0}.board .shots video{max-height:26rem;object-fit:cover}
+.own{font:600 .62rem/1 var(--f-mono);text-transform:uppercase;letter-spacing:.07em;padding:.25rem .4rem;background:var(--turf);color:var(--paper);margin-left:.4rem;vertical-align:middle}
+.needed{list-style:none;padding-left:0!important}.needed li{border-top:1px solid var(--line);padding:.5rem 0;margin:0!important}.needed .meta{font:400 .78rem/1.5 var(--f-mono);color:var(--muted)}
 .boardyear{font:900 2.4rem/1 var(--f-display);color:var(--sunset);margin:2.6rem 0 .2rem;border-top:2px solid var(--ink);padding-top:.6rem}
 @media (max-width:900px){.layout{grid-template-columns:1fr}.rail{position:static;max-height:none;border:1px solid var(--line);padding:.8rem;order:2}.rail details summary{cursor:pointer}}
 @media (max-width:520px){body{font-size:1.06rem}.yr dl{grid-template-columns:1fr}.yr dt{margin-top:.4rem}}
@@ -360,8 +381,66 @@ def board_norm(b):
         "sources": [s for s in (b.get("sources") or []) if isinstance(s, dict) and s.get("url")],
         "photos": [{"url": s.get("url") or s.get("page"), "credit": s.get("credit") or "", "kind": s.get("photo_type") or s.get("type") or ""}
                    for s in (b.get("image_sources") or []) if isinstance(s, dict) and (s.get("url") or s.get("page"))],
-        "rights": "link-only",
+        "media": b.get("media") or [],
+        "rights": rights_of(b.get("media") or []),
     }
+
+
+def rights_of(media):
+    """'own' = Richard Lathrop's photo, 'cc' = Creative Commons with attribution, 'press-kit' = brand/label press kit.
+    Anything else is never rehosted, only linked or embedded with credit."""
+    kinds = {m.get("license_kind") for m in media}
+    for k in ("own", "cc", "press-kit"):
+        if k in kinds:
+            return k
+    return "link-only"
+
+
+def media_html(m):
+    full = "/" + m["file"].lstrip("/")
+    credit = m.get("credit", "")
+    lic = m.get("license", "")
+    lic_html = (f'<a href="{e(m["license_url"])}" rel="noopener" target="_blank">{e(lic)}</a>' if m.get("license_url") else e(lic))
+    src_html = (f' · <a href="{e(m["source_url"])}" rel="noopener" target="_blank">original</a>' if m.get("source_url") else "")
+    cap = (e(m.get("caption", "")) + " " if m.get("caption") else "") + f"Photo: {e(credit)}" + (f" ({lic_html})" if lic else "") + src_html
+    if m.get("kind") == "video":
+        poster = "/" + m["poster"].lstrip("/")
+        body = (f'<video controls muted playsinline preload="none" poster="{e(poster)}" width="{m["w"]}" height="{m["h"]}" aria-label="{e(m.get("alt",""))}">'
+                f'<source src="{e(full)}" type="video/mp4"></video>')
+        cap = cap.replace("Photo:", "Video:", 1)
+    else:
+        sm = full.rsplit(".", 1)[0] + "-sm." + full.rsplit(".", 1)[1]
+        body = f'<a href="{e(full)}"><img src="{e(sm)}" alt="{e(m.get("alt",""))}" width="{m["w"]}" height="{m["h"]}" loading="lazy" decoding="async"></a>'
+    return f'<figure class="shot">{body}<figcaption>{cap}</figcaption></figure>'
+
+
+def needed_section():
+    path = ROOT / "data/still_needed.json"
+    if not path.exists():
+        return ""
+    d = json.loads(path.read_text())
+    items = d.get("boards", [])
+    if not items:
+        return ""
+    out = ['<h2 id="still-needed">Still needed</h2>',
+           f'<p>{len(items)} boards that were reported in the press or posted by the artist, label or fans, with no photo this archive can show yet. '
+           "Where the original post exists, it's linked with credit. Nothing here is copied. "
+           'Shot one of these from the road? <a href="mailto:hello@thirdpolararch.com?subject=Polo%20billboard%20sighting">Send it in</a>, with the road, direction and date.</p>']
+    year = None
+    for b in sorted(items, key=lambda b: (-b["year"], b["artist"].lower())):
+        if b["year"] != year:
+            if year is not None:
+                out.append("</ul>")
+            year = b["year"]; out.append(f'<p class="boardyear" id="need{year}">{year}</p><ul class="needed">')
+        srcs = " · ".join(f'<a href="{e(x["url"])}" rel="noopener" target="_blank">{e(x.get("publication","source").split("(")[0].strip())}</a>' for x in b.get("sources", [])[:3])
+        post = b.get("official_post")
+        post_html = (f' · <a href="{e(post["url"])}" rel="noopener" target="_blank">original post</a> ({e(post.get("credit",""))})' if post and post.get("url") else "")
+        out.append(f'<li><strong>{e(b["artist"])}</strong>: {e(b["title"])}'
+                   + (f'<br><span class="meta">{e(b["said"])}</span>' if b.get("said") else "")
+                   + (f'<br><span class="meta">Where: {e(b["where"])}</span>' if b.get("where") else "")
+                   + (f'<br><span class="meta">Reported by: {srcs}{post_html}</span>' if srcs or post_html else "") + "</li>")
+    out.append("</ul>")
+    return "".join(out)
 
 
 def boards():
@@ -379,16 +458,22 @@ def boards():
 def boards_section(bs):
     shown = [b for b in bs if b["confidence"] in ("high", "medium")]
     held = [b for b in bs if b["confidence"] == "low"]
+    shot = [b for b in shown if b["media"]]
     out, year = ["<h2 id=\"the-archive\">The archive</h2>",
                  f"<p>{len(shown)} boards with at least one solid source, newest first. Every photo link goes to the original post or article and its credit. "
+                 f"{len(shot)} of them are shown in photos taken from the road by Richard Lathrop, marked <span class=\"own\">From the road</span>. "
                  f"{len(held)} more sightings rest on social posts alone - they're listed at the bottom until something firmer turns up.</p>"], None
     for b in shown:
         if b["year"] != year:
             year = b["year"]; out.append(f'<p class="boardyear" id="b{year}">{year}</p>')
         srcs = " · ".join(f'<a href="{e(s["url"])}" rel="noopener" target="_blank">{e(s.get("publication","source").split("(")[0].strip())}</a>' for s in b["sources"][:4])
         photos = " · ".join(f'<a href="{e(p["url"])}" rel="noopener" target="_blank">photo</a>' + (f' ({e(p["credit"][:80])})' if p["credit"] else "") for p in b["photos"][:2])
-        out.append(f'<article class="board"><p class="who">{e(b["artist"])}<span class="conf conf-{b["confidence"]}">{e(b["confidence"])}</span></p>'
+        aid = re.sub(r"[^a-z0-9]+", "-", f'{b["year"]} {b["artist"]} {b["title"]}'.lower()).strip("-")[:70]
+        own = any(m.get("license_kind") == "own" for m in b["media"])
+        out.append(f'<article class="board" id="{aid}"><p class="who">{e(b["artist"])}<span class="conf conf-{b["confidence"]}">{e(b["confidence"])}</span>'
+                   + ('<span class="own">From the road</span>' if own else "") + '</p>'
                    f'<h4>{e(b["title"])}</h4>'
+                   + (f'<div class="shots">{"".join(media_html(m) for m in b["media"])}</div>' if b["media"] else "")
                    + (f'<p>{e(b["said"])}</p>' if b["said"] else "")
                    + (f'<p class="meta">Where: {e(b["where"])}</p>' if b["where"] and b["where"].lower() not in ("not specified", "not reported") else "")
                    + (f'<p class="meta">For: {e(b["promoted"])}</p>' if b["promoted"] else "")
@@ -403,6 +488,7 @@ def boards_section(bs):
             out.append(f'<li><strong>{e(b["year"])}</strong> · {e(b["artist"])}: {e(b["title"])}'
                        + (f' (<a href="{e(s)}" rel="noopener" target="_blank">source</a>)' if s else "") + "</li>")
         out.append("</ul>")
+    out.append(needed_section())
     return "".join(out)
 
 
@@ -493,7 +579,7 @@ def main():
                                          "words": c["words"], "sources": sorted(set(c["fn"].values()))} for c in chapters], indent=1, ensure_ascii=False))
     write("sources.json", json.dumps([{"n": s["n"], "citation": s["text"], "url": s["url"], "chapters": s["chapters"]} for s in sources], indent=1, ensure_ascii=False))
     write("years.json", (ROOT / "data/years.json").read_text())
-    write("billboards.json", json.dumps({"updated": TODAY.isoformat(), "note": "Photos are links to the original posts, credited; rights field says how an image may be used.",
+    write("billboards.json", json.dumps({"updated": TODAY.isoformat(), "note": "rights: own = photo by Richard Lathrop, hosted here; cc = Creative Commons, credited; press-kit = brand/label press kit; link-only = original post linked with credit, never copied. media lists hosted files.",
                                          "boards": bs}, indent=1, ensure_ascii=False))
     llms = [f"# {LONGNAME}", "", "> A cited, independent deep dive on how the Coachella festival works - the grounds (Empire Polo Club), polo itself, the stages, the 2006 Daft Punk pyramid, the moments, the transport system, camping rituals, the lineup, the build, the money, the desert season and an archive of artist billboards on the I-10.",
             "", f"About {total_words:,} words, {len(sources)} sources, updated {UPDATED}. Not affiliated with Coachella, Goldenvoice or AEG.", "", "## Chapters"]

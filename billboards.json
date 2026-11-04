@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-31",
- "note": "Photos are links to the original posts, credited; rights field says how an image may be used.",
+ "updated": "2026-11-04",
+ "note": "rights: own = photo by Richard Lathrop, hosted here; cc = Creative Commons, credited; press-kit = brand/label press kit; link-only = original post linked with credit, never copied. media lists hosted files.",
  "boards": [
   {
    "year": 2026,
@@ -36,6 +36,7 @@
      "kind": "official label photo"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -82,6 +83,7 @@
      "kind": "news photo"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -128,6 +130,7 @@
      "kind": "social photo"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -159,6 +162,7 @@
      "kind": "official label photo"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -200,6 +204,7 @@
      "kind": "news photo"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -241,6 +246,7 @@
      "kind": "news photo"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -277,6 +283,7 @@
      "kind": "official label photo"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -333,6 +340,7 @@
      "kind": "official label photo"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -384,6 +392,7 @@
      "kind": "news photo"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -415,6 +424,7 @@
      "kind": "social photo"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -456,6 +466,7 @@
      "kind": "social photo"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -497,6 +508,7 @@
      "kind": "agency/official photo"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -533,6 +545,7 @@
      "kind": "official label photo"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -569,6 +582,7 @@
      "kind": "social photo"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -594,6 +608,7 @@
     }
    ],
    "photos": [],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -635,6 +650,7 @@
      "kind": "official label photo"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -666,6 +682,7 @@
      "kind": "news photo"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -692,6 +709,7 @@
      "kind": "official label photo"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -723,6 +741,7 @@
      "kind": "official label photo"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -749,6 +768,7 @@
      "kind": "news photo"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -769,6 +789,7 @@
     }
    ],
    "photos": [],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -789,6 +810,7 @@
     }
    ],
    "photos": [],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -815,6 +837,7 @@
      "kind": "official label photo"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -835,6 +858,7 @@
     }
    ],
    "photos": [],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -855,6 +879,7 @@
     }
    ],
    "photos": [],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -875,6 +900,7 @@
     }
    ],
    "photos": [],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -895,6 +921,7 @@
     }
    ],
    "photos": [],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -921,6 +948,7 @@
      "kind": "artist/official photo"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -947,6 +975,7 @@
      "kind": "press/journalist photo"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -973,6 +1002,7 @@
      "kind": "press/journalist photo"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -993,6 +1023,7 @@
     }
    ],
    "photos": [],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -1039,6 +1070,7 @@
      "kind": "artist-shared photo"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -1085,6 +1117,7 @@
      "kind": "aggregator social photo"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -1116,6 +1149,7 @@
      "kind": "fan photo"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -1152,6 +1186,7 @@
      "kind": "fan-account photo"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -1177,6 +1212,7 @@
     }
    ],
    "photos": [],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -1213,6 +1249,7 @@
      "kind": "fan photo"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -1233,6 +1270,7 @@
     }
    ],
    "photos": [],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -1253,6 +1291,7 @@
     }
    ],
    "photos": [],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -1284,6 +1323,7 @@
      "kind": "aggregator social photo"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -1310,6 +1350,7 @@
      "kind": "fan photo"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -1330,6 +1371,7 @@
     }
    ],
    "photos": [],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -1356,6 +1398,7 @@
      "kind": "fan-account photo"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -1382,6 +1425,7 @@
      "kind": "news photo/video"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -1402,6 +1446,7 @@
     }
    ],
    "photos": [],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -1422,6 +1467,7 @@
     }
    ],
    "photos": [],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -1442,6 +1488,7 @@
     }
    ],
    "photos": [],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -1462,6 +1509,7 @@
     }
    ],
    "photos": [],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -1482,6 +1530,7 @@
     }
    ],
    "photos": [],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -1513,6 +1562,7 @@
      "kind": "fan photo"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -1533,6 +1583,7 @@
     }
    ],
    "photos": [],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -1553,6 +1604,7 @@
     }
    ],
    "photos": [],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -1594,6 +1646,7 @@
      "kind": "press/advertiser image"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -1635,6 +1688,7 @@
      "kind": "aggregator social photo"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -1671,6 +1725,7 @@
      "kind": "fan photo"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -1712,6 +1767,7 @@
      "kind": "fan photo"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -1743,6 +1799,7 @@
      "kind": "media/aggregator social photo"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -1763,6 +1820,7 @@
     }
    ],
    "photos": [],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -1783,6 +1841,7 @@
     }
    ],
    "photos": [],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -1803,6 +1862,7 @@
     }
    ],
    "photos": [],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -1844,6 +1904,7 @@
      "kind": "official"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -1864,6 +1925,7 @@
     }
    ],
    "photos": [],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -1889,6 +1951,7 @@
     }
    ],
    "photos": [],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -1915,6 +1978,7 @@
      "kind": "fan"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -1941,6 +2005,7 @@
      "kind": "trade/advertiser social photo"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -1977,6 +2042,7 @@
      "kind": "unknown"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -2023,6 +2089,7 @@
      "kind": "official (artist post)"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -2069,6 +2136,7 @@
      "kind": "fan/social"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -2089,6 +2157,7 @@
     }
    ],
    "photos": [],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -2115,6 +2184,7 @@
      "kind": "media/social"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -2161,6 +2231,7 @@
      "kind": "official"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -2207,6 +2278,7 @@
      "kind": "official"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -2238,6 +2310,7 @@
      "kind": "agency/official (unverified that it is the same board)"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -2274,6 +2347,7 @@
      "kind": "agency"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -2305,6 +2379,7 @@
      "kind": "agency"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -2356,6 +2431,7 @@
      "kind": "press photo (likely Lance Gerber)"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -2387,6 +2463,7 @@
      "kind": "news"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -2418,6 +2495,7 @@
      "kind": "agency/official time-lapse video"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -2449,6 +2527,7 @@
      "kind": "agency/official time-lapse video"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -2485,6 +2564,7 @@
      "kind": "agency/official photo"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -2521,6 +2601,7 @@
      "kind": "news"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -2547,6 +2628,7 @@
      "kind": "agency/official photo"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -2573,6 +2655,7 @@
      "kind": "agency/official photo"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -2598,6 +2681,7 @@
     }
    ],
    "photos": [],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -2624,6 +2708,7 @@
      "kind": "agency/official photo"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -2650,6 +2735,7 @@
      "kind": "agency/official photo"
     }
    ],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -2670,6 +2756,7 @@
     }
    ],
    "photos": [],
+   "media": [],
    "rights": "link-only"
   },
   {
@@ -2696,6 +2783,7 @@
      "kind": "agency/promotional photo (band posing in front of board)"
     }
    ],
+   "media": [],
    "rights": "link-only"
   }
  ]
