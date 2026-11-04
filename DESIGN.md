@@ -1,6 +1,8 @@
 # polo.cold.fyi - design tokens
 
-Mood: a members' polo club program left out in the desert sun. Sand paper, turf green, a sunset stripe, stencil numerals like a scoreboard. Not the festival's brand - no palm-tree pastel, no festival logo, no wristband motifs.
+Mood (Nov 2026 refresh): golden hour on the polo field. A pastel desert sunset (sky blue to lilac to pink to orange), mountains, fan palms and a Ferris wheel that turns very slowly, stencil numerals like a scoreboard, a lineup-poster chapter list, and wristband stripes for Richard's road photos. Night mode is the field after dark: indigo sky, stars, the wheel's cars glowing. All of it is drawn in code (build.py, scene_svg) - never the festival's logo, fonts or artwork, and the 'not affiliated' line stays in the footer.
+
+Palette and scene colours are CSS variables at the top of CSS in build.py (--sunset, --pink, --lilac, --sun, --sky, --turf, sky stops --s0..--s4, --mtn1/2, --ground, --palm, --wheel). --dusk is the signature gradient. The table below is the original 2026 palette, kept for reference.
 
 Light (default)            Dark ("Night polo")
 --paper  #f3ead8           #14110d

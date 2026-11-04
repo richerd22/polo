@@ -4,6 +4,8 @@ How Coachella actually works: the grounds, the roads, the buses, the rituals, th
 
 Independent. Not affiliated with Coachella, Goldenvoice or AEG.
 
+**Adding photos, boards, a new year or a fact? Start with [AGENTS.md](AGENTS.md)** - recipes, the rules, and the tools (`tools/add_media.py`, `tools/add_year.py`, `tools/check.py`).
+
 ## Layout
 
 - `research/` - raw, cited research notes. Every fact carries its source (URL, publication, date). Social posts are "reported by attendees" until confirmed elsewhere.
@@ -14,7 +16,9 @@ Independent. Not affiliated with Coachella, Goldenvoice or AEG.
 - `img/cc/` - Creative Commons photos from Flickr and Wikimedia Commons (no NC or ND licences), resized the same way. Each figure credits the photographer, links the original page and names the licence.
 - `data/still_needed.json` - boards reported in the press or posted officially, with no image yet (rendered at the bottom of /billboards/). Unverified leads wait in `research/billboards/still-needed-leads.json`.
 - `data/billboards.raw.json` - every billboard found so far, merged, unreviewed. Fields: year, artist, title, shows_says, location, promoted, aftermath, sources, image_sources, confidence, entry_type, notes
-- The site itself lands here once the outline is approved (GitHub Pages, `main`, root)
+- `data/calendar.json` - festival dates and headliners per year; drives the home-page festival clock, which works it out in the browser so it never goes stale.
+- `tools/` - `add_media.py` (process and attach a photo or video), `add_year.py` (dates and lineups), `check.py` (every rule, run in CI).
+- The site: `build.py` writes it into the repo root; GitHub Pages serves `main`.
 
 ## Rules
 

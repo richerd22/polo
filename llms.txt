@@ -27,6 +27,10 @@ About 47,068 words, 609 sources, updated November 2026. Not affiliated with Coac
 - https://polo.cold.fyi/sources.json
 - https://polo.cold.fyi/years.json - every edition 1999-2026 plus 1993
 - https://polo.cold.fyi/billboards.json - the billboard archive
+- https://polo.cold.fyi/calendar.json - festival dates and headliners by year, including announced future editions
+
+## Contributing
+- Agents and people adding photos, boards, a new year or facts: https://github.com/richerd22/polo/blob/main/AGENTS.md
 
 ## Other
 - [Play polo](https://polo.cold.fyi/play/): a small browser polo game
