@@ -33,7 +33,7 @@ So instead of a bigger festival, he cloned it. The same artists play the same st
 
 Goldenvoice did the same sum again in October 2016 with Desert Trip, six classic-rock acts over two weekends on the same field. Tollett told The New York Times it would gross "approximately $160 million for the two weekends."[^mon-l4lm] Stereogum set that against $84M for Coachella, which is the 2015 figure; Pollstar's chart has Coachella 2016 at $94.2M.[^mon-stereogum16][^mon-pollstar16] Either way, two weekends of the Stones, Dylan and McCartney out-grossed the festival. Stereogum put the cost of staging it at about $100M.[^mon-stereogum16]
 
-Some sense of where the money goes came from Paul Tollett himself. He told The New Yorker in 2017 that each of that year's headliners was paid $3-4M, and that acts at the bottom of the bill got a little under $10,000.[^mon-mxdwnfees] For 2026, Rolling Stone reported that Justin Bieber's first headline set paid "north of $10 million." That figure came from one unnamed source.[^mon-complex]
+Some sense of where the money goes came from Paul Tollett himself. He told The New Yorker in 2017 that each of that year's headliners was paid $3-4M, and that acts at the bottom of the bill got a little under $10,000.[^mon-mxdwnfees] For 2026, Rolling Stone reported that Justin Bieber's fee was "north of $10 million for the two weekends," about $5M a weekend.[^mon-rs25] That figure came from one unnamed source.[^mon-complex]
 
 ## The country festival's books
 
@@ -265,3 +265,4 @@ The company with the most riding on the festival doesn't sponsor it at all. Revo
 [^mon-crop24]: Riverside County Agricultural Commissioner - "2024 Annual Agricultural Production Report" (Board of Supervisors item 2.2) - 2025-12-16 - https://media.rivcocob.org/proceeds/2025/p2025_12_16_files/02.02001.pdf
 [^mon-gpsbi26]: GPS Business Insider (Bob Marra) - "Coachella and Stagecoach Music Festival Economic Impacts: Pick a Number, Any Number" - 2026-04-16 - https://gpsbusinessinsider.com/coachella-and-stagecoach-music-festival-economic-impacts-pick-a-number-any-number/
 [^mon-gov26]: Office of the Governor of California - "As weekend one of Coachella wraps, Governor Newsom highlights economic power of Indio's world-renowned music festivals" - 2026-04-13 - https://www.gov.ca.gov/2026/04/13/as-weekend-one-of-coachella-wraps-governor-newsom-highlights-economic-power-of-indios-world-renowned-music-festivals/
+[^mon-rs25]: Rolling Stone (Tomás Mier) - "Justin Bieber Scores Seven-Figure Coachella Payday: 'He's Fully in the Driver's Seat'" - 2025-09-17 - https://www.rollingstone.com/music/music-news/justin-bieber-coachella-pay-swag-chart-numbers-1235426501/

@@ -88,7 +88,7 @@ By 2010 the problem had flipped. For the first time the festival sold only three
 
 For 2011 Goldenvoice put a wrought-iron fence around the grounds to stop gate-crashers, paid toward an extra road lane in and out, and dropped the slow ticket-for-wristband swap.[^beg-lvsun11] Tollett's summary of the fixes: "Fewer bodies. More land. Better traffic capabilities."[^beg-lvsun11]
 
-Then, on May 31, 2011, he announced the move that defines the modern festival: in 2012 Coachella would run twice, on two weekends, with the same lineup.[^beg-boombox] His reasons were demand and resale. "We had too many people who wanted to go," he told The Boombox, and he hated watching fans pay "$500-$600" on the secondary market.[^beg-boombox] The obvious alternative was a bigger single weekend, and he turned it down:
+Then, on May 31, 2011, he announced the move that defines the modern festival: in 2012 Coachella would run twice, on two weekends, with the same lineup.[^beg-boombox] His reasons were demand and resale. "We had too many people who wanted to go," he told Billboard, as The Boombox reported, and he hated watching fans pay "$500-$600" on the secondary market.[^beg-boombox] The obvious alternative was a bigger single weekend, and he turned it down:
 
 > "I didn't want to ruin the show by putting 40,000 more people in per day."[^beg-boombox]
 

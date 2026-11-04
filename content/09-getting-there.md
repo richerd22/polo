@@ -2,10 +2,10 @@
 n: 9
 slug: getting-there
 title: Getting there
-short: About 40,000 people a day ride a shuttle into Indio, and the company that runs it isn't Goldenvoice - it's a travel outfit owned, three layers up, by private equity. The drivers come from all over, the train ran exactly once, and the rich fly into a WWII airfield in Thermal. Everyone else sits on Jefferson Street, then leaves on Monday at 9 a.m.
+short: About 40,000 people a day ride a shuttle into Indio, and the company that runs it isn't Goldenvoice - it's a travel outfit owned, three layers up, by the company behind UFC and WWE. The drivers come from all over, the train ran exactly once, and the rich fly into a WWII airfield in Thermal. Everyone else sits on Jefferson Street, then leaves on Monday at 9 a.m.
 ---
 
-The bus you ride to Coachella belongs to a company named after a man named Dan. Not literally - the drivers are subcontracted - but follow the shuttle pass up the chain and you reach CID Entertainment, which stands for "Consider It Dan," started by the tour manager of a Philadelphia jam band.[^gt-inquirer] Above that sits a sports hospitality firm, and above that, four private-equity investors.[^gt-onlocation] None of them is Goldenvoice.
+The bus you ride to Coachella belongs to a company named after a man named Dan. Not literally - the drivers are subcontracted - but follow the shuttle pass up the chain and you reach CID Entertainment, which stands for "Consider It Dan," started by the tour manager of a Philadelphia jam band.[^gt-inquirer] Above that sits a sports hospitality firm, and above that, since February 2025, TKO Group Holdings, the company behind UFC and WWE.[^gt-tko] None of them is Goldenvoice.
 
 For two weekends every April, Indio has to take in a crowd the size of a small city every afternoon, and send it back out after midnight. The 2019 traffic plan assumed 125,000 people a day.[^gt-kvcr19] This chapter is about how they get there: the buses, the roads, the train that ran once, and the private jets.
 
@@ -15,7 +15,7 @@ Valley Music Travel (VMT) runs the official shuttles. It sells the passes, staff
 
 CID's founder, Dan Berkowitz, became tour manager for the Disco Biscuits in 2004. He noticed most bands didn't offer travel and VIP packages to fans, so he started a company that would. He worked out of an office in the band's studio, and in 2008 sold a small stake for $100,000 to grow it.[^gt-inquirer] Pollstar puts the founding at 2007.[^gt-pollstar19] By 2015 CID had about 60 full-time staff in Philadelphia, and up to 300 people working for it over a big festival weekend. At Coachella, it would "build you a 14-by-14-foot safari tent with full amenities on site."[^gt-inquirer]
 
-In October 2018, On Location Experiences bought CID, according to Berkowitz.[^gt-pollstar19] On Location now calls CID "a division of On Location," and lists its own owners as RedBird Capital Partners, Bruin Sports Capital, 32 Equity and the Carlyle Group.[^gt-onlocation] So the chain runs: your shuttle pass, VMT, CID, On Location, private equity. No source shows Goldenvoice or AEG holding a stake in any link of it, and no source rules it out either.
+In October 2018, On Location Experiences bought CID, according to Berkowitz.[^gt-pollstar19] On Location now calls CID "a division of On Location."[^gt-onlocation] Since February 28, 2025, On Location has belonged to TKO Group Holdings, the company behind UFC and WWE, which bought it from Endeavor along with IMG and Professional Bull Riders.[^gt-tko] On Location's own About page still lists its earlier owners: RedBird Capital Partners, Bruin Sports Capital, 32 Equity and the Carlyle Group.[^gt-onlocation] So the chain runs: your shuttle pass, VMT, CID, On Location, TKO. No source shows Goldenvoice or AEG holding a stake in any link of it, and no source rules it out either.
 
 VMT has done the job since at least 2010. That spring Pollstar wrote that "Coachella partnered with Valley Music Travel" for hotel shuttles. 2010 was also the first year everyone got in-and-out privileges, which is what made a hotel shuttle worth having.[^gt-pollstar10] Goldenvoice used VMT again for Desert Trip in 2016: a $25 pass, over 20 stops, and a shuttle coordinator at every pickup.[^gt-deserttrip]
 
@@ -203,3 +203,4 @@ Then the roads reopen, the buses go back to wherever they came from, and Indio d
 [^gt-pspsync]: The Palm Springs Post - "Regional traffic signal network to double in size as Palm Springs pushes safety upgrades" - 2026-07-15 - https://thepalmspringspost.com/regional-traffic-signal-network-to-double-in-size-as-palm-springs-pushes-safety-upgrades/
 [^gt-itesync]: Institute of Transportation Engineers - "Transportation Achievement Award - TSMO: CVAG and ADVANTEC, CV-Sync" - 2024 - https://ite.org/ITEORG/assets/File/Awards/_2024/Winner%20Announcements/TAA-TSMO_%20CVAG%20ADVANTEC%20CV%20Sync_web%20copy_final.pdf
 [^gt-psp26]: Palm Springs International Airport - "Monthly Passenger Activity Report - 2026" and "Aircraft Operations 2026" (June 2026 report) - 2026-07 - https://flypsp.com/wp-content/uploads/2026/07/June-2026-Passenger-Aircraft-Activity.pdf
+[^gt-tko]: Sports Video Group - "TKO Completes Acquisition of Sports Assets From Endeavor" - 2025-02-28 - https://www.sportsvideo.org/2025/02/28/tko-completes-acquisition-of-sports-assets-from-endeavor/

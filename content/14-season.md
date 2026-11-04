@@ -113,7 +113,7 @@ In 2025, the TODEC Legal Center put up billboards of its own: ten of them, showi
 
 ## Weather
 
-The desert sets the calendar. The first Coachella, in October 1999, ran in temperatures over 100°F.[^sea-ringer] Spring dates don't guarantee mild weather: in 2004, Saturday afternoon went past 100 degrees and was described as brutal.[^sea-lvsun04] Wikipedia's summary of 2012 gives a range across the two weekends from 43°F on April 14 to 106°F on April 21.[^sea-wiki] Every year, JFK Memorial Hospital in Indio, the closest hospital, adds staff for heat illness and drug and alcohol cases. Its medical director, Dr. Andrew Cassinove, said "many of these emergency visits are preventable."[^sea-nbcps26h]
+The desert sets the calendar. The first Coachella, in October 1999, ran in temperatures over 100°F.[^sea-ringer] Spring dates don't guarantee mild weather: in 2004, Saturday afternoon went past 100 degrees and was described as brutal.[^sea-lvsun04] Wikipedia puts the coldest and hottest festival days on record a week apart: 43°F on April 14, 2012, and 106°F on April 21, 2012.[^sea-wiki] Every year, JFK Memorial Hospital in Indio, the closest hospital, adds staff for heat illness and drug and alcohol cases. Its medical director, Dr. Andrew Cassinove, said "many of these emergency visits are preventable."[^sea-nbcps26h]
 
 Weekend one of 2025 was another hot one. The forecast for Friday, April 11, was 103 degrees, and a nearby weather station passed 102 that afternoon, beating the record for the date. Saturday was forecast at 99, under a moderate heat-risk warning from the National Weather Service.[^sea-foxwx25] Weekend two was expected in the low 90s.[^sea-foxwx25]
 

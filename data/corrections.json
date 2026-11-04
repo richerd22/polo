@@ -28,5 +28,90 @@
   "date": "2026-11-04",
   "chapter": "billboards",
   "what": "The earliest boards on record are Republic Records' eight in 2013 (and about three in 2012, per the label), not 2014."
+ },
+ {
+  "date": "2026-11-04",
+  "chapter": "getting-there",
+  "what": "Audit item 3 (confirmed). TKO Group Holdings closed its purchase of On Location from Endeavor on 2025-02-28 (SVG; TheWrap). The private-equity owners are pre-2025."
+ },
+ {
+  "date": "2026-11-04",
+  "chapter": "getting-there",
+  "what": "Audit item 3 (confirmed). Same stale ownership in the opening paragraph."
+ },
+ {
+  "date": "2026-11-04",
+  "chapter": "getting-there",
+  "what": "Audit item 3 (confirmed). On Location About page (opened) still lists RedBird/Bruin/32 Equity/Carlyle; SVG (opened, 2025-02-28): \"TKO Group Holdings announces the close of its acquisition of IMG, On Location, and Professional Bull Riders from Endeavor\"; TKO COO quote names UFC and WWE. Add the gt-tk"
+ },
+ {
+  "date": "2026-11-04",
+  "chapter": "money",
+  "what": "Audit item 4 (confirmed). Rolling Stone (opened): \"An insider pegs Bieber's fee at north of $10 million for the two weekends - $5 million per weekend\". Complex (opened) also says \"for both weeks combined\"."
+ },
+ {
+  "date": "2026-11-04",
+  "chapter": "grounds",
+  "what": "Audit possible-issue 1 (confirmed). The quoted words are mxdwn's paraphrase (\"Mayor Glenn Miller assured that the increased capacity would have to be gradual over time\"), not a quote; Hypebot (opened) gives the gradual phase-in to Mayor Pro Tem Elaine Holmes via The Desert Sun."
+ },
+ {
+  "date": "2026-11-04",
+  "chapter": "prologue",
+  "what": "Sweep. Wikipedia (opened) does not quote Billboard; it paraphrases Tollett: \"Paul Tollett, co-founder of Goldenvoice, said the concert sowed the seeds for an eventual music festival there,\" with a Billboard 2012 citation."
+ },
+ {
+  "date": "2026-11-04",
+  "chapter": "beginning",
+  "what": "Sweep. The Boombox (opened) says Tollett made the remark \"in an interview with Billboard Biz\"."
+ },
+ {
+  "date": "2026-11-04",
+  "chapter": "stages",
+  "what": "Sweep. PLSN 2013 (already cited in this chapter, opened) states the Outdoor Theatre existed in 1999, so \"nothing found here says so outright\" is wrong. The Still open bullet about when the second stage became the Outdoor Theatre can stay as a naming question."
+ },
+ {
+  "date": "2026-11-04",
+  "chapter": "stages",
+  "what": "Sweep. LAist's headline (opened) is \"Coachella Announces Lineup For New, Rock-Driven Tent\"; \"New stage, who dis?\" is the @coachella tweet of April 10, 2017 that LAist embeds."
+ },
+ {
+  "date": "2026-11-04",
+  "chapter": "moments",
+  "what": "Sweep. \"launched or boosted\" is not in the LA Times piece (opened via AOL): \"The ramshackle set was barely a half hour, but it yielded two headline-caliber artists (Frank Ocean ... and Tyler, the Creator) and boosted two more newcomers (producer/singer Syd, and later, her future bandmate Steve Lacy)"
+ },
+ {
+  "date": "2026-11-04",
+  "chapter": "moments",
+  "what": "Sweep (new text added in commit b7b5108). Billboard Canada (opened) quotes Madonna: \"20 years ago today I performed at Coachella\". Weekend-two Friday was April 17, 2026; her 2006 Sahara set was April 30, 2006 (SPIN, opened: \"The April 30 show will be Madonna's first performance at a festival\"). The "
+ },
+ {
+  "date": "2026-11-04",
+  "chapter": "started",
+  "what": "Sweep. TicketNews (opened): \"From now through February 15, buyers can select a layaway plan with either a 50 percent or 10 percent down option. The remaining layaway order balances are automatically deducted in scheduled increments\". February 15 is the sign-up deadline, not the end of the installmen"
+ },
+ {
+  "date": "2026-11-04",
+  "chapter": "camping",
+  "what": "Sweep. Doubled word."
+ },
+ {
+  "date": "2026-11-04",
+  "chapter": "season",
+  "what": "Sweep. Wikipedia (opened): \"Temperatures during the festival's history have ranged from 43 °F (6 °C) on April 14, 2012, to 106 °F (41 °C) on April 21, 2012.\" It is the all-time range, not a 2012 summary."
+ },
+ {
+  "date": "2026-11-04",
+  "chapter": "years",
+  "what": "years.json 2025. Wikipedia \"Coachella 2025\" (opened) says \"the first classical orchestra to perform at Coachella\"; the entry says \"per Wikipedia\". (Apr 12 not re-verified.)"
+ },
+ {
+  "date": "2026-11-04",
+  "chapter": "years",
+  "what": "years.json 2025 firsts, same wording fix."
+ },
+ {
+  "date": "2026-11-04",
+  "chapter": "billboards",
+  "what": "billboards.raw.json 2013 Republic entry (line ~2804): the notes still say the article could not be read and that this is \"the only sign ... before 2014\", which contradicts the entry's own high confidence and chapter 15. The THR page opened in this pass and says exactly this."
  }
 ]

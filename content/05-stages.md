@@ -15,7 +15,7 @@ The festival's tent names make a tidy set: Sahara, Mojave, Gobi, Yuma, Sonora. E
 
 The 1999 Sahara was a dance tent from the first day. Its opening bill included A-Trak, Juan Atkins, Kevin Saunderson and Richie Hawtin, and it was pushed to the far edge of the grounds, beside what later became the Rose Garden VIP area, with only a few light panels.[^st-lat23] That first weekend was hot enough that Kid Koala's records started to warp on the turntables.[^st-ringer19]
 
-The two open-air stages are a smaller mystery. Palm Springs Life's account of 1999 lists a "main stage" and a "second stage."[^st-psl] Wikipedia says the Outdoor Theatre has been in use since the start, next to the main stage, and its lineup tables use the name from early on without saying when it was first used.[^st-wiki] So the second stage of 1999 is probably the Outdoor Theatre under a plainer name, but nothing found here says so outright.
+The two open-air stages are a smaller mystery. Palm Springs Life's account of 1999 lists a "main stage" and a "second stage."[^st-psl] PLSN's 2013 production profile is plainer: there had been "a Main Stage, Outdoor Theatre, Mojave Tent, Sahara Tent and Gobi Tent way back in 1999."[^st-plsn13] Wikipedia also says the Outdoor Theatre has been in use since the start, next to the main stage.[^st-wiki] So the second stage of 1999 was most likely the Outdoor Theatre under a plainer name. When the name itself was first used is still not on record.
 
 ## The main stage and the Outdoor Theatre
 
@@ -59,7 +59,7 @@ The idea, per Wikipedia, was a room that "dials down the noise and strobe lights
 
 ## Sonora: the punk tent
 
-Sonora arrived in 2017, not 2016 or 2018 as some lists say. LAist announced it with the headline "New stage, who dis?" and a rock-leaning bill with a "bilingual slant": Allah-Las, T.S.O.L., Guided By Voices and Downtown Boys.[^st-laist17] It is fully enclosed and club-sized, and its booker, Rene Contreras, put the brief simply.[^st-cvi25]
+Sonora arrived in 2017, not 2016 or 2018 as some lists say. LAist announced its lineup, quoting the festival's own tweet ("New stage, who dis?"), with a rock-leaning bill with a "bilingual slant": Allah-Las, T.S.O.L., Guided By Voices and Downtown Boys.[^st-laist17] It is fully enclosed and club-sized, and its booker, Rene Contreras, put the brief simply.[^st-cvi25]
 
 > "We just wanted to have an intimate space for guitar bands." - Rene Contreras[^st-cvi25]
 

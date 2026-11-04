@@ -2801,7 +2801,7 @@
    }
   ],
   "confidence": "high",
-  "notes": "Could not read the article. The Wayback Machine URL was refused by WebFetch (SITE_BLOCKED), and per instructions I did not try other archive mirrors. The live THR URL (taken from search results) also failed (client_error). Searches for its text turned up nothing. It is the only sign of label billboards on the route before 2014. Try opening it by hand in a browser.",
+  "notes": "Read 2026-11-04 on the live THR URL: Jem Aswad (Billboard), published 2013-04-12. Eight boards on I-10 into Indio: one with the label's logo, five for Republic acts on the bill (James Blake, C2C, Alex Clare, Ghost B.C., Ben Howard) and two for acts not playing but with albums due (Black Sabbath, Kid Cudi).",
   "entry_type": "artist_promo",
   "confidence_note": "Contemporary trade report (THR/Billboard) with the label's own executive quoted, plus a Billboard photo gallery."
  },

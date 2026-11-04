@@ -45,7 +45,7 @@ On Thursday, April 10, 2025, campers waited in their cars for up to 12 hours or 
 
 ## Day 0
 
-That Thursday concert is the newest ritual, and and one Goldenvoice built on purpose.
+That Thursday concert is the newest ritual, and one Goldenvoice built on purpose.
 
 "Day 0" is what campers call the Thursday they arrive; the Independent's Ralphs report was filed from "Day 0 of Coachella 2026."[^cp-cvi26] In 2025, Goldenvoice gave it a stage. Chris Lake played the first-ever Thursday night show inside the campgrounds on weekend 1, and on weekend 2 he was swapped for Disco Dom, Dombresky's disco project, at 8:30 p.m.[^cp-patchdz] It was the party that helped cause the 12-hour line.[^cp-kesq25b] Goldenvoice kept it anyway. For 2026, Disco Lines was announced as the weekend 1 Day Zero performer, an exclusive pre-festival set for campers, second year running.[^cp-ds26] Weekend 2 got KETTAMA, Prospa and Josh Baker playing back to back to back.[^cp-beatportal]
 

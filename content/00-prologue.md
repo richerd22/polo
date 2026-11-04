@@ -73,7 +73,7 @@ Put the pieces together and the choice makes sense, even if nobody planned it.
 He was not counting on the heat, or on how few of them would come back the first time. That is the next chapter.
 
 :::lore "The night that started Coachella"
-This is the founding story Goldenvoice tells, and it's mostly true. Tollett has said the Pearl Jam show showed him the site could work for a festival.[^pro-npr] Wikipedia goes further and quotes Billboard, 2012, saying the concert "sowed the seeds" of Coachella.[^pro-wikivs] The documented version is a little slower. The first festival was in October 1999, six years later, and it nearly sank the company.[^pro-ringer] The seed was real. It took a while to come up.
+This is the founding story Goldenvoice tells, and it's mostly true. Tollett has said the Pearl Jam show showed him the site could work for a festival.[^pro-npr] Wikipedia goes further. Citing Billboard in 2012, it says Tollett credited the concert with having "sowed the seeds for an eventual music festival there."[^pro-wikivs] The documented version is a little slower. The first festival was in October 1999, six years later, and it nearly sank the company.[^pro-ringer] The seed was real. It took a while to come up.
 :::
 
 ## Still open

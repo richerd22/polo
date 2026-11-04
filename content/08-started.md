@@ -97,7 +97,7 @@ Goldenvoice's lawyers have kept busy with it. The festival sued Hoodchella, an u
 
 ## Paying for it
 
-In 2009, in the middle of a recession, Coachella offered a layaway plan. It came back for 2010 with a choice of 50% or 10% down and automatic installments through February 15.[^ws-ticketnews] By 2025 about 60% of the crowd was using the payment plan, according to a Billboard report as relayed by Entrepreneur.[^ws-entrepreneur]
+In 2009, in the middle of a recession, Coachella offered a layaway plan. It came back for 2010 with a choice of 50% or 10% down, open to buyers through February 15, with the balance taken automatically in scheduled installments.[^ws-ticketnews] By 2025 about 60% of the crowd was using the payment plan, according to a Billboard report as relayed by Entrepreneur.[^ws-entrepreneur]
 
 The other direction was up. By April 2010 you could reserve a "Coachella Safari Tent": a queen bed, air conditioning, power outlets, VIP wristbands, a shuttle, backstage access, a 2 a.m. curfew and one case of beer per person.[^ws-urbandaddy] Palm Springs Life later counted 100 VIP safari tents at about $6,500 a weekend for two.[^ws-psl] By 2026 the ladder ran from $160 car camping through GA at $649 for weekend one to Lake Eldorado lodges at $2,300 and tents at $3,000.[^ws-caltoday] Nobody we read credits Coachella with inventing glamping. It did sell it early, and it turned it into a product line.
 

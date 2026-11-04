@@ -91,7 +91,7 @@ Indio does not own the land, but it decides what happens on it, and most of the 
 
 **The 2013 deal.** A year later the council voted 4-0 to keep the festivals in Indio through at least 2030. Goldenvoice's per-ticket payment to the city rose from $2.33 to $5.01, starting in 2014. The deal allowed up to five festivals a year on the site.[^gr-hypebot13] That clause is why Desert Trip and Power Trip could happen in October (see the next chapter).
 
-**The 2016 cap.** Goldenvoice asked to grow. The council approved Coachella going from 99,000 to 125,000 people a day and Stagecoach from 75,000 to 85,000, phased in.[^gr-pollstar16][^gr-mxdwn16] The mayor promised the increase would be "gradual over time."[^gr-mxdwn16] The cap is still 125,000 a day.[^gr-pollstar25]
+**The 2016 cap.** Goldenvoice asked to grow. The council approved Coachella going from 99,000 to 125,000 people a day and Stagecoach from 75,000 to 85,000, phased in.[^gr-pollstar16][^gr-mxdwn16] City officials said the increase would be phased in gradually. mxdwn credits Mayor Glenn Miller; Hypebot, citing The Desert Sun, credits Mayor Pro Tem Elaine Holmes.[^gr-mxdwn16][^gr-hypebot16] The cap is still 125,000 a day.[^gr-pollstar25]
 
 **Who actually shows up.** The state's alcohol regulator, which sends 30-35 agents to each weekend, counted daily peaks of nearly 110,000 at Coachella and about 82,000 at Stagecoach in 2025.[^gr-abc25] So the site runs below its legal ceiling, at least by that count.
 
@@ -228,3 +228,4 @@ The crew window covers all of it. AEG's 2025 stagehand posting asked for availab
 [^gr-thr12]: The Hollywood Reporter, citing Billboard.biz - "Goldenvoice Buys 280 Acres of Land at Coachella Site" - 2012-03-27 - https://www.hollywoodreporter.com/news/general-news/goldenvoice-coachella-304667/
 [^gr-laweekly12]: LA Weekly - "Why Did Goldenvoice Purchase a Bunch of Land Near Coachella?" - 2012-03-27 - https://www.laweekly.com/why-did-goldenvoice-purchase-a-bunch-of-land-near-coachella/
 [^gr-holden24]: US Polo Association - "The Legacy of Glen Holden Sr.: A Life of Leadership, Innovation and Passion for Polo" - 2024-04-22 - https://www.uspolo.org/news-social/news/the-legacy-of-glen-holden-sr-a-life-of-leadership-innovation-and-passion-for-polo
+[^gr-hypebot16]: Hypebot (via CelebrityAccess) - "When Is A Festival Too Big? Coachella, Stagecoach To Expand" - 2016-04-20 - https://www.hypebot.com/when-is-a-festival-too-big-coachella-stagecoach-to-expand/
