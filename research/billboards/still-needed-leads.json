@@ -1,291 +1,45 @@
 {
  "updated": "2026-11-04",
- "status": "ALL search-only: seen in search results, no page opened (network blocked this session). Verify before publishing.",
- "leads": [
+ "rejected_or_unread": [
   {
-   "year": 2022,
-   "artist": "Swedish House Mafia",
-   "title": "'Paradise Again' board",
-   "said": "Image captioned 'Paradise Again' (their 2022 album) in Billboard's I-10 piece; exact copy not reported in what I saw.",
-   "where": "I-10 route to Coachella (not specified)",
-   "sources": [
-    {
-     "publication": "Billboard Pro - 'On the Road to Coachella? Those Billboards Are There Just for You'",
-     "url": "https://www.billboard.com/pro/coachella-billboards-interstate-10-festival-advertising-strategy/",
-     "date": "2022 (inferred)",
-     "status": "search-only"
-    }
-   ],
-   "official_post": null,
-   "rehostable": null,
-   "confidence": "low",
-   "note": "Archive already cites this Billboard article for other 2022 boards but has no SHM entry. Confirm the caption by opening the article."
-  },
-  {
-   "year": 2022,
    "artist": "The Weeknd",
-   "title": "The Weeknd board (MilkMoney content)",
-   "said": "Not reported.",
-   "where": "I-10 route (not specified)",
-   "sources": [
-    {
-     "publication": "Live Design (MilkMoney founder cites Billie Eilish, the Weeknd, Swedish House Mafia)",
-     "url": "https://www.livedesignonline.com/fan-experience/coachella-metaverse-ooh-advertisings-engagement-expands",
-     "date": "2022 (inferred)",
-     "status": "search-only"
-    }
-   ],
-   "official_post": null,
-   "rehostable": null,
-   "confidence": "low",
-   "note": "Only a search summary ties the Weeknd to the boards. It may be a MilkMoney client mention, not a confirmed I-10 board."
+   "year": 2022,
+   "why": "Live Design returned 403. The Billboard 2022 piece names no Weeknd board. Nothing opened ties him to an I-10 board."
   },
   {
-   "year": 2024,
-   "artist": "Emilee Moore",
-   "title": "'I made this billboard to help you feel a little less alone' (live billboard performance)",
-   "said": "Green self-love billboard reading 'I made this billboard to help you feel a little less alone', with a heart made of photos of objects fans sent. She performed 'Hanging On' on it on Friday, April 12, 2024.",
-   "where": "Palm Springs area, on the drive from LA to Indio (one outlet says LA)",
-   "sources": [
-    {
-     "publication": "HollywoodLife",
-     "url": "https://hollywoodlife.com/2024/04/11/emilee-moore-performs-outside-coachella/",
-     "date": "2024-04-11",
-     "status": "search-only"
-    },
-    {
-     "publication": "Billboard",
-     "url": "https://www.billboard.com/music/music-news/emilee-moore-coachella-billboard-performance-hanging-on-interview-1235655417",
-     "date": "2024-04 (not verified)",
-     "status": "search-only"
-    },
-    {
-     "publication": "V13",
-     "url": "https://v13.net/2024/04/emilee-moore-to-perform-hanging-on-single-on-california-highway-billboard/",
-     "date": "2024-04",
-     "status": "search-only"
-    },
-    {
-     "publication": "Forbes (Cathy Olson) - 'Mind Reading: Meet The Music Artist Who Performed On A Coachella Billboard...'",
-     "url": "https://www.forbes.com/sites/cathyolson/2024/04/18/mind-reading-meet-the-music-artist-who-performed-on-a-coachella-billboard-to-help-fest-goers-feel-less-alone/",
-     "date": "2024-04-18",
-     "status": "search-only"
-    }
-   ],
-   "official_post": null,
-   "rehostable": null,
-   "confidence": "medium",
-   "note": "Not on the Coachella lineup, so this was a stunt. Find her own Instagram/TikTok post to embed (not located)."
-  },
-  {
-   "year": 2024,
-   "artist": "Gesaffelstein",
-   "title": "Gesaffelstein 2024 board (unconfirmed)",
-   "said": "Not reported.",
-   "where": "I-10 (Riverside to Indio)",
-   "sources": [
-    {
-     "publication": "The Groove Cartel - 'All the billboards on the Road to Coachella 2024'",
-     "url": "https://thegroovecartel.com/news/all-the-billboards-on-the-road-to-coachella-2024/",
-     "date": "2024-04",
-     "status": "search-only"
-    }
-   ],
-   "official_post": null,
-   "rehostable": null,
-   "confidence": "unconfirmed",
-   "note": "One search summary said Groove Cartel's list includes Gesaffelstein. A second search found no confirmation. The archive's group entry from the same source does not list him. Open the page to check."
-  },
-  {
-   "year": 2024,
-   "artist": "Ice Spice",
-   "title": "Ice Spice 2024 board (unconfirmed)",
-   "said": "Not reported.",
-   "where": "I-10 (Riverside to Indio)",
-   "sources": [
-    {
-     "publication": "The Groove Cartel - 'All the billboards on the Road to Coachella 2024'",
-     "url": "https://thegroovecartel.com/news/all-the-billboards-on-the-road-to-coachella-2024/",
-     "date": "2024-04",
-     "status": "search-only"
-    }
-   ],
-   "official_post": null,
-   "rehostable": null,
-   "confidence": "unconfirmed",
-   "note": "Same caveat as Gesaffelstein: one search summary listed her, another search did not confirm."
-  },
-  {
+   "artist": "California Department of Public Health (Narcan boards)",
    "year": 2025,
-   "artist": "AIDS Healthcare Foundation (AHF)",
-   "title": "'Bad Romance?' STD-testing billboard",
-   "said": "'Bad Romance?' (a Lady Gaga nod) with freeSTDcheck.org. Up from March 31 to April 27, 2025.",
-   "where": "I-10 westbound out of Indio",
-   "sources": [
-    {
-     "publication": "AHF press release (aidshealth.org)",
-     "url": "https://www.aidshealth.org/2025/04/bad-romance-festival-billboard-promotes-std-testing/",
-     "date": "2025-04-01",
-     "status": "search-only"
-    },
-    {
-     "publication": "Business Wire (AHF release)",
-     "url": "https://www.businesswire.com/news/home/20250331283766/en",
-     "date": "2025-03-31",
-     "status": "search-only"
-    },
-    {
-     "publication": "KESQ",
-     "url": "https://kesq.com/?p=1658344",
-     "date": "2025-04 (not verified)",
-     "status": "search-only"
-    },
-    {
-     "publication": "AM 590 The Answer (syndicated release)",
-     "url": "https://am590theanswer.com/news/health/bad-romance-festival-billboard-promotes-std-testing/2e0e0c47f2ff40609a2e3ef541d63f33",
-     "date": "2025-04",
-     "status": "search-only"
-    }
-   ],
-   "official_post": {
-    "url": "https://www.aidshealth.org/2025/04/bad-romance-festival-billboard-promotes-std-testing/",
-    "credit": "AIDS Healthcare Foundation"
-   },
-   "rehostable": null,
-   "confidence": "medium",
-   "note": "The follow-up to the archived 2024 'Catch More Than Vibes?' board. An image in AHF's own release may count as brand press material under the rights rule. Open the release and check what image it carries and on what terms before rehosting."
+   "why": "NBC Palm Springs sits behind a bot check and CV Independent returned 429. No other openable source found. Left unread."
   },
   {
-   "year": 2025,
-   "artist": "California Department of Public Health",
-   "title": "Naloxone/Narcan awareness boards aimed at festivalgoers",
-   "said": "Urge festivalgoers to carry Narcan (naloxone) and know overdose symptoms. Exact copy not reported.",
-   "where": "Along I-10 (several boards)",
-   "sources": [
-    {
-     "publication": "NBC Palm Springs",
-     "url": "https://www.nbcpalmsprings.com/2025/04/08/fentanyl-awareness-during-festival-season",
-     "date": "2025-04-08",
-     "status": "search-only"
-    },
-    {
-     "publication": "Coachella Valley Independent",
-     "url": "https://cvindependent.com/2025/04/prepared-to-save-a-life-end-overdose-and-ie-harm-reduction-provide-tools-knowledge-needed-in-case-of-a-drug-related-emergency/",
-     "date": "2025-04",
-     "status": "search-only"
-    }
-   ],
-   "official_post": null,
-   "rehostable": null,
-   "confidence": "medium",
-   "note": "A public-health campaign. Look for a CDPH press image, which may be public-domain or press material."
-  },
-  {
-   "year": 2025,
-   "artist": "Pacsun",
-   "title": "Pacsun Cabazon billboard for its Palm Springs roadside stand",
-   "said": "Promoted the Pacsun 'Roadside Stand' pop-up (April 10-12, 2025, 59511 US Hwy 111, Palm Springs). Copy not reported.",
-   "where": "Cabazon area, I-10",
-   "sources": [
-    {
-     "publication": "Retail TouchPoints - 'Pacsun Creates Roadside Stand Pop-Up to Kick Off Coachella'",
-     "url": "https://www.retailtouchpoints.com/news/pacsun-creates-roadside-stand-pop-up-to-kick-off-coachella/151190/",
-     "date": "2025-04",
-     "status": "search-only"
-    },
-    {
-     "publication": "MR Magazine - 'Pacsun debuts experiential activations and collections for Coachella'",
-     "url": "https://mr-mag.com/pacsun-debuts-experiential-activations-and-collections-for-coachella",
-     "date": "2025-04",
-     "status": "search-only"
-    }
-   ],
-   "official_post": null,
-   "rehostable": null,
-   "confidence": "medium",
-   "note": "A brand press release is the likely origin, so a press-kit image may exist."
-  },
-  {
-   "year": 2026,
-   "artist": "Pacsun",
-   "title": "Pacsun 'bold black billboard'",
-   "said": "Described as a 'bold black billboard along the freeway' supporting a Highway 111 roadside stand. Copy not reported.",
-   "where": "Along the freeway to the festival (I-10 implied)",
-   "sources": [
-    {
-     "publication": "Modern Retail - 'Bloom, Pacsun and more chase Coachella crowds on the way to the show with roadside activations'",
-     "url": "https://www.modernretail.co/marketing/bloom-pacsun-and-more-chase-coachella-crowds-on-the-way-to-the-show-with-roadside-activations/",
-     "date": "2026-04-10",
-     "status": "search-only"
-    }
-   ],
-   "official_post": null,
-   "rehostable": null,
-   "confidence": "medium",
-   "note": "The same piece covers Bloom's gas-station takeover, which was a wrap and not a billboard, so it is not listed."
-  },
-  {
-   "year": 2025,
    "artist": "Lil Yachty",
-   "title": "Lil Yachty board joking about being booked late (unconfirmed)",
-   "said": "Reportedly joked about the festival booking him late. Exact copy not seen.",
-   "where": "Not stated",
-   "sources": [
-    {
-     "publication": "Wonderland - 'Coachella Billboards Decorate the Desert'",
-     "url": "https://www.wonderlandmagazine.com/2025/04/10/coachella-billboards-decorate-the-desert/",
-     "date": "2025-04-10",
-     "status": "search-only"
-    }
-   ],
-   "official_post": null,
-   "rehostable": null,
-   "confidence": "unconfirmed",
-   "note": "From a search summary of Wonderland. Yachty played Coachella 2024, not the 2025 poster, so the year or context needs checking."
+   "year": 2025,
+   "why": "Wonderland returned 403. Search summaries put a 'took Coachella 8 years to book me' board in 2024, citing Fast Company (403). Not read, so not listed."
   },
   {
-   "year": "2026 (unconfirmed)",
-   "artist": "Dove",
-   "title": "Dove deodorant I-10 takeover (unconfirmed)",
-   "said": "Reportedly answered a viral tweet saying desert heat made Coachella ideal for a deodorant sponsor. One search summary gave March 30 to April 19 for the I-10 run.",
-   "where": "Interstate 10",
-   "sources": [
-    {
-     "publication": "rohitbhargava.com (blog)",
-     "url": "https://rohitbhargava.com/?p=13996",
-     "date": "unknown",
-     "status": "search-only"
-    }
-   ],
-   "official_post": null,
-   "rehostable": null,
-   "confidence": "unconfirmed",
-   "note": "Weak. The year and the board both need a real source. A search for BeautyMatter's 'Coachella 2026' piece (https://beautymatter.com/articles/coachella-2026) was suggested but not confirmed."
-  },
-  {
+   "artist": "Republic Records (James Blake, C2C, Alex Clare, Ghost B.C., Ben Howard, Black Sabbath, Kid Cudi)",
    "year": 2013,
-   "artist": "Republic Records (Ben Howard, Black Sabbath, C2C, Ghost B.C., James Blake, Alex Clare and others)",
-   "title": "Republic Records' eight I-10 boards (out of the 2014-2026 range)",
-   "said": "Eight label boards for Republic acts on the 2013 bill.",
-   "where": "I-10 to Indio",
-   "sources": [
-    {
-     "publication": "Billboard photo gallery - 'Republic Records Owns the Road to Coachella -- Almost Literally'",
-     "url": "https://www.billboard.com/photos/republic-records-owns-the-road-to-coachella-almost-literally/",
-     "date": "2013 (inferred)",
-     "status": "search-only"
-    },
-    {
-     "publication": "The Hollywood Reporter - 'The Road to Coachella Belongs to Republic Records'",
-     "url": "https://www.hollywoodreporter.com/news/general-news/road-coachella-belongs-republic-records-438812/",
-     "date": "2013 (inferred)",
-     "status": "search-only"
-    }
-   ],
-   "official_post": null,
-   "rehostable": null,
-   "confidence": "medium",
-   "note": "Outside the 2014-2026 scope. It is a likely fix for the gaps.json 2013 Republic year_note: the Billboard gallery is a second, image-bearing source, and a search summary now quotes THR naming James Blake, C2C, Alex Clare and Ghost B.C."
+   "why": "Confirmed but already archived as the 2013 group entry. THR (2013-04-12) now opened: eight boards, one for the label logo. Upgrade that entry rather than add a new one."
+  },
+  {
+   "artist": "Zayn",
+   "year": 2024,
+   "why": "New lead. A search summary of Secret Los Angeles describes an 'Are you feeling ALIENated?' board with a phone number. The page now redirects, so unread."
+  },
+  {
+   "artist": "Stereogum 2025 ranking, entries 13 to 1",
+   "year": 2025,
+   "why": "Paywalled past entry 14 (Post Malone, Yeat). Not worked around, so its full list is unread."
+  },
+  {
+   "artist": "White Fox aerial banner",
+   "year": 2026,
+   "why": "An aerial banner over the grounds (DASH TWO case study), not a roadside board."
+  },
+  {
+   "artist": "Bloom Nutrition",
+   "year": 2026,
+   "why": "A 7-Eleven wrap near Palm Springs airport, not a billboard."
   }
  ]
 }

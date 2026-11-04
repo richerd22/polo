@@ -49,7 +49,13 @@
     "url": "https://www.hitsdailydouble.com/news&id=300681&title+GLITTER-ROCK"
    }
   ],
-  "image_sources": [],
+  "image_sources": [
+   {
+    "url": "https://www.youtube.com/watch?v=PGtLH1CgZhU",
+    "credit": "DASH TWO (placing agency), 'BØRNS Coachella Outdoor Advertising 2016 Billboard Install Video'",
+    "photo_type": "linked, not copied"
+   }
+  ],
   "confidence": "medium",
   "confidence_note": "Two sources, but HITS points readers to the DASH TWO campaign, so they are not fully independent. The HITS item has no visible date."
  },
@@ -1451,7 +1457,13 @@
     "date": "2025-04-24"
    }
   ],
-  "image_sources": [],
+  "image_sources": [
+   {
+    "url": "https://www.outfront.com/blog/billboards-are-real-coachella-influencers",
+    "credit": "OUTFRONT Media (billboard operator) blog photo: https://images.contentstack.io/v3/assets/bltbeaed4aed52c223a/bltdb77a80384c39878/68ba4e3c4a8260697c8ef1ed/Coachella-Billboard-Polo_Pan-1152x648.jpg",
+    "photo_type": "linked, not copied"
+   }
+  ],
   "confidence": "medium",
   "notes": null
  },
@@ -1470,7 +1482,13 @@
     "date": "2025-04-24"
    }
   ],
-  "image_sources": [],
+  "image_sources": [
+   {
+    "url": "https://www.instagram.com/p/DIrUK1YOgvH",
+    "credit": "OUTFRONT Media (billboard operator) Instagram, embedded on its blog, not opened. Operator photo also at https://images.contentstack.io/v3/assets/bltbeaed4aed52c223a/blt8627052cd59656fd/68ba4e3b5d70439b06bb9672/Coachella-Billboard-XG-1152x648.jpg",
+    "photo_type": "linked, not copied"
+   }
+  ],
   "confidence": "medium",
   "notes": null
  },
@@ -1489,7 +1507,13 @@
     "date": "2025-04-24"
    }
   ],
-  "image_sources": [],
+  "image_sources": [
+   {
+    "url": "https://www.outfront.com/blog/billboards-are-real-coachella-influencers",
+    "credit": "OUTFRONT Media (billboard operator) blog photos, one per brand (Coachella-Billboard-Tangle_Teezer, -Nasty_Gal, -Postmates, Coachella-Digital_Bulletin-White_Claw, Coachella-Sequential-Billboard-White_Fox, all 1152x648 on images.contentstack.io)",
+    "photo_type": "linked, not copied"
+   }
+  ],
   "confidence": "medium",
   "notes": "Vendor blog; none of these became a press 'moment'."
  },
@@ -1741,7 +1765,13 @@
     "date": "2026-04-10"
    }
   ],
-  "image_sources": [],
+  "image_sources": [
+   {
+    "url": "https://www.yahoo.com/entertainment/music/articles/headed-indio-lookout-coachella-billboards-181955932.html",
+    "credit": "Taya Gray/The Desert Sun",
+    "photo_type": "linked, not copied"
+   }
+  ],
   "confidence": "high",
   "notes": "Wording conflict recorded; Desert Sun is the local outlet and likely more accurate."
  },
@@ -2763,7 +2793,13 @@
     "date": "not verified (article id 438812 sits next to THR's Coachella 2013 Day 2 review, id 439302, so most likely April 2013)"
    }
   ],
-  "image_sources": [],
+  "image_sources": [
+   {
+    "url": "https://www.billboard.com/photos/republic-records-owns-the-road-to-coachella-almost-literally/",
+    "credit": "Billboard photo gallery, 2013-04-12",
+    "photo_type": "linked, not copied"
+   }
+  ],
   "confidence": "low",
   "notes": "Could not read the article. The Wayback Machine URL was refused by WebFetch (SITE_BLOCKED), and per instructions I did not try other archive mirrors. The live THR URL (taken from search results) also failed (client_error). Searches for its text turned up nothing. It is the only sign of label billboards on the route before 2014. Try opening it by hand in a browser.",
   "entry_type": "year_note"
@@ -3910,7 +3946,13 @@
     "date": "2026-04"
    }
   ],
-  "image_sources": [],
+  "image_sources": [
+   {
+    "url": "https://vmagazine.com/article/the-coachella-valleys-hottest-billboards-of-2026/",
+    "credit": "V Magazine (image courtesy of UMG)",
+    "photo_type": "linked, not copied"
+   }
+  ],
   "confidence": "medium",
   "notes": "Added 2026-11-04.",
   "research_note": "Repo already has a combined entry 'Swae Lee, 54 Ultra, Anyma, Marlon Hoffstadt, Oklou'; only add if splitting it. Wording read from V Magazine's photo (Courtesy of Universal Music Group)."
