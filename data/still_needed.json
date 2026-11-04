@@ -1,0 +1,480 @@
+{
+ "updated": "2026-11-04",
+ "note": "Boards reported in the press or posted officially, with no image this archive can host or show yet. Links only, never copies.",
+ "boards": [
+  {
+   "year": 2016,
+   "artist": "BØRNS",
+   "title": "BØRNS shimmering 'eye catcher' billboard",
+   "said": "Not quoted. HITS describes a billboard that 'sparkles'/shimmers when the wind blows.",
+   "where": "",
+   "sources": [
+    {
+     "publication": "DASH TWO blog, 'Dash Two Coachella 2016 Billboard Trail' (Rodolfo Queiroz)",
+     "date": "2016-04-15",
+     "url": "https://dashtwo.com/blog/dash-two-coachella-2016-billboard-trail/"
+    },
+    {
+     "publication": "HITS Daily Double, 'GLITTER ROCK'",
+     "date": "undated on page (context indicates April 2016)",
+     "url": "https://www.hitsdailydouble.com/news&id=300681&title+GLITTER-ROCK"
+    }
+   ],
+   "official_post": null,
+   "in_archive": true,
+   "confidence": "medium"
+  },
+  {
+   "year": 2022,
+   "artist": "Louis the Child",
+   "title": "'Louis the Child Is Two People'",
+   "said": "'LOUIS THE CHILD IS TWO PEOPLE'",
+   "where": "I-10, Riverside to Indio (no direction or cross street given)",
+   "sources": [
+    {
+     "publication": "Billboard (Pro) - 'On the Road to Coachella? Those Billboards Are There Just for You'",
+     "date": "2022 (inferred)",
+     "url": "https://www.billboard.com/pro/coachella-billboards-interstate-10-festival-advertising-strategy/"
+    }
+   ],
+   "official_post": null,
+   "in_archive": true,
+   "confidence": "medium"
+  },
+  {
+   "year": 2023,
+   "artist": "boygenius",
+   "title": "Legal-notice billboard",
+   "said": "Described only as a 'lawyer-esque notice'. Verbatim text not reported.",
+   "where": "Drive into Coachella from Los Angeles (no specific spot)",
+   "sources": [
+    {
+     "publication": "The Forty-Five (Rhian Daly)",
+     "url": "https://thefortyfive.com/news/sabrina-carpenter-coachella-billboards-2024/",
+     "date": "2024-04-04"
+    }
+   ],
+   "official_post": null,
+   "in_archive": true,
+   "confidence": "medium"
+  },
+  {
+   "year": 2024,
+   "artist": "Skepta",
+   "title": "Skepta I-10 presence",
+   "said": "Described as a 'major presence'; no text reported.",
+   "where": "I-10, Riverside-to-Indio stretch",
+   "sources": [
+    {
+     "publication": "The Groove Cartel",
+     "url": "https://thegroovecartel.com/news/all-the-billboards-on-the-road-to-coachella-2024/",
+     "date": "undated (2024)"
+    }
+   ],
+   "official_post": null,
+   "in_archive": true,
+   "confidence": "low"
+  },
+  {
+   "year": 2024,
+   "artist": "Tems",
+   "title": "Tems boards",
+   "said": "Described as 'ubiquitous'; no text reported.",
+   "where": "I-10, Riverside-to-Indio stretch",
+   "sources": [
+    {
+     "publication": "The Groove Cartel",
+     "url": "https://thegroovecartel.com/news/all-the-billboards-on-the-road-to-coachella-2024/",
+     "date": "undated (2024)"
+    }
+   ],
+   "official_post": null,
+   "in_archive": true,
+   "confidence": "low"
+  },
+  {
+   "year": 2024,
+   "artist": "BLXST, Peso Pluma, LE SSERAFIM, Steve Angello, Purple Disco Machine, RCA Records (emerging artists)",
+   "title": "Other 2024 I-10 artist boards (group entry)",
+   "said": "Posters/billboards hyping each act's Coachella 2024 appearance; RCA used I-10 for unnamed emerging artists. No text reported.",
+   "where": "I-10, Riverside-to-Indio stretch",
+   "sources": [
+    {
+     "publication": "The Groove Cartel",
+     "url": "https://thegroovecartel.com/news/all-the-billboards-on-the-road-to-coachella-2024/",
+     "date": "undated (2024)"
+    }
+   ],
+   "official_post": null,
+   "in_archive": true,
+   "confidence": "low"
+  },
+  {
+   "year": 2025,
+   "artist": "Snow Strippers",
+   "title": "'GRIM' tag and re-cover",
+   "said": "Board covered early April 11 with 'GRIM' in giant letters; label Surf Gang head evilgiane covered the tag with a new Snow Strippers promo.",
+   "where": "Highway route from LA to Indio (no specific spot)",
+   "sources": [
+    {
+     "publication": "Stereogum (Chris DeVille)",
+     "url": "https://stereogum.com/2303983/coachella-billboards-vandalized-clairo-snow-strippers/news",
+     "date": "2025-04-11"
+    },
+    {
+     "publication": "Channel X94 (Brady Donovan)",
+     "url": "https://channelx94.com/2025/04/clairo-responds-to-graffiti-artists-who-vandalised-her-coachella-billboard-unfortunately-for-me-this-is-very-cool",
+     "date": "2025-04-15"
+    }
+   ],
+   "official_post": null,
+   "in_archive": true,
+   "confidence": "high"
+  },
+  {
+   "year": 2025,
+   "artist": "Polo & Pan",
+   "title": "Trompe-l'oeil billboard",
+   "said": "Trompe-l'oeil illusion of depth promoting their new album.",
+   "where": "I-10",
+   "sources": [
+    {
+     "publication": "Outfront Media blog",
+     "url": "https://www.outfront.com/blog/billboards-are-real-coachella-influencers",
+     "date": "2025-04-24"
+    }
+   ],
+   "official_post": null,
+   "in_archive": true,
+   "confidence": "medium"
+  },
+  {
+   "year": 2025,
+   "artist": "XG",
+   "title": "XG who/when/where board",
+   "said": "Simple promo stating who, when and where.",
+   "where": "",
+   "sources": [
+    {
+     "publication": "Outfront Media blog",
+     "url": "https://www.outfront.com/blog/billboards-are-real-coachella-influencers",
+     "date": "2025-04-24"
+    }
+   ],
+   "official_post": null,
+   "in_archive": true,
+   "confidence": "medium"
+  },
+  {
+   "year": 2025,
+   "artist": "Brands: White Fox, Tangle Teezer, Nasty Gal, Postmates, White Claw",
+   "title": "2025 brand boards (group entry)",
+   "said": "White Fox: five sequential Burma-Shave-style billboards. Tangle Teezer: digital board with 'Manestage Ready' pun. Nasty Gal: rotating contextual messages on digital bulletins. Postmates: copy built on lyrics from performers incl. Megan Thee",
+   "where": "I-10 in the Inland Empire and Coachella Valley; Tangle Teezer 'outside Coachella'",
+   "sources": [
+    {
+     "publication": "Outfront Media blog",
+     "url": "https://www.outfront.com/blog/billboards-are-real-coachella-influencers",
+     "date": "2025-04-24"
+    }
+   ],
+   "official_post": null,
+   "in_archive": true,
+   "confidence": "medium"
+  },
+  {
+   "year": 2025,
+   "artist": "Jennie",
+   "title": "'Have you ever met Jennie?'",
+   "said": "\"Have you ever met Jennie?\" (Drift Zine)",
+   "where": "Highways to Indio",
+   "sources": [
+    {
+     "publication": "Drift Zine (undated)",
+     "url": "https://driftzine.com/desert-signs-coachellas-billboard-culture-rewrites-the-festival-warm-up/",
+     "date": "undated"
+    }
+   ],
+   "official_post": null,
+   "in_archive": true,
+   "confidence": "low"
+  },
+  {
+   "year": 2025,
+   "artist": "Djo",
+   "title": "'It's pronounced DJO'",
+   "said": "\"It's pronounced DJO.\" in bold black on yellow (Drift Zine)",
+   "where": "Highways to Indio",
+   "sources": [
+    {
+     "publication": "Drift Zine (undated)",
+     "url": "https://driftzine.com/desert-signs-coachellas-billboard-culture-rewrites-the-festival-warm-up/",
+     "date": "undated"
+    }
+   ],
+   "official_post": null,
+   "in_archive": true,
+   "confidence": "low"
+  },
+  {
+   "year": 2025,
+   "artist": "Lola Young",
+   "title": "'Come get Messy'",
+   "said": "\"Come get Messy with Lola Young.\" (Drift Zine)",
+   "where": "Highways to Indio",
+   "sources": [
+    {
+     "publication": "Drift Zine (undated)",
+     "url": "https://driftzine.com/desert-signs-coachellas-billboard-culture-rewrites-the-festival-warm-up/",
+     "date": "undated"
+    }
+   ],
+   "official_post": null,
+   "in_archive": true,
+   "confidence": "low"
+  },
+  {
+   "year": 2025,
+   "artist": "Discolines",
+   "title": "Handwritten 'accidentally smoked' board",
+   "said": "\"Accidentally smoked that s#it now I'm playing Coachella Saturday.\" in handwritten style (Drift Zine)",
+   "where": "Highways to Indio",
+   "sources": [
+    {
+     "publication": "Drift Zine (undated)",
+     "url": "https://driftzine.com/desert-signs-coachellas-billboard-culture-rewrites-the-festival-warm-up/",
+     "date": "undated"
+    }
+   ],
+   "official_post": null,
+   "in_archive": true,
+   "confidence": "low"
+  },
+  {
+   "year": 2025,
+   "artist": "ENHYPEN",
+   "title": "ENHYPEN board",
+   "said": "Stereogum says the group 'apparently' had a billboard but couldn't find an image.",
+   "where": "",
+   "sources": [
+    {
+     "publication": "Stereogum (Tom Breihan)",
+     "url": "https://stereogum.com/2303612/coachella-2025-billboards/lists",
+     "date": "2025-04-09"
+    }
+   ],
+   "official_post": null,
+   "in_archive": true,
+   "confidence": "low"
+  },
+  {
+   "year": 2026,
+   "artist": "Sabrina Carpenter x Redken",
+   "title": "Redken bonding-concentrate board",
+   "said": "Desert Sun: \"The longer you watch her set, the better it feels,\" plus \"Happy Coachella!\" and a red lip imprint. B&T quotes \"The longer you wait, the better if feels\" (sic).",
+   "where": "I-10 in the Coachella Valley",
+   "sources": [
+    {
+     "publication": "The Desert Sun (Ema Sasic), via Yahoo",
+     "url": "https://www.yahoo.com/entertainment/music/articles/headed-indio-lookout-coachella-billboards-181955932.html",
+     "date": "2026-04-02"
+    },
+    {
+     "publication": "B&T (Mia Rogers)",
+     "url": "https://www.bandt.com.au/rhode-redken-more-appear-on-coachellas-billboards/",
+     "date": "2026-04-10"
+    }
+   ],
+   "official_post": null,
+   "in_archive": true,
+   "confidence": "high"
+  },
+  {
+   "year": 2026,
+   "artist": "SKYLRK (Justin Bieber)",
+   "title": "SKYLRK boards",
+   "said": "Billboards for his clothing brand featuring Justin and Hailey Bieber. No text reported.",
+   "where": "I-10 near Indio",
+   "sources": [
+    {
+     "publication": "Yahoo/AOL (Neia Balao) - via mirror",
+     "url": "https://pynbl.pages.dev/blog/sabrina-carpenter-mona-lisa-and-ozempic-a-roundup--sabrina-carpenter-mona-lisa-ozempic-221209749",
+     "date": "2026-04-09"
+    }
+   ],
+   "official_post": null,
+   "in_archive": true,
+   "confidence": "medium"
+  },
+  {
+   "year": 2026,
+   "artist": "Kali Uchis",
+   "title": "'Check your Kuchi'",
+   "said": "\"check you Kuchi\" (as printed by Pedestrian) - riff on her name/fanbase.",
+   "where": "",
+   "sources": [
+    {
+     "publication": "Pedestrian.TV (Tom Disalvo)",
+     "url": "https://www.pedestrian.tv/music/coachella-billboards-2026/",
+     "date": "2026-04-09"
+    }
+   ],
+   "official_post": null,
+   "in_archive": true,
+   "confidence": "medium"
+  },
+  {
+   "year": 2026,
+   "artist": "PinkPantheress",
+   "title": "'Fancy seeing you here…'",
+   "said": "\"Fancy seeing you here…\"",
+   "where": "",
+   "sources": [
+    {
+     "publication": "Pedestrian.TV (Tom Disalvo)",
+     "url": "https://www.pedestrian.tv/music/coachella-billboards-2026/",
+     "date": "2026-04-09"
+    }
+   ],
+   "official_post": null,
+   "in_archive": true,
+   "confidence": "medium"
+  },
+  {
+   "year": 2026,
+   "artist": "Sexyy Red",
+   "title": "Sexyy Red board",
+   "said": "No text described; Paste notes it was placed 40-50 miles before the next artist's board.",
+   "where": "I-10",
+   "sources": [
+    {
+     "publication": "Paste (Matt Mitchell)",
+     "url": "https://www.pastemagazine.com/music/coachella/the-10-best-coachella-2026-billboards",
+     "date": "2026-04-10"
+    }
+   ],
+   "official_post": null,
+   "in_archive": true,
+   "confidence": "medium"
+  },
+  {
+   "year": 2026,
+   "artist": "Euphoria (HBO)",
+   "title": "Euphoria religious-imagery board",
+   "said": "Uses religious symbolism; no text reported.",
+   "where": "Coachella corridor",
+   "sources": [
+    {
+     "publication": "B&T (Mia Rogers)",
+     "url": "https://www.bandt.com.au/rhode-redken-more-appear-on-coachellas-billboards/",
+     "date": "2026-04-10"
+    }
+   ],
+   "official_post": null,
+   "in_archive": true,
+   "confidence": "medium"
+  },
+  {
+   "year": 2026,
+   "artist": "Ollipop (as named by B&T)",
+   "title": "'Peaches' flushable-wipes pun",
+   "said": "Pun referencing headliner Justin Bieber and his song 'Peaches'; promotes flushable wipes. No verbatim text.",
+   "where": "Coachella Valley",
+   "sources": [
+    {
+     "publication": "B&T (Mia Rogers)",
+     "url": "https://www.bandt.com.au/rhode-redken-more-appear-on-coachellas-billboards/",
+     "date": "2026-04-10"
+    }
+   ],
+   "official_post": null,
+   "in_archive": true,
+   "confidence": "medium"
+  },
+  {
+   "year": 2026,
+   "artist": "Unknown (pro-immigrant)",
+   "title": "'Real Coachella' pro-immigrant board",
+   "said": "A pro-immigrant 'Real Coachella' billboard; Paste's author named it their favourite but didn't photograph it or give details.",
+   "where": "",
+   "sources": [
+    {
+     "publication": "Paste (Matt Mitchell)",
+     "url": "https://www.pastemagazine.com/music/coachella/the-10-best-coachella-2026-billboards",
+     "date": "2026-04-10"
+    }
+   ],
+   "official_post": null,
+   "in_archive": true,
+   "confidence": "low"
+  },
+  {
+   "year": 2014,
+   "artist": "Off-site festival parking (LNR Parking quoted; sponsor not named)",
+   "title": "Coachella/Stagecoach off-site parking billboard on eastbound I-10",
+   "said": "Advertises off-site parking for Coachella and Stagecoach at Avenue 48 and Van Buren in Coachella. It was changed to steer drivers to exit at Dillon Road instead of Monroe or Jefferson. Exact wording not reported.",
+   "where": "Facing eastbound I-10, Indio",
+   "sources": [
+    {
+     "publication": "KESQ News Channel 3 (KESQ News Team), 'New parking lot gears up for festival goers'",
+     "url": "https://kesq.com/?p=73320",
+     "date": "2014-04-07"
+    }
+   ],
+   "official_post": null,
+   "in_archive": true,
+   "confidence": "medium"
+  },
+  {
+   "year": 2022,
+   "artist": "818 Tequila (Kendall Jenner)",
+   "title": "818 Tequila board",
+   "said": "Named among 2022's route boards by Billboard Pro; copy not described.",
+   "where": "",
+   "sources": [
+    {
+     "publication": "Billboard Pro",
+     "url": "https://www.billboard.com/pro/coachella-billboards-interstate-10-festival-advertising-strategy/",
+     "date": "2022 (undated; inferred from content)"
+    }
+   ],
+   "official_post": null,
+   "in_archive": false,
+   "confidence": "medium"
+  },
+  {
+   "year": 2022,
+   "artist": "Olly",
+   "title": "Olly board",
+   "said": "Named among 2022's route boards by Billboard Pro; copy not described.",
+   "where": "",
+   "sources": [
+    {
+     "publication": "Billboard Pro",
+     "url": "https://www.billboard.com/pro/coachella-billboards-interstate-10-festival-advertising-strategy/",
+     "date": "2022 (undated; inferred from content)"
+    }
+   ],
+   "official_post": null,
+   "in_archive": false,
+   "confidence": "medium"
+  },
+  {
+   "year": 2022,
+   "artist": "Billie Eilish x Adobe",
+   "title": "Adobe campaign board (via MilkMoney)",
+   "said": "Named among 2022's route boards by Billboard Pro; copy not described.",
+   "where": "",
+   "sources": [
+    {
+     "publication": "Billboard Pro",
+     "url": "https://www.billboard.com/pro/coachella-billboards-interstate-10-festival-advertising-strategy/",
+     "date": "2022 (undated; inferred from content)"
+    }
+   ],
+   "official_post": null,
+   "in_archive": false,
+   "confidence": "medium"
+  }
+ ]
+}
