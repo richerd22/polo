@@ -9,6 +9,39 @@ For most of its life, Coachella was a tenant. Every spring Goldenvoice rented a 
 
 This chapter is about the land: who owns it, how much of it there is, what the city of Indio allows on it, and how one patch of desert turns into a country festival in a single week.
 
+## The City of Festivals
+
+Indio calls itself the City of Festivals. Wikipedia credits the nickname to the Chamber of Commerce, which picked it for the number of festivals and events the city hosts each year. The chamber's earlier slogan, from the middle of the 20th century, was "Hub of the Valley."[^gr-wikiindio] The festivals were not Goldenvoice's idea. The oldest one is about dates.
+
+The fruit came first. Date palms were brought into the valley from Algeria in 1903, and by the 1920s the groves were tourist attractions.[^gr-pbs12] The US Department of Agriculture opened a Date Station in Indio in 1907 to study the crop.[^gr-wikiindio] The first Date Festival was held in 1921 in Indio's city park, mostly dates and a queen.[^gr-pbs12] It became an annual event, the Riverside County Fair and National Date Festival, in 1947.[^gr-csm23]
+
+After the Second World War the fair's new manager, Robert Fullenwider, gave it an "Arabian Nights" theme.[^gr-wikidate] It stuck, and it spread. Locals marketed the eastern valley as "America's Arabia," a town was renamed Mecca, and Coachella Valley High School's teams became the "Arabs."[^gr-csm23] Young women competed to be crowned Queen Scheherazade, the storyteller of *One Thousand and One Nights*.[^gr-csm23] By tradition the queen and her court open the fair with a toast of date milkshakes, after a priest blesses the date gardens.[^gr-pbs12][^gr-laist12] The exhibition hall is called the Taj Mahal.[^gr-pbs12]
+
+The historian Sarah Seekatz, who grew up in Indio and wrote the Arcadia book on the festival, dates the theme to the 1920s:
+
+> "When [the festival] started using the Arabian themes in the 1920s, the Middle East was really in vogue."[^gr-laist12]
+
+The fair itself has never pretended otherwise. "We don't pretend to be authentic," a member of the fair board told the Los Angeles Times in 1991. "It's fantasy."[^gr-csm23]
+
+:::lore The Sheik's horses
+Indio's fair began in 1921, the same year Rudolph Valentino's silent film *The Sheik* came out.[^gr-csm23] The local version of the story, told by Linda Beal, who was born on a date ranch in 1946 and keeps a collection of fair memorabilia, is that the film was shot near the Salton Sea, with Arabian horses borrowed from Point Happy in La Quinta.[^gr-pbs12] That's her account, shown off with a 1920s candy tin painted with Valentino. It's a good tin.
+:::
+
+In 2012, KPCC reported that about 500,000 people were expected at the 66th fair.[^gr-laist12] The races were the part people remembered: Sunset described daily camel races with "turbaned jockeys," followed by ostriches pulling chariots.[^gr-sunset05]
+
+Then it changed. The fair skipped 2021 and 2022 for the pandemic, and in June 2022 the county brought in a private operator, Pickering Events.[^gr-wikidate] When the fair returned in February 2023, the camel and ostrich races were gone, though $15 still got you a camel ride. Queen Scheherazade was replaced by scholarships open to any graduating senior.[^gr-csm23] The 78th fair ran February 12 to March 1, 2026, themed "Return to the Oasis," with racing pigs, a demolition derby, a rodeo and a new National Date Festival Museum.[^gr-patch26]
+
+The fairgrounds sit on Highway 111, in the middle of Indio.[^gr-wikiindio] The county bought the first 40 acres in 1940, for $10,000.[^gr-wikidate]
+
+:::numbers The date business
+- 1903: first date palms imported, from Algeria[^gr-pbs12]
+- 2021: California grew three-quarters of US dates, 44,220 tons[^gr-csm23]
+- 2024: Riverside County harvested 40,400 tons from 10,100 acres, worth $145.4M, its second most valuable crop after nursery stock[^gr-crop24]
+- "95 percent of the nation's crop," per Wikipedia and PBS SoCal; "80 percent" of the Western Hemisphere's, per Sunset[^gr-wikidate][^gr-pbs12][^gr-sunset05]
+:::
+
+The share figures don't agree with each other, or with the federal count of three-quarters. They are probably measuring different things, and none of the sources says which.
+
 ## Whose polo club
 
 Empire Polo Club was founded in 1987 by Alexander "Al" Haagen III, a player who had taken up the sport four years earlier and who would be patron of the Empire team for 30 years.[^gr-museum] The money behind it came from shopping centers: Haagen was vice chairman of his family's developer, Alexander Haagen Properties, and as a college-age construction supervisor had helped build its first center, in Rosemead, in 1963.[^gr-labj] One source credits plain "Alexander Haagen" with the founding, which could mean the father.[^gr-psl] The Polo Museum names the son, and so does Paul Tollett, who calls him "Al Haagen."[^gr-bw]
@@ -22,6 +55,12 @@ The club's own address is 81-800 Avenue 51, Indio.[^gr-events] Everything else i
 In March 2012, Goldenvoice announced it had bought about 280 acres around the festival site.[^gr-mxdwn12] The package included Eldorado Polo Club, Triangle Bar Farms, Fish Creek and the property of Ambassador Glen Holden.[^gr-kesq12] The price was not disclosed.[^gr-mxdwn12]
 
 Tollett's reason was practical. The land would "help us put in some infrastructure so we don't have to keep coming back and doing the same things each year."[^gr-mxdwn12]
+
+The purchase did not include Empire itself. Goldenvoice already leased about 280 acres there, so the deal roughly doubled the footprint it controlled, half owned and half rented.[^gr-thr12][^gr-laweekly12] The fourth parcel came with a pedigree. Glen Holden was a polo player and a former US ambassador to Jamaica.[^gr-laweekly12] He had been appointed by George H. W. Bush, served from 1989 to 1993, and won the US Open with his Gehache team in 1993.[^gr-holden24]
+
+Indio's mayor, Glenn Miller, told The Desert Sun the land gave Goldenvoice room for three or four more events a year, "such as a jazz and wine festival."[^gr-laweekly12] LA Weekly noted that the last time Goldenvoice had a spare date, it booked Metallica, Slayer, Megadeth and Anthrax.[^gr-laweekly12] Pollstar's editor, Gary Bongiovanni, read the deal as a bet on permanence:
+
+> "Now when they are going to invest, it's going to be in more permanent things."[^gr-laweekly12]
 
 The biggest piece, the 200-acre Eldorado Polo Club, belonged to Eldorado Lake Farms, a group of 19 player-owners.[^gr-eqnews] The festival had already been using it for parking and camping.[^gr-kesq12][^gr-eqnews] The deal came with a leaseback: polo would keep the fields each winter, roughly November 1 to early April.[^gr-eqnews] That arrangement is the hinge of the next chapter.
 
@@ -67,6 +106,8 @@ Indio does not own the land, but it decides what happens on it, and most of the 
 On October 27, 2021, Goldenvoice announced it would take "year-round operational control" of Empire Polo Club under a long-term lease with the Haagen family. The deal also put Goldenvoice in charge of the Empire Grand Oasis in Thermal, and opened both properties to "special events, sporting events, and private functions."[^gr-bw] Press reports put the lease at through 2050, matching the city deal.[^gr-dmn21] Wikipedia calls it a 28-year lease, which lands in the same place.[^gr-wikiempire]
 
 The agreement also allowed two additional large-scale festivals on the site every year.[^gr-iq]
+
+The second property in the deal, Empire Grand Oasis in Thermal, was the Haagens' showpiece. When the US Polo Association profiled Empire in 2016, the club described it as "the most precious gem in Empire's crown": a 5,000-square-foot estate house, a swimming lagoon with palms and waterfalls, a tiki bar, a grass polo field, a natural amphitheater and an indoor arena, with three more fields planned.[^gr-uspa16] Goldenvoice took over its operation along with the polo club.[^gr-bw]
 
 What it ended was polo. Some of the club's staff were laid off on three days' notice, and polo stopped being played at Empire.[^gr-kesq21b] That story, and where the horses went, is the next chapter.
 
@@ -176,3 +217,14 @@ The crew window covers all of it. AEG's 2025 stagehand posting asked for availab
 [^gr-soundgirls]: SoundGirls.org - "Rat Sound - Coachella Q & A" - 2014-04-04 - https://soundgirls.org/?p=2167
 [^gr-abc7]: ABC7 Los Angeles - "Stagecoach Country Music Festival temporarily evacuated due to high winds in Indio" - 2026-04-26 - https://abc7.com/post/stagecoach-country-music-festival-temporarily-evacuated-due-high-winds-indio-new-set-times-announced/18968726/
 [^gr-aegjob]: AEG job posting, via Built In - "Stagehands - Coachella & Stagecoach 2025" (now expired) - 2025-03-26 - https://builtin.com/job/stagehands-coachella-stagecoach-2025/4226728
+[^gr-wikiindio]: Wikipedia - "Indio, California" - n.d. (read 2026-11-04) - https://en.wikipedia.org/wiki/Indio,_California
+[^gr-wikidate]: Wikipedia - "Riverside County Fair and National Date Festival" - n.d. (read 2026-11-04) - https://en.wikipedia.org/wiki/Riverside_County_Fair_and_National_Date_Festival
+[^gr-pbs12]: PBS SoCal (Susan Straight) - "Many Queens at the Indio Date Festival" - 2012-02-21 - https://pbssocal.org/socal-focus/many-queens-at-the-indio-date-festival
+[^gr-csm23]: The Christian Science Monitor (Sarah Matusek) - "'America's Arabia': Dates, a desert town, and a county fair" - 2023-02-28 - https://www.csmonitor.com/The-Culture/Food/2023/0228/America-s-Arabia-Dates-a-desert-town-and-a-county-fair
+[^gr-laist12]: KPCC, via LAist (Steven Cuevas) - "National Date Festival puts down roots in Indio" - 2012-02-19 - https://laist.com/news/kpcc-archive/date-festival-gets-ready-put-down-roots-indio
+[^gr-sunset05]: Sunset - "Rides, races, pageants, and - of course - fruit at the annual festival" - 2005-01-20 - https://www.sunset.com/travel/california/hot-date-indio
+[^gr-patch26]: Patch (County of Riverside news release) - "Riverside County Fair & National Date Festival Kicks Off 78th Year With 'Return To Oasis'" - 2026-02-04 - https://patch.com/california/palmdesert/riverside-county-fair-national-date-festival-kicks-78th-year-return-oasis
+[^gr-crop24]: Riverside County Agricultural Commissioner - "2024 Annual Agricultural Production Report" (Board of Supervisors item 2.2) - 2025-12-16 - https://media.rivcocob.org/proceeds/2025/p2025_12_16_files/02.02001.pdf
+[^gr-thr12]: The Hollywood Reporter, citing Billboard.biz - "Goldenvoice Buys 280 Acres of Land at Coachella Site" - 2012-03-27 - https://www.hollywoodreporter.com/news/general-news/goldenvoice-coachella-304667/
+[^gr-laweekly12]: LA Weekly - "Why Did Goldenvoice Purchase a Bunch of Land Near Coachella?" - 2012-03-27 - https://www.laweekly.com/why-did-goldenvoice-purchase-a-bunch-of-land-near-coachella/
+[^gr-holden24]: US Polo Association - "The Legacy of Glen Holden Sr.: A Life of Leadership, Innovation and Passion for Polo" - 2024-04-22 - https://www.uspolo.org/news-social/news/the-legacy-of-glen-holden-sr-a-life-of-leadership-innovation-and-passion-for-polo

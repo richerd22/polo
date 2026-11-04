@@ -23,6 +23,8 @@ A gross is total ticket sales, the figure Billboard Boxscore and Pollstar chart 
 
 The years before 2013 are murkier. Wikipedia's table, which cites Boxscore, puts 2011 at about $25M and the first two-weekend year, 2012, at about $47.3M.[^mon-wiki] If those hold, the second weekend nearly doubled the gross in a single year, which is roughly what you'd expect from selling the same show twice.
 
+Before that, the numbers came from Tollett himself. He told Billboard in 2009 that the 2007 festival, then the biggest yet, drew 186,636 people over three days and grossed $16.3M. The 2008 edition drew 151,666 and grossed $13.8M.[^mon-bb09] So the gross grew roughly sevenfold from 2007 to 2017, on a ticket count that only went from about 187,000 to 250,000.[^mon-bb09][^mon-pollstar17] Most of that growth was price.
+
 ## Selling the same show twice
 
 The biggest financial decision in the festival's history was announced in a sentence: from 2012, a second weekend, same lineup, separate tickets.[^mon-boombox] Tollett's reasons, as he gave them in 2011, were about scarcity. Demand was already past what the 2011 site could hold. Adding about 40,000 people a day would "ruin the show." And resellers were getting $500-600 for passes, which he called unfair.[^mon-boombox]
@@ -32,6 +34,27 @@ So instead of a bigger festival, he cloned it. The same artists play the same st
 Goldenvoice did the same sum again in October 2016 with Desert Trip, six classic-rock acts over two weekends on the same field. Tollett told The New York Times it would gross "approximately $160 million for the two weekends."[^mon-l4lm] Stereogum set that against $84M for Coachella, which is the 2015 figure; Pollstar's chart has Coachella 2016 at $94.2M.[^mon-stereogum16][^mon-pollstar16] Either way, two weekends of the Stones, Dylan and McCartney out-grossed the festival. Stereogum put the cost of staging it at about $100M.[^mon-stereogum16]
 
 Some sense of where the money goes came from Paul Tollett himself. He told The New Yorker in 2017 that each of that year's headliners was paid $3-4M, and that acts at the bottom of the bill got a little under $10,000.[^mon-mxdwnfees] For 2026, Rolling Stone reported that Justin Bieber's first headline set paid "north of $10 million." That figure came from one unnamed source.[^mon-complex]
+
+## The country festival's books
+
+Stagecoach is the cheap date that pays for itself. The same Billboard piece put it plainly: Coachella "shares costs" with Stagecoach, held on the same site the next weekend.[^mon-bb09] Most of the build is already there. Pollstar's editor made the same point in 2012, when Goldenvoice bought the land next door: Stagecoach worked from the start because the site had already been prepared for Coachella.[^mon-laweekly12]
+
+Its grosses, while anyone was still publishing them, kept climbing:
+
+- 2008: $11.4M, on an aggregate attendance of 120,903[^mon-bb09]
+- 2015: $21.9M, on 70,000 tickets, third biggest festival gross in the world that year[^mon-pollstar15]
+- 2016: $25.4M, on 72,000 tickets, fifth in the world[^mon-pollstar16]
+
+The tickets climbed too. A two-day pass for the second Stagecoach, in 2008, started at $175.[^mon-pollstar07] Pollstar lists the 2016 price range as $269-899.[^mon-pollstar16] Three-day GA passes for Stagecoach 2027, set for April 23-25 with Riley Green, Zach Top and Garth Brooks at the top, start at $599 once the early discounts run out.[^mon-sc27]
+
+:::numbers One polo field, 2016
+- Desert Trip: $160.1M on 150,000 tickets, No. 1 festival gross in the world[^mon-pollstar16]
+- Coachella: $94.2M on 198,000 tickets, No. 2[^mon-pollstar16]
+- Stagecoach: $25.4M on 72,000 tickets, No. 5[^mon-pollstar16]
+- Together: about $279.7M, by our addition, from one patch of grass in Indio
+:::
+
+Pollstar's 2016 chart gives the Desert Trip price range as $399-1,599, and Coachella's as $399-899.[^mon-pollstar16]
 
 ## Who owns it
 
@@ -95,6 +118,20 @@ The city also gets paid when the music runs late. The curfew carries a $20,000 f
 
 What none of these numbers say is what share of Indio's budget the festivals cover today. The 2013 figure, about $500,000 against $49M, is about 1%.[^mon-kcur] No current equivalent turned up.
 
+## What the festivals are worth to City Hall
+
+The city's own budget answers part of that. Indio's mid-year report for fiscal 2024-25 projected $5.37M in "Musical Festival Services," the money the festival promoters pay back for the police and other agencies the city contracts to cover the crowds.[^mon-indio25] A further $2.6M was booked as "festival activities," under the city's income from its property and assets. The report doesn't break that line down.[^mon-indio25] Together that is about $8M, or about 6.6% of a $120.9M general fund. That is our arithmetic, and it leaves out sales tax and hotel tax.
+
+A 2016 Desert Sun study, as relayed by the Grammys and Hypebot, put the city's ticket-tax take at $3.18M and called it 5% of the city's total fund.[^mon-hypebot16] Ten years apart, the share is in the same neighborhood.
+
+The hotel tax is where the festivals show up indirectly. Indio's transient occupancy tax, charged on stays of up to 30 days including festival campers, was about $3.1M a year a decade earlier. The 2024-25 report projected $15.3M, with residential vacation rentals supplying about 60% of it.[^mon-indio25] One festival moves that number. The report said hotel tax was down that year "mainly" because Power Trip, the October 2023 metal weekend, did not come back.[^mon-indio25]
+
+A year later the city was more cheerful. In February 2026 its finance director, Ruby Walla, raised the general fund revenue target to $129.8M and the hotel tax estimate to $16.5M, about 75% of it from short-term rentals, by her count.[^mon-indiopost26] The 60% and 75% may measure different things; neither document says. Walla was not shy about where it comes from:
+
+> "We also rely on the festivals. If they succeed, we succeed."[^mon-indiopost26]
+
+For scale, Bonnaroo's home county in Tennessee was getting $3 a ticket in 2011, more than $5M that year, according to LA Weekly.[^mon-laweekly12] And Riverside County's date crop was worth $145.4M in 2024.[^mon-crop24] That is more than Coachella's last published gross.
+
 ## The impact numbers, and who made them
 
 Every spring, a big number goes around: what Coachella is "worth" to the valley. It has been $254M, $600M, $700M and $1.4B. Here is where each one came from.
@@ -105,7 +142,13 @@ Every spring, a big number goes around: what Coachella is "worth" to the valley.
 - **About $600M (2024).** NBC Palm Springs credited this one to the City of Indio. No study was named.[^mon-nbcps24]
 - **More than $700M a year (2026).** Gov. Gavin Newsom's office said Coachella and Stagecoach together generate that, plus more than 10,000 temporary jobs.[^mon-kron4] NBC Palm Springs added a figure of more than $100M a year in value to Indio.[^mon-nbcps26] Neither report named the study behind it.
 
+- **$704M (2016).** A separate projection that spring, reported by The Desert Sun, for Coachella and Stagecoach alone: $403M to Coachella Valley businesses and $106M to businesses in Indio.[^mon-hypebot16][^mon-mixmag16]
+
 None of these is an independent audit. Two come from the same consultant, at least one was paid for by the promoter, and the recent ones cite no method at all. They may all be roughly right. A valley that fills its hotels for three weekends running is clearly getting something. But the figures tell you more about who wanted to say a number than about the number.
+
+In April 2026 the local business paper GPS Business Insider went looking for the study behind the governor's $700M, under the headline "Pick a Number, Any Number." Its publisher, Bob Marra, said the governor's office had not answered by press time.[^mon-gpsbi26] He traced the earlier $600M figure to a July 2024 KESQ report in which Goldenvoice executive Mark Girton cited it. The study Girton likely meant, Marra wrote, counts ticket purchases that go to the Los Angeles promoter and airfare to the desert.[^mon-gpsbi26] Girton described the crowd as 125,000 a day, "or 750,000 people over six days." Marra's correction: they are three-day passes, so closer to 250,000 people.[^mon-gpsbi26]
+
+The governor's release had a third number: $908M in "Media Impact Value" for Coachella in 2025.[^mon-gov26] It also said nearly 250,000 people came to Coachella that year.[^mon-gov26] The most modest estimate around came from two tourism data firms, The Data Appeal Company and Mabrian, who projected just over $20M in direct tourism spending, leaving out tickets and multipliers.[^mon-gpsbi26] So that is $20M and $700M, published the same spring, for roughly the same three weekends.
 
 :::lore A billion-dollar festival
 The legend goes that Coachella is a billion-dollar event for the desert, and you'll see "$1.4 billion" quoted as if it were one festival's yearly haul. That figure is real, but it is a 2016 projection, by a consultant whose ties to the promoter were never disclosed, for five festivals at once, worldwide.[^mon-nbcla] Indio's share in that same projection was about $212M. Nobody has measured it since.
@@ -159,7 +202,7 @@ The company with the most riding on the festival doesn't sponsor it at all. Revo
 
 - **The gross after 2017.** If you have a Boxscore or Pollstar figure for any Coachella since, we'd like to see it.
 - **How $5.01 became $2.658 a day.** The amended Indio agreements would show when the rate changed and why.
-- **Indio's share now.** What fraction of the city's general fund the festivals cover in a current budget.
+- **Indio's share now, line by line.** The 2024-25 budget puts festival services at $5.37M and "festival activities" at $2.6M. What the second line is, and how much of the hotel tax the festival weekends bring, the public reports don't say.
 - **An independent impact study.** One that isn't the promoter's, the city's or the tourism bureau's.
 
 [^mon-kesq24]: KESQ (Jesus Reyes) - "Coachella, Stagecoach sold around 250K tickets for 2024 festivals, city reports" - 2024-06-13 - https://kesq.com/news/festival-season/2024/06/13/coachella-stagecoach-sold-around-250k-tickets-for-2024-festivals-city-reports
@@ -211,3 +254,14 @@ The company with the most riding on the festival doesn't sponsor it at all. Revo
 [^mon-glossy19]: Glossy (Priya Rao) - "'There's definitely been a decline': fashion and beauty brands pull back on Coachella" - 2019-04-10 - https://www.glossy.co/fashion/theres-definitely-been-a-decline-fashion-and-beauty-brands-pull-back-on-coachella
 [^mon-su26]: SponsorUnited - "Inside Coachella 2026: where brand activations became cultural architecture" - 2026-04-22 - https://www.sponsorunited.com/insights/inside-coachella-2026-where-brand-activations-became-cultural-architecture
 [^mon-retailbrew]: Retail Brew (Halie LeSavage) - "Festival Fashion at Revolve and Asos Suffers Without Music Festivals" - 2020-04-13 - https://www.retailbrew.com/stories/2020/04/13/festival-fashion-revolve-asos-suffers-without-music-festivals
+[^mon-bb09]: Billboard (Ray Waddell) - "Coachella Fest Posts Second Biggest Year Ever" - 2009-04-21 - https://www.billboard.com/?p=268844
+[^mon-laweekly12]: LA Weekly - "Why Did Goldenvoice Purchase a Bunch of Land Near Coachella?" - 2012-03-27 - https://www.laweekly.com/why-did-goldenvoice-purchase-a-bunch-of-land-near-coachella/
+[^mon-pollstar07]: Pollstar (Pollstar Staff) - "Stagecoach Rides Again" - 2007-11-09 - https://news.pollstar.com/?p=160500
+[^mon-sc27]: Pollstar (Pollstar Staff) - "Riley Green, Zach Top, Garth Brooks Top Stagecoach 2027 Lineup, Set For Indio April 23-25" - 2026-09-14 - https://news.pollstar.com/?p=1225737
+[^mon-indio25]: City of Indio (Ruby D. Walla, Director of Finance) - "Fiscal Year 2024-25 Mid-Year Budget Report" (City Council staff report) - 2025-02-19 - https://indio.civicweb.net/document/180056/FY%202024-25%20Mid-Year%20Budget%20Report.pdf?handle=21B13DF3AB8944B2AD979D0290276039
+[^mon-hypebot16]: Hypebot (Steve Baltin, for The Grammys), citing The Desert Sun - "Music festivals revenue for event and host city is staggering" - 2016-05 - https://www.hypebot.com/music-festivals-revenue-for-event-and-host-city-is-staggering/
+[^mon-mixmag16]: Mixmag (Dave Turner) - "Coachella helps generate around $704 million" - 2016-05-05 - https://mixmag.net/read/coachella-helps-generate-around-704-million-news
+[^mon-indiopost26]: The Indio Post (Kendall Balchan) - "Indio updates tax revenue expectations ahead of festival season" - 2026-02-19 - https://theindiopost.com/indio-updates-tax-revenue-expectations-ahead-of-festival-season/
+[^mon-crop24]: Riverside County Agricultural Commissioner - "2024 Annual Agricultural Production Report" (Board of Supervisors item 2.2) - 2025-12-16 - https://media.rivcocob.org/proceeds/2025/p2025_12_16_files/02.02001.pdf
+[^mon-gpsbi26]: GPS Business Insider (Bob Marra) - "Coachella and Stagecoach Music Festival Economic Impacts: Pick a Number, Any Number" - 2026-04-16 - https://gpsbusinessinsider.com/coachella-and-stagecoach-music-festival-economic-impacts-pick-a-number-any-number/
+[^mon-gov26]: Office of the Governor of California - "As weekend one of Coachella wraps, Governor Newsom highlights economic power of Indio's world-renowned music festivals" - 2026-04-13 - https://www.gov.ca.gov/2026/04/13/as-weekend-one-of-coachella-wraps-governor-newsom-highlights-economic-power-of-indios-world-renowned-music-festivals/

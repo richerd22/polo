@@ -57,6 +57,10 @@ The historian Jeff Crider puts it plainly to NPR:
 
 The valley took the name, and the festival took it from the valley. Its full name is the Coachella Valley Music and Arts Festival, and it has been held in Indio, the next city over, since 1999.[^pro-npr] The city of Coachella is next door. Chapter 14 goes there.
 
+Indio's own name is less of an accident, but only just. It began as a Southern Pacific water stop halfway between Yuma and Los Angeles, where the engines refilled. The first trains arrived in 1876, when the stop was still called Indian Wells. Other places already had that name, so the railroad settled on Indio, a Spanish variation of "Indian."[^pro-wikiindio] It became a city in 1930.[^pro-wikiindio]
+
+The town Pearl Jam drove into was smaller than the one the festival plays in now. The 1990 census counted 36,793 people in Indio. By 2020 it was 89,137. It is now the most populous city in the Coachella Valley.[^pro-wikiindio]
+
 ## Why Indio
 
 Put the pieces together and the choice makes sense, even if nobody planned it.
@@ -91,3 +95,4 @@ This is the founding story Goldenvoice tells, and it's mostly true. Tollett has 
 [^pro-epc]: Empire Polo Club (EPC Staff) - "Empire Polo Club, A Home Fit For the Sport of Kings" - 2010-08-26 - https://empirepolo.com/178/
 [^pro-dsun15]: The Desert Sun (Bruce Fessier and Ian James), via World Polo News - "Coachella in drought: Polo club looks to cut water use" - 2015-04 - https://worldpolonews.com/2015/coachella-drought-polo-club-looks-cut-water-use
 [^pro-bw]: Business Wire - "Goldenvoice to Assume Operations of Empire Polo Club in Long-Term Agreement" - 2021-10-27 - https://www.businesswire.com/news/home/20211027006159/en
+[^pro-wikiindio]: Wikipedia - "Indio, California" (census table cites the U.S. Decennial Census) - n.d. (read 2026-11-04) - https://en.wikipedia.org/wiki/Indio,_California
