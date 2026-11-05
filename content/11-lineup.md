@@ -78,7 +78,7 @@ The case took two and a half years. In March 2019 Judge Michael Mosman dismissed
 
 ## The leaks
 
-The radius clause says artists may not leak. In practice the biggest names keep giving themselves away. Rage Against the Machine announced 2020 reunion dates in November 2019 that more or less confirmed their headline slot, and Consequence named the 2020 headliners three days before the poster - though its first version wrongly included My Chemical Romance.[^ln-cos19] In November 2024, Post Malone's own tour announcement revealed his Coachella headline a day before the poster.[^ln-hits24]
+The radius clause says artists may not leak. In practice the biggest names keep giving themselves away. Rage Against the Machine announced 2020 reunion dates in November 2019 that more or less confirmed their headline slot, and Consequence named the 2020 headliners three days before the poster - though its first version wrongly included My Chemical Romance.[^ln-cos19] In November 2024, Post Malone's own stadium tour announcement listed shows in Indio on April 13 and 20, the day before the poster came out.[^ln-hits24]
 
 ## The ones who said no
 
@@ -112,7 +112,7 @@ The dome would have stood about where the toilets were. Every poster is a set of
 [^ln-mfw]: Music Festival Wizard - "When will the Coachella lineup for 2023 be released?" - n.d. - https://www.musicfestivalwizard.com/when-will-the-coachella-lineup-for-2023-be-released/
 [^ln-grimy]: Grimy Goods - "When is Coachella announcing their 2024 lineup?" - 2024-01-02 - https://www.grimygoods.com/2024/01/02/when-is-coachella-announcing-their-2024-lineup/
 [^ln-pollstar24]: Pollstar - "Lady Gaga, Green Day, Post Malone, Travis Scott top Coachella lineup" - 2024-11-20 - https://news.pollstar.com/2024/11/20/lady-gaga-green-day-post-malone-travis-scott-top-coachella-lineup/
-[^ln-pollstar25]: Pollstar (Sarah Pittman) - "Snap, Crackle & Pop: What Coachella's Early Lineup Announcement Means For The Biz" - 2025-09-19 - http://news.pollstar.com/2025/09/19/snap-crackle-pop-what-coachellas-early-lineup-announcement-means/
+[^ln-pollstar25]: Pollstar (Sarah Pittman) - "Snap, Crackle & Pop: What Coachella's Early Lineup Announcement Means For The Biz" - 2025-09-19 - https://news.pollstar.com/2025/09/19/snap-crackle-pop-what-coachellas-early-lineup-announcement-means/
 [^ln-nme26]: NME (Max Pilley) - "Coachella announce dates for 2027 and how to get tickets" - 2026-04-22 - https://www.nme.com/news/music/coachella-announce-dates-for-2027-and-how-to-get-tickets-3941844
 [^ln-kiss26]: KISS 95.1 - "Coachella 2027 Tickets Go on Sale May 1 as Olivia Rodrigo Leads Headliner Odds" - 2026-04-22 - https://kiss951.com/2026/04/22/coachella-2027-tickets-go-on-sale-may-1-as-olivia-rodrigo-leads-headliner-odds/
 [^ln-cos26]: Consequence (Alex Young) - "Coachella 2027: SZA, Dua Lipa, and Tame Impala to Headline, Per New Report" - 2026-10-30 - https://consequence.net/2026/10/coachella-2027-sza-dua-lipa-and-tame-impala-to-headline-per-new-report/
@@ -131,7 +131,7 @@ The dome would have stood about where the toilets were. Every poster is a set of
 [^ln-dmn2009]: Digital Music News (Dylan Smith) - "AEG Fires Back Against Allegations In Coachella 'Radius Clause' Lawsuit" - 2020-09-22 - https://www.digitalmusicnews.com/2020/09/22/coachella-radius-clause-update/
 [^ln-dmn2011]: Digital Music News (Dylan Smith) - "Coachella and Soul'd Out Productions Settle Years-Running 'Radius Clause' Lawsuit" - 2020-11-25 - https://www.digitalmusicnews.com/2020/11/25/coachella-sould-out-settle-lawsuit/
 [^ln-cos19]: Consequence (Alex Young) - "Rage Against the Machine, Frank Ocean, Travis Scott to play Coachella 2020: Sources" - 2019-12-30 (updated 2020-01-02) - https://consequence.net/2019/12/coachella-2020-lineup
-[^ln-hits24]: HITS Daily Double - "UPDATE: COACHELLA CONFIRMS GAGA, GREEN DAY, POST AND TRAVIS" - 2024-11-19 - https://hitsdailydouble.com/news&id=343730&title=
+[^ln-hits24]: Stereogum (Abby Jones) - "Post Malone Headlining Coachella 2025" - 2024-11-19 - https://stereogum.com/2288046/post-malone-headlining-coachella-2025/news
 [^ln-mxdwnbey]: mxdwn - "Beyoncé pulls out of Coachella 2017 lineup due to doctor's orders but will headline in 2018" - 2017-02-23 - https://music.mxdwn.com/2017/02/23/news/beyonce-pulls-out-of-coachella-2017-lineup-due-to-doctors-orders-but-will-headline-in-2018/amp
 [^ln-latimes19b]: Los Angeles Times, via PressReader - "He just might take a day off" - 2019-04-23 - https://www.pressreader.com/usa/los-angeles-times/20190423/282007558797522
 [^ln-wtvr17]: WTVR (CNN Wire) - "Lady Gaga will replace Beyoncé as Coachella headliner" - 2017-03-01 - https://www.wtvr.com/2017/02/28/lady-gaga-will-replace-beyonce-as-coachella-headliner

@@ -57,6 +57,10 @@ The historian Jeff Crider puts it plainly to NPR:
 
 The valley took the name, and the festival took it from the valley. Its full name is the Coachella Valley Music and Arts Festival, and it has been held in Indio, the next city over, since 1999.[^pro-npr] The city of Coachella is next door. Chapter 14 goes there.
 
+Indio's own name is less of an accident, but only just. It began as a Southern Pacific water stop halfway between Yuma and Los Angeles, where the engines refilled. The first trains arrived in 1876, when the stop was still called Indian Wells. Other places already had that name, so the railroad settled on Indio, a Spanish variation of "Indian."[^pro-wikiindio] It became a city in 1930.[^pro-wikiindio]
+
+The town Pearl Jam drove into was smaller than the one the festival plays in now. The 1990 census counted 36,793 people in Indio. By 2020 it was 89,137. It is now the most populous city in the Coachella Valley.[^pro-wikiindio]
+
 ## Why Indio
 
 Put the pieces together and the choice makes sense, even if nobody planned it.
@@ -69,7 +73,26 @@ Put the pieces together and the choice makes sense, even if nobody planned it.
 He was not counting on the heat, or on how few of them would come back the first time. That is the next chapter.
 
 :::lore "The night that started Coachella"
-This is the founding story Goldenvoice tells, and it's mostly true. Tollett has said the Pearl Jam show showed him the site could work for a festival.[^pro-npr] Wikipedia goes further and quotes Billboard, 2012, saying the concert "sowed the seeds" of Coachella.[^pro-wikivs] The documented version is a little slower. The first festival was in October 1999, six years later, and it nearly sank the company.[^pro-ringer] The seed was real. It took a while to come up.
+This is the founding story Goldenvoice tells, and it's mostly true. Tollett has said the Pearl Jam show showed him the site could work for a festival.[^pro-npr] Wikipedia goes further. Citing Billboard in 2012, it says Tollett credited the concert with having "sowed the seeds for an eventual music festival there."[^pro-wikivs] The documented version is a little slower. The first festival was in October 1999, six years later, and it nearly sank the company.[^pro-ringer] The seed was real. It took a while to come up.
+:::
+
+## In pictures
+
+Other people's photos, used under the Creative Commons licence named under each one.
+
+:::figure img/cc/date-palm-grove-postcard.jpg 1500x974 | A postcard of a date palm grove in the Coachella Valley, issued around 1930 to 1945
+A postcard of a date palm grove in the Coachella Valley, issued around 1930 to 1945.
+Photo: [Boston Public Library](https://www.flickr.com/photos/24029425@N06/7535831972/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/date-palms-isca.jpg 1600x1063 | Rows of date palms in the Coachella Valley in June 2016
+Rows of date palms in the Coachella Valley in June 2016.
+Photo: [ISCA Tech (Flickr: ISCATechnologies)](https://www.flickr.com/photos/141728823@N04/27659812366/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/valley-desert-view-trail.jpg 1600x1201 | The Coachella Valley seen from the Desert View trail in April 2008
+The Coachella Valley seen from the Desert View trail in April 2008.
+Photo: [bossco](https://www.flickr.com/photos/43521640@N00/2420611710/) · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), via Flickr
 :::
 
 ## Still open
@@ -81,7 +104,7 @@ This is the founding story Goldenvoice tells, and it's mostly true. Tollett has 
 [^pro-wikivs]: Wikipedia - "Vs. Tour" - n.d. (read 2026-10-31; cites Steve Hochman, Los Angeles Times, 1993-11-08, and Andrew Flanagan, Billboard, 2012-11-09) - https://en.wikipedia.org/wiki/Vs._Tour
 [^pro-ringer]: The Ringer (Rob Harvilla) - "How Coachella '99 Lost a Million Dollars and Started an Empire" - 2019-10-09 - https://www.theringer.com/music/2019/10/9/20905896/how-coachella-99-lost-a-million-dollars-started-music-festival-empire
 [^pro-npr]: NPR - "Word of the Week: Coachella began as a typo. Here's what happened next" - 2025-04-16 - https://www.npr.org/2025/04/16/nx-s1-5365781/coachella-festival-valley-history
-[^pro-testimony]: Five Horizons (archive) - "Pearl Jam's testimony before Congress regarding Ticketmaster" (House Government Operations subcommittee) - 1994-06-30 - http://www.fivehorizons.com/archive/articles/testimon.shtml
+[^pro-testimony]: Five Horizons (archive) - "Pearl Jam's testimony before Congress regarding Ticketmaster" (House Government Operations subcommittee) - 1994-06-30 - https://www.fivehorizons.com/archive/articles/testimon.shtml
 [^pro-kiro]: KIRO 7 News (Shawn Garrett) - "1994: A look back at when Pearl Jam took on Ticketmaster" - 2022-11-17 - https://www.kiro7.com/news/local/1994-when-pearl-jam-took-ticketmaster-look-back/UFQFVWKQPJB63FWUAVNRQCMSV4/
 [^pro-lo4l]: Live on 4 Legs (podcast) - "Episode 54: Indio, CA - 11/5/1993" - 2019-11-06 - https://liveon4legs.com/?p=1043
 [^pro-latimes25]: Los Angeles Times (Steve Appleford), via AOL - "Goldenvoice founder Gary Tovar is Coachella's eternal fan: 'When the music moves, you move with it'" - 2025-04-19 - https://www.aol.com/goldenvoice-founder-gary-tovar-coachellas-150048995.html
@@ -91,3 +114,4 @@ This is the founding story Goldenvoice tells, and it's mostly true. Tollett has 
 [^pro-epc]: Empire Polo Club (EPC Staff) - "Empire Polo Club, A Home Fit For the Sport of Kings" - 2010-08-26 - https://empirepolo.com/178/
 [^pro-dsun15]: The Desert Sun (Bruce Fessier and Ian James), via World Polo News - "Coachella in drought: Polo club looks to cut water use" - 2015-04 - https://worldpolonews.com/2015/coachella-drought-polo-club-looks-cut-water-use
 [^pro-bw]: Business Wire - "Goldenvoice to Assume Operations of Empire Polo Club in Long-Term Agreement" - 2021-10-27 - https://www.businesswire.com/news/home/20211027006159/en
+[^pro-wikiindio]: Wikipedia - "Indio, California" (census table cites the U.S. Decennial Census) - n.d. (read 2026-11-04) - https://en.wikipedia.org/wiki/Indio,_California

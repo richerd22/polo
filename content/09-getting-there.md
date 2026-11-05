@@ -2,10 +2,10 @@
 n: 9
 slug: getting-there
 title: Getting there
-short: About 40,000 people a day ride a shuttle into Indio, and the company that runs it isn't Goldenvoice - it's a travel outfit owned, three layers up, by private equity. The drivers come from all over, the train ran exactly once, and the rich fly into a WWII airfield in Thermal. Everyone else sits on Jefferson Street, then leaves on Monday at 9 a.m.
+short: About 40,000 people a day ride a shuttle into Indio, and the company that runs it isn't Goldenvoice - it's a travel outfit owned, three layers up, by the company behind UFC and WWE. The drivers come from all over, the train ran exactly once, and the rich fly into a WWII airfield in Thermal. Everyone else sits on Jefferson Street, then leaves on Monday at 9 a.m.
 ---
 
-The bus you ride to Coachella belongs to a company named after a man named Dan. Not literally - the drivers are subcontracted - but follow the shuttle pass up the chain and you reach CID Entertainment, which stands for "Consider It Dan," started by the tour manager of a Philadelphia jam band.[^gt-inquirer] Above that sits a sports hospitality firm, and above that, four private-equity investors.[^gt-onlocation] None of them is Goldenvoice.
+The bus you ride to Coachella belongs to a company named after a man named Dan. Not literally - the drivers are subcontracted - but follow the shuttle pass up the chain and you reach CID Entertainment, which stands for "Consider It Dan," started by the tour manager of a Philadelphia jam band.[^gt-inquirer] Above that sits a sports hospitality firm, and above that, since February 2025, TKO Group Holdings, the company behind UFC and WWE.[^gt-tko] None of them is Goldenvoice.
 
 For two weekends every April, Indio has to take in a crowd the size of a small city every afternoon, and send it back out after midnight. The 2019 traffic plan assumed 125,000 people a day.[^gt-kvcr19] This chapter is about how they get there: the buses, the roads, the train that ran once, and the private jets.
 
@@ -15,9 +15,9 @@ Valley Music Travel (VMT) runs the official shuttles. It sells the passes, staff
 
 CID's founder, Dan Berkowitz, became tour manager for the Disco Biscuits in 2004. He noticed most bands didn't offer travel and VIP packages to fans, so he started a company that would. He worked out of an office in the band's studio, and in 2008 sold a small stake for $100,000 to grow it.[^gt-inquirer] Pollstar puts the founding at 2007.[^gt-pollstar19] By 2015 CID had about 60 full-time staff in Philadelphia, and up to 300 people working for it over a big festival weekend. At Coachella, it would "build you a 14-by-14-foot safari tent with full amenities on site."[^gt-inquirer]
 
-In October 2018, On Location Experiences bought CID, according to Berkowitz.[^gt-pollstar19] On Location now calls CID "a division of On Location," and lists its own owners as RedBird Capital Partners, Bruin Sports Capital, 32 Equity and the Carlyle Group.[^gt-onlocation] So the chain runs: your shuttle pass, VMT, CID, On Location, private equity. No source shows Goldenvoice or AEG holding a stake in any link of it, and no source rules it out either.
+In October 2018, On Location Experiences bought CID, according to Berkowitz.[^gt-pollstar19] On Location now calls CID "a division of On Location."[^gt-onlocation] Since February 28, 2025, On Location has belonged to TKO Group Holdings, the company behind UFC and WWE, which bought it from Endeavor along with IMG and Professional Bull Riders.[^gt-tko] On Location's own About page still lists its earlier owners: RedBird Capital Partners, Bruin Sports Capital, 32 Equity and the Carlyle Group.[^gt-onlocation] So the chain runs: your shuttle pass, VMT, CID, On Location, TKO. No source shows Goldenvoice or AEG holding a stake in any link of it, and no source rules it out either.
 
-VMT has done the job since at least 2010. That spring Pollstar wrote that "Coachella partnered with Valley Music Travel" for hotel shuttles. 2010 was also the first year everyone got in-and-out privileges, which is what made a hotel shuttle worth having.[^gt-pollstar10] Goldenvoice used VMT again for Desert Trip in 2016: a $25 pass, over 20 stops, and a shuttle coordinator at every pickup.[^gt-deserttrip]
+VMT has done the job since at least 2010. That spring Pollstar wrote that "Coachella has teamed up with Valley Music Travel" for hotel shuttles. 2010 was also the first year everyone got in-and-out privileges, which is what made a hotel shuttle worth having.[^gt-pollstar10] Goldenvoice used VMT again for Desert Trip in 2016: a $25 pass, over 20 stops, and a shuttle coordinator at every pickup.[^gt-deserttrip]
 
 ## The pass
 
@@ -65,6 +65,10 @@ It didn't. In 2016 the county transportation commission floated festival trains 
 
 The long game is Coachella Valley Rail, a proposed daily service on about 144 miles from Los Angeles with nine stops. In January 2026 the commission awarded an $80M contract for its environmental review. The project will likely cost more than $1.5B, and service could start "by 2040."[^gt-nbcrail] Nobody has promised DJs.
 
+The paperwork is moving, slowly. The program-level environmental review was certified in 2022.[^gt-cvrfact] In February 2026 the engineering firm HDR was picked to lead the next, project-level stage, starting with a study of where the nine stations should go; the federal and state environmental documents come after the service plan gets federal approval.[^gt-metrohdr] The commission's pitch is the gap: Riverside County, with more than 2.4 million people, is the only area its size in California without daily intercity passenger rail.[^gt-cvrfact]
+
+There is a train already, of a sort. Amtrak's combined Sunset Limited and Texas Eagle stops three times a week each way at a single platform in the Garnet area of Palm Springs, built in 1999. From May 20 to August 25, 2021, the station closed because blowing sand had buried the tracks, and Amtrak still warns that service there can be suspended without notice for sandstorms.[^gt-wikipsn] The festival's own page lists Amtrak, Greyhound and the local SunLine buses among ways in.[^gt-getting] The most recent dedicated festival bus found was FlixBus's 2023 run: Thursdays from downtown LA, USC, UCLA, Hollywood and Montclair straight to Lot 2A, back on Mondays from Lot 13, for $29.99 to $68.99.[^gt-flix23]
+
 ## The fast way in
 
 If you have the money, you skip Interstate 10 altogether and land in Thermal.
@@ -79,6 +83,8 @@ Jacqueline Cochran Regional Airport, in Thermal, was built in 1942 as a WWII Arm
 No one publishes how many private jets land on festival weekends.
 
 The commercial airport, Palm Springs International, feels it in fares rather than records. In one festival year (the San Francisco Chronicle's piece is undated, likely 2019), round trips from San Francisco ran about $600 to $800 for weekend 1 and $500 to $600 for weekend 2, against about $320 in early April.[^gt-sfchron] The airport's busiest month ever, with nearly 500,000 passengers, was March 2025 - the month before the festival.[^gt-psppost]
+
+April itself doesn't break records. The airport's own figures put April 2026 at 387,225 passengers, down 4.7% from April 2025 and about 100,000 short of March.[^gt-psp26] It is the month the season empties out: more people flew out of Palm Springs that April (200,834) than flew in (186,391).[^gt-psp26] What did rise was traffic in the sky. Aircraft movements by planes coming from or going to other airports were up 12.7% on April 2025, with 1,727 of them general aviation.[^gt-psp26] The airport doesn't publish a festival-week breakdown.
 
 Down on the ground, the top of the price ladder is a staging pass for your hired car. For 2026, the festival charged $3,500 for a vehicle with 10 seats or fewer, and $5,000 for anything bigger, up to a 35-foot bus - "for drivers to service pre-booked clients only."[^gt-getting] The sky above the grounds is closed: a federal flight restriction banned drones from April 9 to 13, 2026.[^gt-nbc0407]
 
@@ -98,6 +104,18 @@ Then, Friday to Monday of each festival weekend, four more go:[^gt-nbc0327]
 It's the same list Indio published in 2019.[^gt-kfi19] Inbound traffic peaks from about 3 to 8 p.m., Friday to Sunday, on Jefferson, Washington and Monroe. Outbound runs from about midnight to 3 a.m.[^gt-nbc0406] Caltrans watches the climb in from the coast: I-10 from Beaumont and SR-60 from Moreno Valley, eastbound peaking Friday and westbound Sunday.[^gt-kvcr19]
 
 The police side is a numbers game. Indio PD's traffic division runs festival enforcement. In a crackdown briefing in April 2025, it cited 112 arrests and 83 citations for misused disabled placards, and a 40% spike in arrests on the year before.[^gt-nbc25police] Weekend 2 of 2026 ended with 106 arrests and 87 placard citations, and when festival lots filled, police sent the overflow to the Tennis Garden.[^gt-nbc0421]
+
+:::numbers 2026, by the police count
+- Weekend 1 arrests: 97, including 59 for drug possession and 14 for false ID, by the Indio police count Patch reported; MyNewsLA says 96[^gt-patchw2][^gt-mnla26]
+- Weekend 1 disabled-placard citations: 32[^gt-patchw2]
+- Weekend 2 arrests: 106, including 52 for drug possession and 13 for false ID[^gt-mnla26]
+- Weekend 2 placard citations: 87 by NBC Palm Springs' count, 32 by MyNewsLA's[^gt-nbc0421][^gt-mnla26]
+- Riders shuttled in and out: about 40,000, the city's estimate[^gt-patch26]
+:::
+
+The city's 2026 plan named the ways in: southbound Jefferson, Washington and Monroe from the I-10 to Avenue 52, Avenue 48 between Jefferson and Jackson, and the eastbound I-10 exits at Monroe and Washington, with Jefferson added on the list for weekend two.[^gt-patch26][^gt-patchw2] By weekend two, officials described traffic around the polo club as steady.[^gt-mnla26]
+
+Some of the help is invisible. CV Sync, the Coachella Valley Association of Governments' signal-timing program, finished its first phase in June 2023: 134 intersections along Highway 111, Ramon Road and Washington Street, one of the three festival corridors.[^gt-pspsync][^gt-itesync] Its award write-up credits it with better traffic management "during regional events."[^gt-itesync] A second phase, adding 18 corridors and taking the network past 500 intersections, was due to finish in fall 2026.[^gt-pspsync]
 
 ## The last mile
 
@@ -125,12 +143,47 @@ More than 40,000 campers leave after each weekend.[^gt-nbc0407] It's been about 
 
 Then the roads reopen, the buses go back to wherever they came from, and Indio does it again the next Thursday.
 
+## In pictures
+
+Other people's photos, used under the Creative Commons licence named under each one.
+
+:::figure img/cc/cabazon-dinosaurs-hilton.jpg 1600x1067 | The Cabazon Dinosaurs in March 2019
+The Cabazon Dinosaurs in March 2019.
+Photo: [Tom Hilton](https://www.flickr.com/photos/54259492@N00/40454080213/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/cabazon-dinosaurs-inkknife.jpg 1554x1596 | Dinny, the Cabazon brontosaurus built by Claude Bell, in October 2007
+Dinny, the Cabazon brontosaurus built by Claude Bell, in October 2007.
+Photo: [Don Graham (Flickr: inkknife_2000)](https://www.flickr.com/photos/23155134@N06/5991349409/) · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), via Flickr
+:::
+
+:::figure img/cc/dinny-and-mr-rex.jpg 1600x1067 | Ms. Dinny and Mr. Rex at the Cabazon roadside attraction in September 2012
+Ms. Dinny and Mr. Rex at the Cabazon roadside attraction in September 2012.
+Photo: [Steven Miller (Flickr: Sam Howzit)](https://www.flickr.com/photos/12508217@N08/8062857932/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/wind-farm-san-jacinto.jpg 1600x1200 | The San Gorgonio Pass Wind Farm with Mount San Jacinto behind it in March 2014
+The San Gorgonio Pass Wind Farm with Mount San Jacinto behind it in March 2014.
+Photo: [Ken Lund](https://www.flickr.com/photos/75683070@N00/13170274684/) · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), via Flickr
+:::
+
+:::figure img/cc/wind-farm-kcds.jpg 1600x1032 | Wind turbines in the San Gorgonio Pass near Palm Springs in August 2009
+Wind turbines in the San Gorgonio Pass near Palm Springs in August 2009.
+Photo: [Ken (Flickr: kcdsTM)](https://www.flickr.com/photos/35486117@N00/3896279780/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/indio-greyhound-station.jpg 1038x1600 | The Greyhound bus station sign in Indio in April 2011
+The Greyhound bus station sign in Indio in April 2011.
+Photo: [Randy Heinitz](https://www.flickr.com/photos/36509286@N03/5605970551/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
 ## Still open
 
 - How many coaches and drivers VMT runs, and which charter companies supply them.
 - When CID took over VMT. VMT says it's a subsidiary; no announcement has turned up.
 - Where the buses go between weekend 2 and Stagecoach.
 - Any count of private jet landings at Thermal on festival weekends.
+- Any 2026 Caltrans notice of I-10 closures or lane work timed around the festival weekends, and any ridership count for Amtrak, Greyhound, SunLine or charter buses into Indio that April.
 
 [^gt-inquirer]: Philadelphia Inquirer (Michael Hinkelman) - "Changing the way fans attend live-music events" - 2015-03-04 - https://www.inquirer.com/philly/business/20150304_Changing_the_way_fans_attend_live-music_events.html
 [^gt-onlocation]: On Location - "About Us" - accessed 2026-10-31 - https://music.onlocationexp.com/about-us
@@ -139,7 +192,7 @@ Then the roads reopen, the buses go back to wherever they came from, and Indio d
 [^gt-vmtplat]: Valley Music Travel - "Platinum Services" - accessed 2026-10-31 - https://coachella.valleymusictravel.com/platinum-services
 [^gt-vmtabout]: Valley Music Travel - "About Us" - accessed 2026-10-31 - https://www.valleymusictravel.com/about-us/
 [^gt-pollstar19]: Pollstar - "Q&A with CID Entertainment's Dan Berkowitz" - 2019-01-29 - https://news.pollstar.com/2019/01/29/qs-with-a-pollstar-live-panelist-cid-entertainments-dan-berkowitz-on-boutique-festivals-and-destination-events/
-[^gt-pollstar10]: Pollstar - "Coachella Lodging Filling Up" - 2010-03-23 - http://news.pollstar.com/2010/03/23/coachella-lodging-filling-up/
+[^gt-pollstar10]: Pollstar - "Coachella Lodging Filling Up" - 2010-03-23 - https://news.pollstar.com/2010/03/23/coachella-lodging-filling-up/
 [^gt-deserttrip]: Desert Trip - "Shuttles" - 2016 - https://deserttrip.com/shuttles
 [^gt-vmt15]: Valley Music Travel - "Coachella 2015 local hotel shuttles" - 2015 - https://valleymusictravel.com/events/coachella2015/local-hotel-shuttles
 [^gt-timeout17]: Time Out Los Angeles (Michael Juliano) - "All of the different (and cheapest) ways to get to Coachella" - 2017-04-05 - https://www.timeout.com/los-angeles/blog/all-of-the-different-and-cheapest-ways-to-get-to-coachella-040517
@@ -158,7 +211,7 @@ Then the roads reopen, the buses go back to wherever they came from, and Indio d
 [^gt-nbcrail]: NBC Palm Springs (City News Service) - "Riverside County Transportation Commission Awards $80M for CV Rail Study" - 2026-01-30 - https://www.nbcpalmsprings.com/local-and-community/2026/01/30/riverside-county-transportation-commission-awards-80m-for-cv-rail-study
 [^gt-wikitrm]: Wikipedia - "Jacqueline Cochran Regional Airport" - accessed 2026-10-31 - https://en.wikipedia.org/wiki/Jacqueline_Cochran_Regional_Airport
 [^gt-fortune]: Fortune (Jen Wieczner) - "Uber and Blade Will Fly You to Coachella in a Helicopter for about $4,000" - 2016-03-25 - https://fortune.com/2016/03/25/uber-blade-coachella-helicopter
-[^gt-pjcc17]: Private Jet Card Comparisons (Doug Gollan) - "Coachella Attracts The Private Jet Set" - 2017-04-14 - https://privatejetcardcomparisons.com/2017/04/14/coachella-attracts-the-private-jet-set
+[^gt-pjcc17]: Private Jet Card Comparisons (Doug Gollan) - "Coachella Attracts The Private Jet Set" - 2017-04-14 - https://privatejetcardcomparisons.com/2017/04/14/coachella-attracts-the-private-jet-set/
 [^gt-kesqblade]: KESQ (Crystal Jimenez) - "Hundreds fly into Coachella Valley for the music festival using charter service" - 2022-04-15 - https://kesq.com/?p=870505
 [^gt-pjcc26]: Private Jet Card Comparisons (Doug Gollan) - "JSX sets Coachella pop-up shared private flight from Santa Monica" - 2026-02-04 - https://privatejetcardcomparisons.com/2026/02/04/jsx-sets-coachella-pop-up-shared-private-flight-from-santa-monica/
 [^gt-desertsun24]: The Desert Sun (Jennifer Cortez), via PressReader - "Coachella road closure updates: What to know about detours, delays" - 2024-04-12 - https://www.pressreader.com/usa/the-desert-sun/20240412/281509346220618
@@ -174,3 +227,14 @@ Then the roads reopen, the buses go back to wherever they came from, and Indio d
 [^gt-nbc0421]: NBC Palm Springs - "Report: Coachella Weekend Two Ends with Arrests and Parking Challenges" - 2026-04-21 - https://www.nbcpalmsprings.com/2026/04/21/report-coachella-weekend-two-ends-with-arrests-and-parking-challenges
 [^gt-globalinh]: Global Inheritance - "Transportation" - accessed 2026-10-31 - https://www.globalinheritance.org/programs/transportation
 [^gt-cvi]: Coachella Valley Independent (Matt King) - "Parking-Lot Party: Scenes From One of Coachella's Hottest Pre-Festival Gatherings - at the Ralphs in Indio" - 2026-04-18 - https://cvindependent.com/2026/04/parking-lot-party-scenes-from-one-of-coachellas-hottest-pre-festival-gatherings-at-the-ralphs-in-indio/
+[^gt-cvrfact]: Riverside County Transportation Commission - "Coachella Valley Rail" fact sheet - 2025-02-14 - https://www.rctc.org/wp-content/uploads/2025/02/CVR_Fact_Sheet_021425.pdf
+[^gt-metrohdr]: Metro Magazine - "HDR Selected to Advance LA-Coachella Valley Rail Corridor Project" - 2026-02-20 - https://www.metro-magazine.com/news/hdr-selected-to-advance-lacoachella-valley-rail-corridor-project
+[^gt-wikipsn]: Wikipedia - "Palm Springs station" - n.d. (read 2026-11-04) - https://en.wikipedia.org/wiki/Palm_Springs_station
+[^gt-flix23]: FlixBus - "FlixBus kicks off direct service from Los Angeles to Coachella Valley Music & Arts Festival" - 2023-03-21 - https://flixbus.com/company/press-room/flixbus-coachella-2023
+[^gt-patchw2]: Patch (Ashley Ludwig) - "Coachella Weekend 2: Festival Schedule, Road Closures Amid Final Weekend Of 2026" - 2026-04-17 (updated 2026-04-21) - https://patch.com/california/palmdesert/coachella-weekend-2-festival-schedule-road-closures-amid-final-weekend-2026
+[^gt-mnla26]: MyNewsLA - "106 Arrests During Weekend Two of Coachella Fest in Indio" - 2026-04-21 - https://mynewsla.com/crime/2026/04/21/106-arrests-during-weekend-two-of-coachella-fest-in-indio/
+[^gt-patch26]: Patch (Ashley Ludwig) - "Coachella Traffic, Road Closures For Coachella Music & Arts Festival 2026" - 2026-04-10 - https://patch.com/california/palmdesert/coachella-traffic-road-closures-coachella-music-arts-festival-2026
+[^gt-pspsync]: The Palm Springs Post - "Regional traffic signal network to double in size as Palm Springs pushes safety upgrades" - 2026-07-15 - https://thepalmspringspost.com/regional-traffic-signal-network-to-double-in-size-as-palm-springs-pushes-safety-upgrades/
+[^gt-itesync]: Institute of Transportation Engineers - "Transportation Achievement Award - TSMO: CVAG and ADVANTEC, CV-Sync" - 2024 - https://ite.org/ITEORG/assets/File/Awards/_2024/Winner%20Announcements/TAA-TSMO_%20CVAG%20ADVANTEC%20CV%20Sync_web%20copy_final.pdf
+[^gt-psp26]: Palm Springs International Airport - "Monthly Passenger Activity Report - 2026" and "Aircraft Operations 2026" (June 2026 report) - 2026-07 - https://flypsp.com/wp-content/uploads/2026/07/June-2026-Passenger-Aircraft-Activity.pdf
+[^gt-tko]: Sports Video Group - "TKO Completes Acquisition of Sports Assets From Endeavor" - 2025-02-28 - https://www.sportsvideo.org/2025/02/28/tko-completes-acquisition-of-sports-assets-from-endeavor/

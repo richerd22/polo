@@ -1,0 +1,125 @@
+{
+ "about": "Festival dates that drive the live 'festival clock' on the home page. The clock reads this file in the browser, so it never goes stale: before a weekend it counts down, during one it says so, and once the last known edition is over it says the next dates aren't announced yet. To add a year, append an edition with both weekends (ISO dates, Friday to Sunday) and a source you opened. Set lineup.headliners once the lineup is out.",
+ "lineup_window": {
+  "text": "Fans will have to wait for the lineup, which could be announced anywhere from September 2026 to January 2027, based on previous years.",
+  "source": {
+   "publication": "Pollstar (Sarah Pittman)",
+   "title": "Coachella Unveils 2027 Dates & Ticket Info",
+   "date": "2026-04-20",
+   "url": "https://news.pollstar.com/2026/04/20/coachella-unveils-2027-dates-ticket-info/"
+  }
+ },
+ "editions": [
+  {
+   "year": 2024,
+   "weekends": [
+    [
+     "2024-04-12",
+     "2024-04-14"
+    ],
+    [
+     "2024-04-19",
+     "2024-04-21"
+    ]
+   ],
+   "lineup": {
+    "headliners": [
+     "Lana Del Rey",
+     "Tyler, the Creator",
+     "Doja Cat"
+    ]
+   },
+   "sources": [
+    {
+     "publication": "see data/years.json",
+     "url": "https://polo.cold.fyi/years/"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "weekends": [
+    [
+     "2025-04-11",
+     "2025-04-13"
+    ],
+    [
+     "2025-04-18",
+     "2025-04-20"
+    ]
+   ],
+   "lineup": {
+    "headliners": [
+     "Lady Gaga",
+     "Green Day",
+     "Post Malone"
+    ]
+   },
+   "sources": [
+    {
+     "publication": "see data/years.json",
+     "url": "https://polo.cold.fyi/years/"
+    }
+   ]
+  },
+  {
+   "year": 2026,
+   "weekends": [
+    [
+     "2026-04-10",
+     "2026-04-12"
+    ],
+    [
+     "2026-04-17",
+     "2026-04-19"
+    ]
+   ],
+   "lineup": {
+    "headliners": [
+     "Sabrina Carpenter",
+     "Justin Bieber",
+     "Karol G"
+    ]
+   },
+   "sources": [
+    {
+     "publication": "Pollstar (Sarah Pittman)",
+     "title": "Coachella Unveils 2027 Dates & Ticket Info",
+     "date": "2026-04-20",
+     "url": "https://news.pollstar.com/2026/04/20/coachella-unveils-2027-dates-ticket-info/"
+    }
+   ]
+  },
+  {
+   "year": 2027,
+   "weekends": [
+    [
+     "2027-04-09",
+     "2027-04-11"
+    ],
+    [
+     "2027-04-16",
+     "2027-04-18"
+    ]
+   ],
+   "lineup": {
+    "headliners": []
+   },
+   "on_sale": "Advance passes on sale May 1, 2026, 11 a.m. PT",
+   "sources": [
+    {
+     "publication": "Pollstar (Sarah Pittman)",
+     "title": "Coachella Unveils 2027 Dates & Ticket Info",
+     "date": "2026-04-20",
+     "url": "https://news.pollstar.com/2026/04/20/coachella-unveils-2027-dates-ticket-info/"
+    },
+    {
+     "publication": "Coachella (official site)",
+     "title": "2027 Advance Sale",
+     "date": "2026",
+     "url": "https://coachella.com/2027-advance-sale"
+    }
+   ]
+  }
+ ]
+}

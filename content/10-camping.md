@@ -45,9 +45,9 @@ On Thursday, April 10, 2025, campers waited in their cars for up to 12 hours or 
 
 ## Day 0
 
-That Thursday concert is the newest ritual, and and one Goldenvoice built on purpose.
+That Thursday concert is the newest ritual, and one Goldenvoice built on purpose.
 
-"Day 0" is what campers call the Thursday they arrive; the Independent's Ralphs report was filed from "Day 0 of Coachella 2026."[^cp-cvi26] In 2025, Goldenvoice gave it a stage. Chris Lake played the first-ever Thursday night show inside the campgrounds on weekend 1, and on weekend 2 he was swapped for Disco Dom, Dombresky's disco project, at 8:30 p.m.[^cp-patchdz] It was the party that helped cause the 12-hour line.[^cp-kesq25b] Goldenvoice kept it anyway. For 2026, Disco Lines was announced as the weekend 1 Day Zero performer, an exclusive pre-festival set for campers, second year running.[^cp-ds26] Weekend 2 got KETTAMA, Prospa and Josh Baker playing back to back to back.[^cp-beatportal]
+"Day 0" is what campers call the Thursday they arrive; the Independent's Ralphs report was filed from "Day 0 of Coachella 2026."[^cp-cvi26] In 2025, Goldenvoice gave it a stage. Chris Lake played the first-ever Thursday night show inside the campgrounds on weekend 1, and on weekend 2 he was swapped for Disco Dom, Dombresky's disco project, at 8:30 p.m.[^cp-patchdz] It was the party that helped cause the 12-hour line.[^cp-kesq25b] Goldenvoice kept it anyway. In 2026 weekend 2 opened with a "Day Zero campground party" on the Thursday, with KETTAMA, Prospa and Josh Baker playing back to back to back.[^cp-beatportal]
 
 Around it, the Thursday campground now has a full program: DJs at Desert Sky from 8 p.m., a silent disco until 3 a.m., and stargazing on Coyote Hill through NASA-supplied telescopes.[^cp-amen] The name isn't Coachella's alone.[^cp-tulum]
 
@@ -93,11 +93,11 @@ The legend goes that on April 13, 2025, as weekend 1 let out, the hot dog vendor
 
 The festival learned to lock itself in the hard way.
 
-In 2010, Goldenvoice dropped single-day tickets for the first time and sold only three-day passes, at $269, with wristbands meant to stop scalpers. All 75,000 sold.[^cp-bizbash10] Daily attendance ran about 75,000, up about 15,000 a day from 2009,[^cp-lvsun10] and reports from that year describe long holdups at the front gates and worries about gate-crashing.[^cp-lvsun10]
+In 2010, Goldenvoice dropped single-day tickets for the first time and sold only three-day passes, at $269, with wristbands meant to stop scalpers. All 75,000 sold.[^cp-bizbash10] LA Weekly put the crowd at 75,000 a day, urged a return to 60,000, and described "near-riot conditions at the gates" on the Friday as people crashed in.[^cp-lvsun10]
 
-The response came in 2011: a wrought-iron fence around the Empire Polo grounds to stop gate crashers, an extra traffic lane partly paid for by Goldenvoice, and the end of exchanging a ticket for a wristband at the gate.[^cp-lvsun11] The wristband became the ticket.
+The response came in 2011: bigger grounds, bigger tents and a wristband that could not come off without breaking, with a chip scanned on the approach and again at the gates.[^cp-lvsun11] The wristband became the ticket.
 
-Then it got a chip. By 2012, RFID wristbands from Intellitix handled access at both weekends, which a trade site said "eliminates counterfeit tickets," and let fans check in on social media automatically.[^cp-secureid12] The vendor itself said in 2014 that it had supplied Coachella's RFID for four years, which puts the start around 2010 or 2011.[^cp-intellitix] 2014 was the first year everyone had to register their wristband online.[^cp-intellitix]
+By 2012, RFID wristbands from Intellitix handled access at both weekends, which a trade site said "eliminates counterfeit tickets," and let fans check in on social media automatically.[^cp-secureid12] In 2014 BetaKit reported that the festival had been using Intellitix's chipped cloth wristbands for four years, which puts the start around 2010 or 2011.[^cp-intellitix]
 
 Binding a wristband to its buyer opened a new hustle. As early as 2014, the CV Independent described the scam: a seller reports a delivered pass as "never received," gets a replacement, and sells the original, which then gets switched off.[^cp-cvi14] In 2026 it got a name. "Scamchella," NBC Palm Springs called it: sellers on Facebook Marketplace and OfferUp sold real wristbands, then reported them lost or stolen. One buyer, Ryan Jimenez, paid more than $2,000 for three. They worked on day one and were dead on day two. Hundreds lined up at will-call, unsure their passes would work.[^cp-scam26] He did get his money back.[^cp-scam26]
 
@@ -115,6 +115,25 @@ Hotels across the valley run more than 90% full in April, which Expedia data say
 
 The camper, meanwhile, leaves on Monday with more than 40,000 others,[^cp-nbc0407] and by the next Thursday somebody else is waiting in a parking lot.
 
+## In pictures
+
+Other people's photos, used under the Creative Commons licence named under each one.
+
+:::figure img/cc/tent-city-2004.jpg 1023x698 | Campers in the Coachella tent city in 2004
+Campers in the Coachella tent city in 2004.
+Photo: [Dave Gingrich (Flickr: ndanger)](https://www.flickr.com/photos/12583853@N00/143458054/) · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), via Flickr
+:::
+
+:::figure img/cc/camping-2007-home.jpg 1024x768 | A camper's tent at Coachella 2007, captioned by the photographer as home for three days
+A camper's tent at Coachella 2007, captioned by the photographer as home for three days.
+Photo: [Fabricio Zuardi (Flickr: fczuardi)](https://www.flickr.com/photos/49503114626@N01/478763122/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/campland-yoga.jpg 1200x1600 | Morning yoga in the Coachella campground during weekend one of 2012
+Morning yoga in the Coachella campground during weekend one of 2012.
+Photo: [DM (Flickr: edenmorrison)](https://www.flickr.com/photos/57919552@N06/7155038364/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
 ## Still open
 
 - Which agency, or which private firm, rides the horses in the campgrounds.
@@ -122,7 +141,7 @@ The camper, meanwhile, leaves on Monday with more than 40,000 others,[^cp-nbc040
 - The first year of RFID wristbands at Coachella: 2010, 2011 or 2012.
 
 [^cp-cvi26]: Coachella Valley Independent (Matt King) - "Parking-Lot Party: Scenes From One of Coachella's Hottest Pre-Festival Gatherings - at the Ralphs in Indio" - 2026-04-18 - https://cvindependent.com/2026/04/parking-lot-party-scenes-from-one-of-coachellas-hottest-pre-festival-gatherings-at-the-ralphs-in-indio/
-[^cp-sustain]: Coachella - "Sustainability" - n.d. (read 2026-10-31) - https://coachella.com/sustainability
+[^cp-sustain]: Coachella - "Sustainability" - n.d. (read 2026-10-31; page removed from the site by November 2026) - https://coachella.com/sustainability
 [^cp-wiki]: Wikipedia - "Coachella" - n.d. (read 2026-10-31) - https://en.wikipedia.org/wiki/Coachella
 [^cp-ocw18]: OC Weekly (Mary Carreon) - "The Evolution Of Coachella's Campgrounds" - 2018-04-20 - https://www.ocweekly.com/?p=88797
 [^cp-pnt10]: Phoenix New Times - "Coachella 2010 Dates Confirmed, Layaway Plan Available" - 2010 - https://www.phoenixnewtimes.com/?p=40532050
@@ -136,14 +155,13 @@ The camper, meanwhile, leaves on Monday with more than 40,000 others,[^cp-nbc040
 [^cp-kesq25a]: KESQ (Luis Avila) - "Carmageddon: Campers stuck in line for hours trying to get into Coachella music festival" - 2025-04-10 - https://kesq.com/?p=1660977
 [^cp-kesq25b]: KESQ (Julia Castro and Luis Avila) - "Goldenvoice apologizes for Coachella traffic chaos and promises changes for Weekend 2" - 2025-04-16 - https://kesq.com/?p=1663117
 [^cp-patchdz]: Patch (Kat Schuster) - "Coachella Round 2: Trading Heat For Wind, The Weeknd Takeover + More" - 2025-04-17 - https://patch.com/california/palmdesert/coachella-round-2-trading-heat-wind-weeknd-takeover-more
-[^cp-ds26]: The Desert Sun (Brian Blueskye), via AOL - "Disco Lines announced as Day Zero performer for Coachella 2026" - 2026-04-07 - https://www.aol.com/news/disco-lines-announced-day-zero-183226054.html
 [^cp-beatportal]: Beatportal - "KETTAMA, Prospa, and Josh Baker to Go b3b at Coachella Weekend 2 Day Zero Party" - 2026-04-14 - https://www.beatportal.com/articles/1374860-kettama-prospa-and-josh-baker-to-go-b3b-at-coachella-weekend-2-day-zero-party
 [^cp-amen]: Coachella - "Activities & Amenities" - 2026 - https://www.coachella.com/activities-amenities
 [^cp-tulum]: Not to be confused with Day Zero, Damian Lazarus's festival in the jungle outside Tulum, which he started in 2012. W Magazine (Arthur Lubow) - "Day Zero Turns a Tulum Jungle Into an Electronic Music Festival" - 2024-01-19 - https://www.wmagazine.com/culture/day-zero-tulum-music-festival-rave-founder-interview
 [^cp-fader19]: The FADER (Salvatore Maicki) - "Kanye West's Easter Sunday service at Coachella will be held atop 'the mountain'" - 2019-04-03 - https://thefader.com/2019/04/03/kanye-west-coachella-easter-sunday-service-coachella-2019-the-mountain
 [^cp-lat19]: Los Angeles Times, via PressReader - "He just might take a day off" - 2019-04-23 - https://www.pressreader.com/usa/los-angeles-times/20190423/282007558797522
 [^cp-variety19]: Variety - "Kanye West Takes Coachella to Church With Easter Sunday Service" - 2019-04 - https://variety.com/2019/music/news/kanye-west-takes-coachella-to-church-with-easter-sunday-service-1203194108
-[^cp-world19]: WORLD - "Easter at Coachella" - 2019 - https://wng.org/roundups/easter-at-coachella-1617225726
+[^cp-world19]: WORLD - "Easter at Coachella" - 2019-04-26 - https://wng.org/roundups/easter-at-coachella-1617225726
 [^cp-tmz19]: TMZ - "Over 50,000 People Attended Kanye West's Coachella Sunday Service" - 2019-04-22 - https://www.tmz.com/2019/04/22/kanye-west-sunday-service-50000-people-coachella/
 [^cp-ocwsec]: OC Weekly (Mary Carreon) - "Coachella Sets The Standard Of Security In High Risk Festival Environment" - 2018-04-16 - https://www.ocweekly.com/?p=88753
 [^cp-kesq26]: KESQ (Timothy Foster) - "Coachella weekend one marked by strong police presence and security" - 2026-04-12 - https://kesq.com/news/2026/04/12/coachella-weekend-one-marked-by-strong-police-presence-and-security/
@@ -151,10 +169,10 @@ The camper, meanwhile, leaves on Monday with more than 40,000 others,[^cp-nbc040
 [^cp-nbc26w1]: NBC Palm Springs - "Coachella Weekend 1 Sees 97 Arrests, Police Say Festival Largely Safe and Well-Behaved" - 2026-04-14 - https://www.nbcpalmsprings.com/2026/04/14/coachella-weekend-1-sees-97-arrests-police-say-festival-largely-safe-and-wellbehaved
 [^cp-pnt16]: Phoenix New Times - "The Slow Death of Coachella's Local Vendor Economy" - about 2016 - https://www.phoenixnewtimes.com/music/the-slow-death-of-coachellas-local-vendor-economy-8246020/
 [^cp-distractify]: Distractify (Chrissy Bobic) - "Hot Dog Vendors Are All About Opportunity When It Comes to Thrifty Coachella Attendees" - 2025-04-15 - https://www.distractify.com/p/hot-dog-vendors-storm-coachella
-[^cp-lvsun10]: Las Vegas Sun (Michael Mishak) - "Strangechella" - 2010-04-21 - https://lasvegassun.com/news/2010/apr/21/strangechella/
-[^cp-lvsun11]: Las Vegas Sun - "After rough 2010, Coachella tries to iron itself out" - 2011-04-13 - https://m.lasvegassun.com/news/2011/apr/13/after-rough-2010-coachella-tries-iron-itself-out/
+[^cp-lvsun10]: LA Weekly (Dennis Romero) - "Five Ways Organizers Can Make Coachella A Better Experience" - 2010-04-20 - https://www.laweekly.com/five-ways-organizers-can-make-coachella-a-better-experience/
+[^cp-lvsun11]: PopMatters (Crispin Kott) - "Coachella 2011, or How I Learned to Stop Worrying and Love Heatstroke" - 2011-04-19 - https://www.popmatters.com/139770-coachella-2011-or-how-i-learned-to-stop-worrying-and-love-heatstroke-2496048323.html
 [^cp-secureid12]: SecureIDNews - "Coachella rakes in more fans via RFID social media" - 2012-05-14 - https://www.secureidnews.com/?p=22280
-[^cp-intellitix]: Intellitix (vendor) - "Coachella Festival loves RFID technology for access control" - about 2014 - https://intellitix.com/hub/coachella-festival-loves-rfid-technology-access-control
+[^cp-intellitix]: BetaKit (Joseph Czikk) - "Montreal Startup Intellitix 'Cleaned Up' Coachella Ticketing Problem" - 2014-05-27 - https://betakit.com/montreal-startup-intellitix-cleaned-up-coachella-ticketing-problem/
 [^cp-cvi14]: Coachella Valley Independent (Christina Lange) - "Wristband Roulette: Coachella Tickets Are Sold Out, and You Really Want to Go - Here's What Not to Do" - 2014-02-17 - https://cvindependent.com/2014/02/wristband-roulette-coachella-tickets-are-sold-out-and-you-really-want-to-go-here-s-what-not-to-do/
 [^cp-scam26]: NBC Palm Springs - "'Scamchella' Surge: Ticket Fraud Casts Shadow Over Festival Season" - 2026-04-17 - https://www.nbcpalmsprings.com/2026/04/17/scamchella-surge-ticket-fraud-casts-shadow-over-festival-season
 [^cp-npr25]: NPR - "Word of the Week: Coachella began as a typo. Here's what happened next" - 2025-04-16 - https://www.npr.org/2025/04/16/nx-s1-5365781/coachella-festival-valley-history

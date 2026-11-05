@@ -34,7 +34,7 @@ Outdoor polo is four a side.[^po-museumfaq] The positions are numbered on the je
 
 ### Chukkers
 
-A match is divided into periods called chukkers. Under the US Polo Association's (USPA) outdoor rules, a horn sounds after seven minutes of play, and up to 30 seconds of overtime follow. The chukker ends at the next horn, wherever the ball is.[^po-uspa19] US matches usually run six chukkers outdoors, with four to six depending on the tournament.[^po-uspaguide] Argentina plays eight in its biggest opens; four is common in England and Europe.[^po-brit]
+A match is divided into periods called chukkers. Under the US Polo Association's (USPA) outdoor rules, a horn sounds after seven minutes of play, and up to 30 seconds of overtime follow. The chukker ends at the next stoppage, or at a second horn, wherever the ball is.[^po-uspa19] US matches usually run six chukkers outdoors, with four to six depending on the tournament.[^po-uspaguide] Argentina plays eight in its biggest opens; four is common in England and Europe.[^po-brit]
 
 A tie is not a tie for long. Play continues after the last chukker "until one side obtains a goal."[^po-uspa19]
 
@@ -82,7 +82,7 @@ Two mounted umpires call fouls. If they disagree, a referee at midfield decides.
 - **Penalty 5:** a free hit from the spot of the foul or from midfield.
 - **Penalty 6, the "safety":** a 60-yard hit for the attackers when a defender knocks the ball over their own back line.
 
-Penalties 7 to 10 cover the procedural end: re-taking botched hits, sending off a pony or a player, and ejection.[^po-uspaold][^po-uspa18]
+Penalties 7 to 10 cover the rest: removing a player from the fouling team when a foul injures someone, sending off a pony, forfeiting the game, and sending off a player.[^po-uspa18]
 
 ### Divot stomping
 
@@ -96,6 +96,22 @@ Al Haagen III founded Empire Polo Club in 1987, four years after he took up the 
 
 It also had something no other US club had: the only fully lit grass polo field in the country, used for Friday "Polo Under the Lights."[^po-uspa16] Palm Springs Life went further and called it one of only two in the world.[^po-pslparadise]
 
+Watching it cost almost nothing. For the 2015 season, Sunday general admission and tailgating were free and parking was $10. A $25 VIP seat came with parking and a glass of champagne for the halftime divot stomp. Friday night polo under the lights was free altogether.[^po-cvw15] A Coachella general admission pass for one weekend of 2026 cost $649.[^po-forty5]
+
+The club had a high opinion of itself, and said so. In the USPA's 2016 profile, Empire called itself the "Disneyland" of polo. By its count it had 14 grass fields, two indoor arenas, stabling for more than 650 horses, two restaurants and The Date Shed, a former date-packing shed turned nightclub and music venue.[^po-uspa16] Sunday polo drew 1,500 to 2,000 people on a normal weekend and up to 3,000 for a final. Its prize-money tournaments, the Lions Cup and Champions Cup, split the pot 75-25 between winner and runner-up.[^po-uspa16]
+
+It also claimed an invention. Golf cart polo, in which a professional drives and a guest swings the mallet from the passenger seat, belonged to Empire, according to its operations manager, Kevin Ittig:
+
+> "We invented it."[^po-uspa16]
+
+The economics of desert polo were part of the pitch. Staff argued that wintering a string in Indio was cheaper than in Florida, partly because the hay was grown locally instead of shipped in.[^po-uspa16]
+
+Near the end, the club recruited one of the biggest names in the sport. The same USPA profile, updated later, said Memo Gracida would join as polo director in 2019.[^po-uspa16] The Polo Museum credits Gracida with 14 US Open championships.[^po-gracida] His verdict on Empire:
+
+> "I believe that Empire has the potential to be the number one polo club in the United States."[^po-uspa16]
+
+Two years after that, the club stopped playing.
+
 The grass was the whole point. In 2015 the club watered its fields 11 months a year with groundwater and Colorado River canal water, through computer-controlled sprinklers, and Goldenvoice managed April.[^po-ds15] "Polo ponies run on grass. They don't run on dirt," Haagen told The Desert Sun.[^po-ds15]
 
 :::lore Hollywood on horseback
@@ -104,17 +120,45 @@ The legend goes that the valley's polo goes back to the movie stars. Palm Spring
 
 Empire's biggest polo moment never happened. It was chosen to host the XII FIP World Polo Championship in October 2021.[^po-uspa20] Covid postponed it, and when it was played, from October 26 to November 6, 2022, it was in Florida, with the final at Wellington.[^po-uspa21] By then there was no polo at Empire to go back to.
 
+## The grass, up close
+
+A polo field is about 11 acres of grass, and at Empire it was the most fussed-over grass in the valley.[^po-hurl08] Haagen set the standard himself:
+
+> "My goal has always been to produce the most beautiful and best maintained polo fields anywhere in the world."[^po-hurl08]
+
+The fields were Bermuda grass, which goes dormant in the desert winter, overseeded with rye so they stay green through polo season.[^po-battro17] In 2008 the club's grounds superintendent, David Nolasco, had been at it for 16 years. His method was to scalp the fields to find the bumps, aerate them deep with solid and hollow tines, sweep out the thatch, then top-dress with sand, seed and compost made from the club's own green waste, including the clippings from the rose garden. The key machine was a $40,000 Verti-Drain aerator that pierces 10 inches into the soil.[^po-hurl08]
+
+The reason is the horses. "It can make the difference between life and death in some cases," said polo manager Vicky Owens. The turf has to grip, but not too hard.[^po-hurl08]
+
+In 2017 Empire brought in Alejandro Battro, the Argentine field builder whose firm lists more than 700 fields, including the polo grounds at Palermo in Buenos Aires, to review its fields and set a maintenance plan. Owens said the club had logged 1,275 chukkers the previous season.[^po-battro17] The grass under the main stage was, in other words, built to take a pounding. Just a different kind.
+
+## Empire, still playing, privately
+
+The name did not stop playing polo entirely. It moved down the road. In October 2021, the club's own site says, Empire Polo Club "leased out its main event venue" and shifted to Calhoun Ranch, a nearby property it had used for stabling and team practice.[^po-calhoun] Under Haagen, Calhoun now has ten grass polo fields, an indoor arena, an exercise track and a smaller stable block.[^po-calhoun] It is private. Public polo there is limited to "one or two events per year."[^po-calhoun]
+
+That fits the USPA's 2025 note that Eldorado also plays on two fields at Empire Calhoun.[^po-uspa25] So the precise version of this chapter's opening line: polo stopped at the polo club you know. Empire Polo Club, the polo club, is still playing, on a ranch you're not invited to.
+
 ## Eldorado, next door
 
 Desert polo did not end in 2021. It moved over the fence.
 
 Eldorado Polo Club is the older of the two. It was founded in 1957 as a members' club at the original Eldorado Country Club in Indian Wells, and rising land values pushed it to Indio by 1979. It was the valley's top polo facility until Empire opened next door.[^po-pslparadise] In the 1990s it hosted 22-goal polo and the US Open.[^po-uspa25]
 
-In 2012 Goldenvoice bought it, along with the farms around it.[^po-kesq12] The sale "included a leaseback that let Eldorado keep hosting polo."[^po-uspa17] The club now plays on 13 fields, plus two at Empire's Calhoun Ranch and one at a private ranch. Goldenvoice owns the land, and Eldorado leases it until April, when Goldenvoice hosts Coachella and Stagecoach.[^po-uspa25]
+Its founding, per the USPA, was a purchase by 11 polo players led by Willie Tevis. The association puts that first land in Palm Desert, where Palm Springs Life puts it at the old Eldorado Country Club in Indian Wells.[^po-uspa16e][^po-pslparadise] Eldorado hosted the US Open Polo Championship in 1987, 1992 and 1993.[^po-uspa16e] The 1993 winner was Gehache, the team of Glen Holden, a 2-goal player and former US ambassador to Jamaica.[^po-holden24] Holden later co-founded the FIP World Polo Championships, the event Empire was picked to host in 2021.[^po-holden24]
+
+In 2012 Goldenvoice bought it, along with the farms around it.[^po-kesq12] The club now plays on 13 fields, plus two at Empire's Calhoun Ranch and one at a private ranch. Goldenvoice owns the land, and Eldorado leases it until April, when Goldenvoice hosts Coachella and Stagecoach.[^po-uspa25]
 
 That makes the polo players the festival's tenants, on land that used to be theirs, in a season that ends where the festival's build begins.
 
-The season itself runs roughly mid-December to late March. Eldorado's 2018 tournaments ran from January 6 to April 1.[^po-uspa17] In 2024-25 it had practices from mid-December, women's tournaments between Christmas and New Year, and four 12-goal tournaments in February and March.[^po-uspa25]
+The festival is also the club's sponsor. Ahead of the 2023 season, Eldorado announced it had renewed its agreement "with sponsor Goldenvoice" for four years, with four more if both sides agreed.[^po-uspa23] The club's leagues are named for its landlord's festivals: the Coachella League and, from 2025, a Stagecoach League.[^po-uspa24s][^po-eldclub]
+
+Eldorado grew as Empire closed. The USPA counted 10 fields and stabling for more than 500 horses in 2016.[^po-uspa16e] By early 2023 the club spoke of 14 fields, then 15, and stabling for 1,100 horses.[^po-uspa23] Its own website now lists 16 regulation grass fields and stabling for more than 800.[^po-eldclub] The counts drift, like Empire's. The direction does not. In its 65th season, in 2022, its manager, Graham Bray, reported Sunday crowds in the thousands and the first two weeks of Sunday polo sold out.[^po-uspa22] Bray first came to Eldorado as a player in 1979 and reached a 7-goal rating by 1989.[^po-uspa19b]
+
+The schedule is built around the April handoff. Top-level polo at Eldorado is 12-goal, and its season ends with the National Rossmore Cup and a "Skins" tournament.[^po-eldclub][^po-uspa16e] One 12-goal trophy is called the Fish Creek Constitution Cup, after one of the farms Goldenvoice bought in 2012.[^po-eldfish][^po-kesq12] Sunday polo for the next season runs January 3 to March 21, 2027, with clubhouse tables, cabanas and tailgating, all by advance reservation.[^po-eldsun] Bray's sales pitch for the desert in winter was simple:
+
+> "We are guaranteed to play. The polo hardly ever gets rained out."[^po-uspa16e]
+
+The season itself runs roughly mid-December to late March. In 2024-25 it had practices from mid-December, women's tournaments between Christmas and New Year, and four 12-goal tournaments in February and March.[^po-uspa25]
 
 The overlap is real. The festival has been spreading onto Eldorado land for years: The Desert Sun described "the adjacent Eldorado Polo Club, also used by the festival" in 2015,[^po-ds15] and the Sahara moved onto it in 2018.[^po-ds24] For 2024, the footings for the new Sahara went in starting in December, while polo season was getting under way next door.[^po-ds24]
 
@@ -122,7 +166,7 @@ The overlap is real. The festival has been spreading onto Eldorado land for year
 
 Year-round control means Goldenvoice can build things that don't have to come down.
 
-- **The Radiohead bunker.** In September 2025 Goldenvoice applied to Indio for a permit for a 16,130-square-foot "commercial foundation," valued at $2.5 million.[^po-dsbunker] It became an underground cinema for Radiohead's *KID A MNESIA*: 17,000 square feet and 38 feet high, beneath the polo fields. Loose desert sand ruled out piles, so the builders dug out the whole footprint, built a concrete box with a steel frame, and buried it. The roof carries sand, turf and up to 1,000 people standing on top. Its designers, Wonder Works, say it "remains on the Coachella site as a permanent fixture."[^po-wonder] The Desert Sun was less sure what becomes of it next year.[^po-dsbunker2] The exhibition was announced to travel on to Brooklyn, Chicago, Mexico City and San Francisco; the bunker stayed in Indio.[^po-stereogum]
+- **The Radiohead bunker.** A permit issued by the city of Indio assessed the structure at $2.5 million.[^po-dsbunker2] It became an underground cinema for Radiohead's *KID A MNESIA*: 17,000 square feet and 38 feet high, beneath the polo fields. Loose desert sand ruled out piles, so the builders dug out the whole footprint, built a concrete box with a steel frame, and buried it. The roof carries sand, turf and up to 1,000 people standing on top. Its designers, Wonder Works, say it "remains on the Coachella site as a permanent fixture."[^po-wonder] The Desert Sun was less sure what becomes of it next year.[^po-dsbunker2] The exhibition was announced to travel on to Brooklyn, Chicago, Mexico City and San Francisco; the bunker stayed in Indio.[^po-stereogum]
 - **The steel Sahara.** The 2024 rebuild swapped aluminum for steel, on about 1,500 tons of concrete, roughly 156 truckloads, poured overnight to keep the trucks off Indio's streets.[^po-ds24] The tent's footing has been permanent since at least 2018, buried two feet under the grass.[^po-lat23] Whether the steel itself stays up between festivals, no source says.
 - **The Rose Garden.** Three acres, about 8,000 rose bushes, three Victorian gazebos and a 5,000-square-foot pavilion. It was the edge of the Sunday polo field; now it is the festival's VIP garden and a wedding venue.[^po-aegrose]
 - **The Forum.** A clear-span event building of 48,000 square feet, with a main structure 300 by 160 feet and a 60-foot ceiling.[^po-forum] That is a polo field's proportions, in feet instead of yards. It is probably a coincidence.
@@ -164,9 +208,9 @@ You have stood on the field. Now ride it. Try it: /play/
 [^po-uspaold]: US Polo Association - "Spectator Guide" (earlier edition) - n.d. - https://uspolo.org/sport/spectator-guide-old
 [^po-museumfaq]: Museum of Polo and Hall of Fame - "FAQs" - n.d. - https://polomuseum.org/faqs
 [^po-brit]: Britannica - "Polo: The game" - n.d. - https://www.britannica.com/sports/polo/The-game
-[^po-uspa19]: US Polo Association - "Rule of the Week: 2019 Outdoor Rule Change - Duration of Periods" - 2019-05-07 - https://uspolo.org/news-social/news/rule-of-the-week-2019-outdoor-rule-change-duration-of-periods
+[^po-uspa19]: US Polo Association - "2019 Rulebook" (Rule 14, Duration of Periods) - 2019 - https://www.uspolo.org/assets/docs/2019-Rulebook-for-website_190205_122821.pdf
 [^po-fip]: Federation of International Polo, hosted by USPA - "2016 International Rules" - 2016 - https://uspolo.org/assets/pdf/2016-International-Rules.pdf
-[^po-uspa18]: US Polo Association - "Rule of the Week: Penalty Procedures and Violations" - 2018-08-07 - https://uspolo.org/news-social/news/rule-of-the-week-penalty-procedures-and-violations
+[^po-uspa18]: US Polo Association - "2019 Rulebook" (Rule 37, Specific Penalties) - 2019 - https://www.uspolo.org/assets/docs/2019-Rulebook-for-website_190205_122821.pdf
 [^po-dawson]: Dawson & Bell Polo Club - "Why Is Polo Played Right Hand Only?" - 2019-02-21 - https://dbpoloclub.com/polo-played-right-handed/
 [^po-museum]: Museum of Polo and Hall of Fame - "Alexander Haagen III" - 2023-02-17 - https://polomuseum.org/alexander-haagen-iii/
 [^po-pslparadise]: Palm Springs Life (Louis Gorfain) - "Polo in Paradise" - n.d. (about 2015) - https://www.palmspringslife.com/polo-in-paradise/
@@ -176,9 +220,7 @@ You have stood on the field. Now ride it. Try it: /play/
 [^po-uspa21]: US Polo Association - "2022 XII FIP World Polo Championship makes Florida the epicenter of international competition" - 2021-12-15 - https://uspolo.org/news-social/news/2022-xii-fip-world-polo-championship-makes-florida-the-epicenter-of-international-competition
 [^po-uspa25]: US Polo Association / ClickPoloUSA - "Eldorado: the heart of winter polo on the West Coast" - 2025-01-14 - https://uspolo.org/news-social/news/eldorado-the-heart-of-winter-polo-on-the-west-coast-an-article-by-clickpolousa
 [^po-kesq12]: KESQ - "Coachella Fest Promoters Purchase El Dorado Polo Grounds" - 2012-03-26 - https://kesq.com/?p=58615
-[^po-uspa17]: US Polo Association - "Eldorado Polo Club continues a desert tradition for years to come" - 2017-11-20 - https://uspolo.org/news-social/news/eldoardo-polo-club-continues-a-desert-tradition-for-years-to-come
 [^po-ds24]: The Desert Sun (Ema Sasic), via Yahoo - "Coachella 2024: Sahara Tent is moving locations. Here's what we know" - 2024-02-06 - https://www.yahoo.com/entertainment/coachella-2024-sahara-tent-moving-003831144.html
-[^po-dsbunker]: The Desert Sun (Sam Morgen), via AOL - "What is the structure being built on the Coachella festival grounds?" - n.d. (about 2026) - https://www.aol.com/news/structure-being-built-coachella-festival-224256302.html
 [^po-wonder]: Wonder Works - "Radiohead Motion Picture House" - 2026 - https://wonder.co.uk/mies_portfolio/radiohead-motion-picture-house-kid-a-mnesia/
 [^po-dsbunker2]: The Desert Sun (Sam Morgen) via Yahoo - "What to expect from Coachella's new underground movie theater bunker" - 2026-04-10 - https://www.yahoo.com/entertainment/music/articles/expect-coachellas-underground-movie-theater-020048709.html
 [^po-stereogum]: Stereogum (Chris DeVille) - "Radiohead Are Taking Their Coachella Bunker Art Installation On Tour" - 2026-04-08 - https://stereogum.com/2495193/radiohead-are-taking-their-coachella-bunker-art-installation-on-tour/news
@@ -196,3 +238,17 @@ You have stood on the field. Now ride it. Try it: /play/
 [^po-public]: Empire Polo Club Events - "Public Events" - n.d. (read 2026-10-31) - https://empirepoloclubevents.com/public-events
 [^po-aeg]: AEG SEV - "Empire Polo Club" - n.d. (read 2026-10-31) - https://www.aegsev.com/empire-polo-club
 [^po-nbcps25b]: NBC Palm Springs - "Major Development Project Proposed Near Indio Festival Grounds" - 2025-06-09 - https://www.nbcpalmsprings.com/2025/06/09/major-development-project-proposed-near-indio-festival-grounds
+[^po-cvw15]: Coachella Valley Weekly - "Opening Weekend At Empire Polo Club Kicks Off This Weekend" - 2015-01-08 - https://coachellavalleyweekly.com/?p=24300
+[^po-gracida]: Museum of Polo and Hall of Fame - "Guillermo 'Memo' Gracida, Jr." - n.d. (read 2026-11-04) - https://polomuseum.org/guillermo-memo-gracida-jr/
+[^po-hurl08]: Hurlingham Polo (reprint) - "Empire Polo Club" - 2008-07-18 - https://hurlinghampolo.com/?p=2675
+[^po-battro17]: Empire Polo Club - "Empire Polo Club enlists the maestro of polo fields, Alejandro Battro" - 2017-12 - https://empirepolo.com/?p=8112
+[^po-uspa16e]: US Polo Association - "Meet Eldorado Polo Club" - 2016-10-25 - https://uspolo.org/news-social/news/meet-eldorado-polo-club
+[^po-holden24]: US Polo Association - "The Legacy of Glen Holden Sr.: A Life of Leadership, Innovation and Passion for Polo" - 2024-04-22 - https://www.uspolo.org/news-social/news/the-legacy-of-glen-holden-sr-a-life-of-leadership-innovation-and-passion-for-polo
+[^po-uspa23]: US Polo Association / ClickPoloUSA - "Polo is back at Eldorado for 2023 season" - 2023-01-03 - https://uspolo.org/news-social/news/big-season-ahead-for-eldorado-an-article-by-clickpolousa
+[^po-uspa24s]: US Polo Association - "Eldorado Polo Club releases 2025 season schedule" - 2024-07-29 - https://uspolo.org/news-social/news/eldorado-polo-club-releases-2025-season-schedule
+[^po-eldclub]: Eldorado Polo Club - "The Club" and home page - n.d. (read 2026-11-04) - https://www.eldoradopoloclub.com/theclub
+[^po-uspa22]: US Polo Association / ClickPoloUSA - "Eldorado Polo Club: a thriving polo oasis" - 2022-01-24 - https://uspolo.org/news-social/news/eldorado-polo-club-a-thriving-polo-oasis-an-article-by-clickpolo-usa
+[^po-uspa19b]: US Polo Association / ClickPoloUSA - "Full barns & quality polo at Eldorado Polo Club" - 2019-11-19 - https://uspolo.org/news-social/news/full-barns-quality-polo-at-eldorado-polo-club-an-article-by-clickpolousa
+[^po-eldfish]: Eldorado Polo Club - "USPA Fish Creek Pacific Coast Constitution Cup 12 Goal" - n.d. (read 2026-11-04) - https://www.eldoradopoloclub.com/fish-creek-12
+[^po-eldsun]: Eldorado Polo Club - "Sunday Polo" - n.d. (read 2026-11-04) - https://www.eldoradopoloclub.com/sundaypolo
+[^po-calhoun]: Empire Polo Club - "About Calhoun Ranch" - n.d. (read 2026-11-04) - https://empirepolo.com/?p=1324

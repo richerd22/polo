@@ -1,0 +1,4 @@
+# Originals (full-res, with EXIF/GPS) stay local. Only resized, metadata-stripped copies in img/ are published.
+incoming/
+.DS_Store
+__MACOSX/

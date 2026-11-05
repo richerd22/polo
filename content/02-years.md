@@ -13,11 +13,11 @@ It did not go up in a straight line. It went up in steps, and each step was a fo
 
 **Days.** Two days in 1999. Nothing in 2000. One day in April 2001, headlined by Jane's Addiction.[^yr-ringer][^yr-bruin01] Two days again until 2007, when Coachella went to three days for the first time.[^yr-jambase07] Then, from 2012, the same three days twice: two weekends, identical lineups, sold separately.[^yr-boombox]
 
-**Prices.** A two-day pass cost $142 in 2004.[^yr-lvsun04] The first three-day pass, in 2007, was $249.[^yr-jambase07] It sat at $269 through the end of the one-weekend era.[^yr-lvsun11] The two-weekend years start at $285 plus fees in 2012, then $349 in 2013, $429 in 2018 and $499 in 2024.[^yr-ibtimes12][^yr-da12][^yr-cbs18][^yr-billboard24] For 2026, general admission started at $649 for the first weekend.[^yr-caltoday]
+**Prices.** A two-day pass cost $142 in 2004.[^yr-lvsun04] The first three-day pass, in 2007, was $249.[^yr-jambase07] It was still $269 in 2011, the last one-weekend year.[^yr-tn11] The two-weekend years start at $285 plus fees in 2012, then $349 in 2013, $429 in 2018 and $499 in 2024.[^yr-ibtimes12][^yr-da12][^yr-cbs18][^yr-billboard24] For 2026, general admission started at $649 for the first weekend.[^yr-caltoday]
 
 **Grosses.** The published numbers run $67.2M in 2013, $78.3M in 2014, $84.3M in 2015, $94.2M in 2016 and $114.6M in 2017.[^yr-spin14][^yr-pollstar15][^yr-pollstar16][^yr-pollstar17] That is the whole run of figures this project could tie to Billboard or Pollstar. Earlier years in the table come from Wikipedia's summary of Billboard Boxscore and are labeled that way. After 2017, nothing. The money chapter covers why that matters.
 
-**The bad years.** 2000 was skipped after the first one lost money.[^yr-ringer] 2010 sold three-day passes only[^yr-bizbash10] and still got overrun at the gates; LA Weekly reported gate-crashing, counterfeit tickets and three-hour entry lines.[^yr-laweekly10] An Icelandic volcano's ash cloud stranded seven acts in England the same weekend.[^yr-upi10] The fixes for 2011 were a wrought-iron fence, an extra road lane and the end of the ticket-for-wristband swap.[^yr-lvsun11] Weeks after that festival, on May 31, 2011, Goldenvoice announced the second weekend.[^yr-boombox]
+**The bad years.** 2000 was skipped after the first one lost money.[^yr-ringer] 2010 sold three-day passes only[^yr-bizbash10] and still got overrun at the gates; LA Weekly reported gate-crashing, counterfeit tickets and three-hour entry lines.[^yr-laweekly10] An Icelandic volcano's ash cloud stranded seven acts in England the same weekend.[^yr-upi10] The fixes for 2011 were more room, bigger tents and a chipped wristband that was scanned before the gates and again at them.[^yr-lvsun11] Weeks after that festival, on May 31, 2011, Goldenvoice announced the second weekend.[^yr-boombox]
 
 **The gap.** Coachella 2020 was moved to October, then cancelled by Riverside County's public health officer in June.[^yr-timeout20][^yr-kesq20] The same officer cancelled the April 2021 dates in January 2021.[^yr-nbcps21] The festival came back in April 2022, so the table has two empty rows in a row for the first time.
 
@@ -35,6 +35,25 @@ It did not go up in a straight line. It went up in steps, and each step was a fo
 
 Every row links its sources. If you have a better one, especially a Boxscore printout or a city report, the corrections address is at the bottom of every page.
 
+## In pictures
+
+Other people's photos, used under the Creative Commons licence named under each one.
+
+:::figure img/cc/bloc-party-2005.jpg 1600x1092 | Bloc Party at Coachella 2005
+Bloc Party at Coachella 2005.
+Photo: [Paul Carless (Flickr: paulcarless)](https://www.flickr.com/photos/7158334@N07/12882404703/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/coachella-2006-mulling.jpg 1600x1200 | A crowd under a tent at Coachella 2006
+A crowd under a tent at Coachella 2006.
+Photo: [Barry Mulling (Flickr: Mulling it Over)](https://www.flickr.com/photos/36521970415@N01/140153004/) · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), via Flickr
+:::
+
+:::figure img/cc/sky-writing-2015.jpg 1600x1200 | Skywriting spelling out Coachella 2015 above the festival
+Skywriting spelling out Coachella 2015 above the festival.
+Photo: [David Jones](https://www.flickr.com/photos/45457437@N00/19759029361/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
 [^yr-ringer]: The Ringer (Rob Harvilla) - "How Coachella '99 Lost a Million Dollars and Started an Empire" - 2019-10-09 - https://www.theringer.com/music/2019/10/9/20905896/how-coachella-99-lost-a-million-dollars-started-music-festival-empire
 [^yr-grammy]: GRAMMY.com (Nina Frazier) - "On This Day In Music: The First Coachella Festival Took Place In The California Desert" - 2024-10-09 - https://www.grammy.com/news/first-coachella-valley-music-festival-1999
 [^yr-pollstar17]: Pollstar - "2017 Year End Top 20 Worldwide Festival Grosses" (PDF) - 2018-01 - https://data.pollstar.com/chart/2018/01/60-top20worldwidefestivalMoveAd_633.pdf
@@ -43,7 +62,8 @@ Every row links its sources. If you have a better one, especially a Boxscore pri
 [^yr-jambase07]: JamBase - "Coachella 2007: Rage, Bjork" - 2007-01-22 - https://www.jambase.com/article/coachella-2007-rage-bjork
 [^yr-boombox]: The Boombox (Charley Rogulewski) - "Coachella Founder Explains Back-to-Back Weekends in 2012" - 2011-06-05 - https://theboombox.com/coachella-founder-explains-back-to-back-weekends-in-2012/
 [^yr-lvsun04]: Las Vegas Sun (Spencer Patterson) - column, "Audiences feel the heat" - 2004-05-07 - https://lasvegassun.com/news/2004/may/07/columnist-spencer-patterson-audiences-feel-the-hea/
-[^yr-lvsun11]: Las Vegas Sun - "After rough 2010, Coachella tries to iron itself out" - 2011-04-13 - https://m.lasvegassun.com/news/2011/apr/13/after-rough-2010-coachella-tries-iron-itself-out/
+[^yr-lvsun11]: PopMatters (Crispin Kott) - "Coachella 2011, or How I Learned to Stop Worrying and Love Heatstroke" - 2011-04-19 - https://www.popmatters.com/139770-coachella-2011-or-how-i-learned-to-stop-worrying-and-love-heatstroke-2496048323.html
+[^yr-tn11]: TicketNews - "Kings of Leon, Arcade Fire, Kanye West top the bill for Coachella 2011" - 2011-01-20 - https://www.ticketnews.com/2011/01/kings-of-leon-arcade-fire-kanye-west-top-the-bill-for-coachella-2011/
 [^yr-ibtimes12]: IBTimes (Peggy Truong) - "Coachella 2012: Five Things to Know Before You Go" - 2012-01-10 - https://www.ibtimes.com/coachella-2012-five-things-know-you-go-393668
 [^yr-da12]: Dancing Astronaut (Brett Kundtz) - "Coachella announces 2013 dates and prices, tickets available Thursday" - 2012-05-14 - https://dancingastronaut.com/2012/05/coachella-announces-2013-dates-and-prices-tickets-available-thursday/
 [^yr-cbs18]: CBS Los Angeles - "Coachella Tickets Go On Sale" - 2018-01-05 - https://www.cbsnews.com/losangeles/news/2018-coachella-tickets-sale/
@@ -52,7 +72,7 @@ Every row links its sources. If you have a better one, especially a Boxscore pri
 [^yr-spin14]: SPIN (Colin Joyce), citing Billboard - "Coachella Made More Money Than Ever in 2014" - 2014-07-08 - https://www.spinmagazine.com/2014/07/coachella-gross-2014-78-million-goldenvoice/
 [^yr-pollstar15]: Pollstar - "2015 Year End Top 20 Worldwide Festival Grosses" (PDF, third-party mirror) - 2016-01 - https://flypaper.soundfly.com/wp-content/uploads/2016/01/2015YearEndTop20WorldwideFestivalGrosses.pdf
 [^yr-pollstar16]: Pollstar - "2016 Year End Top 20 Worldwide Festival Grosses" (PDF) - 2017-01 - https://data.pollstar.com/chart/2017/01/2016YearEndTop20WorldwideFestivalGrosses_347.pdf
-[^yr-cap16]: Pollstar - "Coachella, Stagecoach expansion approved" - 2016-04-19 - http://news.pollstar.com/2016/04/19/coachella-stagecoach-expansion-approved/
+[^yr-cap16]: Pollstar - "Coachella, Stagecoach expansion approved" - 2016-04-19 - https://news.pollstar.com/2016/04/19/coachella-stagecoach-expansion-approved/
 [^yr-laweekly10]: LA Weekly (Dennis Romero) - "Five Ways Organizers Can Make Coachella A Better Experience" - 2010-04-20 - https://www.laweekly.com/five-ways-organizers-can-make-coachella-a-better-experience/
 [^yr-bizbash10]: BizBash (Alesandra Dubin) - "Coachella Sells Out With Three-Day Passes, Towering Ferris Wheel, and Upgraded Camping" - 2010-04-19 - https://www.bizbash.com/event-production-planning/coachella-sells-out-with-three-day-passes-towering-ferris-wheel-and-upgraded-camping
 [^yr-upi10]: UPI - "Coachella Fest draws record crowds" - 2010-04-18 - https://www.upi.com/Entertainment_News/Music/2010/04/18/Coachella-Fest-draws-record-crowds/UPI-65451271610186/

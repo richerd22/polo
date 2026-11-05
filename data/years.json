@@ -208,7 +208,7 @@
     "vip_price": null,
     "gross": "$9 million, per Wikipedia",
     "moments": [
-      "Daft Punk debuted the LED pyramid in the Sahara tent at 11 p.m. Saturday and ran nearly 20 minutes past curfew; Tollett said the festival would cover any fine. Water & Music traces a live-production 'arms race' from the set.",
+      "Daft Punk debuted the LED pyramid in the Sahara tent at 11 p.m. Saturday. Water & Music traces a live-production 'arms race' from the set.",
       "The story that 40,000 people tried to get into a tent built for 10,000 comes from the band's manager, in Daft Punk Unchained. Nobody counted.",
       "Madonna played the Sahara the next day, came on about 20 minutes late to boos, and did about six songs. Billboard called it a fun novelty but a logistical nightmare.",
       "Kanye West, Massive Attack (with Liz Fraser), Gnarls Barkley and Scissor Sisters were also on the bill."
@@ -216,9 +216,8 @@
     "firsts": ["Daft Punk pyramid live debut"],
     "sources": [
       {"publication": "Billboard", "url": "https://www.billboard.com/music/music-news/coachella-valley-music-arts-festival-april-29-30-2006-indio-calif-empire-polo-58544", "date": "2006-05"},
-      {"publication": "Las Vegas Weekly", "url": "https://lasvegasweekly.com/news/archive/2006/may/04/noise-you-shoulda-been-there", "date": "2006-05-04"},
       {"publication": "Water & Music", "url": "https://www.waterandmusic.com/15-years-ago-daft-punks-coachella-set-helped-spark-an-arms-race-for-live-music-technology", "date": "2021-04-29"},
-      {"publication": "Vice / Thump", "url": "https://thump.vice.com/en_au/article/daft-punks-legendary-pyramid-is-only-half-the-story-of-that-fateful-night-at-coachella-2006", "date": "n.d."}
+      {"publication": "Vice / Thump", "url": "https://www.vice.com/en/article/daft-punks-legendary-pyramid-is-only-half-the-story-of-that-fateful-night-at-coachella-2006/", "date": "2015-12-10"}
     ],
     "notes": "Ticket price not verified. Daft Punk's fee was $300K according to Daft Punk Unchained (2015), or $350K plus travel according to Goldenvoice's own 2024 film."
   },
@@ -288,10 +287,10 @@
       "Paul McCartney opened the festival on Friday with a two-and-a-half-hour set and two encores. Per Wikipedia, he ran 54 minutes past curfew.",
       "Per Wikipedia, the Cure's set was cut off after running about 30 minutes past curfew. Leonard Cohen made a rare appearance."
     ],
-    "firsts": ["First payment plan for passes, offered in the recession; 18-19% of buyers used it"],
+    "firsts": ["First payment plan for passes, offered in the recession; about 19% of festivalgoers used it"],
     "sources": [
       {"publication": "Associated Press via The Washington Times", "url": "https://www.washingtontimes.com/news/2009/apr/18/an-energized-paul-mccartney-opens-coachella-fest/", "date": "2009-04-18"},
-      {"publication": "AOL", "url": "https://www.aol.com/2009/03/06/pay-for-concert-on-the-installment-plan/", "date": "2009-03-06"},
+      {"publication": "LAist", "url": "https://laist.com/news/entertainment/coachella-2009-tickets-recession-pr", "date": "2009-01-25"},
       {"publication": "TicketNews", "url": "https://www.ticketnews.com/2009/04/coachella-posts-second-largest-attendance-despite-economy/", "date": "2009-04-22"}
     ],
     "notes": "The curfew overrun figures are from Wikipedia."
@@ -317,7 +316,7 @@
       {"publication": "UPI", "url": "https://www.upi.com/Entertainment_News/Music/2010/04/18/Coachella-Fest-draws-record-crowds/UPI-65451271610186/", "date": "2010-04-18"},
       {"publication": "LA Weekly", "url": "https://www.laweekly.com/five-ways-organizers-can-make-coachella-a-better-experience/", "date": "2010-04-20"},
       {"publication": "BizBash", "url": "https://www.bizbash.com/event-production-planning/coachella-sells-out-with-three-day-passes-towering-ferris-wheel-and-upgraded-camping", "date": "2010-04-19"},
-      {"publication": "Las Vegas Sun", "url": "https://m.lasvegassun.com/news/2011/apr/13/after-rough-2010-coachella-tries-iron-itself-out/", "date": "2011-04-13"},
+      {"publication": "PopMatters", "url": "https://www.popmatters.com/139770-coachella-2011-or-how-i-learned-to-stop-worrying-and-love-heatstroke-2496048323.html", "date": "2011-04-19"},
       {"publication": "CBS News / CNET", "url": "https://www.cbsnews.com/news/how-the-coachella-webcast-changed-the-music-biz/", "date": "2011-04-20"},
       {"publication": "Phoenix New Times", "url": "https://www.phoenixnewtimes.com/?p=40532050", "date": "2010"}
     ],
@@ -335,13 +334,14 @@
     "vip_price": null,
     "gross": "$24,993,698, per Wikipedia",
     "moments": [
-      "Fixes after 2010: a wrought-iron perimeter fence, an extra road lane partly funded by Goldenvoice, and an end to the ticket-for-wristband exchange.",
+      "Fixes after 2010: bigger grounds and tents, and a tamper-proof chipped wristband scanned on the approach and again at the gates.",
       "YouTube streamed three stages on separate channels, about 60 bands over three days with Wrigley as sponsor, and nearly 4 million people watched.",
       "On May 31, 2011, Goldenvoice announced a second identical weekend for 2012."
     ],
-    "firsts": ["First full YouTube livestream", "Permanent perimeter fence"],
+    "firsts": ["First full YouTube livestream"],
     "sources": [
-      {"publication": "Las Vegas Sun", "url": "https://m.lasvegassun.com/news/2011/apr/13/after-rough-2010-coachella-tries-iron-itself-out/", "date": "2011-04-13"},
+      {"publication": "PopMatters", "url": "https://www.popmatters.com/139770-coachella-2011-or-how-i-learned-to-stop-worrying-and-love-heatstroke-2496048323.html", "date": "2011-04-19"},
+      {"publication": "TicketNews", "url": "https://www.ticketnews.com/2011/01/kings-of-leon-arcade-fire-kanye-west-top-the-bill-for-coachella-2011/", "date": "2011-01-20"},
       {"publication": "CBS News / CNET", "url": "https://www.cbsnews.com/news/how-the-coachella-webcast-changed-the-music-biz/", "date": "2011-04-20"},
       {"publication": "The Boombox", "url": "https://theboombox.com/coachella-founder-explains-back-to-back-weekends-in-2012/", "date": "2011-06-05"}
     ],
@@ -464,7 +464,7 @@
     "firsts": ["Despacio sound system", "Same year Goldenvoice staged Desert Trip on the grounds in October; Tollett told The New York Times it would gross about $160M"],
     "sources": [
       {"publication": "Pollstar", "url": "https://data.pollstar.com/chart/2017/01/2016YearEndTop20WorldwideFestivalGrosses_347.pdf", "date": "2017-01"},
-      {"publication": "Pollstar", "url": "http://news.pollstar.com/2016/04/19/coachella-stagecoach-expansion-approved/", "date": "2016-04-19"},
+      {"publication": "Pollstar", "url": "https://news.pollstar.com/2016/04/19/coachella-stagecoach-expansion-approved/", "date": "2016-04-19"},
       {"publication": "VICE", "url": "https://www.vice.com/en/article/guns-n-roses-coachella-2016-reunion-review", "date": "2016-04-17"},
       {"publication": "MusicTech", "url": "https://musictech.com/features/interviews/why-festivals-are-booking-hi-fi-sound-systems-on-their-lineups/", "date": "2026"},
       {"publication": "Live for Live Music, citing The New York Times", "url": "https://liveforlivemusic.com/news/organizer-of-desert-trip-confirms-event-has-already-grossed-160-million", "date": "2016-07-21"}
@@ -522,7 +522,7 @@
       {"publication": "GRAMMY.com", "url": "https://grammy.com/news/beyonce-created-space-celebrate-black-culture-coachella-more-things-homecoming-taught", "date": "2019-04-19"},
       {"publication": "The FADER", "url": "https://www.thefader.com/2018/04/17/beyonce-coachella-youtube-most-simultaneous-coachella-live-streams", "date": "2018-04-17"},
       {"publication": "OC Weekly", "url": "https://www.ocweekly.com/?p=88797", "date": "2018-04-20"},
-      {"publication": "Pollstar", "url": "http://news.pollstar.com/2016/04/19/coachella-stagecoach-expansion-approved/", "date": "2016-04-19"}
+      {"publication": "Pollstar", "url": "https://news.pollstar.com/2016/04/19/coachella-stagecoach-expansion-approved/", "date": "2016-04-19"}
     ],
     "notes": "GRAMMY.com gives 'April 13 and 22', which is wrong: she played the Saturday slots, Apr 14 and Apr 21. Wikipedia reports booking fees around $8M and Teen Vogue harassment reporting; not verified."
   },
@@ -592,7 +592,7 @@
     "gross": null,
     "moments": [
       "Cancelled again. Riverside County's public health officer cancelled the April dates in January 2021.",
-      "Oct 2021: Goldenvoice signed a lease with the Haagen family for the Empire Polo Club running to 2050, and Indio's council voted 3-1 to extend its festival deal to 2050."
+      "Aug 2021: Indio's council voted 3-1 to extend its festival deal to 2050. Oct 2021: Goldenvoice signed a lease with the Haagen family for the Empire Polo Club running to 2050."
     ],
     "firsts": [],
     "sources": [
@@ -681,7 +681,7 @@
     "sources": [
       {"publication": "Billboard", "url": "https://ca.billboard.com/business/touring/coachella-ticket-sales-lower-than-usual-2024-festival-trend-1235655410", "date": "2024-04-12"},
       {"publication": "Complex", "url": "https://www.complex.com/music/a/jaelaniturnerwilliams/coachella-ticket-sales-are-reportedly-historically-slow", "date": "2024-01-25"},
-      {"publication": "Pollstar", "url": "http://news.pollstar.com/2025/09/19/snap-crackle-pop-what-coachellas-early-lineup-announcement-means/", "date": "2025-09-19"},
+      {"publication": "Pollstar", "url": "https://news.pollstar.com/2025/09/19/snap-crackle-pop-what-coachellas-early-lineup-announcement-means/", "date": "2025-09-19"},
       {"publication": "UPROXX", "url": "https://uproxx.com/music/how-much-are-tickets-for-coachella-2024", "date": "2024-01-16"},
       {"publication": "KESQ", "url": "https://kesq.com/news/festival-season/2024/06/13/coachella-stagecoach-sold-around-250k-tickets-for-2024-festivals-city-reports", "date": "2024-06-13"},
       {"publication": "FOX 13 Seattle", "url": "https://fox13seattle.com/news/no-doubt-reunites-coachella-2024", "date": "2024-04-15"},
@@ -703,9 +703,9 @@
     "moments": [
       "Lady Gaga debuted the Mayhem show, a 'demonic opera house' set in four acts and a finale. Per Wikipedia, she was the second woman to headline twice, after Bjork.",
       "Green Day's Coachella debut included a 'not part of the MAGA agenda' line. Travis Scott built 'The Village by Cactus Jack'.",
-      "The LA Philharmonic, conducted by Gustavo Dudamel, became the first major orchestra to play (Apr 12)."
+      "The LA Philharmonic, conducted by Gustavo Dudamel, became the first classical orchestra to play (Apr 12)."
     ],
-    "firsts": ["First major orchestra (LA Phil), per Wikipedia", "YouTube dedicated Coachella livestream app (Sherwood News)"],
+    "firsts": ["First classical orchestra (LA Phil), per Wikipedia", "YouTube dedicated Coachella livestream app (Sherwood News)"],
     "sources": [
       {"publication": "Digital Music News", "url": "https://www.digitalmusicnews.com/2025/04/07/coachella-weekend-2-passes-dropping-below-face-value/", "date": "2025-04-07"},
       {"publication": "Digital Music News", "url": "https://www.digitalmusicnews.com/2024/12/02/coachella-ticket-sales-sluggish-weekend-2-widely-available/", "date": "2024-12-02"},
@@ -737,12 +737,12 @@
     "sources": [
       {"publication": "California Today", "url": "https://californiatoday.com/guides/entertainment/passes-for-coachella-2026-complete-guide-to-pricing-options-and-add-ons/", "date": "2025-09-16, updated 2026-03-25"},
       {"publication": "VICE", "url": "https://www.vice.com/en/article/both-coachella-2026-weekends-sold-out-just-three-days-after-passes-went-on-sale/", "date": "2025-09-23"},
-      {"publication": "Pollstar", "url": "http://news.pollstar.com/2025/09/19/snap-crackle-pop-what-coachellas-early-lineup-announcement-means/", "date": "2025-09-19"},
+      {"publication": "Pollstar", "url": "https://news.pollstar.com/2025/09/19/snap-crackle-pop-what-coachellas-early-lineup-announcement-means/", "date": "2025-09-19"},
       {"publication": "Complex, relaying Rolling Stone", "url": "https://www.complex.com/music/a/tracewilliamcowen/justin-bieber-coachella-2026-deal-10-million", "date": "2025-09-17"},
       {"publication": "Rolling Stone Canada", "url": "https://ca.rollingstone.com/justin-bieber-performance-coachella-2026/", "date": "2026-04-13"},
       {"publication": "Variety Australia", "url": "https://au.variety.com/2026/music/global/madonna-sza-why-is-coachella-weekend-2-crushing-weekend-1-35656/", "date": "2026-04-19"},
       {"publication": "Rolling Stone", "url": "https://www.rollingstone.com/music/music-latin/karol-g-coachella-performance-1235545608/", "date": "2026-04-13"},
-      {"publication": "Desert Sun via AOL", "url": "https://www.aol.com/news/structure-being-built-coachella-festival-224256302.html", "date": "n.d."},
+      {"publication": "Desert Sun via Yahoo", "url": "https://www.yahoo.com/entertainment/music/articles/expect-coachellas-underground-movie-theater-020048709.html", "date": "2026-04-10"},
       {"publication": "FLOOD Magazine", "url": "https://floodmagazine.com/220098/radiohead-kid-a-mnesia-motion-picture-house-coachella", "date": "2026-04-08"},
       {"publication": "Stereogum", "url": "https://stereogum.com/2495497/anyma-coachella-set-canceled-due-to-wind/news", "date": "2026-04-11"},
       {"publication": "Variety Australia", "url": "https://au.variety.com/2026/music/news/anyma-surprise-set-coachella-cancelled-performance-35207/", "date": "2026-04-13"},

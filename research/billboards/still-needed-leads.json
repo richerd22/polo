@@ -1,0 +1,45 @@
+{
+ "updated": "2026-11-04",
+ "rejected_or_unread": [
+  {
+   "artist": "The Weeknd",
+   "year": 2022,
+   "why": "Live Design returned 403. The Billboard 2022 piece names no Weeknd board. Nothing opened ties him to an I-10 board."
+  },
+  {
+   "artist": "California Department of Public Health (Narcan boards)",
+   "year": 2025,
+   "why": "NBC Palm Springs sits behind a bot check and CV Independent returned 429. No other openable source found. Left unread."
+  },
+  {
+   "artist": "Lil Yachty",
+   "year": 2025,
+   "why": "Wonderland returned 403. Search summaries put a 'took Coachella 8 years to book me' board in 2024, citing Fast Company (403). Not read, so not listed."
+  },
+  {
+   "artist": "Republic Records (James Blake, C2C, Alex Clare, Ghost B.C., Ben Howard, Black Sabbath, Kid Cudi)",
+   "year": 2013,
+   "why": "Confirmed but already archived as the 2013 group entry. THR (2013-04-12) now opened: eight boards, one for the label logo. Upgrade that entry rather than add a new one."
+  },
+  {
+   "artist": "Zayn",
+   "year": 2024,
+   "why": "New lead. A search summary of Secret Los Angeles describes an 'Are you feeling ALIENated?' board with a phone number. The page now redirects, so unread."
+  },
+  {
+   "artist": "Stereogum 2025 ranking, entries 13 to 1",
+   "year": 2025,
+   "why": "Paywalled past entry 14 (Post Malone, Yeat). Not worked around, so its full list is unread."
+  },
+  {
+   "artist": "White Fox aerial banner",
+   "year": 2026,
+   "why": "An aerial banner over the grounds (DASH TWO case study), not a roadside board."
+  },
+  {
+   "artist": "Bloom Nutrition",
+   "year": 2026,
+   "why": "A 7-Eleven wrap near Palm Springs airport, not a billboard."
+  }
+ ]
+}

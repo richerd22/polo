@@ -2,10 +2,10 @@
 n: 6
 slug: pyramid
 title: Daft Punk and the pyramid
-short: In 2006 Daft Punk said yes to Coachella after a year of saying no, because their manager, who usually turned offers down without asking them, picked up the phone. They played the Sahara tent at 11 p.m. on a Saturday, inside a pyramid of LED blocks built for that one show, and ran nearly 20 minutes past curfew, with the promoter promising to cover any fine. The pyramid went on to a world tour, a live album, two Grammys and, 20 years later, a LEGO set. The crowd count and the bands it started are legends; the rest is on the record.
+short: In 2006 Daft Punk said yes to Coachella after a year of saying no, because their manager, who usually turned offers down without asking them, picked up the phone. They played the Sahara tent at 11 p.m. on a Saturday, inside a pyramid of LED blocks built for that one show. The pyramid went on to a world tour, a live album, two Grammys and, 20 years later, a LEGO set. The crowd count and the bands it started are legends; the rest is on the record.
 ---
 
-The pyramid was built for one show. Live Design, the trade magazine that covered it, put it plainly: the set "was first designed for a one-time performance" at Coachella.[^dp-ld06] It ended up on a 48-date world tour, a Grammy-winning live album and, in 2026, a LEGO box.[^dp-wikialive][^dp-synth09][^dp-jambase26] All of that started with a phone call their manager almost didn't make.
+The pyramid was built for one show. Live Design, the trade magazine that covered it, put it plainly: the set "was first designed for a one-time performance" at Coachella.[^dp-ld06] It ended up on a 48-date world tour, a Grammy-winning live album and, announced in 2026, a LEGO set.[^dp-wikialive][^dp-synth09][^dp-jambase26] All of that started with a phone call their manager almost didn't make.
 
 ## The offer
 
@@ -31,8 +31,6 @@ He added that they had "never done anything for the money."[^dp-variety21] Water
 - 2005 offer: $250K, declined (*Unchained*)[^dp-guardian15]
 - 2006 offer: $300K (*Unchained*)[^dp-guardian15] or $350K plus flights, hotel and ground transport (Goldenvoice)[^dp-billboard24]
 - Last US show before it: 1997[^dp-wam21]
-- Set length: about 75 minutes[^dp-lvw06]
-- Over curfew: nearly 20 minutes[^dp-lvw06]
 - Pyramid blocks: more than 1,600 Barco O-Lites[^dp-buildings06]
 - Production cost: not documented anywhere found
 :::
@@ -99,11 +97,7 @@ Not everyone outside saw much. One writer, stuck by the side of the tent, recall
 
 Billboard's review put the whole weekend at more than 100,000 people over two days.[^dp-billboard06] A good share of them seemed to be trying to stand in one tent.
 
-The set ran about 75 minutes, nearly 20 minutes past the festival's midnight curfew, which in 2006 could mean a fine.[^dp-lvw06] Paul Tollett let it run.
-
-> "They were so great we told them to keep going, and the festival would cover the possible fine." - Paul Tollett, 2006[^dp-lvw06]
-
-SPIN's live blog had it ending at midnight, with fans heading off to line up for Madonna.[^dp-spin06] Las Vegas Weekly's account is more specific and has Tollett on the record, so this page goes with it. Madonna played the Sahara the next day too.[^dp-lat23]
+SPIN's live blog had it ending at midnight, with fans heading off to line up for Madonna.[^dp-spin06] Madonna played the Sahara the next day too.[^dp-lat23]
 
 Bangalter later said the crowd was "five years" behind the duo's ideas, but also that it was "the most synched-up we ever felt," in a 2013 Pitchfork interview as reported by Rolling Stone Australia.[^dp-rsau21]
 
@@ -141,6 +135,25 @@ On February 22, 2021, the duo posted "Epilogue," an eight-minute video built fro
 
 Then, in October 2026, the pyramid came back as plastic. LEGO announced an official set of the *Alive 2007* pyramid stage, with more details promised for 2027.[^dp-jambase26] It started as a LEGO Ideas design by Patrick Harboun, from Luxembourg, and his son, made during lockdown; it won a 2020 music challenge and later passed 10,000 supporters.[^dp-jambase26][^dp-yanko26] Cédric Hervet of Daft Arts called the pyramid "one of the most recognisable expressions of Daft Punk's visual world."[^dp-jambase26] Not bad for something built for one Saturday night.
 
+## In pictures
+
+Other people's photos, used under the Creative Commons licence named under each one.
+
+:::figure img/cc/daft-punk-2006-1.jpg 1000x665 | Daft Punk performing at the 2006 Coachella festival at the Empire Polo Club in Indio
+Daft Punk performing at the 2006 Coachella festival at the Empire Polo Club in Indio.
+Photo: [Tammy Lo](https://commons.wikimedia.org/wiki/File:Coachella_Valley_Music_and_Arts_Festival_2006_Daft_Punk_1_(140072992).jpg) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons
+:::
+
+:::figure img/cc/daft-punk-2006-3.jpg 1000x666 | Daft Punk on stage at the 2006 Coachella festival in Indio
+Daft Punk on stage at the 2006 Coachella festival in Indio.
+Photo: [Tammy Lo](https://commons.wikimedia.org/wiki/File:Coachella_Valley_Music_and_Arts_Festival_2006_Daft_Punk_3_(140072994).jpg) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons
+:::
+
+:::figure img/cc/daft-punk-at-coachella.jpg 1024x768 | Daft Punk playing Robot Rock at Coachella 2006
+Daft Punk playing Robot Rock at Coachella 2006.
+Photo: [Marcelo Teson](https://commons.wikimedia.org/wiki/File:Daft_punk_at_coachella.jpg) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons
+:::
+
 ## Still open
 
 - What the pyramid cost, and who paid for which part.
@@ -148,7 +161,7 @@ Then, in October 2026, the pyramid came back as plastic. LEGO announced an offic
 - Timestamps for *Busy P Says "Oui"* and the 2006 segment of *Coachella: 20 Years in the Desert*, if anyone has them.
 
 [^dp-ld06]: Live Design - "One More Time With Daft Punk" - 2006 - https://www.livedesignonline.com/concerts/one-more-time-daft-punk
-[^dp-wikialive]: Wikipedia - "Alive 2006/2007" (IPFS mirror) - accessed 2026-10-31 - https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Alive_2006/2007
+[^dp-wikialive]: Wikipedia - "Alive 2007" (tour section and dates) - accessed 2026-11-04 - https://en.wikipedia.org/wiki/Alive_2007
 [^dp-synth09]: Synthtopia - "Grammy Awards announced, Daft Punk, Justice winners" - 2009-02-09 - https://www.synthtopia.com/content/2009/02/08/grammy-awards-announced-daft-punk-justice-winners/
 [^dp-jambase26]: JamBase (Nate Todd) - "Daft Punk's Alive 2007 Pyramid Stage Inspires New LEGO Set" - 2026-10-23 - https://www.jambase.com/article/daft-punk-lego-pyramid-stage-set
 [^dp-guardian15]: The Guardian (Ben Cardew, via inkl) - "10 things we learned from Daft Punk Unchained" - 2015 - https://www.inkl.com/news/10-things-we-learned-from-daft-punk-unchained
@@ -157,20 +170,19 @@ Then, in October 2026, the pyramid came back as plastic. LEGO announced an offic
 [^dp-variety21]: Variety (Jonathan Cohen, via Yahoo) - "Daft Punk Talks Kanye West, Coachella and That Wild Pyramid Stage in Unpublished Interview" - 2021-02-23 - https://ca.news.yahoo.com/daft-punk-talks-kanye-west-000436207.html
 [^dp-wam21]: Water & Music (Kristin Robinson) - "15 years ago, Daft Punk's Coachella set helped spark an 'arms race' for live music technology" - 2021-04-29 - https://www.waterandmusic.com/15-years-ago-daft-punks-coachella-set-helped-spark-an-arms-race-for-live-music-technology
 [^dp-ringer21]: The Ringer (Justin Sayles) - "The Robots Who Ruled the World" - 2021-02-23 - https://www.theringer.com/music/2021/2/23/22296993/daft-punk-break-up-announcement
-[^dp-lvw06]: Las Vegas Weekly (Spencer Patterson) - "NOISE: You Shoulda Been There" - 2006-05-04 - https://lasvegasweekly.com/news/archive/2006/may/04/noise-you-shoulda-been-there
 [^dp-buildings06]: Buildings.com / LEDs Magazine - "LEDs create pyramid showcase for Daft Punk" - 2006-08-21 - https://www.buildings.com/building-systems-om/lighting/article/55258729/leds-create-pyramid-showcase-for-daft-punk
 [^dp-yt24]: Coachella (YouTube) - "Busy P Says 'Oui' - Ed Banger, Daft Punk & Coachella" - 2024-12-18 - https://www.youtube.com/watch?v=1hLfhhBsNBo
-[^dp-bpm24]: BPM (Alexandre Trochut) - "Busy P says oui: Daft Punk, Coachella 2006 and the pyramid show story" - 2024-12-19 - https://bpm-mag.com/busy-says-oui-daftpunk-coachella-2006-pyramid-show-story
+[^dp-bpm24]: BPM (Alex Voss) - "Busy P Recalls Daft Punk's Coachella Pyramid" - 2024-12-19 - https://www.bpm-mag.com/story/busy-says-oui-daftpunk-coachella-2006-pyramid-show-story
 [^dp-plsn07]: PLSN - "Daft Punk" (Alive 2007 production profile) - 2007-11-19 - https://plsn.com/?p=230142
 [^dp-rsau21]: Rolling Stone Australia (Jon Blistein) - "Flashback: Daft Punk Bring the Pyramid to Lollapalooza" - 2021-02-23 - https://au.rollingstone.com/music/music-news/daft-punk-pyramid-lollapalooza-2007-flashback-23420/amp/
-[^dp-creators]: The Creators Project (Vice) - "Meet the man behind the Daft Punk pyramid and The Presets' new tour" - n.d. - https://thecreatorsproject.vice.com/blog/meet-the-man-behind-the-daft-punk-pyramid-and-the-presets-new-tour
+[^dp-creators]: The Creators Project (Vice, Mike Sugarman) - "Meet the Man Behind the Daft Punk Pyramid and The Presets' New Tour" - 2014-10-29 - https://www.vice.com/en/article/meet-the-man-behind-the-daft-punk-pyramid-and-the-presets-new-tour/
 [^dp-musicradar26]: MusicRadar (Ben Rogerson, via Yahoo), citing The Times - "Thomas Bangalter reveals Daft Punk's extreme preparation for the heat of their iconic 2006 Coachella set" - 2026-06-10 - https://www.yahoo.com/entertainment/music/articles/thomas-bangalter-reveals-daft-punks-104523382.html
 [^dp-billboard06]: Billboard - "Coachella Valley Music & Arts Festival, April 29-30, 2006, Indio, Calif., Empire Polo Field" - 2006 - https://www.billboard.com/music/music-news/coachella-valley-music-arts-festival-april-29-30-2006-indio-calif-empire-polo-58544
 [^dp-lat23]: Los Angeles Times (August Brown), via AOL - "EDM may have waned, but the Sahara Tent remains the beating heart of Coachella" - 2023-04-09 - https://www.aol.com/news/edm-may-waned-sahara-tent-120013512.html
 [^dp-farout]: Far Out - "The Daft Punk Coachella comeback set that changed the course of music" - n.d. - https://faroutmagazine.co.uk/the-daft-punk-coachella-comeback-set-that-changed-the-course-of-music/
 [^dp-da13]: Dancing Astronaut (Andrew Spada) - "Good Morning Mix: Daft Punk Alive at Coachella 2006" - 2013-04-11 - https://dancingastronaut.com/2013/04/good-morning-mix-daft-punk-alive-at-coachella-2006/
 [^dp-nme06]: NME - "Daft Punk make live comeback at Coachella" - 2006-04-30 - https://www.nme.com/?p=1359908
-[^dp-thump]: Vice / Thump - "Daft Punk's legendary pyramid is only half the story of that fateful night at Coachella 2006" - n.d. - https://thump.vice.com/en_au/article/daft-punks-legendary-pyramid-is-only-half-the-story-of-that-fateful-night-at-coachella-2006
+[^dp-thump]: Vice / Thump (Joshua Glazer) - "Daft Punk's Legendary Pyramid Is Only Half The Story of That Fateful Night at Coachella 2006" - 2015-12-10 - https://www.vice.com/en/article/daft-punks-legendary-pyramid-is-only-half-the-story-of-that-fateful-night-at-coachella-2006/
 [^dp-spin06]: SPIN - "Coachella '06 Reviewed" (live blog) - 2006-04-29 - https://www.spinmagazine.com/2006/04/coachella-06-reviewed/
 [^dp-okay15]: Okayplayer (Scott Heins) - "One More Time: Relive Daft Punk's Legendary 2006 Coachella Set In A New Documentary Clip" - 2015-12-10 - https://www.okayplayer.com/news/daft-punk-unchained-coachella-2006-footage.html
 [^dp-lddisband]: Live Design - "Daft Punk Disbands: Duo Set Design Standards" - 2021 - https://www.livedesignonline.com/concerts/daft-punk-disbands-duo-set-design-standards

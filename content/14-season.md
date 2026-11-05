@@ -13,7 +13,7 @@ That is the valley in April: the festival is the loudest thing in it, but not th
 
 By January 2007, Goldenvoice had a country festival on the calendar. The first Stagecoach ran May 5-6, 2007, at the Empire Polo Field, the week after Coachella, with George Strait and Kenny Chesney on top and Willie Nelson, Emmylou Harris and Brooks & Dunn on the bill. Goldenvoice co-produced it with The Messina Group and Moore Entertainment Group.[^sea-anti07]
 
-It has grown up on the same grass. In 2016, Indio raised its cap from 75,000 to 85,000 a day, alongside Coachella's raise to 125,000.[^sea-pollstar16] In 2025, the state alcohol regulator counted daily peaks of about 82,000 at Stagecoach, against nearly 110,000 at Coachella.[^sea-abc25]
+It has grown up on the same grass. In 2016, Indio raised its cap from 75,000 to 85,000 a day, alongside Coachella's raise to 125,000.[^sea-pollstar16][^sea-mxdwn16] In 2025, the state alcohol regulator counted daily peaks of about 82,000 at Stagecoach, against nearly 110,000 at Coachella.[^sea-abc25]
 
 And sometimes it wins. For 2024, Indio counted 89,003 Stagecoach tickets. Coachella's first weekend had 81,690 and its second 80,148.[^sea-kesq24] That was the year Coachella's sales sagged, but the country crowd was the biggest of the three weekends.
 
@@ -24,6 +24,8 @@ On Saturday, April 25, 2026, at about 8 p.m., with gusts of 50-65 mph forecast a
 > "The festival has been postponed until further notice. Please move quickly and calmly to the nearest exit."[^sea-abc7]
 
 It restarted at about 9:30 p.m. with a cheerier screen: "Back in the saddle." Journey and Riley Green were cancelled, Lainey Wilson moved to 10:30 p.m., and the night ran until 1 a.m.[^sea-abc7][^sea-nme]
+
+The 2026 bill had three headliners who had all played Stagecoach before but never topped it: Cody Johnson, Lainey Wilson and Post Malone. Further down were Journey, Third Eye Blind, Ludacris and Pitbull, and Amazon streamed it on Twitch, Prime Video and Amazon Music.[^sea-fox25sc] Marshmello was on stage when the evacuation order came. Wilson and Pitbull went on late.[^sea-abc7b] The wind didn't stop with the music. On Sunday, as Post Malone closed the festival, a windblown dust advisory was still in force, with gusts of 40 to 50 mph forecast and the air in the northern valley rated unhealthy.[^sea-abc7b]
 
 ## The fall trips
 
@@ -51,7 +53,9 @@ It is produced by a nonprofit, the Desert Biennial, and puts site-specific insta
 
 **2023: Tyre Nichols, *Originals*.** Six photographs Nichols took in Memphis, among them the Hernando de Soto Bridge at night, a sunset and the Tom Lee monument, on billboards along North Gene Autry Trail.[^sea-petapixel] Nichols, a photographer originally from California, had been beaten to death by police in Memphis earlier that year.[^sea-petapixel] The work was supported by the City of Palm Springs Public Arts Commission and stayed up until May 7, through both Coachella weekends.[^sea-grio][^sea-petapixel]
 
-The schedule is about to change. Desert X's tenth-anniversary edition, curated by its artistic director Neville Wakefield and curator Kaitlin Garcia-Maestas, runs October 30, 2027 to May 7, 2028, opening in the fall instead of late winter.[^sea-dxnews] It runs into May 2028, so it should overlap the festival if 2028 keeps the usual April dates.
+The 2025 edition, the fifth, had eleven artists across the valley, among them Ronald Rael's 3D-printed adobe walls around a palm tree in Palm Springs and José Dávila's marble blocks, quarried in Mexico and driven across the border.[^sea-dezeen25] None of the eleven works in Dezeen's rundown was a billboard.[^sea-dezeen25]
+
+The schedule changes in 2027. Desert X's tenth-anniversary edition, curated by its artistic director Neville Wakefield and curator Kaitlin Garcia-Maestas, runs October 30, 2027 to May 7, 2028, opening in the fall instead of late winter.[^sea-dxnews] It runs into May 2028, so it should overlap the festival if 2028 keeps the usual April dates.
 
 The billboard chapter covers the other kind of board on these roads, the paid ones.
 
@@ -64,6 +68,16 @@ Some of the most talked-about nights of Coachella week happen somewhere else.
 **Revolve Festival.** Revolve first flew influencers to Coachella in 2013.[^sea-bof] Its invite-only influencer event began in 2015, according to WWD, at the Avalon in Palm Springs; Business of Fashion dates it to 2016.[^sea-wwd][^sea-bof] It peaked at about 5,000 guests in 2022.[^sea-bof] That year, at the Merv Griffin Estate in La Quinta, invited influencers waited two to three hours in the heat without water for shuttles, and the internet compared it to Fyre Festival.[^sea-nbcnews] Creator Averie Bishop called it "a difficult and unsafe situation that could have been easily avoided."[^sea-nbcnews] Revolve apologized, saying shuttle access was limited as the festival reached capacity.[^sea-hypebae] Two years later its festival was one day, with about 1,200 guests, and Revolve's marketing spend had fallen from $181M in 2022 to $171M in 2023.[^sea-bof]
 
 Pop-up events celebrating the festival still run across the valley on both weekends; NBC Palm Springs reported them again in 2026.[^sea-nbcps26] But the big branded houses that used to line the circuit have mostly given way to activations inside the festival fence. The money chapter has that story.
+
+## Before April
+
+The festival is the end of the high season, not the start. Three big events come first.
+
+**The Date Festival.** Indio's date festival began in 1921, and the Riverside County Fair and National Date Festival has been an annual event since 1947.[^sea-csm23] Local boosters sold the east valley as "America's Arabia," with a Hollywood-style Arabian Nights pageant that still runs.[^sea-csm23] The 2026 edition, the 78th, ran February 12 to March 1 under the theme "Return to the Oasis."[^sea-patchfair] It drew more than 240,000 people over 13 days, through rain and four days of record-breaking heat.[^sea-atfair] Every food stand has to sell something made with dates. The fair's CEO, Chris Pickering: "Everyone has a county fair; there's only one National Date Festival."[^sea-atfair]
+
+**Modernism Week.** Over 11 days in February 2026, the architecture festival drew more than 111,000 attendees, by its own count, and estimated its economic impact at $62 million. Its organizers say 54% of surveyed visitors came to the desert specifically for it.[^sea-gpsbi26]
+
+**Tennis.** The BNP Paribas Open at the Indian Wells Tennis Garden set a tournament record of 527,626 fans in March 2026, the second year running over half a million. Its biggest day, Saturday, March 7, drew 60,781. Aryna Sabalenka beat Elena Rybakina and Jannik Sinner beat Daniil Medvedev in the finals.[^sea-tn26] A month later the same Tennis Garden is a shuttle hub and wristband pickup for Coachella, which the getting-there chapter covers.
 
 ## Splash House, in August
 
@@ -99,7 +113,9 @@ In 2025, the TODEC Legal Center put up billboards of its own: ten of them, showi
 
 ## Weather
 
-The desert sets the calendar. The first Coachella, in October 1999, ran in temperatures over 100°F.[^sea-ringer] Spring dates don't guarantee mild weather: in 2004, Saturday afternoon went past 100 degrees and was described as brutal.[^sea-lvsun04] Wikipedia's summary of 2012 gives a range across the two weekends from 43°F on April 14 to 106°F on April 21.[^sea-wiki] Every year, JFK Memorial Hospital in Indio, the closest hospital, adds staff for heat illness and drug and alcohol cases. Its medical director, Dr. Andrew Cassinove, said "many of these emergency visits are preventable."[^sea-nbcps26h]
+The desert sets the calendar. The first Coachella, in October 1999, ran in temperatures over 100°F.[^sea-ringer] Spring dates don't guarantee mild weather: in 2004, Saturday afternoon went past 100 degrees and was described as brutal.[^sea-lvsun04] Wikipedia puts the coldest and hottest festival days on record a week apart: 43°F on April 14, 2012, and 106°F on April 21, 2012.[^sea-wiki] Every year, JFK Memorial Hospital in Indio, the closest hospital, adds staff for heat illness and drug and alcohol cases. Its medical director, Dr. Andrew Cassinove, said "many of these emergency visits are preventable."[^sea-nbcps26h]
+
+Weekend one of 2025 was another hot one. The forecast for Friday, April 11, was 103 degrees, and a nearby weather station passed 102 that afternoon, beating the record for the date. Saturday was forecast at 99, under a moderate heat-risk warning from the National Weather Service.[^sea-foxwx25] Weekend two was expected in the low 90s.[^sea-foxwx25]
 
 The bigger problem now is wind.
 
@@ -108,9 +124,11 @@ The bigger problem now is wind.
 - **2026, Coachella.** On Friday, April 10, wind knocked a piece of equipment into the crowd during John Summit's set at the Do LaB, injuring a festivalgoer, and the stage closed for the night.[^sea-stereogum26] Tents in the campgrounds were destroyed.[^sea-nbcps26] Anyma's main-stage set was cancelled: "Due to strong wind conditions affecting Anyma's stage build, he is unable to perform tonight."[^sea-stereogum26]
 - **2026, Stagecoach.** Two weeks later, the Stagecoach evacuation described above.[^sea-abc7]
 
+Wind brings dust. On April 17, 2025, the day before weekend two, the South Coast Air Quality Management District extended a windblown dust advisory for the valley. Over the previous two days, dust readings had ranged from good to hazardous, worst in northern Cathedral City. The district expected the area around the festival to see "Unhealthy" air on Thursday, with gusts up to 50 mph.[^sea-aqmd25] Its advice was to stay indoors with the windows shut and the air conditioner on, which is hard to do at a camping festival.[^sea-aqmd25]
+
 ## What the season leaves behind
 
-Three weekends of crowds leave a lot on the ground. A City of Indio environmental report found that Coachella, Stagecoach and Desert Trip attendees produced 107 tons of solid waste a day, with about 20% of it recycled.[^sea-waste360] For 2022, the two spring festivals diverted 141 tonnes of mixed recycling and 86 tonnes of compost. Lund University's Kim Nicholas said the emissions from attendees and artists traveling in are "way bigger" than anything on site.[^sea-afp]
+Three weekends of crowds leave a lot on the ground. A City of Indio environmental report found that Coachella, Stagecoach and Desert Trip attendees produced 107 tons of solid waste a day, with about 20% of it recycled.[^sea-waste360] The organizers told AFP the two spring festivals diverted 141 tons of mixed recycling and 86 tons of compost in 2022. Lund University's Kim Nicholas said the emissions from attendees and artists traveling in are "way bigger" than anything on site.[^sea-afp]
 
 The festival's own figures, which it reports itself, are larger. Its sustainability page claims 616,278 pounds composted or recycled across Coachella and Stagecoach in 2024, plus 79,120 pounds of materials donated to the Galilee Center and 56,051 pounds of food to the Coachella Valley Rescue Mission.[^sea-sustain]
 
@@ -120,15 +138,66 @@ Since 2021, Goldenvoice has had the polo club year-round, not just for the festi
 
 The season, in other words, is getting longer. Desert X is moving into the fall. October has had rock and metal. August has pool parties. The festival is still the two weekends everyone plans around, but the valley has been filling in the calendar on either side.
 
+## In pictures
+
+Other people's photos, used under the Creative Commons licence named under each one.
+
+:::figure img/cc/festival-8-empire-polo-2009.jpg 768x1024 | Trey Anastasio of Phish at Festival 8, held at the Empire Polo Club in Indio on November 1, 2009
+Trey Anastasio of Phish at Festival 8, held at the Empire Polo Club in Indio on November 1, 2009.
+Photo: [Dan Shinneman](https://www.flickr.com/photos/37665616@N07/4085290486/) · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), via Flickr
+:::
+
+:::figure img/cc/date-festival-camels.jpg 1024x768 | Racing camels at the Date Festival in Indio in February 2004
+Racing camels at the Date Festival in Indio in February 2004.
+Photo: [David Hoshor (Flickr: dnhoshor)](https://www.flickr.com/photos/27742866@N00/123749914/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/date-festival-prizes.jpg 1600x1144 | The fairgrounds and Ferris wheel before the Riverside County Fair and National Date Festival opened in February 2013
+The fairgrounds and Ferris wheel before the Riverside County Fair and National Date Festival opened in February 2013.
+Photo: [Randy Heinitz](https://www.flickr.com/photos/36509286@N03/8470111076/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/shields-date-garden-lund.jpg 1600x1200 | Shields Date Garden in Indio, California, in March 2013
+Shields Date Garden in Indio, California, in March 2013.
+Photo: [Ken Lund](https://www.flickr.com/photos/75683070@N00/8603736094/) · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), via Flickr
+:::
+
+:::figure img/cc/shields-sign-rhinny.jpg 1600x1200 | The Shields Date Gardens roadside sign, photographed in April 2010
+The Shields Date Gardens roadside sign, photographed in April 2010.
+Photo: [rhinny](https://www.flickr.com/photos/89856030@N00/4539028573/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/tramway-prayitno.jpg 1280x1600 | A Palm Springs Aerial Tramway car in May 2011
+A Palm Springs Aerial Tramway car in May 2011.
+Photo: [Flickr user 34128007@N04](https://www.flickr.com/photos/34128007@N04/5779132582/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/salton-sea-lund.jpg 1600x1200 | The Salton Sea, photographed in October 2014
+The Salton Sea, photographed in October 2014.
+Photo: [Ken Lund](https://www.flickr.com/photos/75683070@N00/15035645544/) · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), via Flickr
+:::
+
+:::figure img/cc/stagecoach-2011-entrance.jpg 1195x1600 | The entrance to the Stagecoach Festival in 2011
+The entrance to the Stagecoach Festival in 2011.
+Photo: [Laundry Week](https://commons.wikimedia.org/wiki/File:Stagecoach_2011_entrance.jpg) · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons
+:::
+
+:::figure img/cc/desert-trip-2016-empire-polo.jpg 1600x902 | The grounds and Ferris wheel at Desert Trip, held at the Empire Polo Club in October 2016
+The grounds and Ferris wheel at Desert Trip, held at the Empire Polo Club in October 2016.
+Photo: [Raph_PH](https://commons.wikimedia.org/wiki/File:DesertTrip2016-5_(30280875946).jpg) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons
+:::
+
 ## Still open
 
 - **Splash House's first year.** 2013 or 2014? The McLeans would know.
 - **Neon Carnival's first year.** About 2007, by Bolthouse, or 2010, by BizBash's count.
 - **Desert X in 2027-28.** Whether a fall opening means billboard works will be up for both festival weekends of 2028.
+- **Stagecoach 2026's crowd.** Indio published ticket counts for 2024; no count for 2025 or 2026 turned up.
 
 [^sea-dxbolande]: Desert X - "Jennifer Bolande: Visible Distance / Second Sight" (Desert X 2017 archive) - n.d. (read 2026-10-31) - https://desertx.org/dx/archive/visible-distance-second-sight
 [^sea-anti07]: ANTI- Records - "Ramblin' Jack Elliott to play inaugural Stagecoach festival" - 2007-01-11 - https://www.anti.com/news/ramblin-jack-elliott-to-play-innagural-stagecoach-festival
-[^sea-pollstar16]: Pollstar - "Coachella, Stagecoach expansion approved" - 2016-04-19 - http://news.pollstar.com/2016/04/19/coachella-stagecoach-expansion-approved/
+[^sea-mxdwn16]: mxdwn (Ryan Fricke) - "Coachella and Stagecoach festivals will expand attendance up to 161,000 people in the coming years" - 2016-04-08 - https://music.mxdwn.com/2016/04/08/news/coachella-and-stagecoach-festivals-will-expand-attendance-up-to-161000-people-in-the-coming-years/
+[^sea-pollstar16]: Pollstar - "Coachella, Stagecoach expansion approved" - 2016-04-19 - https://news.pollstar.com/2016/04/19/coachella-stagecoach-expansion-approved/
 [^sea-abc25]: California Department of Alcoholic Beverage Control - "ABC partners with law enforcement to prevent underage drinking at California music festivals" - 2025-06-26 - https://www.abc.ca.gov/abc-partners-with-law-enforcement-to-prevent-underage-drinking-at-california-music-festivals/
 [^sea-kesq24]: KESQ (Jesus Reyes) - "Coachella, Stagecoach sold around 250K tickets for 2024 festivals, city reports" - 2024-06-13 - https://kesq.com/news/festival-season/2024/06/13/coachella-stagecoach-sold-around-250k-tickets-for-2024-festivals-city-reports
 [^sea-patch]: Patch - "Goodbye Coachella, hello Stagecoach" - 2014-04-21 - https://patch.com/california/palmdesert/goodbye-coachella-hello-stagecoach
@@ -139,7 +208,7 @@ The season, in other words, is getting longer. Desert X is moving into the fall.
 [^sea-l4lm]: Live for Live Music, citing The New York Times (2016-07-19) - "Organizer of Desert Trip Confirms Event Has Already Grossed $160 Million" - 2016-07-21 - https://liveforlivemusic.com/news/organizer-of-desert-trip-confirms-event-has-already-grossed-160-million
 [^sea-louder]: Louder / Metal Hammer (Rich Hobson) - "Inside the brilliance and the absurdity of Power Trip festival 2023" - 2023-12-18 - https://www.loudersound.com/features/inside-power-trip-festival-2023
 [^sea-da21]: Dancing Astronaut (Cameron DeFaria) - "Goldenvoice inks new lease to keep Coachella in Indio through 2050" - 2021-10-27 - https://dancingastronaut.com/2021/10/goldenvoice-inks-new-lease-to-keep-coachella-in-indio-through-2050/
-[^sea-tan16]: The Art Newspaper (Gareth Harris) - "Art among the cacti: recurring exhibition to launch in the southern Californian desert" - 2016-01-06 - https://theartnewspaper.com/2016/01/06/art-among-the-cacti-recurring-exhibition-to-launch-in-the-southern-californian-desert
+[^sea-tan16]: The Art Newspaper (Gareth Harris) - "Art among the cacti: recurring exhibition to launch in the southern Californian desert" - 2016-01-06 - https://www.theartnewspaper.com/2016/01/06/art-among-the-cacti-recurring-exhibition-to-launch-in-the-southern-californian-desert
 [^sea-dxnews]: Desert X - "News" - n.d. (read 2026-10-31) - https://desertx.org/learn/news
 [^sea-bruin]: Daily Bruin (Sidra Rashid) - "UCLA professor's billboard art piece frames road to Coachella" - 2017-04-19 - https://dailybruin.com/2017/04/19/ucla-professors-billboard-art-piece-frames-road-to-coachella/
 [^sea-spaces]: The Spaces (Annabel Herrick) - "Billboards bring Native American culture into the spotlight at Desert X" - 2019-02-14 - https://thespaces.com/billboards-bring-native-american-culture-into-the-spotlight-at-desert-x/
@@ -175,8 +244,18 @@ The season, in other words, is getting longer. Desert X is moving into the fall.
 [^sea-nbcps26]: NBC Palm Springs - "Coachella Weekend One Wraps With Historic Headliner, Wind Scares and a Few Surprises" - 2026-04-13 - https://www.nbcpalmsprings.com/local-and-community/2026/04/13/coachella-weekend-one-wraps-with-historic-headliner-wind-scares-and-a-few-surprises
 [^sea-nbcla18]: NBC Los Angeles (City News Service) - "Stranded Coachella Festival Campers Take Refuge in Temporary Sites" - 2018-04-19 - https://www.nbclosangeles.com/news/stranded-coachella-festival-campers-take-refuge-in-temporary-sites/44081/?amp=1
 [^sea-waste360]: Waste360 - "Coachella music festival attendees produce 107 tons of waste each day" - 2017-04-24 - https://www.waste360.com/waste-reduction/coachella-music-festival-attendees-produce-107-tons-of-waste-each-day
-[^sea-afp]: AFP, via The National - "Can music festivals actually go green?" - 2023-04-18 - https://www.thenationalnews.com/arts-culture/music-stage/2023/04/18/can-music-festivals-actually-go-green
-[^sea-sustain]: Coachella - "Sustainability" - n.d. (read 2026-10-31) - https://coachella.com/sustainability
+[^sea-afp]: AFP, via Malay Mail - "Can music festivals actually go green?" - 2023-04-23 - https://www.malaymail.com/news/showbiz/2023/04/23/can-music-festivals-actually-go-green/66044
+[^sea-sustain]: Coachella - "Sustainability" - n.d. (read 2026-10-31; page removed from the site by November 2026) - https://coachella.com/sustainability
 [^sea-nbcps25]: NBC Palm Springs - "Major Development Planned Near Coachella Festival Grounds in Indio" - 2025-06-09 - https://www.nbcpalmsprings.com/2025/06/10/major-development-planned-near-coachella-festival-grounds-in-indio
 [^sea-wiki]: Wikipedia - "Coachella" - n.d. (read 2026-10-31) - https://en.wikipedia.org/wiki/Coachella
 [^sea-kesq22]: KESQ (Crystal Jimenez) - "Hundreds fly into Coachella Valley for the music festival using charter service" - 2022-04-15 - https://kesq.com/?p=870505
+[^sea-fox25sc]: FOX 11 Los Angeles - "Stagecoach 2026 lineup: Post Malone, Lainey Wilson, Cody Johnson headline" - 2025-09-25 - https://www.foxla.com/news/stagecoach-2026-lineup-post-malone-lainey-wilson-cody-johnson-headline
+[^sea-abc7b]: ABC7 Los Angeles (with City News Service) - "Windblown dust advisory in effect in Indio on last day of Stagecoach Country Music Festival" - 2026-04-26 - https://abc7.com/post/windblown-dust-advisory-effect-coachella-valley-last-day-stagecoach-country-music-festival/18973438/
+[^sea-csm23]: The Christian Science Monitor (Sarah Matusek) - "'America's Arabia': Dates, a desert town, and a county fair" - 2023-02-28 - https://www.csmonitor.com/The-Culture/Food/2023/0228/America-s-Arabia-Dates-a-desert-town-and-a-county-fair
+[^sea-patchfair]: Patch (Toni McAllister), county of Riverside release - "Riverside County Fair & National Date Festival Kicks Off 78th Year With 'Return To Oasis'" - 2026-02-04 - https://patch.com/california/palmdesert/riverside-county-fair-national-date-festival-kicks-78th-year-return-oasis
+[^sea-atfair]: Amusement Today - "Heat, rain, immigration issues dampen Riverside County Fair" - 2026-04 - https://amusementtoday.com/issues/2026/202604/pages/0053.html
+[^sea-gpsbi26]: Greater Palm Springs Business Insider (Bob Marra) - "Modernism Week's $62 Million Impact in 2026 Underscores Its Role as a Major Desert Economic Driver" - 2026-03-26 - https://gpsbusinessinsider.com/?p=241490
+[^sea-tn26]: Tennis Now (Richard Pagliaro) - "BNP Paribas Open Sets Records In Attendance, Prize Money, TV Viewership" - 2026-03-27 - https://tennisnow.com/bnp-paribas-open-sets-records-in-attendance-prize-money-tv-viewership/
+[^sea-dezeen25]: Dezeen (Ellen Eberhardt) - "Desert X 2025 installations explore the 'vast knowledge' of Coachella Valley" - 2025-03-14 - https://www.dezeen.com/2025/03/14/desert-x-2025-installations-explore-the-vast-knowledge-of-coachella-valley/
+[^sea-foxwx25]: FOX Weather - "Coachella festivalgoers experience record heat during the first weekend" - 2025-04-10 - https://www.foxweather.com/weather-news/coachella-festival-potential-record-high-temperatures-first-weekend
+[^sea-aqmd25]: South Coast AQMD - "South Coast AQMD Extends a Windblown Dust Advisory for Coachella Valley" - 2025-04-17 - https://www.aqmd.gov/docs/default-source/news-archive/2025/ext-wbd-17-2025.pdf

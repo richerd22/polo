@@ -4,16 +4,25 @@ How Coachella actually works: the grounds, the roads, the buses, the rituals, th
 
 Independent. Not affiliated with Coachella, Goldenvoice or AEG.
 
+**Adding photos, boards, a new year or a fact? Start with [AGENTS.md](AGENTS.md)** - recipes, the rules, and the tools (`tools/add_media.py`, `tools/add_year.py`, `tools/check.py`).
+
 ## Layout
 
 - `research/` - raw, cited research notes. Every fact carries its source (URL, publication, date). Social posts are "reported by attendees" until confirmed elsewhere.
   - `research/billboards/` - billboard research by year range, plus `context.md` (the ritual, the roads, who owns the boards, image rights)
   - `research/chapters/` - one file per chapter cluster
+- `incoming/billboards/` - Richard Lathrop's original photos and videos (full resolution, with EXIF and GPS). Gitignored, so they are never committed or published.
+- `img/billboards/` - the published copies: resized (1600px and an 800px `-sm`), EXIF and GPS stripped, plates blurred, videos muted. Logged in `research/billboards/richard-2024-2026.md`.
+- `img/cc/` - Creative Commons photos from Flickr and Wikimedia Commons (no NC or ND licences), resized the same way. Each figure credits the photographer, links the original page and names the licence.
+- `data/still_needed.json` - boards reported in the press or posted officially, with no image yet (rendered at the bottom of /billboards/). Unverified leads wait in `research/billboards/still-needed-leads.json`.
 - `data/billboards.raw.json` - every billboard found so far, merged, unreviewed. Fields: year, artist, title, shows_says, location, promoted, aftermath, sources, image_sources, confidence, entry_type, notes
-- The site itself lands here once the outline is approved (GitHub Pages, `main`, root)
+- `data/calendar.json` - festival dates and headliners per year; drives the home-page festival clock, which works it out in the browser so it never goes stale.
+- `tools/` - `add_media.py` (process and attach a photo or video), `add_year.py` (dates and lineups), `check.py` (every rule, run in CI).
+- The site: `build.py` writes it into the repo root; GitHub Pages serves `main`.
 
 ## Rules
 
 - No claim without a source. Conflicting sources: record both.
-- Images: embed official posts; fan photos only with written permission and credit; Street View by link (coordinates + imagery date), never screenshots.
+- Images: host only Richard's own photos, Creative Commons images (Wikimedia/Flickr, with author and license) and brand or label press kits. Everything else: link or embed the original post with credit, never copy it. Fan photos only with written permission and credit. Street View by link (coordinates + imagery date), never screenshots.
+- A board's `media` entries carry `license_kind`: `own`, `cc` or `press-kit`.
 - Project guide: Notion, "Polo - polo.cold.fyi (READ FIRST)".

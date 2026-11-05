@@ -9,6 +9,39 @@ For most of its life, Coachella was a tenant. Every spring Goldenvoice rented a 
 
 This chapter is about the land: who owns it, how much of it there is, what the city of Indio allows on it, and how one patch of desert turns into a country festival in a single week.
 
+## The City of Festivals
+
+Indio calls itself the City of Festivals. Wikipedia credits the nickname to the Chamber of Commerce, which picked it for the number of festivals and events the city hosts each year. The chamber's earlier slogan, from the middle of the 20th century, was "Hub of the Valley."[^gr-wikiindio] The festivals were not Goldenvoice's idea. The oldest one is about dates.
+
+The fruit came first. Date palms were brought into the valley from Algeria in 1903, and by the 1920s the groves were tourist attractions.[^gr-pbs12] The US Department of Agriculture opened a Date Station in Indio in 1907 to study the crop.[^gr-wikiindio] The first Date Festival was held in 1921 in Indio's city park, mostly dates and a queen.[^gr-pbs12] It became an annual event, the Riverside County Fair and National Date Festival, in 1947.[^gr-csm23]
+
+After the Second World War the fair's new manager, Robert Fullenwider, gave it an "Arabian Nights" theme.[^gr-wikidate] It stuck, and it spread. Locals marketed the eastern valley as "America's Arabia," a town was renamed Mecca, and Coachella Valley High School's teams became the "Arabs."[^gr-csm23] Young women competed to be crowned Queen Scheherazade, the storyteller of *One Thousand and One Nights*.[^gr-csm23] By tradition the queen and her court open the fair with a toast of date milkshakes, after a priest blesses the date gardens.[^gr-pbs12][^gr-laist12] The exhibition hall is called the Taj Mahal.[^gr-pbs12]
+
+The historian Sarah Seekatz, who grew up in Indio and wrote the Arcadia book on the festival, dates the theme to the 1920s:
+
+> "When [the festival] started using the Arabian themes in the 1920s, the Middle East was really in vogue."[^gr-laist12]
+
+The fair itself has never pretended otherwise. "We don't pretend to be authentic," a member of the fair board told the Los Angeles Times in 1991. "It's fantasy."[^gr-csm23]
+
+:::lore The Sheik's horses
+Indio's fair began in 1921, the same year Rudolph Valentino's silent film *The Sheik* came out.[^gr-csm23] The local version of the story, told by Linda Beal, who was born on a date ranch in 1946 and keeps a collection of fair memorabilia, is that the film was shot near the Salton Sea, with Arabian horses borrowed from Point Happy in La Quinta.[^gr-pbs12] That's her account, shown off with a 1920s candy tin painted with Valentino. It's a good tin.
+:::
+
+In 2012, KPCC reported that about 500,000 people were expected at the 66th fair.[^gr-laist12] The races were the part people remembered: Sunset described daily camel races with "turbaned jockeys," followed by ostriches pulling chariots.[^gr-sunset05]
+
+Then it changed. The fair skipped 2021 and 2022 for the pandemic, and in June 2022 the county brought in a private operator, Pickering Events.[^gr-wikidate] When the fair returned in February 2023, the camel and ostrich races were gone, though $15 still got you a camel ride. Queen Scheherazade was replaced by scholarships open to any graduating senior.[^gr-csm23] The 78th fair ran February 12 to March 1, 2026, themed "Return to the Oasis," with racing pigs, a demolition derby, a rodeo and a new National Date Festival Museum.[^gr-patch26]
+
+The fairgrounds sit on Highway 111, in the middle of Indio.[^gr-wikiindio] The county bought the first 40 acres in 1940, for $10,000.[^gr-wikidate]
+
+:::numbers The date business
+- 1903: first date palms imported, from Algeria[^gr-pbs12]
+- 2021: California grew three-quarters of US dates, 44,220 tons[^gr-csm23]
+- 2024: Riverside County harvested 40,400 tons from 10,100 acres, worth $145.4M, its second most valuable crop after nursery stock[^gr-crop24]
+- "95 percent of the nation's crop," per Wikipedia and PBS SoCal; "80 percent" of the Western Hemisphere's, per Sunset[^gr-wikidate][^gr-pbs12][^gr-sunset05]
+:::
+
+The share figures don't agree with each other, or with the federal count of three-quarters. They are probably measuring different things, and none of the sources says which.
+
 ## Whose polo club
 
 Empire Polo Club was founded in 1987 by Alexander "Al" Haagen III, a player who had taken up the sport four years earlier and who would be patron of the Empire team for 30 years.[^gr-museum] The money behind it came from shopping centers: Haagen was vice chairman of his family's developer, Alexander Haagen Properties, and as a college-age construction supervisor had helped build its first center, in Rosemead, in 1963.[^gr-labj] One source credits plain "Alexander Haagen" with the founding, which could mean the father.[^gr-psl] The Polo Museum names the son, and so does Paul Tollett, who calls him "Al Haagen."[^gr-bw]
@@ -22,6 +55,12 @@ The club's own address is 81-800 Avenue 51, Indio.[^gr-events] Everything else i
 In March 2012, Goldenvoice announced it had bought about 280 acres around the festival site.[^gr-mxdwn12] The package included Eldorado Polo Club, Triangle Bar Farms, Fish Creek and the property of Ambassador Glen Holden.[^gr-kesq12] The price was not disclosed.[^gr-mxdwn12]
 
 Tollett's reason was practical. The land would "help us put in some infrastructure so we don't have to keep coming back and doing the same things each year."[^gr-mxdwn12]
+
+The purchase did not include Empire itself. Goldenvoice already leased about 280 acres there, so the deal roughly doubled the footprint it controlled, half owned and half rented.[^gr-thr12][^gr-laweekly12] The fourth parcel came with a pedigree. Glen Holden was a polo player and a former US ambassador to Jamaica.[^gr-laweekly12] He had been appointed by George H. W. Bush, served from 1989 to 1993, and won the US Open with his Gehache team in 1993.[^gr-holden24]
+
+Indio's mayor, Glenn Miller, told The Desert Sun the land gave Goldenvoice room for three or four more events a year, "such as a jazz and wine festival."[^gr-laweekly12] LA Weekly noted that the last time Goldenvoice had a spare date, it booked Metallica, Slayer, Megadeth and Anthrax.[^gr-laweekly12] Pollstar's editor, Gary Bongiovanni, read the deal as a bet on permanence:
+
+> "Now when they are going to invest, it's going to be in more permanent things."[^gr-laweekly12]
 
 The biggest piece, the 200-acre Eldorado Polo Club, belonged to Eldorado Lake Farms, a group of 19 player-owners.[^gr-eqnews] The festival had already been using it for parking and camping.[^gr-kesq12][^gr-eqnews] The deal came with a leaseback: polo would keep the fields each winter, roughly November 1 to early April.[^gr-eqnews] That arrangement is the hinge of the next chapter.
 
@@ -52,7 +91,7 @@ Indio does not own the land, but it decides what happens on it, and most of the 
 
 **The 2013 deal.** A year later the council voted 4-0 to keep the festivals in Indio through at least 2030. Goldenvoice's per-ticket payment to the city rose from $2.33 to $5.01, starting in 2014. The deal allowed up to five festivals a year on the site.[^gr-hypebot13] That clause is why Desert Trip and Power Trip could happen in October (see the next chapter).
 
-**The 2016 cap.** Goldenvoice asked to grow. The council approved Coachella going from 99,000 to 125,000 people a day and Stagecoach from 75,000 to 85,000, phased in.[^gr-pollstar16][^gr-mxdwn16] The mayor promised the increase would be "gradual over time."[^gr-mxdwn16] The cap is still 125,000 a day.[^gr-pollstar25]
+**The 2016 cap.** Goldenvoice asked to grow. The council approved Coachella going from 99,000 to 125,000 people a day and Stagecoach from 75,000 to 85,000, phased in.[^gr-pollstar16][^gr-mxdwn16] City officials said the increase would be phased in gradually. mxdwn credits Mayor Glenn Miller; Hypebot, citing The Desert Sun, credits Mayor Pro Tem Elaine Holmes.[^gr-mxdwn16][^gr-hypebot16] The cap is still 125,000 a day.[^gr-pollstar25]
 
 **Who actually shows up.** The state's alcohol regulator, which sends 30-35 agents to each weekend, counted daily peaks of nearly 110,000 at Coachella and about 82,000 at Stagecoach in 2025.[^gr-abc25] So the site runs below its legal ceiling, at least by that count.
 
@@ -67,6 +106,8 @@ Indio does not own the land, but it decides what happens on it, and most of the 
 On October 27, 2021, Goldenvoice announced it would take "year-round operational control" of Empire Polo Club under a long-term lease with the Haagen family. The deal also put Goldenvoice in charge of the Empire Grand Oasis in Thermal, and opened both properties to "special events, sporting events, and private functions."[^gr-bw] Press reports put the lease at through 2050, matching the city deal.[^gr-dmn21] Wikipedia calls it a 28-year lease, which lands in the same place.[^gr-wikiempire]
 
 The agreement also allowed two additional large-scale festivals on the site every year.[^gr-iq]
+
+The second property in the deal, Empire Grand Oasis in Thermal, was the Haagens' showpiece. When the US Polo Association profiled Empire in 2016, the club described it as "the most precious gem in Empire's crown": a 5,000-square-foot estate house, a swimming lagoon with palms and waterfalls, a tiki bar, a grass polo field, a natural amphitheater and an indoor arena, with three more fields planned.[^gr-uspa16] Goldenvoice took over its operation along with the polo club.[^gr-bw]
 
 What it ended was polo. Some of the club's staff were laid off on three days' notice, and polo stopped being played at Empire.[^gr-kesq21b] That story, and where the horses went, is the next chapter.
 
@@ -96,7 +137,7 @@ The Rose Garden is not part of Stagecoach.[^gr-latsc]
 
 On a site this big, people navigate by the things that stick up.
 
-**The Ferris wheel.** It belongs to Ray Cammack Shows, a Phoenix-area carnival family in business since 1963.[^gr-pnt] It was in place by 2010; nobody has pinned down its first year.[^gr-bizbash] The current wheel, La Grande XL, replaced the original La Grande Wheel in 2017. It arrives on 20 semis and has 36 air-conditioned gondolas and more than 500,000 LEDs.[^gr-recorder] The build depends on who you ask: a 70-ton crane, 10 crew and five days, says the company's vice president in a 2026 report;[^gr-recorder] a 60-ton crane and about 10 days, says an undated Phoenix New Times piece, which also gives the wheel's height as 150 feet.[^gr-pnt] The two may describe different wheels. The rest of the year it tours fairs and rodeos.[^gr-recorder]
+**The Ferris wheel.** It belongs to Ray Cammack Shows, a Phoenix-area carnival family in business since 1963.[^gr-pnt] It was in place by 2010; nobody has pinned down its first year.[^gr-bizbash] The current wheel, La Grande XL, made its debut in 2017 on the Houston rodeo midway, with 36 air-conditioned cabins, and went on to Indio from there.[^gr-culturemap] It arrives on 20 semis, according to its owner.[^gr-recorder] The build depends on who you ask: a 70-ton crane, 10 crew and five days, says a 2026 Los Angeles Times report;[^gr-recorder] a 60-ton crane and about 10 days, says an undated Phoenix New Times piece, which also gives the wheel's height as 150 feet.[^gr-pnt] The two may describe different wheels. The rest of the year it tours other events.[^gr-culturemap]
 
 **Spectra.** The seven-story spiral tower with an observation deck was commissioned in 2018 from Patrick O'Mahony's UK studio, Newsubstance. It was supposed to come down after 2020. Covid delays and fan affection kept it up, and it is now treated as a permanent feature of the festival.[^gr-lamag23] "I don't think there's any other festival in the world that would commission something like this," O'Mahony said.[^gr-lamag23] Whether it stands all year, through the summers and the soccer tournament, no source says outright.
 
@@ -120,7 +161,56 @@ The main stage turns too. Stagecoach's Mane Stage is set 90 degrees clockwise fr
 
 The smaller festival is not the smaller draw. In 2024 Indio counted 89,003 Stagecoach tickets, against 81,690 for Coachella's first weekend and 80,148 for its second.[^gr-kesq24] Stagecoach also gets the end of the season's wind: on April 25, 2026, with gusts of 50-65 mph forecast, it was paused and evacuated for about an hour and a half.[^gr-abc7]
 
-The crew window covers all of it. AEG's 2025 stagehand posting asked for availability from March 17 to May 9, with the expected work running March 30 to May 3.[^gr-aegjob] Five weeks, three weekends, one patch of grass.
+The crew window covers all of it. AEG's 2026 stagehand posting asked for availability from March 16 to May 8.[^gr-aegjob] About eight weeks, three weekends, one patch of grass.
+
+## In pictures
+
+Other people's photos, used under the Creative Commons licence named under each one.
+
+:::figure img/cc/ferris-wheel-2016.jpg 1600x1200 | The Ferris wheel lit up at night during weekend one of Coachella 2016
+The Ferris wheel lit up at night during weekend one of Coachella 2016.
+Photo: [Fred von Lohmann (Flickr: vonlohmann)](https://www.flickr.com/photos/96142941@N00/26194690870/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/ferris-wheel-2011.jpg 1600x1067 | The Ferris wheel at night at Coachella 2011
+The Ferris wheel at night at Coachella 2011.
+Photo: [solidariat](https://www.flickr.com/photos/99425482@N00/5634442701/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/ferris-wheel-palms.jpg 1200x1600 | The Ferris wheel among palm trees at Coachella 2011
+The Ferris wheel among palm trees at Coachella 2011.
+Photo: [Sam Litvin (Flickr: photosam88)](https://www.flickr.com/photos/70181267@N00/5635952191/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/festival-from-tram-2009.jpg 1600x1200 | The lights of Coachella on the Indio polo fields, seen at night from the Palm Springs Aerial Tramway in April 2009
+The lights of Coachella on the Indio polo fields, seen at night from the Palm Springs Aerial Tramway in April 2009.
+Photo: [bossco](https://www.flickr.com/photos/43521640@N00/3455071960/) · [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), via Flickr
+:::
+
+:::figure img/cc/polo-field-day-after-2010.jpg 1600x900 | The Empire Polo Field grounds on the Monday morning after Coachella 2010
+The Empire Polo Field grounds on the Monday morning after Coachella 2010.
+Photo: [Mike Gusman (Flickr: The Steady Decline)](https://www.flickr.com/photos/14061011@N06/4564898152/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/music-oasis-polo-field-2007.jpg 1600x1200 | Lit palm trees at the Music Oasis on the polo field at Coachella 2007
+Lit palm trees at the Music Oasis on the polo field at Coachella 2007.
+Photo: [Yvonne Esperanza (Flickr: E Vön Zita)](https://www.flickr.com/photos/12052457@N06/1365650252/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/coachella-2015-panorama.jpg 1600x511 | A panorama of the field at Coachella 2015
+A panorama of the field at Coachella 2015.
+Photo: [David Jones](https://www.flickr.com/photos/45457437@N00/19567738509/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/coachella-2018-raph-3.jpg 1599x900 | The Ferris wheel and crowds during weekend one of Coachella 2018
+The Ferris wheel and crowds during weekend one of Coachella 2018.
+Photo: [Raph_PH](https://www.flickr.com/photos/69880995@N04/41158003625/) · [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Flickr
+:::
+
+:::figure img/cc/coachella-umbra-2023.jpg 1600x1600 | An overhead image of Coachella in Indio, California, captured by Umbra Lab on April 23, 2023
+An overhead image of Coachella in Indio, California, captured by Umbra Lab on April 23, 2023.
+Photo: [Umbra Lab, Inc.](https://commons.wikimedia.org/wiki/File:Coachella_(Indio,_CA).tiff) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0), via Wikimedia Commons
+:::
 
 ## Still open
 
@@ -146,9 +236,9 @@ The crew window covers all of it. AEG's 2025 stagehand posting asked for availab
 [^gr-uspa16]: US Polo Association - "Meet Empire Polo Club" - 2016-11-25 - https://uspolo.org/news-social/news/meet-empire-polo-club
 [^gr-cbs12]: CBS Los Angeles - "Coachella Promoters Threaten To Move Away From The Coachella Valley Over Proposed Tax" - 2012-07-05 - https://www.cbsnews.com/losangeles/news/coachella-promoters-threaten-to-move-away-from-the-coachella-valley-over-proposed-tax/
 [^gr-hypebot13]: Hypebot (Bruce Houghton) - "Goldenvoice Signs Deal To Stage Coachella & Stagecoach In Indio Thru 2030" - 2013-04-05 - https://www.hypebot.com/goldenvoice-signs-deal-to-stage-coachella-stagecoach-in-indio-thru-2030/
-[^gr-pollstar16]: Pollstar - "Coachella, Stagecoach expansion approved" - 2016-04-19 - http://news.pollstar.com/2016/04/19/coachella-stagecoach-expansion-approved/
+[^gr-pollstar16]: Pollstar - "Coachella, Stagecoach expansion approved" - 2016-04-19 - https://news.pollstar.com/2016/04/19/coachella-stagecoach-expansion-approved/
 [^gr-mxdwn16]: mxdwn (Ryan Fricke) - "Coachella and Stagecoach festivals will expand attendance up to 161,000 people in the coming years" - 2016-04-08 - https://music.mxdwn.com/2016/04/08/news/coachella-and-stagecoach-festivals-will-expand-attendance-up-to-161000-people-in-the-coming-years/
-[^gr-pollstar25]: Pollstar (Sarah Pittman) - "Snap, Crackle & Pop: What Coachella's Early Lineup Announcement Means For The Biz" - 2025-09-19 - http://news.pollstar.com/2025/09/19/snap-crackle-pop-what-coachellas-early-lineup-announcement-means/
+[^gr-pollstar25]: Pollstar (Sarah Pittman) - "Snap, Crackle & Pop: What Coachella's Early Lineup Announcement Means For The Biz" - 2025-09-19 - https://news.pollstar.com/2025/09/19/snap-crackle-pop-what-coachellas-early-lineup-announcement-means/
 [^gr-abc25]: California Department of Alcoholic Beverage Control - "ABC partners with law enforcement to prevent underage drinking at California music festivals" - 2025-06-26 - https://www.abc.ca.gov/abc-partners-with-law-enforcement-to-prevent-underage-drinking-at-california-music-festivals/
 [^gr-kesq21]: KESQ (Jesus Reyes) - "Indio extends development agreement with Goldenvoice & Coachella Music Festival to 2050" - 2021-08-19 - https://kesq.com/?p=682929
 [^gr-kesq24]: KESQ (Jesus Reyes) - "Coachella, Stagecoach sold around 250K tickets for 2024 festivals, city reports" - 2024-06-13 - https://kesq.com/news/festival-season/2024/06/13/coachella-stagecoach-sold-around-250k-tickets-for-2024-festivals-city-reports
@@ -169,10 +259,23 @@ The crew window covers all of it. AEG's 2025 stagehand posting asked for availab
 [^gr-latsc]: Los Angeles Times (Vanessa Franko), via Yahoo - "The differences - and similarities - between the Coachella and Stagecoach festivals" - 2024-04-26 - https://www.yahoo.com/entertainment/differences-similarities-between-coachella-stagecoach-232121095.html
 [^gr-pnt]: Phoenix New Times - "Coachella's famous Ferris wheel has Phoenix roots" - n.d. - https://www.phoenixnewtimes.com/arts-culture/phoenix-family-owns-and-operates-iconic-coachella-ferris-wheel-21472485/
 [^gr-bizbash]: BizBash (Alesandra Dubin) - "Coachella Sells Out With Three-Day Passes, Towering Ferris Wheel, and Upgraded Camping" - 2010-04-19 - https://www.bizbash.com/event-production-planning/coachella-sells-out-with-three-day-passes-towering-ferris-wheel-and-upgraded-camping
-[^gr-recorder]: Los Angeles Times/TNS, via The Recorder - "What it takes to build Coachella's most recognizable icon" - 2026-04 - https://www.recorderonline.com/features/entertainment_news/what-it-takes-to-build-coachellas-most-recognizable-icon/article_6f4e07a1-1236-5044-ad3c-81251de26b8d.html
+[^gr-recorder]: Los Angeles Times (Vanessa Franko)/TNS, via The Brunswick News - "What it takes to build Coachella's most recognizable icon" - 2026-04-13 - https://thebrunswicknews.com/what-it-takes-to-build-coachellas-most-recognizable-icon/article_5db60bd2-952f-5237-aa10-37d3278c54e7.html
+[^gr-culturemap]: CultureMap Houston (Clifford Pugh) - "Wheel of good fortune: Le Grande XL debuts at RodeoHouston carnival midway" - 2017-03-08 - https://houston.culturemap.com/news/city-life/03-08-17-wheel-of-good-fortune-le-grande-ferris-wheel-debuts-at-rodeohouston-midway/
 [^gr-lamag23]: Los Angeles Magazine (Steve Appleford) - "Coachella's monumental artwork sets festival apart" - 2023-04-21 - https://lamag.com/news/coachellas-monumental-artwork-sets-festival-apart
 [^gr-ds15]: The Desert Sun (Bruce Fessier and Ian James), via World Polo News - "Coachella in drought: Polo club looks to cut water use" - 2015-04 - https://worldpolonews.com/2015/coachella-drought-polo-club-looks-cut-water-use
 [^gr-patch]: Patch - "Goodbye Coachella, hello Stagecoach" - 2014-04-21 - https://patch.com/california/palmdesert/goodbye-coachella-hello-stagecoach
 [^gr-soundgirls]: SoundGirls.org - "Rat Sound - Coachella Q & A" - 2014-04-04 - https://soundgirls.org/?p=2167
 [^gr-abc7]: ABC7 Los Angeles - "Stagecoach Country Music Festival temporarily evacuated due to high winds in Indio" - 2026-04-26 - https://abc7.com/post/stagecoach-country-music-festival-temporarily-evacuated-due-high-winds-indio-new-set-times-announced/18968726/
-[^gr-aegjob]: AEG job posting, via Built In - "Stagehands - Coachella & Stagecoach 2025" (now expired) - 2025-03-26 - https://builtin.com/job/stagehands-coachella-stagecoach-2025/4226728
+[^gr-aegjob]: AEG job posting, via Built In - "Stagehands- Coachella & Stagecoach 2026" (listing removed 2026-05-04, page still up) - 2026 - https://builtin.com/job/stagehands-coachella-stagecoach-2026/8392787
+[^gr-wikiindio]: Wikipedia - "Indio, California" - n.d. (read 2026-11-04) - https://en.wikipedia.org/wiki/Indio,_California
+[^gr-wikidate]: Wikipedia - "Riverside County Fair and National Date Festival" - n.d. (read 2026-11-04) - https://en.wikipedia.org/wiki/Riverside_County_Fair_and_National_Date_Festival
+[^gr-pbs12]: PBS SoCal (Susan Straight) - "Many Queens at the Indio Date Festival" - 2012-02-21 - https://pbssocal.org/socal-focus/many-queens-at-the-indio-date-festival
+[^gr-csm23]: The Christian Science Monitor (Sarah Matusek) - "'America's Arabia': Dates, a desert town, and a county fair" - 2023-02-28 - https://www.csmonitor.com/The-Culture/Food/2023/0228/America-s-Arabia-Dates-a-desert-town-and-a-county-fair
+[^gr-laist12]: KPCC, via LAist (Steven Cuevas) - "National Date Festival puts down roots in Indio" - 2012-02-19 - https://laist.com/news/kpcc-archive/date-festival-gets-ready-put-down-roots-indio
+[^gr-sunset05]: Sunset - "Rides, races, pageants, and - of course - fruit at the annual festival" - 2005-01-20 - https://www.sunset.com/travel/california/hot-date-indio
+[^gr-patch26]: Patch (County of Riverside news release) - "Riverside County Fair & National Date Festival Kicks Off 78th Year With 'Return To Oasis'" - 2026-02-04 - https://patch.com/california/palmdesert/riverside-county-fair-national-date-festival-kicks-78th-year-return-oasis
+[^gr-crop24]: Riverside County Agricultural Commissioner - "2024 Annual Agricultural Production Report" (Board of Supervisors item 2.2) - 2025-12-16 - https://media.rivcocob.org/proceeds/2025/p2025_12_16_files/02.02001.pdf
+[^gr-thr12]: The Hollywood Reporter, citing Billboard.biz - "Goldenvoice Buys 280 Acres of Land at Coachella Site" - 2012-03-27 - https://www.hollywoodreporter.com/news/general-news/goldenvoice-coachella-304667/
+[^gr-laweekly12]: LA Weekly - "Why Did Goldenvoice Purchase a Bunch of Land Near Coachella?" - 2012-03-27 - https://www.laweekly.com/why-did-goldenvoice-purchase-a-bunch-of-land-near-coachella/
+[^gr-holden24]: US Polo Association - "The Legacy of Glen Holden Sr.: A Life of Leadership, Innovation and Passion for Polo" - 2024-04-22 - https://www.uspolo.org/news-social/news/the-legacy-of-glen-holden-sr-a-life-of-leadership-innovation-and-passion-for-polo
+[^gr-hypebot16]: Hypebot (via CelebrityAccess) - "When Is A Festival Too Big? Coachella, Stagecoach To Expand" - 2016-04-20 - https://www.hypebot.com/when-is-a-festival-too-big-coachella-stagecoach-to-expand/
