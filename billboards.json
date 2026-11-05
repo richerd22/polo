@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04",
+ "updated": "2026-11-05",
  "note": "rights: own = photo by Richard Lathrop, hosted here; cc = Creative Commons, credited; press-kit = brand/label press kit; link-only = original post linked with credit, never copied. media lists hosted files.",
  "boards": [
   {
@@ -2449,6 +2449,55 @@
   },
   {
    "year": 2024,
+   "artist": "Dom Dolla",
+   "title": "The moustache",
+   "said": "A close-up of Dom Dolla's moustache and grin, with white text 'SAHARA SATURDAY'. No name on the board. It stood a few hundred feet from John Summit's board and from the pair's joint Everything Always board.",
+   "where": "Beside the railroad tracks on a surface road between Palm Desert and Indio, eastbound (photo location)",
+   "promoted": "His Saturday Sahara closing set: 11:55pm April 20 (W2). On weekend one he brought out Nelly Furtado, with Taylor Swift and Travis Kelce in the crowd.",
+   "aftermath": "",
+   "type": "artist_promo",
+   "confidence": "high",
+   "sources": [
+    {
+     "publication": "Richard Lathrop (photo, polo.cold.fyi)",
+     "date": "2024-04-18",
+     "url": "https://polo.cold.fyi/img/billboards/2024-dom-dolla-sahara-saturday.jpg"
+    },
+    {
+     "publication": "EDM Identity",
+     "url": "https://edmidentity.com/2024/04/19/coachella-2024-weekend-2-live-stream/",
+     "date": "2024-04-19"
+    },
+    {
+     "publication": "The Groove Cartel",
+     "url": "https://thegroovecartel.com/news/dom-dolla-coachella-2024/",
+     "date": "2024-04-15"
+    },
+    {
+     "publication": "We Rave You (Daniel Sikljan)",
+     "url": "https://weraveyou.com/2024/04/john-summit-dom-dolla-deliver-unforgettable-b2b-at-coachella-2024/",
+     "date": "2024-04-15"
+    }
+   ],
+   "photos": [],
+   "media": [
+    {
+     "kind": "photo",
+     "file": "img/billboards/2024-dom-dolla-sahara-saturday.jpg",
+     "w": 1559,
+     "h": 1600,
+     "alt": "Billboard showing only a moustache and a big smile, with the words Sahara Saturday",
+     "caption": "April 18, 2024.",
+     "credit": "Richard Lathrop",
+     "license": "© Richard Lathrop, used with permission",
+     "license_kind": "own",
+     "taken": "2024-04-18"
+    }
+   ],
+   "rights": "own"
+  },
+  {
+   "year": 2024,
    "artist": "Lana Del Rey",
    "title": "'Has anyone else died for you?'",
    "said": "\"Has anyone else died for you?\" with a blood-red cross; bottom right: \"Lana Del Rey SNL Jan 14 2012\" (referencing her widely criticized 2012 SNL performance).",
@@ -2599,55 +2648,6 @@
    ],
    "media": [],
    "rights": "link-only"
-  },
-  {
-   "year": 2024,
-   "artist": "Dom Dolla (identification not confirmed)",
-   "title": "The moustache",
-   "said": "A close-up of a man's moustache and grin, white text 'SAHARA SATURDAY'. No name on the board. It stood a few hundred feet from John Summit's board, and Dom Dolla and John Summit also had a joint board as Everything Always.",
-   "where": "Beside the railroad tracks on a surface road between Palm Desert and Indio, eastbound (photo location)",
-   "promoted": "If it's his, his Saturday Sahara closing set: 11:55pm April 20 (W2). On weekend one he brought out Nelly Furtado, with Taylor Swift and Travis Kelce in the crowd.",
-   "aftermath": "",
-   "type": "artist_promo",
-   "confidence": "medium",
-   "sources": [
-    {
-     "publication": "Richard Lathrop (photo, polo.cold.fyi)",
-     "date": "2024-04-18",
-     "url": "https://polo.cold.fyi/img/billboards/2024-dom-dolla-sahara-saturday.jpg"
-    },
-    {
-     "publication": "EDM Identity",
-     "url": "https://edmidentity.com/2024/04/19/coachella-2024-weekend-2-live-stream/",
-     "date": "2024-04-19"
-    },
-    {
-     "publication": "The Groove Cartel",
-     "url": "https://thegroovecartel.com/news/dom-dolla-coachella-2024/",
-     "date": "2024-04-15"
-    },
-    {
-     "publication": "We Rave You (Daniel Sikljan)",
-     "url": "https://weraveyou.com/2024/04/john-summit-dom-dolla-deliver-unforgettable-b2b-at-coachella-2024/",
-     "date": "2024-04-15"
-    }
-   ],
-   "photos": [],
-   "media": [
-    {
-     "kind": "photo",
-     "file": "img/billboards/2024-dom-dolla-sahara-saturday.jpg",
-     "w": 1559,
-     "h": 1600,
-     "alt": "Billboard showing only a moustache and a big smile, with the words Sahara Saturday",
-     "caption": "April 18, 2024.",
-     "credit": "Richard Lathrop",
-     "license": "© Richard Lathrop, used with permission",
-     "license_kind": "own",
-     "taken": "2024-04-18"
-    }
-   ],
-   "rights": "own"
   },
   {
    "year": 2024,
