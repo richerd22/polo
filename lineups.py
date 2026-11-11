@@ -189,7 +189,7 @@ def appearances(A):
                 for act in st.get("acts", []):
                     rec = {"year": y, "day": d["day"], "stage": st["stage"], "as": act}
                     keys = {norm(act)} | {norm(p) for p in split_pair(act)}
-                    for k in keys:
+                    for k in sorted(keys):
                         if k:
                             lst = idx.setdefault(k, [])
                             if not any(r["year"] == y for r in lst):
@@ -642,7 +642,7 @@ def page_artists(A, idx, site, current_slugs):
     for k, v in idx.items():
         name = v[0]["as"]
         items.append((norm(name), name, v, k))
-    items.sort(key=lambda t: (t[0], t[1]))
+    items.sort(key=lambda t: (t[0], t[1], t[3]))
     lis = "".join(f'<li data-n="{e(n)}"><b>' + (f'<a href="/lineup/2027/a/{current_slugs[k]}/">{e(n)}</a>' if k in current_slugs else e(n)) + f'</b> <span>{", ".join(f"<a href=\"/archive/{r["year"]}/\">{r["year"]}</a>" for r in v)}</span></li>' for _, n, v, k in items)
     body = f"""<main class="lu" id="main">
 <p class="bc"><a href="/archive/">Every Coachella lineup</a> / Every act</p>
