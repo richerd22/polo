@@ -1,6 +1,7 @@
-Coachella 2027 lineup - as announced 2026-11-10, transcribed from the official poster by polo.cold.fyi (independent).
+Coachella 2027 lineup - as announced 2026-11-10, transcribed from the official poster by polo.cold.fyi (independent, not affiliated with Coachella).
 Weekends: 2027-04-09 to 2027-04-11 and 2027-04-16 to 2027-04-18, Empire Polo Club, Indio, California. Same lineup both weekends.
-Format: day | poster line (1 = headliner) | act as printed | note
+Per-act pages: https://polo.cold.fyi/lineup/2027/a/<slug>/ (slugs in the JSON and CSV).
+Format: day | poster line (1 = headliner) | act as printed | note | earlier Coachella years
 
 Friday | 1 | Dua Lipa
 Friday | 2 | Madonna | in the dance tent

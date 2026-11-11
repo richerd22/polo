@@ -778,19 +778,17 @@ def main():
                                          "boards": bs}, indent=1, ensure_ascii=False))
     yrs = json.loads((ROOT / "data/years.json").read_text())
     write("calendar.json", json.dumps(calendar(), indent=1, ensure_ascii=False))
-    # lineups (AX: page + json/csv/txt per year)
+    # lineups, archive and headliners (AX: every page also has json/csv/txt)
     lineup_llms, lineup_urls = [], []
-    for lf in sorted((ROOT / "data/lineup").glob("*.json"), reverse=True):
-        L = json.loads(lf.read_text())
-        y = L["year"]
-        write(f"lineup/{y}/index.html", shell(f"Coachella {y} lineup: every act, by day | {NAME}",
-              f"The full Coachella {y} lineup, transcribed from the official poster: every act by day and billing line, as printed, with JSON, CSV and plain-text downloads. Independent.",
-              f"/lineup/{y}/", lineups.page(L, SITE), crumbs=f'<span class="sep">/</span><a href="/lineup/">Lineup</a><span class="sep">/</span>{y}',
-              extra_ld=lineups.ld(L, SITE, f"/lineup/{y}/"), extra_css=lineups.CSS, extra_js=lineups.JS))
-        for fn, txt in lineups.files(L).items():
-            write(fn, txt)
-        lineup_llms += lineups.llms_lines(L, SITE)
-        lineup_urls.append(f"/lineup/{y}/")
+    lfs = sorted((ROOT / "data/lineup").glob("[0-9]*.json"), reverse=True)
+    newest = json.loads(lfs[0].read_text()) if lfs else None
+    for lf in lfs:
+        ll, uu = lineups.render(json.loads(lf.read_text()), SITE, write, shell, ROOT, NAME)
+        lineup_llms += ll; lineup_urls += uu
+    ll, uu = lineups.archive(ROOT, SITE, write, shell, NAME, current=newest)
+    lineup_llms += ll; lineup_urls += uu
+    ll, uu = lineups.headliners(ROOT, SITE, write, shell, NAME)
+    lineup_llms += ll; lineup_urls += uu
     llms = [f"# {LONGNAME}", "", "> A cited, independent deep dive on how the Coachella festival works - the grounds (Empire Polo Club), polo itself, the stages, the 2006 Daft Punk pyramid, the moments, the transport system, camping rituals, the lineup, the build, the money, the desert season and an archive of artist billboards on the I-10.",
             "", f"About {total_words:,} words, {len(sources)} sources, updated {UPDATED}. Not affiliated with Coachella, Goldenvoice or AEG.", "", "## Chapters"]
     llms += [f"- [{c['title']}]({SITE}/{c['slug']}/): {c.get('short','')}" for c in chapters]

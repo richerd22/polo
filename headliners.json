@@ -1,0 +1,364 @@
+{
+ "note": "Headliners by year, as recorded in polo.cold.fyi/years/ (sources there) plus announced future editions.",
+ "years": [
+  {
+   "year": 1993,
+   "headliners": [
+    "Pearl Jam"
+   ],
+   "status": "happened",
+   "source": "https://polo.cold.fyi/years/"
+  },
+  {
+   "year": 1999,
+   "headliners": [
+    "Beck",
+    "Tool",
+    "Rage Against the Machine"
+   ],
+   "status": "happened",
+   "source": "https://polo.cold.fyi/years/"
+  },
+  {
+   "year": 2000,
+   "headliners": [],
+   "status": "no festival",
+   "source": "https://polo.cold.fyi/years/"
+  },
+  {
+   "year": 2001,
+   "headliners": [
+    "Jane's Addiction"
+   ],
+   "status": "happened",
+   "source": "https://polo.cold.fyi/years/"
+  },
+  {
+   "year": 2002,
+   "headliners": [
+    "Bjork",
+    "Oasis",
+    "Siouxsie and the Banshees (reunion, per Wikipedia)"
+   ],
+   "status": "happened",
+   "source": "https://polo.cold.fyi/years/"
+  },
+  {
+   "year": 2003,
+   "headliners": [
+    "Beastie Boys",
+    "Red Hot Chili Peppers",
+    "Iggy and the Stooges (reunion)"
+   ],
+   "status": "happened",
+   "source": "https://polo.cold.fyi/years/"
+  },
+  {
+   "year": 2004,
+   "headliners": [
+    "Radiohead",
+    "The Cure"
+   ],
+   "status": "happened",
+   "source": "https://polo.cold.fyi/years/"
+  },
+  {
+   "year": 2005,
+   "headliners": [
+    "Coldplay",
+    "Nine Inch Nails",
+    "New Order (Sunday closer after NIN, per Rolling Stone)"
+   ],
+   "status": "happened",
+   "source": "https://polo.cold.fyi/years/"
+  },
+  {
+   "year": 2006,
+   "headliners": [
+    "Depeche Mode",
+    "Tool"
+   ],
+   "status": "happened",
+   "source": "https://polo.cold.fyi/years/"
+  },
+  {
+   "year": 2007,
+   "headliners": [
+    "Bjork",
+    "Red Hot Chili Peppers",
+    "Rage Against the Machine (reunion)"
+   ],
+   "status": "happened",
+   "source": "https://polo.cold.fyi/years/"
+  },
+  {
+   "year": 2008,
+   "headliners": [
+    "Jack Johnson",
+    "Prince",
+    "Roger Waters"
+   ],
+   "status": "happened",
+   "source": "https://polo.cold.fyi/years/"
+  },
+  {
+   "year": 2009,
+   "headliners": [
+    "Paul McCartney",
+    "The Killers",
+    "The Cure"
+   ],
+   "status": "happened",
+   "source": "https://polo.cold.fyi/years/"
+  },
+  {
+   "year": 2010,
+   "headliners": [
+    "Jay-Z",
+    "Muse",
+    "Gorillaz"
+   ],
+   "status": "happened",
+   "source": "https://polo.cold.fyi/years/"
+  },
+  {
+   "year": 2011,
+   "headliners": [
+    "Kings of Leon",
+    "Arcade Fire",
+    "Kanye West"
+   ],
+   "status": "happened",
+   "source": "https://polo.cold.fyi/years/"
+  },
+  {
+   "year": 2012,
+   "headliners": [
+    "The Black Keys",
+    "Radiohead",
+    "Dr. Dre and Snoop Dogg"
+   ],
+   "status": "happened",
+   "source": "https://polo.cold.fyi/years/"
+  },
+  {
+   "year": 2013,
+   "headliners": [
+    "Blur",
+    "The Stone Roses",
+    "Phoenix",
+    "Red Hot Chili Peppers"
+   ],
+   "status": "happened",
+   "source": "https://polo.cold.fyi/years/"
+  },
+  {
+   "year": 2014,
+   "headliners": [
+    "Outkast",
+    "Muse",
+    "Arcade Fire"
+   ],
+   "status": "happened",
+   "source": "https://polo.cold.fyi/years/"
+  },
+  {
+   "year": 2015,
+   "headliners": [
+    "AC/DC",
+    "Jack White",
+    "Drake"
+   ],
+   "status": "happened",
+   "source": "https://polo.cold.fyi/years/"
+  },
+  {
+   "year": 2016,
+   "headliners": [
+    "LCD Soundsystem",
+    "Guns N' Roses",
+    "Calvin Harris"
+   ],
+   "status": "happened",
+   "source": "https://polo.cold.fyi/years/"
+  },
+  {
+   "year": 2017,
+   "headliners": [
+    "Radiohead",
+    "Lady Gaga (replacing Beyonce)",
+    "Kendrick Lamar"
+   ],
+   "status": "happened",
+   "source": "https://polo.cold.fyi/years/"
+  },
+  {
+   "year": 2018,
+   "headliners": [
+    "The Weeknd",
+    "Beyonce",
+    "Eminem"
+   ],
+   "status": "happened",
+   "source": "https://polo.cold.fyi/years/"
+  },
+  {
+   "year": 2019,
+   "headliners": [
+    "Childish Gambino",
+    "Tame Impala",
+    "Ariana Grande"
+   ],
+   "status": "happened",
+   "source": "https://polo.cold.fyi/years/"
+  },
+  {
+   "year": 2020,
+   "headliners": [
+    "Rage Against the Machine (scheduled)",
+    "Travis Scott (scheduled)",
+    "Frank Ocean (scheduled)"
+   ],
+   "status": "canceled",
+   "source": "https://polo.cold.fyi/years/"
+  },
+  {
+   "year": 2021,
+   "headliners": [],
+   "status": "no festival",
+   "source": "https://polo.cold.fyi/years/"
+  },
+  {
+   "year": 2022,
+   "headliners": [
+    "Harry Styles",
+    "Billie Eilish",
+    "Swedish House Mafia and The Weeknd (replacing Ye)"
+   ],
+   "status": "happened",
+   "source": "https://polo.cold.fyi/years/"
+  },
+  {
+   "year": 2023,
+   "headliners": [
+    "Bad Bunny",
+    "BLACKPINK",
+    "Frank Ocean (W1)",
+    "Blink-182 (W2, replacing Ocean)"
+   ],
+   "status": "happened",
+   "source": "https://polo.cold.fyi/years/"
+  },
+  {
+   "year": 2024,
+   "headliners": [
+    "Lana Del Rey",
+    "Tyler, the Creator",
+    "Doja Cat",
+    "No Doubt (reunion, sub-headline)"
+   ],
+   "status": "happened",
+   "source": "https://polo.cold.fyi/years/"
+  },
+  {
+   "year": 2025,
+   "headliners": [
+    "Lady Gaga",
+    "Green Day",
+    "Post Malone",
+    "Travis Scott (special slot)"
+   ],
+   "status": "happened",
+   "source": "https://polo.cold.fyi/years/"
+  },
+  {
+   "year": 2026,
+   "headliners": [
+    "Sabrina Carpenter",
+    "Justin Bieber",
+    "Karol G",
+    "Anyma (special slot)"
+   ],
+   "status": "happened",
+   "source": "https://polo.cold.fyi/years/"
+  },
+  {
+   "year": 2027,
+   "headliners": [
+    "Dua Lipa",
+    "Tame Impala",
+    "SZA",
+    "Daddy Yankee"
+   ],
+   "status": "announced",
+   "source": "https://gvwire.com/2026/11/10/dua-lipa-tame-impala-and-sza-to-headline-coachella-2027/"
+  }
+ ],
+ "repeat_headliners": [
+  {
+   "name": "Red Hot Chili Peppers",
+   "years": [
+    2003,
+    2007,
+    2013
+   ]
+  },
+  {
+   "name": "Radiohead",
+   "years": [
+    2004,
+    2012,
+    2017
+   ]
+  },
+  {
+   "name": "Tool",
+   "years": [
+    1999,
+    2006
+   ]
+  },
+  {
+   "name": "Rage Against the Machine",
+   "years": [
+    1999,
+    2007
+   ]
+  },
+  {
+   "name": "Bjork",
+   "years": [
+    2002,
+    2007
+   ]
+  },
+  {
+   "name": "The Cure",
+   "years": [
+    2004,
+    2009
+   ]
+  },
+  {
+   "name": "Muse",
+   "years": [
+    2010,
+    2014
+   ]
+  },
+  {
+   "name": "Arcade Fire",
+   "years": [
+    2011,
+    2014
+   ]
+  },
+  {
+   "name": "Lady Gaga",
+   "years": [
+    2017,
+    2025
+   ]
+  }
+ ]
+}

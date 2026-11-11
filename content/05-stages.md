@@ -141,7 +141,7 @@ Heineken has been Coachella's official beer since 2002.[^st-talents14][^st-prn19
 
 ## The Bunker
 
-The 2026 map, posted on April 9, changed so little from 2025 that Showbams called it the first year it could remember with no major modifications.[^st-showbams26] The one new room was underground: a 17,000-square-foot, air-conditioned bunker near the Sahara, holding Radiohead's *KID A MNESIA* installation.[^st-showbams26] The moments chapter has the story. Whether it gets a second tenant is one of this chapter's open questions.
+The 2026 map, posted on April 9, changed so little from 2025 that Showbams called it the first year it could remember with no major modifications.[^st-showbams26] The one new room was underground: a 17,000-square-foot, air-conditioned bunker near the Sahara, holding Radiohead's *KID A MNESIA* installation.[^st-showbams26] The moments chapter has the story. It does get a second tenant: the 2027 poster, released Nov. 10, 2026, ends with "The Bunker Debut Of JUSTICE - Blinded By The Lights."[^st-poster27] What that looks like inside had not been announced as of Nov. 11, 2026.
 
 ## Retired, temporary and never built
 
@@ -231,8 +231,9 @@ Photo: [sachoben](https://commons.wikimedia.org/wiki/File:Coachella_2013_Do_Lab_
 - Who named the tents after deserts, and when the second stage became the Outdoor Theatre.
 - The 2024 Sahara's real footprint: 320 ft long, or 400 x 410 ft.
 - Whether the Red Bull Mirage gained a third level in 2026 or was always that tall.
-- What goes into the bunker after Radiohead, now that the installation is on tour.
+- What Justice's "Blinded By The Lights" is, now that the 2027 poster has given them the bunker.
 
+[^st-poster27]: CULTR, describing the official 2027 poster - "Coachella Reveal 2027 Lineup: Dua Lipa, Tame Impala, SZA + More" - 2026-11-11 - https://www.cultr.com/news/coachella-reveal-2027-lineup-dua-lipa-tame-impala-sza-more/
 [^st-brit]: Encyclopaedia Britannica - "World's largest deserts" - n.d. - https://britannica.com/topic/worlds-largest-deserts-2225895
 [^st-psl]: Palm Springs Life - "First Coachella music festival" - n.d. - https://www.palmspringslife.com/first-coachella-music-festival/
 [^st-da13]: Dancing Astronaut - "Exploring Indio: Day One at Coachella, 'Yuma, Yuma, Yuma'" - 2013-04-13 - https://dancingastronaut.com/2013/04/exploring-indio-day-one-at-coachella-yuma-yuma-yuma/
