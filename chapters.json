@@ -639,9 +639,9 @@
   "n": 11,
   "slug": "lineup",
   "title": "The lineup and the poster",
-  "short": "One man reads thousands of pitches a year, picks about 150 acts, and sets every name on the poster in one typeface at one of several sizes - a size agents fight over. The poster used to land in January. Now it lands in the fall, and the 2027 passes went on sale with no names on them at all. Behind it sits a radius clause that keeps those names off other stages from December to May, and a small Portland festival that sued over it.",
+  "short": "One man reads thousands of pitches a year, picks about 150 acts, and sets every name on the poster in one typeface at one of several sizes - a size agents fight over. The poster used to land in January. Now it lands in the fall: the 2027 passes went on sale in May with no names on them, and the poster followed on Nov. 10, 2026, with a fourth headliner and no day for him. Behind it sits a radius clause that keeps those names off other stages from December to May, and a small Portland festival that sued over it.",
   "url": "https://polo.cold.fyi/lineup/",
-  "words": 2027,
+  "words": 2288,
   "sources": [
    25,
    42,
@@ -680,7 +680,11 @@
    464,
    465,
    466,
-   467
+   467,
+   468,
+   469,
+   470,
+   471
   ]
  },
  {
@@ -722,11 +726,7 @@
    356,
    419,
    430,
-   455,
-   468,
-   469,
-   470,
-   471,
+   456,
    472,
    473,
    474,
@@ -756,7 +756,11 @@
    498,
    499,
    500,
-   501
+   501,
+   502,
+   503,
+   504,
+   505
   ]
  },
  {
@@ -798,10 +802,6 @@
    424,
    435,
    436,
-   502,
-   503,
-   504,
-   505,
    506,
    507,
    508,
@@ -827,7 +827,11 @@
    528,
    529,
    530,
-   531
+   531,
+   532,
+   533,
+   534,
+   535
   ]
  },
  {
@@ -866,12 +870,8 @@
    413,
    414,
    415,
-   512,
-   525,
-   532,
-   533,
-   534,
-   535,
+   516,
+   529,
    536,
    537,
    538,
@@ -902,7 +902,11 @@
    563,
    564,
    565,
-   566
+   566,
+   567,
+   568,
+   569,
+   570
   ]
  },
  {
@@ -916,13 +920,9 @@
    51,
    52,
    382,
-   532,
-   540,
-   561,
-   567,
-   568,
-   569,
-   570,
+   536,
+   544,
+   565,
    571,
    572,
    573,
@@ -958,7 +958,11 @@
    603,
    604,
    605,
-   606
+   606,
+   607,
+   608,
+   609,
+   610
   ]
  }
 ]

@@ -2,7 +2,7 @@
 n: 11
 slug: lineup
 title: The lineup and the poster
-short: One man reads thousands of pitches a year, picks about 150 acts, and sets every name on the poster in one typeface at one of several sizes - a size agents fight over. The poster used to land in January. Now it lands in the fall, and the 2027 passes went on sale with no names on them at all. Behind it sits a radius clause that keeps those names off other stages from December to May, and a small Portland festival that sued over it.
+short: One man reads thousands of pitches a year, picks about 150 acts, and sets every name on the poster in one typeface at one of several sizes - a size agents fight over. The poster used to land in January. Now it lands in the fall: the 2027 passes went on sale in May with no names on them, and the poster followed on Nov. 10, 2026, with a fourth headliner and no day for him. Behind it sits a radius clause that keeps those names off other stages from December to May, and a small Portland festival that sued over it.
 ---
 
 Until Jan. 1, 2019, Goldenvoice was making a Coachella poster with Kanye West at the top of it. The lineup came out on Jan. 2 without him.[^ln-latimes19][^ln-fader19] Paul Tollett told the Los Angeles Times that West's production ideas were "great," but "we just weren't able to pull them off right now."[^ln-faderkanye] The poster is the festival's whole pitch on one sheet, and it gets argued over, reworked and, now and then, thrown out the night before.
@@ -39,7 +39,7 @@ Fans read the poster as a pay chart. Stereogum's 2014 headline called the scramb
 
 For most of the festival's life the lineup came out in January. Music Festival Wizard's tally puts every drop from 2005 to 2012 somewhere between Jan. 9 and Jan. 31; that list is a single undated page, and at least one of its weekdays is wrong, so treat those early dates as approximate.[^ln-mfw] From 2013 the dates are firmer, and they kept creeping earlier into the new year until the drop settled on the first days of January.[^ln-grimy]
 
-Then the calendar broke. The 2025 lineup came out Nov. 20, 2024, about two months ahead of the old schedule.[^ln-pollstar24] The 2026 lineup came out Sept. 15, 2025, about four months early.[^ln-pollstar25] And for 2027 Goldenvoice skipped the poster altogether, at least at first: the dates (Apr. 9-11 and 16-18) were confirmed in April 2026 and advance passes went on sale before any names were announced.[^ln-nme26] That sale opened May 1, 2026, with weekend 1 GA from $599 and a $49 down payment.[^ln-kiss26] As of Oct. 30, 2026, there was still no official 2027 lineup. TMZ reported SZA, Dua Lipa and Tame Impala as headliners, and Consequence wrote that the announcement was "expected soon."[^ln-cos26]
+Then the calendar broke. The 2025 lineup came out Nov. 20, 2024, about two months ahead of the old schedule.[^ln-pollstar24] The 2026 lineup came out Sept. 15, 2025, about four months early.[^ln-pollstar25] And for 2027 Goldenvoice skipped the poster altogether, at least at first: the dates (Apr. 9-11 and 16-18) were confirmed in April 2026 and advance passes went on sale before any names were announced.[^ln-nme26] That sale opened May 1, 2026, with weekend 1 GA from $599 and a $49 down payment.[^ln-kiss26] On Oct. 30, 2026, TMZ reported SZA, Dua Lipa and Tame Impala as headliners, and Consequence wrote that the announcement was "expected soon."[^ln-cos26] It came 11 days later. The 2027 lineup went out Tuesday, Nov. 10, 2026, six months after the passes went on sale, with those three on top.[^ln-gvwire26]
 
 :::numbers When the lineup came out
 - 2014: Jan. 8, 2014[^ln-grimy]
@@ -55,7 +55,7 @@ Then the calendar broke. The 2025 lineup came out Nov. 20, 2024, about two month
 - 2024: Jan. 16, 2024[^ln-pollstar2401]
 - 2025: Nov. 20, 2024[^ln-pollstar24]
 - 2026: Sept. 15, 2025[^ln-pollstar25]
-- 2027: passes on sale May 1, 2026; no lineup as of Oct. 30, 2026[^ln-kiss26][^ln-cos26]
+- 2027: Nov. 10, 2026, six months after passes went on sale May 1, 2026[^ln-gvwire26][^ln-kiss26]
 :::
 
 ## Why the drop moved
@@ -82,7 +82,17 @@ The radius clause says artists may not leak. In practice the biggest names keep 
 
 ## The ones who said no
 
-The top line is also the hardest to fill, and the misses only surface as reports. For 2025, Digital Music News reported that Kendrick Lamar and Rihanna had declined headline offers.[^ln-dmn24] For 2027 the rumor cycle started in September 2026 with HITS, which named Tame Impala and Dua Lipa,[^ln-stereogum26] and by late October TMZ was reporting that BTS and Rage Against the Machine had turned the festival down.[^ln-cos26] None of that is confirmed by Goldenvoice, and none of it has to be. A festival that sells its passes before the poster is out has already been paid for the suspense.
+The top line is also the hardest to fill, and the misses only surface as reports. For 2025, Digital Music News reported that Kendrick Lamar and Rihanna had declined headline offers.[^ln-dmn24] For 2027 the rumor cycle started in September 2026 with HITS, which named Tame Impala and Dua Lipa,[^ln-stereogum26] and by late October TMZ was reporting that BTS and Rage Against the Machine had turned the festival down.[^ln-cos26] The September names held: Tame Impala and Dua Lipa are both on the 2027 poster.[^ln-gvwire26] The turn-downs were never confirmed by Goldenvoice, and never had to be. A festival that sells its passes before the poster is out has already been paid for the suspense.
+
+## The 2027 poster
+
+The 2027 poster broke its own pattern in two places. There are three day blocks, Friday for Dua Lipa, Saturday for Tame Impala and Sunday for SZA, and then a fourth name with no day at all: Daddy Yankee, on his own line under Sunday, billed "In the Desert."[^ln-gvwire26][^ln-poster27] Yahoo called him a fourth headliner booked for a "special production."[^ln-yahoo26] And Madonna, on Friday's second line, carries a stage in her billing, "In the Dance Tent," the only act on the sheet with a stage printed next to its name.[^ln-poster27][^ln-cultr26]
+
+The bottom of the sheet introduces a new word. "The Bunker Debut Of JUSTICE - Blinded By The Lights" is printed under everything else, also with no day.[^ln-poster27][^ln-cultr26] The poster does not say what the Bunker is, and as of Nov. 11, 2026, none of the coverage gathered here explained it.
+
+There is one more break with the house rule in the Eurostile section above. On the 2027 sheet, Weezer's name is printed in the band's own logo lettering, the way the Misfits' was in 2025.[^ln-poster27]
+
+Passes for 2027 go on general sale Friday, Nov. 13, 2026, at noon PT.[^ln-gvwire26] Every act, line by line and spelled as printed, is on [the 2027 lineup page](/lineup/2027/), with the same list as JSON, CSV and plain text for anyone, or anything, that wants to read it.
 
 ## When the top line falls out
 
@@ -98,6 +108,10 @@ The dome would have stood about where the toilets were. Every poster is a set of
 - The pre-2013 drop dates, which rest on one undated list.
 - Whether the radius clause still reads the way the 2018 filings say it did. The settlement kept the current terms private.
 
+[^ln-gvwire26]: GV Wire (Anthony W. Haddad) - "Dua Lipa, Tame Impala, and SZA to Headline Coachella 2027" - 2026-11-10 - https://gvwire.com/2026/11/10/dua-lipa-tame-impala-and-sza-to-headline-coachella-2027/
+[^ln-yahoo26]: Yahoo Entertainment - "Coachella 2027 Sets Dua Lipa, Tame Impala, SZA and Daddy Yankee as Headliners" - 2026-11-11 - https://www.yahoo.com/entertainment/music/festivals/articles/coachella-2027-sets-dua-lipa-064237129.html
+[^ln-cultr26]: CULTR - "Coachella Reveal 2027 Lineup: Dua Lipa, Tame Impala, SZA + More" - 2026-11-11 - https://www.cultr.com/news/coachella-reveal-2027-lineup-dua-lipa-tame-impala-sza-more/
+[^ln-poster27]: Goldenvoice - "Coachella 2027" official lineup poster, read directly (print-style artwork, not hosted here) - 2026-11-10
 [^ln-latimes19]: Los Angeles Times, via PressReader - "Desert King" - 2019-01-13 - https://www.pressreader.com/usa/los-angeles-times/20190113/282686163384762
 [^ln-fader19]: The FADER - "Childish Gambino, Tame Impala and Ariana Grande will headline this year's Coachella" - 2019-01-02 - https://www.thefader.com/2019/01/02/coachella-2019-lineup-childish-gambino-ariana-grande-tame-impala-solange-indio-april
 [^ln-faderkanye]: The FADER (David Renshaw) - "Coachella co-founder confirms Kanye West dropped out two days before line-up announcement" - 2019-01-14 - https://thefader.com/2019/01/14/coachella-kanye-wet-headline-dome-paul-tollett

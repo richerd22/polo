@@ -8,6 +8,7 @@ Writes: index.html, <slug>/index.html for every chapter, all/, sources/, correct
 /play/ is a hand-built page and is left alone (only linked).
 """
 import datetime, html, json, pathlib, re
+import lineups
 
 ROOT = pathlib.Path(__file__).resolve().parent
 SITE = "https://polo.cold.fyi"
@@ -453,7 +454,7 @@ lab();if(b)b.addEventListener('click',function(){var n=cur()==='dark'?'light':'d
 var p=document.getElementById('progress');if(p){var f=function(){var h=document.documentElement,m=h.scrollHeight-h.clientHeight;p.style.width=(m>0?h.scrollTop/m*100:0)+'%'};addEventListener('scroll',f,{passive:true});f()}})();"""
 
 
-def shell(title, desc, path, body, crumbs="", rail="", article=None):
+def shell(title, desc, path, body, crumbs="", rail="", article=None, extra_ld=None, extra_css="", extra_js=""):
     canon = SITE + path
     ld = {"@context": "https://schema.org", "@type": "Article" if article else "WebSite", "headline": title, "name": title,
           "description": desc, "url": canon, "inLanguage": "en", "dateModified": TODAY.isoformat(),
@@ -481,7 +482,8 @@ def shell(title, desc, path, body, crumbs="", rail="", article=None):
 <link rel="preload" href="/fonts/big-shoulders-stencil-display-latin-900-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="/fonts/source-serif-4-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
 <script type="application/ld+json">{json.dumps(ld)}</script>
-<style>{CSS}</style>
+{"".join(f"<script type=\"application/ld+json\">{json.dumps(x, ensure_ascii=False)}</script>" for x in (extra_ld or []))}
+<style>{CSS}{extra_css}</style>
 </head>
 <body><a class="skip" href="#main">Skip to the text</a><div class="progress" id="progress" aria-hidden="true"></div>
 <header class="mast"><span><a href="https://cold.fyi">cold.fyi</a><span class="sep">/</span><a href="/">{NAME}</a>{crumbs}</span><button class="theme-btn" id="theme-btn" type="button">Night polo</button></header>
@@ -489,7 +491,7 @@ def shell(title, desc, path, body, crumbs="", rail="", article=None):
 {body}
 <footer class="foot"><p>made with &lt;3 in boston · <a href="https://thirdpolararch.com">Third Polar Arch</a> · <a href="https://map.cold.fyi">the full galaxy: map.cold.fyi</a></p>
 <p>Independent. Not affiliated with Coachella, Goldenvoice or AEG. Corrections and takedowns: <a href="mailto:hello@thirdpolararch.com?subject=polo.cold.fyi">hello@thirdpolararch.com</a> · <a href="/corrections/">corrections</a> · <a href="/sources/">all sources</a> · <a href="/llms.txt">llms.txt</a></p></footer>
-<script>{JS}{CLOCK_JS if path == "/" else ""}</script>
+<script>{JS}{CLOCK_JS if path == "/" else ""}{extra_js}</script>
 </body></html>
 """
 
@@ -724,10 +726,12 @@ def main():
               + tier(tiers[0], "t1") + tier(tiers[1], "t2") + tier(tiers[2], "t3")
               + f'<p class="tier t3"><a href="/play/">Play polo</a><a href="/all/">Everything on one page</a><a href="/sources/">All sources</a></p>'
               + '<p class="foot2">Indio, California · Empire Polo Club · since 1999</p></div></section>')
+    _ly = sorted(int(p.stem) for p in (ROOT / "data/lineup").glob("*.json"))
+    latest_lineup = f'<a href="/lineup/{_ly[-1]}/">The {_ly[-1]} lineup</a>' if _ly else ""
     hub = f"""<main id="main"><div class="hero-art">{scene_svg("hero")}<span class="tag">Indio · the Empire Polo Club · an independent guide</span><h1>Polo</h1></div>
 <section class="hero"><p class="dek">How Coachella actually works: the polo club that stopped playing polo, the roads, the buses, the tents named for deserts, the money, the moments, the pyramid, and every billboard on the drive in.</p>
 <p class="stats"><b>{len(chapters)}</b> chapters · <b>{total_words:,}</b> words · <b>{len(sources)}</b> sources · <b>{len(json.loads((ROOT / 'data/years.json').read_text()))}</b> years · <b>{len([b for b in bs if b['confidence'] != 'low'])}</b> billboards · updated {UPDATED}</p>
-<div class="cta"><a class="primary" href="/{chapters[0]['slug']}/">Start reading</a><a href="/pyramid/">The pyramid</a><a href="/billboards/">The billboards</a><a href="/play/">Play polo</a><a href="/all/">One page</a></div>
+<div class="cta"><a class="primary" href="/{chapters[0]['slug']}/">Start reading</a>{latest_lineup}<a href="/pyramid/">The pyramid</a><a href="/billboards/">The billboards</a><a href="/play/">Play polo</a><a href="/all/">One page</a></div>
 {clock}</section>
 {poster}
 <h2 class="toc-h">Set times</h2>
@@ -774,6 +778,19 @@ def main():
                                          "boards": bs}, indent=1, ensure_ascii=False))
     yrs = json.loads((ROOT / "data/years.json").read_text())
     write("calendar.json", json.dumps(calendar(), indent=1, ensure_ascii=False))
+    # lineups (AX: page + json/csv/txt per year)
+    lineup_llms, lineup_urls = [], []
+    for lf in sorted((ROOT / "data/lineup").glob("*.json"), reverse=True):
+        L = json.loads(lf.read_text())
+        y = L["year"]
+        write(f"lineup/{y}/index.html", shell(f"Coachella {y} lineup: every act, by day | {NAME}",
+              f"The full Coachella {y} lineup, transcribed from the official poster: every act by day and billing line, as printed, with JSON, CSV and plain-text downloads. Independent.",
+              f"/lineup/{y}/", lineups.page(L, SITE), crumbs=f'<span class="sep">/</span><a href="/lineup/">Lineup</a><span class="sep">/</span>{y}',
+              extra_ld=lineups.ld(L, SITE, f"/lineup/{y}/"), extra_css=lineups.CSS, extra_js=lineups.JS))
+        for fn, txt in lineups.files(L).items():
+            write(fn, txt)
+        lineup_llms += lineups.llms_lines(L, SITE)
+        lineup_urls.append(f"/lineup/{y}/")
     llms = [f"# {LONGNAME}", "", "> A cited, independent deep dive on how the Coachella festival works - the grounds (Empire Polo Club), polo itself, the stages, the 2006 Daft Punk pyramid, the moments, the transport system, camping rituals, the lineup, the build, the money, the desert season and an archive of artist billboards on the I-10.",
             "", f"About {total_words:,} words, {len(sources)} sources, updated {UPDATED}. Not affiliated with Coachella, Goldenvoice or AEG.", "", "## Chapters"]
     llms += [f"- [{c['title']}]({SITE}/{c['slug']}/): {c.get('short','')}" for c in chapters]
@@ -781,8 +798,9 @@ def main():
              f"- {SITE}/billboards.json - the billboard archive", f"- {SITE}/calendar.json - festival dates and headliners by year, including announced future editions", "",
              "## Contributing", "- Agents and people adding photos, boards, a new year or facts: https://github.com/richerd22/polo/blob/main/AGENTS.md", "",
              "## Other", f"- [Play polo]({SITE}/play/): a small browser polo game", f"- [Everything on one page]({SITE}/all/)", f"- [All sources]({SITE}/sources/)"]
+    llms += lineup_llms
     write("llms.txt", "\n".join(llms) + "\n")
-    urls = ["/", "/all/", "/sources/", "/play/", "/corrections/"] + [f"/{c['slug']}/" for c in chapters]
+    urls = ["/", "/all/", "/sources/", "/play/", "/corrections/"] + lineup_urls + [f"/{c['slug']}/" for c in chapters]
     write("sitemap.xml", '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +
           "".join(f"<url><loc>{SITE}{u}</loc><lastmod>{TODAY.isoformat()}</lastmod></url>\n" for u in urls) + "</urlset>\n")
     write("robots.txt", f"User-agent: *\nAllow: /\nSitemap: {SITE}/sitemap.xml\n")

@@ -103,9 +103,15 @@
     ]
    ],
    "lineup": {
-    "headliners": []
+    "headliners": [
+     "Dua Lipa",
+     "Tame Impala",
+     "SZA",
+     "Daddy Yankee"
+    ],
+    "announced": "2026-11-10"
    },
-   "on_sale": "Advance passes on sale May 1, 2026, 11 a.m. PT",
+   "on_sale": "General passes on sale Nov. 13, 2026, 12 p.m. PT",
    "sources": [
     {
      "publication": "Pollstar (Sarah Pittman)",
@@ -118,6 +124,12 @@
      "title": "2027 Advance Sale",
      "date": "2026",
      "url": "https://coachella.com/2027-advance-sale"
+    },
+    {
+     "publication": "GV Wire (Anthony W. Haddad)",
+     "title": "Dua Lipa, Tame Impala, and SZA to Headline Coachella 2027",
+     "date": "2026-11-10",
+     "url": "https://gvwire.com/2026/11/10/dua-lipa-tame-impala-and-sza-to-headline-coachella-2027/"
     }
    ]
   }
