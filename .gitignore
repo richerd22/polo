@@ -2,3 +2,4 @@
 incoming/
 .DS_Store
 __MACOSX/
+__pycache__/

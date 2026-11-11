@@ -1,0 +1,1211 @@
+{
+ "year": 2027,
+ "festival": "Coachella Valley Music and Arts Festival",
+ "venue": "Empire Polo Club, Indio, California",
+ "weekends": [
+  [
+   "2027-04-09",
+   "2027-04-11"
+  ],
+  [
+   "2027-04-16",
+   "2027-04-18"
+  ]
+ ],
+ "announced": "2026-11-10",
+ "status": "official lineup as announced; set times, stages and changes not yet published",
+ "how_to_read": "Transcribed from the official poster. 'line' is the poster row within a day (1 = headliner, larger number = smaller type). 'position' is left-to-right order within that row. Names are spelled and capitalized exactly as printed. The same acts play both weekends. Poster order is billing, not set order.",
+ "days": [
+  {
+   "day": "Friday",
+   "dates": [
+    "2027-04-09",
+    "2027-04-16"
+   ],
+   "acts": [
+    {
+     "name": "Dua Lipa",
+     "slug": "dua-lipa",
+     "line": 1,
+     "position": 1,
+     "headliner": true
+    },
+    {
+     "name": "Madonna",
+     "slug": "madonna",
+     "line": 2,
+     "position": 1,
+     "headliner": false,
+     "note": "in the dance tent"
+    },
+    {
+     "name": "Zara Larsson",
+     "slug": "zara-larsson",
+     "line": 2,
+     "position": 2,
+     "headliner": false
+    },
+    {
+     "name": "Steve Lacy",
+     "slug": "steve-lacy",
+     "line": 2,
+     "position": 3,
+     "headliner": false
+    },
+    {
+     "name": "JISOO",
+     "slug": "jisoo",
+     "line": 2,
+     "position": 4,
+     "headliner": false
+    },
+    {
+     "name": "Diljit Dosanjh",
+     "slug": "diljit-dosanjh",
+     "line": 2,
+     "position": 5,
+     "headliner": false
+    },
+    {
+     "name": "Peggy Gou",
+     "slug": "peggy-gou",
+     "line": 2,
+     "position": 6,
+     "headliner": false
+    },
+    {
+     "name": "Kehlani",
+     "slug": "kehlani",
+     "line": 2,
+     "position": 7,
+     "headliner": false
+    },
+    {
+     "name": "Solid Grooves",
+     "slug": "solid-grooves",
+     "line": 2,
+     "position": 8,
+     "headliner": false
+    },
+    {
+     "name": "Giorgio Moroder",
+     "slug": "giorgio-moroder",
+     "line": 3,
+     "position": 1,
+     "headliner": false
+    },
+    {
+     "name": "Social Distortion",
+     "slug": "social-distortion",
+     "line": 3,
+     "position": 2,
+     "headliner": false
+    },
+    {
+     "name": "Pinegrove",
+     "slug": "pinegrove",
+     "line": 3,
+     "position": 3,
+     "headliner": false
+    },
+    {
+     "name": "Angine de Poitrine",
+     "slug": "angine-de-poitrine",
+     "line": 3,
+     "position": 4,
+     "headliner": false
+    },
+    {
+     "name": "Leon Thomas",
+     "slug": "leon-thomas",
+     "line": 3,
+     "position": 5,
+     "headliner": false
+    },
+    {
+     "name": "Drain Gang",
+     "slug": "drain-gang",
+     "line": 3,
+     "position": 6,
+     "headliner": false
+    },
+    {
+     "name": "Snow Strippers",
+     "slug": "snow-strippers",
+     "line": 3,
+     "position": 7,
+     "headliner": false
+    },
+    {
+     "name": "Mike D 5D",
+     "slug": "mike-d-5d",
+     "line": 4,
+     "position": 1,
+     "headliner": false
+    },
+    {
+     "name": "CHRIS STASSY",
+     "slug": "chris-stassy",
+     "line": 4,
+     "position": 2,
+     "headliner": false
+    },
+    {
+     "name": "Milo J",
+     "slug": "milo-j",
+     "line": 4,
+     "position": 3,
+     "headliner": false
+    },
+    {
+     "name": "SG Lewis",
+     "slug": "sg-lewis",
+     "line": 4,
+     "position": 4,
+     "headliner": false
+    },
+    {
+     "name": "Kelela",
+     "slug": "kelela",
+     "line": 4,
+     "position": 5,
+     "headliner": false
+    },
+    {
+     "name": "Franky Rizardo",
+     "slug": "franky-rizardo",
+     "line": 4,
+     "position": 6,
+     "headliner": false
+    },
+    {
+     "name": "Fetty Wap",
+     "slug": "fetty-wap",
+     "line": 4,
+     "position": 7,
+     "headliner": false
+    },
+    {
+     "name": "Vintage Culture",
+     "slug": "vintage-culture",
+     "line": 4,
+     "position": 8,
+     "headliner": false
+    },
+    {
+     "name": "the Damned",
+     "slug": "the-damned",
+     "line": 4,
+     "position": 9,
+     "headliner": false
+    },
+    {
+     "name": "ATARASHII GAKKO!",
+     "slug": "atarashii-gakko",
+     "line": 5,
+     "position": 1,
+     "headliner": false
+    },
+    {
+     "name": "Nettspend",
+     "slug": "nettspend",
+     "line": 5,
+     "position": 2,
+     "headliner": false
+    },
+    {
+     "name": "American Football",
+     "slug": "american-football",
+     "line": 5,
+     "position": 3,
+     "headliner": false
+    },
+    {
+     "name": "xaviersobased",
+     "slug": "xaviersobased",
+     "line": 5,
+     "position": 4,
+     "headliner": false
+    },
+    {
+     "name": "La Dispute",
+     "slug": "la-dispute",
+     "line": 5,
+     "position": 5,
+     "headliner": false
+    },
+    {
+     "name": "Haute & Freddy",
+     "slug": "haute-freddy",
+     "line": 5,
+     "position": 6,
+     "headliner": false
+    },
+    {
+     "name": "the Hellp",
+     "slug": "the-hellp",
+     "line": 5,
+     "position": 7,
+     "headliner": false
+    },
+    {
+     "name": "Disco Dom",
+     "slug": "disco-dom",
+     "line": 5,
+     "position": 8,
+     "headliner": false
+    },
+    {
+     "name": "MPH",
+     "slug": "mph",
+     "line": 6,
+     "position": 1,
+     "headliner": false
+    },
+    {
+     "name": "Bella Kay",
+     "slug": "bella-kay",
+     "line": 6,
+     "position": 2,
+     "headliner": false
+    },
+    {
+     "name": "This Is Lorelei",
+     "slug": "this-is-lorelei",
+     "line": 6,
+     "position": 3,
+     "headliner": false
+    },
+    {
+     "name": "the Womack Sisters",
+     "slug": "the-womack-sisters",
+     "line": 6,
+     "position": 4,
+     "headliner": false
+    },
+    {
+     "name": "mary in the junkyard",
+     "slug": "mary-in-the-junkyard",
+     "line": 6,
+     "position": 5,
+     "headliner": false
+    },
+    {
+     "name": "Close Friends Only",
+     "slug": "close-friends-only",
+     "line": 6,
+     "position": 6,
+     "headliner": false
+    },
+    {
+     "name": "Obskür",
+     "slug": "obskur",
+     "line": 6,
+     "position": 7,
+     "headliner": false
+    },
+    {
+     "name": "Jacob Lusk",
+     "slug": "jacob-lusk",
+     "line": 6,
+     "position": 8,
+     "headliner": false
+    },
+    {
+     "name": "LEENALCHI",
+     "slug": "leenalchi",
+     "line": 7,
+     "position": 1,
+     "headliner": false
+    },
+    {
+     "name": "Bea Miller",
+     "slug": "bea-miller",
+     "line": 7,
+     "position": 2,
+     "headliner": false
+    },
+    {
+     "name": "Gang of Youths",
+     "slug": "gang-of-youths",
+     "line": 7,
+     "position": 3,
+     "headliner": false
+    },
+    {
+     "name": "Love Spells",
+     "slug": "love-spells",
+     "line": 7,
+     "position": 4,
+     "headliner": false
+    },
+    {
+     "name": "Rafael",
+     "slug": "rafael",
+     "line": 7,
+     "position": 5,
+     "headliner": false
+    },
+    {
+     "name": "Nirosta Steel",
+     "slug": "nirosta-steel",
+     "line": 7,
+     "position": 6,
+     "headliner": false
+    },
+    {
+     "name": "Ragie Ban",
+     "slug": "ragie-ban",
+     "line": 7,
+     "position": 7,
+     "headliner": false
+    },
+    {
+     "name": "Eli",
+     "slug": "eli",
+     "line": 8,
+     "position": 1,
+     "headliner": false
+    },
+    {
+     "name": "Las Petunias",
+     "slug": "las-petunias",
+     "line": 8,
+     "position": 2,
+     "headliner": false
+    },
+    {
+     "name": "Violet Grohl",
+     "slug": "violet-grohl",
+     "line": 8,
+     "position": 3,
+     "headliner": false
+    },
+    {
+     "name": "Jackie Hollander",
+     "slug": "jackie-hollander",
+     "line": 8,
+     "position": 4,
+     "headliner": false
+    },
+    {
+     "name": "Jamback x Marsolo",
+     "slug": "jamback-x-marsolo",
+     "line": 8,
+     "position": 5,
+     "headliner": false,
+     "members": [
+      "Jamback",
+      "Marsolo"
+     ]
+    },
+    {
+     "name": "NOYA",
+     "slug": "noya",
+     "line": 8,
+     "position": 6,
+     "headliner": false
+    }
+   ]
+  },
+  {
+   "day": "Saturday",
+   "dates": [
+    "2027-04-10",
+    "2027-04-17"
+   ],
+   "acts": [
+    {
+     "name": "Tame Impala",
+     "slug": "tame-impala",
+     "line": 1,
+     "position": 1,
+     "headliner": true
+    },
+    {
+     "name": "Phoebe Bridgers",
+     "slug": "phoebe-bridgers",
+     "line": 2,
+     "position": 1,
+     "headliner": false
+    },
+    {
+     "name": "Weezer",
+     "slug": "weezer",
+     "line": 2,
+     "position": 2,
+     "headliner": false
+    },
+    {
+     "name": "Tiësto",
+     "slug": "tiesto",
+     "line": 2,
+     "position": 3,
+     "headliner": false
+    },
+    {
+     "name": "Martin Garrix",
+     "slug": "martin-garrix",
+     "line": 2,
+     "position": 4,
+     "headliner": false
+    },
+    {
+     "name": "Robyn",
+     "slug": "robyn",
+     "line": 2,
+     "position": 5,
+     "headliner": false
+    },
+    {
+     "name": "Role Model",
+     "slug": "role-model",
+     "line": 2,
+     "position": 6,
+     "headliner": false
+    },
+    {
+     "name": "ADÉLA",
+     "slug": "adela",
+     "line": 2,
+     "position": 7,
+     "headliner": false
+    },
+    {
+     "name": "Måneskin",
+     "slug": "maneskin",
+     "line": 2,
+     "position": 8,
+     "headliner": false
+    },
+    {
+     "name": "Solomun",
+     "slug": "solomun",
+     "line": 2,
+     "position": 9,
+     "headliner": false
+    },
+    {
+     "name": "NCT",
+     "slug": "nct",
+     "line": 2,
+     "position": 10,
+     "headliner": false
+    },
+    {
+     "name": "Enigma",
+     "slug": "enigma",
+     "line": 3,
+     "position": 1,
+     "headliner": false
+    },
+    {
+     "name": "Underworld",
+     "slug": "underworld",
+     "line": 3,
+     "position": 2,
+     "headliner": false
+    },
+    {
+     "name": "Charlotte de Witte",
+     "slug": "charlotte-de-witte",
+     "line": 3,
+     "position": 3,
+     "headliner": false
+    },
+    {
+     "name": "Leon Bridges",
+     "slug": "leon-bridges",
+     "line": 3,
+     "position": 4,
+     "headliner": false
+    },
+    {
+     "name": "Cloonee",
+     "slug": "cloonee",
+     "line": 3,
+     "position": 5,
+     "headliner": false
+    },
+    {
+     "name": "Magdalena Bay",
+     "slug": "magdalena-bay",
+     "line": 3,
+     "position": 6,
+     "headliner": false
+    },
+    {
+     "name": "Barry Can't Swim",
+     "slug": "barry-can-t-swim",
+     "line": 3,
+     "position": 7,
+     "headliner": false
+    },
+    {
+     "name": "Boy Harsher",
+     "slug": "boy-harsher",
+     "line": 3,
+     "position": 8,
+     "headliner": false
+    },
+    {
+     "name": "KI/KI",
+     "slug": "ki-ki",
+     "line": 3,
+     "position": 9,
+     "headliner": false
+    },
+    {
+     "name": "Mariah the Scientist",
+     "slug": "mariah-the-scientist",
+     "line": 4,
+     "position": 1,
+     "headliner": false
+    },
+    {
+     "name": "Bad Gyal",
+     "slug": "bad-gyal",
+     "line": 4,
+     "position": 2,
+     "headliner": false
+    },
+    {
+     "name": "Basement",
+     "slug": "basement",
+     "line": 4,
+     "position": 3,
+     "headliner": false
+    },
+    {
+     "name": "Brutalismus 3000",
+     "slug": "brutalismus-3000",
+     "line": 4,
+     "position": 4,
+     "headliner": false
+    },
+    {
+     "name": "Beltran",
+     "slug": "beltran",
+     "line": 4,
+     "position": 5,
+     "headliner": false
+    },
+    {
+     "name": "underscores",
+     "slug": "underscores",
+     "line": 4,
+     "position": 6,
+     "headliner": false
+    },
+    {
+     "name": "SB19",
+     "slug": "sb19",
+     "line": 4,
+     "position": 7,
+     "headliner": false
+    },
+    {
+     "name": "Twin Tribes",
+     "slug": "twin-tribes",
+     "line": 4,
+     "position": 8,
+     "headliner": false
+    },
+    {
+     "name": "Odeal",
+     "slug": "odeal",
+     "line": 4,
+     "position": 9,
+     "headliner": false
+    },
+    {
+     "name": "Bassvictim",
+     "slug": "bassvictim",
+     "line": 5,
+     "position": 1,
+     "headliner": false
+    },
+    {
+     "name": "Los Pibes Chorros",
+     "slug": "los-pibes-chorros",
+     "line": 5,
+     "position": 2,
+     "headliner": false
+    },
+    {
+     "name": "Tiffany Day",
+     "slug": "tiffany-day",
+     "line": 5,
+     "position": 3,
+     "headliner": false
+    },
+    {
+     "name": "no na",
+     "slug": "no-na",
+     "line": 5,
+     "position": 4,
+     "headliner": false
+    },
+    {
+     "name": "Mathame",
+     "slug": "mathame",
+     "line": 5,
+     "position": 5,
+     "headliner": false
+    },
+    {
+     "name": "ear",
+     "slug": "ear",
+     "line": 5,
+     "position": 6,
+     "headliner": false
+    },
+    {
+     "name": "Vandelux",
+     "slug": "vandelux",
+     "line": 5,
+     "position": 7,
+     "headliner": false
+    },
+    {
+     "name": "rommulas",
+     "slug": "rommulas",
+     "line": 5,
+     "position": 8,
+     "headliner": false
+    },
+    {
+     "name": "Apollonia",
+     "slug": "apollonia",
+     "line": 5,
+     "position": 9,
+     "headliner": false
+    },
+    {
+     "name": "Getdown Services",
+     "slug": "getdown-services",
+     "line": 5,
+     "position": 10,
+     "headliner": false
+    },
+    {
+     "name": "Good Neighbours",
+     "slug": "good-neighbours",
+     "line": 6,
+     "position": 1,
+     "headliner": false
+    },
+    {
+     "name": "First Day Back",
+     "slug": "first-day-back",
+     "line": 6,
+     "position": 2,
+     "headliner": false
+    },
+    {
+     "name": "Jimi Jules",
+     "slug": "jimi-jules",
+     "line": 6,
+     "position": 3,
+     "headliner": false
+    },
+    {
+     "name": "Twisted Teens",
+     "slug": "twisted-teens",
+     "line": 6,
+     "position": 4,
+     "headliner": false
+    },
+    {
+     "name": "Murda Beatz",
+     "slug": "murda-beatz",
+     "line": 6,
+     "position": 5,
+     "headliner": false
+    },
+    {
+     "name": "Villanelle",
+     "slug": "villanelle",
+     "line": 6,
+     "position": 6,
+     "headliner": false
+    },
+    {
+     "name": "Kolter x Sidney Charles",
+     "slug": "kolter-x-sidney-charles",
+     "line": 6,
+     "position": 7,
+     "headliner": false,
+     "members": [
+      "Kolter",
+      "Sidney Charles"
+     ]
+    },
+    {
+     "name": "La Texana",
+     "slug": "la-texana",
+     "line": 7,
+     "position": 1,
+     "headliner": false
+    },
+    {
+     "name": "OMRI.",
+     "slug": "omri",
+     "line": 7,
+     "position": 2,
+     "headliner": false
+    },
+    {
+     "name": "Volkoder",
+     "slug": "volkoder",
+     "line": 7,
+     "position": 3,
+     "headliner": false
+    },
+    {
+     "name": "Zimmer90",
+     "slug": "zimmer90",
+     "line": 7,
+     "position": 4,
+     "headliner": false
+    },
+    {
+     "name": "LuSiD",
+     "slug": "lusid",
+     "line": 7,
+     "position": 5,
+     "headliner": false
+    },
+    {
+     "name": "Dream Boat",
+     "slug": "dream-boat",
+     "line": 7,
+     "position": 6,
+     "headliner": false
+    }
+   ]
+  },
+  {
+   "day": "Sunday",
+   "dates": [
+    "2027-04-11",
+    "2027-04-18"
+   ],
+   "acts": [
+    {
+     "name": "SZA",
+     "slug": "sza",
+     "line": 1,
+     "position": 1,
+     "headliner": true
+    },
+    {
+     "name": "Don Toliver",
+     "slug": "don-toliver",
+     "line": 2,
+     "position": 1,
+     "headliner": false
+    },
+    {
+     "name": "DOM DOLLA",
+     "slug": "dom-dolla",
+     "line": 2,
+     "position": 2,
+     "headliner": false
+    },
+    {
+     "name": "Kygo",
+     "slug": "kygo",
+     "line": 2,
+     "position": 3,
+     "headliner": false
+    },
+    {
+     "name": "Empire of the Sun",
+     "slug": "empire-of-the-sun",
+     "line": 2,
+     "position": 4,
+     "headliner": false
+    },
+    {
+     "name": "Four Tet",
+     "slug": "four-tet",
+     "line": 2,
+     "position": 5,
+     "headliner": false
+    },
+    {
+     "name": "the Neighbourhood",
+     "slug": "the-neighbourhood",
+     "line": 2,
+     "position": 6,
+     "headliner": false
+    },
+    {
+     "name": "Becky G",
+     "slug": "becky-g",
+     "line": 2,
+     "position": 7,
+     "headliner": false
+    },
+    {
+     "name": "BABYMONSTER",
+     "slug": "babymonster",
+     "line": 2,
+     "position": 8,
+     "headliner": false
+    },
+    {
+     "name": "Amelie Lens x Sara Landry",
+     "slug": "amelie-lens-x-sara-landry",
+     "line": 3,
+     "position": 1,
+     "headliner": false,
+     "members": [
+      "Amelie Lens",
+      "Sara Landry"
+     ]
+    },
+    {
+     "name": "Remi Wolf",
+     "slug": "remi-wolf",
+     "line": 3,
+     "position": 2,
+     "headliner": false
+    },
+    {
+     "name": "Tove Lo",
+     "slug": "tove-lo",
+     "line": 3,
+     "position": 3,
+     "headliner": false
+    },
+    {
+     "name": "Victoria Monét",
+     "slug": "victoria-monet",
+     "line": 3,
+     "position": 4,
+     "headliner": false
+    },
+    {
+     "name": "EsDeeKid",
+     "slug": "esdeekid",
+     "line": 3,
+     "position": 5,
+     "headliner": false
+    },
+    {
+     "name": "Caroline Polachek",
+     "slug": "caroline-polachek",
+     "line": 3,
+     "position": 6,
+     "headliner": false
+    },
+    {
+     "name": "Chase & Status",
+     "slug": "chase-status",
+     "line": 3,
+     "position": 7,
+     "headliner": false
+    },
+    {
+     "name": "MUNA",
+     "slug": "muna",
+     "line": 3,
+     "position": 8,
+     "headliner": false
+    },
+    {
+     "name": "Boris Brejcha",
+     "slug": "boris-brejcha",
+     "line": 4,
+     "position": 1,
+     "headliner": false
+    },
+    {
+     "name": "Jorja Smith",
+     "slug": "jorja-smith",
+     "line": 4,
+     "position": 2,
+     "headliner": false
+    },
+    {
+     "name": "the Avalanches",
+     "slug": "the-avalanches",
+     "line": 4,
+     "position": 3,
+     "headliner": false
+    },
+    {
+     "name": "BOLO",
+     "slug": "bolo",
+     "line": 4,
+     "position": 4,
+     "headliner": false
+    },
+    {
+     "name": "Pennywise",
+     "slug": "pennywise",
+     "line": 4,
+     "position": 5,
+     "headliner": false
+    },
+    {
+     "name": "Freddie Gibbs",
+     "slug": "freddie-gibbs",
+     "line": 4,
+     "position": 6,
+     "headliner": false
+    },
+    {
+     "name": "Shygirl",
+     "slug": "shygirl",
+     "line": 4,
+     "position": 7,
+     "headliner": false
+    },
+    {
+     "name": "Julia Wolf",
+     "slug": "julia-wolf",
+     "line": 4,
+     "position": 8,
+     "headliner": false
+    },
+    {
+     "name": "Odd Mob",
+     "slug": "odd-mob",
+     "line": 4,
+     "position": 9,
+     "headliner": false
+    },
+    {
+     "name": "Ayra Starr",
+     "slug": "ayra-starr",
+     "line": 4,
+     "position": 10,
+     "headliner": false
+    },
+    {
+     "name": "Lambrini Girls",
+     "slug": "lambrini-girls",
+     "line": 5,
+     "position": 1,
+     "headliner": false
+    },
+    {
+     "name": "AKRIILA",
+     "slug": "akriila",
+     "line": 5,
+     "position": 2,
+     "headliner": false
+    },
+    {
+     "name": "Dinner Party",
+     "slug": "dinner-party",
+     "line": 5,
+     "position": 3,
+     "headliner": false
+    },
+    {
+     "name": "Silva Bumpa",
+     "slug": "silva-bumpa",
+     "line": 5,
+     "position": 4,
+     "headliner": false
+    },
+    {
+     "name": "DJ Habibeats",
+     "slug": "dj-habibeats",
+     "line": 5,
+     "position": 5,
+     "headliner": false
+    },
+    {
+     "name": "Chanel Beads",
+     "slug": "chanel-beads",
+     "line": 5,
+     "position": 6,
+     "headliner": false
+    },
+    {
+     "name": "Adam Ten",
+     "slug": "adam-ten",
+     "line": 5,
+     "position": 7,
+     "headliner": false
+    },
+    {
+     "name": "After",
+     "slug": "after",
+     "line": 5,
+     "position": 8,
+     "headliner": false
+    },
+    {
+     "name": "Zack Fox",
+     "slug": "zack-fox",
+     "line": 5,
+     "position": 9,
+     "headliner": false
+    },
+    {
+     "name": "Fat Dog",
+     "slug": "fat-dog",
+     "line": 5,
+     "position": 10,
+     "headliner": false
+    },
+    {
+     "name": "Omar+",
+     "slug": "omar",
+     "line": 6,
+     "position": 1,
+     "headliner": false
+    },
+    {
+     "name": "Genesis Owusu",
+     "slug": "genesis-owusu",
+     "line": 6,
+     "position": 2,
+     "headliner": false
+    },
+    {
+     "name": "Joshua Slone",
+     "slug": "joshua-slone",
+     "line": 6,
+     "position": 3,
+     "headliner": false
+    },
+    {
+     "name": "the Mainliners",
+     "slug": "the-mainliners",
+     "line": 6,
+     "position": 4,
+     "headliner": false
+    },
+    {
+     "name": "Marten Lou x Alex Wann",
+     "slug": "marten-lou-x-alex-wann",
+     "line": 6,
+     "position": 5,
+     "headliner": false,
+     "members": [
+      "Marten Lou",
+      "Alex Wann"
+     ]
+    },
+    {
+     "name": "ChaseWest",
+     "slug": "chasewest",
+     "line": 6,
+     "position": 6,
+     "headliner": false
+    },
+    {
+     "name": "Florence Road",
+     "slug": "florence-road",
+     "line": 6,
+     "position": 7,
+     "headliner": false
+    },
+    {
+     "name": "Jazzy",
+     "slug": "jazzy",
+     "line": 7,
+     "position": 1,
+     "headliner": false
+    },
+    {
+     "name": "TUL8TE",
+     "slug": "tul8te",
+     "line": 7,
+     "position": 2,
+     "headliner": false
+    },
+    {
+     "name": "Jakob Nowell and THE CASTLE",
+     "slug": "jakob-nowell-and-the-castle",
+     "line": 7,
+     "position": 3,
+     "headliner": false
+    },
+    {
+     "name": "Talón",
+     "slug": "talon",
+     "line": 8,
+     "position": 1,
+     "headliner": false
+    },
+    {
+     "name": "Klave Efectiva",
+     "slug": "klave-efectiva",
+     "line": 8,
+     "position": 2,
+     "headliner": false
+    }
+   ]
+  }
+ ],
+ "special_billings": [
+  {
+   "name": "Daddy Yankee",
+   "slug": "daddy-yankee",
+   "billing": "In the Desert",
+   "day": null,
+   "headliner": true,
+   "note": "Printed on its own line under Sunday with no day. Reported as a fourth headliner in a 'special production'; day not announced."
+  },
+  {
+   "name": "Justice",
+   "slug": "justice",
+   "billing": "The Bunker Debut Of JUSTICE - BLINDED BY THE LIGHTS",
+   "day": null,
+   "headliner": false,
+   "note": "Printed at the foot of the poster with no day. The Bunker is new on the poster; what it is had not been explained as of Nov. 11, 2026."
+  }
+ ],
+ "sources": [
+  {
+   "publication": "Goldenvoice",
+   "title": "Coachella 2027 lineup poster (read directly for this file)",
+   "date": "2026-11-10",
+   "url": null,
+   "kind": "primary"
+  },
+  {
+   "publication": "GV Wire (Anthony W. Haddad)",
+   "title": "Dua Lipa, Tame Impala, and SZA to Headline Coachella 2027",
+   "date": "2026-11-10",
+   "url": "https://gvwire.com/2026/11/10/dua-lipa-tame-impala-and-sza-to-headline-coachella-2027/"
+  },
+  {
+   "publication": "Yahoo Entertainment",
+   "title": "Coachella 2027 Sets Dua Lipa, Tame Impala, SZA and Daddy Yankee as Headliners",
+   "date": "2026-11-11",
+   "url": "https://www.yahoo.com/entertainment/music/festivals/articles/coachella-2027-sets-dua-lipa-064237129.html"
+  },
+  {
+   "publication": "CULTR",
+   "title": "Coachella Reveal 2027 Lineup: Dua Lipa, Tame Impala, SZA + More",
+   "date": "2026-11-11",
+   "url": "https://www.cultr.com/news/coachella-reveal-2027-lineup-dua-lipa-tame-impala-sza-more/"
+  },
+  {
+   "publication": "We Write About Music",
+   "title": "Coachella 2027 Lineup Is Here: Dua Lipa, Tame Impala, SZA, Madonna, and More",
+   "date": "2026-11-10",
+   "url": "https://www.wewriteaboutmusic.com/festivals/coachella-2027-official-lineup-release"
+  }
+ ],
+ "tickets": {
+  "general_on_sale": "2026-11-13T12:00:00-08:00",
+  "presale": "American Express presale the day before, Nov. 12, 2026, 12 p.m. PT (per Yahoo)",
+  "prices": "not published in the sources above",
+  "source_urls": [
+   "https://gvwire.com/2026/11/10/dua-lipa-tame-impala-and-sza-to-headline-coachella-2027/",
+   "https://www.yahoo.com/entertainment/music/festivals/articles/coachella-2027-sets-dua-lipa-064237129.html"
+  ]
+ },
+ "livestream": "YouTube, 15th year as exclusive livestream partner (GV Wire, We Write About Music)",
+ "updated": "2026-11-11"
+}
