@@ -1,0 +1,462 @@
+{
+  "year": 2017,
+  "status": "happened",
+  "source": {
+    "name": "Wikipedia - Coachella Festival line-ups",
+    "url": "https://en.wikipedia.org/wiki/Coachella_Festival_line-ups",
+    "retrieved": "2026-11-11"
+  },
+  "days": [
+    {
+      "day": "Friday",
+      "dates": "April 14 & 21",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "Radiohead",
+            "The xx",
+            "Father John Misty",
+            "Glass Animals",
+            "Bonobo",
+            "Preservation Hall Jazz Band",
+            "RecordSafari"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "Travis Scott",
+            "Phantogram",
+            "Oh Wonder",
+            "Mac DeMarco",
+            "King Gizzard & the Lizard Wizard",
+            "Stormzy"
+          ]
+        },
+        {
+          "stage": "Mojave",
+          "acts": [
+            "DRAM",
+            "Capital Cities",
+            "DJ Shadow",
+            "Richie Hawtin",
+            "The Avalanches",
+            "Broods",
+            "Sampha",
+            "Tennis",
+            "Joseph",
+            "Zipper Club",
+            "Dudu Tassa & The Kuwaitis"
+          ]
+        },
+        {
+          "stage": "Gobi",
+          "acts": [
+            "Sam Gellaitry",
+            "Denzel Curry",
+            "Little Dragon",
+            "Jagwar Ma",
+            "Banks",
+            "Francis and the Lights",
+            "Raury",
+            "Sohn",
+            "The Lemon Twigs",
+            "Klangstof",
+            "Kayves"
+          ]
+        },
+        {
+          "stage": "Sahara",
+          "acts": [
+            "Dillon Francis",
+            "Empire of the Sun",
+            "Steve Angello",
+            "Mac Miller",
+            "Crystal Castles",
+            "Big Gigantic",
+            "Kungs",
+            "SNBRN",
+            "Strange Club",
+            "Andre Power"
+          ]
+        },
+        {
+          "stage": "Sonora",
+          "acts": [
+            "Guided by Voices",
+            "The Interrupters",
+            "Shannon and the Clams",
+            "Tacocat",
+            "Diamante Eléctrico",
+            "The Paranoyds",
+            "Surfbort",
+            "Tall Juan",
+            "Jim Smith"
+          ]
+        },
+        {
+          "stage": "Yuma",
+          "acts": [
+            "Loco Dice",
+            "The Martinez Brothers",
+            "Dixon",
+            "BICEP",
+            "Floorplan",
+            "Nora En Pure",
+            "Alison Swing",
+            "Rhonda INTL DJs"
+          ]
+        },
+        {
+          "stage": "The Do LaB (Weekend 1)",
+          "acts": [
+            "Louis the Child",
+            "Mr. Carmack",
+            "Haywyre",
+            "Bleep Bloop",
+            "The Gaslamp Killer",
+            "Sayer",
+            "Imbrsxulm Team B&L",
+            "PartyWave",
+            "Oscure"
+          ]
+        },
+        {
+          "stage": "The Do LaB (Weekend 2)",
+          "acts": [
+            "Richie Hawtin",
+            "Jonas Rathsman",
+            "Classixx",
+            "Billy Kenny",
+            "Mad Zach",
+            "Barclay Crenshaw",
+            "Daktyl",
+            "Monte Booker",
+            "KNGSPRNGS"
+          ]
+        },
+        {
+          "stage": "Heineken House",
+          "acts": [
+            "OWSLA takeover + Special Guests: Bone Thugs-n-Harmony",
+            "Grandmaster Flash (DJ set)",
+            "DJ Quik",
+            "4B",
+            "Blaise James",
+            "Chris Lake",
+            "DJ Slink",
+            "Josh Pan",
+            "Oshi",
+            "Whethan",
+            "Vindata"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "dates": "April 15 & 22",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "Lady Gaga",
+            "Bon Iver",
+            "Future",
+            "Two Door Cinema Club",
+            "The Head and the Heart",
+            "Local Natives",
+            "Gabe Real"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "DJ Snake",
+            "Schoolboy Q",
+            "Tycho",
+            "Bastille",
+            "Chicano Batman",
+            "Banks & Steelz",
+            "Arkells",
+            "Blossoms"
+          ]
+        },
+        {
+          "stage": "Mojave",
+          "acts": [
+            "Classixx",
+            "Nicolas Jaar",
+            "Majid Jordan",
+            "Moderat",
+            "Mura Masa",
+            "Thundercat",
+            "Car Seat Headrest",
+            "Floating Points",
+            "Shura",
+            "Swet Shop Boys"
+          ]
+        },
+        {
+          "stage": "Gobi",
+          "acts": [
+            "S U R V I V E",
+            "Breakbot",
+            "Nav",
+            "Warpaint",
+            "Dreamcar",
+            "Róisín Murphy",
+            "The Atomics",
+            "Kaleo",
+            "Mitski",
+            "Bishop Briggs"
+          ]
+        },
+        {
+          "stage": "Sahara",
+          "acts": [
+            "Gucci Mane",
+            "Martin Garrix",
+            "Röyksopp",
+            "Tory Lanez",
+            "Gryffin",
+            "Brodinski",
+            "Autograf",
+            "Eli & Fur",
+            "Courtland"
+          ]
+        },
+        {
+          "stage": "Sonora",
+          "acts": [
+            "Thee Commons",
+            "Current Joys",
+            "Surf Curse",
+            "Slow Hollows",
+            "Downtown Boys",
+            "Las Ligas Menores",
+            "QUITAPENAS"
+          ]
+        },
+        {
+          "stage": "Yuma",
+          "acts": [
+            "Hot Since 82",
+            "Solomun",
+            "Four Tet",
+            "Daphni",
+            "Floating Points",
+            "Ben UFO",
+            "Red Axes",
+            "Miss Honey Dijon",
+            "Chris Cruse"
+          ]
+        },
+        {
+          "stage": "The Do LaB (Weekend 1)",
+          "acts": [
+            "Tycho (DJ set)",
+            "FKJ",
+            "Yotto",
+            "Eagles & Butterflies",
+            "Monolink",
+            "Sabo",
+            "Surprise",
+            "Tara Brooks",
+            "Zimmer",
+            "Gone Gone Beyond"
+          ]
+        },
+        {
+          "stage": "The Do LaB (Weekend 2)",
+          "acts": [
+            "Skrillex",
+            "Netsky",
+            "Liquid Stranger",
+            "EINMUSIK",
+            "Justin Martin",
+            "Will Clarke",
+            "The Geek x VRV",
+            "The Librarian",
+            "HӒANA",
+            "Josh Billings & Nonfiction",
+            "divaDanielle"
+          ]
+        },
+        {
+          "stage": "Heineken House (Weekend 1)",
+          "acts": [
+            "George Clinton & the Parliament Funkadelic",
+            "Bixel Boys",
+            "BJ the Kid",
+            "Chuckie",
+            "DJ Nu Mark",
+            "Madds",
+            "Zaytoven"
+          ]
+        },
+        {
+          "stage": "Heineken House (Weekend 2)",
+          "acts": [
+            "Bixel Boys",
+            "BJ the Kid",
+            "Chuckie",
+            "Death",
+            "DJ Nu Mark",
+            "Madds",
+            "Twrk",
+            "Zaytoven"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Sunday",
+      "dates": "April 16 & 23",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "Kendrick Lamar",
+            "Lorde",
+            "Porter Robinson & Madeon",
+            "Grouplove",
+            "Toots and the Maytals",
+            "Lee Fields & The Expressions"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "Justice",
+            "Hans Zimmer",
+            "Future Islands",
+            "Devendra Banhart",
+            "Whitney",
+            "Ezra Furman"
+          ]
+        },
+        {
+          "stage": "Mojave",
+          "acts": [
+            "New Order",
+            "Kehlani",
+            "Tove Lo",
+            "Kiiara",
+            "Honne",
+            "GoldLink",
+            "Tourist",
+            "Preoccupations",
+            "Big Game"
+          ]
+        },
+        {
+          "stage": "Gobi",
+          "acts": [
+            "What So Not",
+            "Real Estate",
+            "Jai Wolf",
+            "Jack Garratt",
+            "Nao",
+            "Sofi Tukker",
+            "Pond",
+            "Grace Mitchell",
+            "Ocho Ojos"
+          ]
+        },
+        {
+          "stage": "Sahara",
+          "acts": [
+            "Marshmello",
+            "Galantis",
+            "DJ Khaled",
+            "Kaytranada",
+            "Lil Uzi Vert",
+            "Skepta",
+            "Anna Lunoe",
+            "Rambo V",
+            "Westside Ty"
+          ]
+        },
+        {
+          "stage": "Sonora",
+          "acts": [
+            "T.S.O.L.",
+            "Twin Peaks",
+            "Allah-Las",
+            "Show Me the Body",
+            "Hinds",
+            "Caveman",
+            "Los Blenders",
+            "Jim Smith"
+          ]
+        },
+        {
+          "stage": "Yuma",
+          "acts": [
+            "Tale of Us",
+            "Sasha",
+            "Marcel Dettmann",
+            "Maya Jane Coles",
+            "The Belleville Three",
+            "Patrick Topping",
+            "Jen Ferrer"
+          ]
+        },
+        {
+          "stage": "The Do LaB (Weekend 1)",
+          "acts": [
+            "Autograf",
+            "Shiba San",
+            "Amtrac",
+            "Space Jesus",
+            "Elohim",
+            "Whethan",
+            "Bearson",
+            "Chet Porter",
+            "BOGL"
+          ]
+        },
+        {
+          "stage": "The Do LaB (Weekend 2)",
+          "acts": [
+            "Rüfüs du Sol (DJ set)",
+            "XXYYXX",
+            "Jan Blomqvist",
+            "Mikey Lion",
+            "Lee Reynolds",
+            "Marbs & Porkchop",
+            "Patricio",
+            "Lonely Boy",
+            "Jonnie King"
+          ]
+        },
+        {
+          "stage": "Heineken House",
+          "acts": [
+            "NGHTMRE B2B Slander",
+            "Armnhmr",
+            "Botnek",
+            "Eptic",
+            "JSTJR",
+            "Must Die!",
+            "Rickyxsan",
+            "Snavs",
+            "Special Guest"
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "4B (Heineken House, Friday): weekend 1 only (marked *)",
+    "Josh Pan (Heineken House, Friday): weekend 2 only (marked **)",
+    "Dropped acts: Beyoncé",
+    "Amtrac (The Do LaB (Weekend 1), Sunday): printed with a stray leading '*' on the page",
+    "NGHTMRE B2B Slander (Heineken House, Sunday): weekend 2 only",
+    "Plus: The Antarctic, an audio-visual sensory experience. All weekend long, starting on Thursday",
+    "Dropped acts: PNL",
+    "In 2017, art contributions included: Chiaozza, Olalekan Jeyifous, Joanne Tatham and Tom O'Sullivan, Gustavo Prado"
+  ]
+}

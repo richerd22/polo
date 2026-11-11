@@ -1,0 +1,404 @@
+{
+  "year": 2012,
+  "status": "happened",
+  "source": {
+    "name": "Wikipedia - Coachella Festival line-ups",
+    "url": "https://en.wikipedia.org/wiki/Coachella_Festival_line-ups",
+    "retrieved": "2026-11-11"
+  },
+  "days": [
+    {
+      "day": "Friday",
+      "dates": "April 13 & 20",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "Swedish House Mafia",
+            "The Black Keys",
+            "Pulp",
+            "Arctic Monkeys",
+            "Jimmy Cliff & Tim Armstrong",
+            "James",
+            "Kendrick Lamar",
+            "Hello Seahorse!",
+            "GabeReal"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "Refused",
+            "Explosions in the Sky",
+            "Mazzy Star",
+            "Madness",
+            "Girls",
+            "Neon Indian",
+            "Yuck",
+            "The Dear Hunter",
+            "The Sheepdogs"
+          ]
+        },
+        {
+          "stage": "Gobi",
+          "acts": [
+            "The Horrors",
+            "The Black Angels",
+            "Atari Teenage Riot",
+            "Frank Ocean",
+            "WU LYF",
+            "Death Grips",
+            "Gary Clark Jr.",
+            "EMA",
+            "Other Lives",
+            "Wolf Gang",
+            "Abe Vigoda"
+          ]
+        },
+        {
+          "stage": "Mojave",
+          "acts": [
+            "Amon Tobin",
+            "M83",
+            "The Rapture",
+            "M. Ward",
+            "Dawes",
+            "Grouplove",
+            "Ximena Sariñana",
+            "Givers",
+            "honeyhoney",
+            "Wallpaper."
+          ]
+        },
+        {
+          "stage": "Sahara",
+          "acts": [
+            "Datsik",
+            "Afrojack",
+            "Alesso",
+            "Madeon",
+            "Feed Me",
+            "SebastiAn",
+            "Breakbot",
+            "R3hab",
+            "LA Riots",
+            "Méa",
+            "Plastic Flowers"
+          ]
+        },
+        {
+          "stage": "The Do LaB (Weekend 1)",
+          "acts": [
+            "Lucent Dossier Experience",
+            "Stephan Jacobs",
+            "Sugarpill",
+            "Jupit3r",
+            "Gladkill",
+            "Russ Liquid",
+            "GoldRush",
+            "CrisB.",
+            "Jobot",
+            "Patricio"
+          ]
+        },
+        {
+          "stage": "The Do LaB (Weekend 2)",
+          "acts": [
+            "Lucent Dossier Experience",
+            "Jupit3r",
+            "Patricio",
+            "Jeremy Sole",
+            "Marley Carroll",
+            "Geno Cochino",
+            "Natasha Kmeto",
+            "Quade"
+          ]
+        },
+        {
+          "stage": "Heineken Dome (Weekend 1)",
+          "acts": [
+            "EC Twins",
+            "Andy Caldwell",
+            "Hot Mouth",
+            "Zen Freeman",
+            "La' Reda"
+          ]
+        },
+        {
+          "stage": "Heineken Dome (Weekend 2)",
+          "acts": [
+            "Roy Davis Jr. featuring J. Noize (live)",
+            "David Harness",
+            "Marques Wyatt",
+            "J Paul Getto",
+            "Cappa Regime"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "dates": "April 14 & 21",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "Radiohead",
+            "Bon Iver",
+            "The Shins",
+            "Noel Gallagher's High Flying Birds",
+            "Kaiser Chiefs",
+            "Awolnation",
+            "Childish Gambino",
+            "We Are Augustines",
+            "Juice"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "Miike Snow",
+            "Feist",
+            "Jeff Mangum",
+            "Andrew Bird",
+            "Tune-Yards",
+            "Grace Potter and the Nocturnals",
+            "Destroyer",
+            "We Were Promised Jetpacks",
+            "Suedehead",
+            "DJP"
+          ]
+        },
+        {
+          "stage": "Gobi",
+          "acts": [
+            "ASAP Rocky",
+            "SBTRKT",
+            "Flying Lotus",
+            "St. Vincent",
+            "Laura Marling",
+            "Buzzcocks",
+            "Firehose",
+            "Azealia Banks",
+            "The Vaccines",
+            "Spector",
+            "Kiss Kiss Bang Bang"
+          ]
+        },
+        {
+          "stage": "Mojave",
+          "acts": [
+            "Sub Focus",
+            "Godspeed You! Black Emperor",
+            "Kasabian",
+            "Squeeze",
+            "Manchester Orchestra",
+            "The Head and the Heart",
+            "The Big Pink",
+            "Black Lips",
+            "Dragonette",
+            "Keep Shelly in Athens",
+            "Tijuana Panthers"
+          ]
+        },
+        {
+          "stage": "Sahara",
+          "acts": [
+            "Kaskade",
+            "David Guetta",
+            "Fedde le Grand",
+            "Sebastian Ingrosso",
+            "Martin Solveig",
+            "Zeds Dead",
+            "Jacques Lu Cont",
+            "Borgore",
+            "Mt Eden",
+            "Destructo",
+            "Pure Filth Sound (live show)"
+          ]
+        },
+        {
+          "stage": "The Do LaB (Weekend 1)",
+          "acts": [
+            "Patricio",
+            "Lucent Dossier Experience",
+            "Two Fingers",
+            "Machine Drum",
+            "Pumpkin",
+            "Christian Martin",
+            "Worthy",
+            "iDiot Savant",
+            "Sammy Bliss"
+          ]
+        },
+        {
+          "stage": "The Do LaB (Weekend 2)",
+          "acts": [
+            "Empire Strikes Back!",
+            "Lucent Dossier Experience",
+            "Lowriderz",
+            "Sidecar Tommy",
+            "Shawna",
+            "David Satori",
+            "SaQi",
+            "ill-esha"
+          ]
+        },
+        {
+          "stage": "Heineken Dome (Weekend 1)",
+          "acts": [
+            "Starkillers featuring. Dmitry Ko",
+            "Droog",
+            "Fernando Garibay",
+            "John Beaver",
+            "Team No Sleep"
+          ]
+        },
+        {
+          "stage": "Heineken Dome (Weekend 2)",
+          "acts": [
+            "Donald Glaude",
+            "Audrey Napoleon",
+            "Save the Robot",
+            "Colette",
+            "Ranidu Lankage",
+            "Siren"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Sunday",
+      "dates": "April 15 & 22",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "Dr. Dre & Snoop Dogg",
+            "At the Drive-In",
+            "Justice",
+            "The Hives",
+            "Fitz and the Tantrums",
+            "Santigold",
+            "Band of Skulls",
+            "Mantastique"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "Florence and the Machine",
+            "Girl Talk",
+            "The Weeknd",
+            "Wild Flag",
+            "The Growlers",
+            "Seun Kuti & Egypt 80",
+            "Metronomy",
+            "Lissie",
+            "Sleeper Agent"
+          ]
+        },
+        {
+          "stage": "Gobi",
+          "acts": [
+            "DJ Shadow",
+            "Company Flow",
+            "The Airplane Boys",
+            "The Gaslamp Killer",
+            "Thundercat",
+            "Real Estate",
+            "Greg Ginn and the Royal We",
+            "Le Butcherettes",
+            "Housse de Racket",
+            "Alf Alpha"
+          ]
+        },
+        {
+          "stage": "Mojave",
+          "acts": [
+            "Modeselektor",
+            "Beirut",
+            "Gotye",
+            "AraabMuzik",
+            "Beats Antique",
+            "Wild Beasts",
+            "First Aid Kit",
+            "Oberhofer",
+            "Gardens & Villa",
+            "Tyler Uppercut"
+          ]
+        },
+        {
+          "stage": "Sahara",
+          "acts": [
+            "Avicii",
+            "Calvin Harris",
+            "Nero",
+            "Dada Life",
+            "Porter Robinson",
+            "Flux Pavilion & Doctor P",
+            "Zedd",
+            "Noisia",
+            "Morgan Page",
+            "Jimbo Jenkins"
+          ]
+        },
+        {
+          "stage": "The Do LaB (Weekend 1)",
+          "acts": [
+            "Empire Strikes Back!",
+            "Lucent Dossier Experience",
+            "KRADDY",
+            "NastyNasty",
+            "R/D",
+            "David Starfire",
+            "NitGrit",
+            "Salva",
+            "Deru",
+            "Inspired Flight",
+            "Hopscotch"
+          ]
+        },
+        {
+          "stage": "The Do LaB (Weekend 2)",
+          "acts": [
+            "Lucent Dossier Experience",
+            "Minnesota",
+            "Live & Light",
+            "LYNX",
+            "Griz",
+            "Imagika",
+            "oscure",
+            "Dov",
+            "Ruff Hauser"
+          ]
+        },
+        {
+          "stage": "Heineken Dome (Weekend 1)",
+          "acts": [
+            "Mike Balance",
+            "Late Night Sneaky (live) White Noize",
+            "DJ Dan",
+            "Mike Balance"
+          ]
+        },
+        {
+          "stage": "Heineken Dome (Weekend 2)",
+          "acts": [
+            "Doc Martin featuring Sublevel (live)",
+            "Gene Hunt",
+            "Wally Callerio",
+            "Barry Weaver",
+            "Dusty Carter"
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Dr. Dre & Snoop Dogg (Coachella Stage, Sunday): featured guest spots from Eminem, 50 Cent, Wiz Khalifa, Kendrick Lamar, Kurupt, Warren G and a holographic version of Tupac Shakur",
+    "Modeselektor (Mojave, Sunday): featuring Thom Yorke, weekend 2 only",
+    "Dropped Acts: Cat Power, La Roux, The Midnight Beast, Black Sabbath",
+    "In 2012, art was contributed by The Do LaB: (Oasis) + (Triad), Lucent Dossier Experience, Coachella Art Studios, Charles Gadeken: (WAVE), Todd Williams: (Land Shark), Gerard Minakawa: (Starry Bamboo), Hotshot the Robot, Susan Robb: (Warmth, Giant Black Tubes), Christian Ristow: (Garaplata), Shrine: (Shacks), Robert Bose: (Balloon Chain), Sensory Sync: (Gateway), Poetic Kinetic: (Solitary Inflorescence), Cyclecide and Makeover Mechanix."
+  ]
+}

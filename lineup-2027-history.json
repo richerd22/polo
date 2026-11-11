@@ -1,0 +1,1788 @@
+{
+ "range": "1999-2026, every edition that happened",
+ "years_checked": [
+  1999,
+  2001,
+  2002,
+  2003,
+  2004,
+  2005,
+  2006,
+  2007,
+  2008,
+  2009,
+  2010,
+  2011,
+  2012,
+  2013,
+  2014,
+  2015,
+  2016,
+  2017,
+  2018,
+  2019,
+  2022,
+  2023,
+  2024,
+  2025,
+  2026
+ ],
+ "method": "Each act's name was matched against every earlier Coachella lineup on Wikipedia's \"Coachella Festival line-ups\" page, transcribed by day and stage into this site's archive. Matching is exact after ignoring case, accents, a leading \"the\" and punctuation, so a renamed act or a one-off alias will not match, and a different act with the same name would. Pairings billed with \"x\" are checked member by member. Wikipedia's lists can miss late additions and small stages, so a \"debut\" here means no earlier appearance in that archive.",
+ "source": {
+  "name": "Wikipedia - Coachella Festival line-ups",
+  "url": "https://en.wikipedia.org/wiki/Coachella_Festival_line-ups"
+ },
+ "acts": {
+  "dua-lipa": {
+   "name": "Dua Lipa",
+   "years": [],
+   "sets": []
+  },
+  "madonna": {
+   "name": "Madonna",
+   "years": [
+    2006
+   ],
+   "sets": [
+    {
+     "year": 2006,
+     "day": "Sunday",
+     "stage": "Sahara",
+     "as": "Madonna"
+    }
+   ]
+  },
+  "zara-larsson": {
+   "name": "Zara Larsson",
+   "years": [],
+   "sets": []
+  },
+  "steve-lacy": {
+   "name": "Steve Lacy",
+   "years": [
+    2022
+   ],
+   "sets": [
+    {
+     "year": 2022,
+     "day": "Saturday",
+     "stage": "Mojave",
+     "as": "Steve Lacy"
+    }
+   ]
+  },
+  "jisoo": {
+   "name": "JISOO",
+   "years": [],
+   "sets": []
+  },
+  "diljit-dosanjh": {
+   "name": "Diljit Dosanjh",
+   "years": [
+    2023
+   ],
+   "sets": [
+    {
+     "year": 2023,
+     "day": "Saturday",
+     "stage": "Sahara",
+     "as": "Diljit Dosanjh"
+    }
+   ]
+  },
+  "peggy-gou": {
+   "name": "Peggy Gou",
+   "years": [
+    2018,
+    2022,
+    2024
+   ],
+   "sets": [
+    {
+     "year": 2018,
+     "day": "Sunday",
+     "stage": "Yuma",
+     "as": "Peggy Gou"
+    },
+    {
+     "year": 2022,
+     "day": "Friday",
+     "stage": "Yuma",
+     "as": "Peggy Gou"
+    },
+    {
+     "year": 2024,
+     "day": "Friday",
+     "stage": "Sahara",
+     "as": "Peggy Gou"
+    }
+   ]
+  },
+  "kehlani": {
+   "name": "Kehlani",
+   "years": [
+    2017
+   ],
+   "sets": [
+    {
+     "year": 2017,
+     "day": "Sunday",
+     "stage": "Mojave",
+     "as": "Kehlani"
+    }
+   ]
+  },
+  "solid-grooves": {
+   "name": "Solid Grooves",
+   "years": [],
+   "sets": []
+  },
+  "giorgio-moroder": {
+   "name": "Giorgio Moroder",
+   "years": [],
+   "sets": []
+  },
+  "social-distortion": {
+   "name": "Social Distortion",
+   "years": [
+    2013
+   ],
+   "sets": [
+    {
+     "year": 2013,
+     "day": "Sunday",
+     "stage": "Coachella Stage",
+     "as": "Social Distortion"
+    }
+   ]
+  },
+  "pinegrove": {
+   "name": "Pinegrove",
+   "years": [],
+   "sets": []
+  },
+  "angine-de-poitrine": {
+   "name": "Angine de Poitrine",
+   "years": [],
+   "sets": []
+  },
+  "leon-thomas": {
+   "name": "Leon Thomas",
+   "years": [],
+   "sets": []
+  },
+  "drain-gang": {
+   "name": "Drain Gang",
+   "years": [],
+   "sets": []
+  },
+  "snow-strippers": {
+   "name": "Snow Strippers",
+   "years": [
+    2025
+   ],
+   "sets": [
+    {
+     "year": 2025,
+     "day": "Sunday",
+     "stage": "Sonora",
+     "as": "Snow Strippers"
+    }
+   ]
+  },
+  "mike-d-5d": {
+   "name": "Mike D 5D",
+   "years": [],
+   "sets": []
+  },
+  "chris-stassy": {
+   "name": "CHRIS STASSY",
+   "years": [],
+   "sets": []
+  },
+  "milo-j": {
+   "name": "Milo J",
+   "years": [],
+   "sets": []
+  },
+  "sg-lewis": {
+   "name": "SG Lewis",
+   "years": [
+    2016,
+    2019,
+    2023
+   ],
+   "sets": [
+    {
+     "year": 2016,
+     "day": "Friday",
+     "stage": "Yuma",
+     "as": "SG Lewis"
+    },
+    {
+     "year": 2019,
+     "day": "Friday",
+     "stage": "Mojave",
+     "as": "SG Lewis"
+    },
+    {
+     "year": 2023,
+     "day": "Friday",
+     "stage": "Outdoor Theatre",
+     "as": "SG Lewis"
+    }
+   ]
+  },
+  "kelela": {
+   "name": "Kelela",
+   "years": [
+    2018
+   ],
+   "sets": [
+    {
+     "year": 2018,
+     "day": "Friday",
+     "stage": "Mojave",
+     "as": "Kelela"
+    }
+   ]
+  },
+  "franky-rizardo": {
+   "name": "Franky Rizardo",
+   "years": [
+    2026
+   ],
+   "sets": [
+    {
+     "year": 2026,
+     "day": "Friday",
+     "stage": "Quasar",
+     "as": "Franky Rizardo"
+    }
+   ]
+  },
+  "fetty-wap": {
+   "name": "Fetty Wap",
+   "years": [],
+   "sets": []
+  },
+  "vintage-culture": {
+   "name": "Vintage Culture",
+   "years": [
+    2022,
+    2023,
+    2025
+   ],
+   "sets": [
+    {
+     "year": 2022,
+     "day": "Sunday",
+     "stage": "The Do LaB (Weekend 2)",
+     "as": "Vintage Culture"
+    },
+    {
+     "year": 2023,
+     "day": "Friday",
+     "stage": "Sahara",
+     "as": "Vintage Culture"
+    },
+    {
+     "year": 2025,
+     "day": "Friday",
+     "stage": "Yuma",
+     "as": "Vintage Culture"
+    }
+   ]
+  },
+  "the-damned": {
+   "name": "the Damned",
+   "years": [
+    2016
+   ],
+   "sets": [
+    {
+     "year": 2016,
+     "day": "Saturday",
+     "stage": "Gobi",
+     "as": "The Damned"
+    }
+   ]
+  },
+  "atarashii-gakko": {
+   "name": "ATARASHII GAKKO!",
+   "years": [
+    2024
+   ],
+   "sets": [
+    {
+     "year": 2024,
+     "day": "Sunday",
+     "stage": "Gobi",
+     "as": "ATARASHII GAKKO!"
+    }
+   ]
+  },
+  "nettspend": {
+   "name": "Nettspend",
+   "years": [],
+   "sets": []
+  },
+  "american-football": {
+   "name": "American Football",
+   "years": [],
+   "sets": []
+  },
+  "xaviersobased": {
+   "name": "xaviersobased",
+   "years": [],
+   "sets": []
+  },
+  "la-dispute": {
+   "name": "La Dispute",
+   "years": [],
+   "sets": []
+  },
+  "haute-freddy": {
+   "name": "Haute & Freddy",
+   "years": [],
+   "sets": []
+  },
+  "the-hellp": {
+   "name": "the Hellp",
+   "years": [
+    2025
+   ],
+   "sets": [
+    {
+     "year": 2025,
+     "day": "Sunday",
+     "stage": "The Do LaB (Weekend 2)",
+     "as": "The Hellp"
+    }
+   ]
+  },
+  "disco-dom": {
+   "name": "Disco Dom",
+   "years": [
+    2025
+   ],
+   "sets": [
+    {
+     "year": 2025,
+     "day": "Thursday",
+     "stage": "Desert Sky (Weekend 2)",
+     "as": "Disco Dom"
+    }
+   ]
+  },
+  "mph": {
+   "name": "MPH",
+   "years": [
+    2025
+   ],
+   "sets": [
+    {
+     "year": 2025,
+     "day": "Sunday",
+     "stage": "The Do LaB (Weekend 2)",
+     "as": "MPH"
+    }
+   ]
+  },
+  "bella-kay": {
+   "name": "Bella Kay",
+   "years": [],
+   "sets": []
+  },
+  "this-is-lorelei": {
+   "name": "This Is Lorelei",
+   "years": [],
+   "sets": []
+  },
+  "the-womack-sisters": {
+   "name": "the Womack Sisters",
+   "years": [],
+   "sets": []
+  },
+  "mary-in-the-junkyard": {
+   "name": "mary in the junkyard",
+   "years": [],
+   "sets": []
+  },
+  "close-friends-only": {
+   "name": "Close Friends Only",
+   "years": [],
+   "sets": []
+  },
+  "obskur": {
+   "name": "Obskür",
+   "years": [],
+   "sets": []
+  },
+  "jacob-lusk": {
+   "name": "Jacob Lusk",
+   "years": [],
+   "sets": []
+  },
+  "leenalchi": {
+   "name": "LEENALCHI",
+   "years": [],
+   "sets": []
+  },
+  "bea-miller": {
+   "name": "Bea Miller",
+   "years": [],
+   "sets": []
+  },
+  "gang-of-youths": {
+   "name": "Gang of Youths",
+   "years": [],
+   "sets": []
+  },
+  "love-spells": {
+   "name": "Love Spells",
+   "years": [],
+   "sets": []
+  },
+  "rafael": {
+   "name": "Rafael",
+   "years": [
+    2025
+   ],
+   "sets": [
+    {
+     "year": 2025,
+     "day": "Friday",
+     "stage": "Quasar",
+     "as": "Rafael x Miluhska"
+    }
+   ]
+  },
+  "nirosta-steel": {
+   "name": "Nirosta Steel",
+   "years": [],
+   "sets": []
+  },
+  "ragie-ban": {
+   "name": "Ragie Ban",
+   "years": [],
+   "sets": []
+  },
+  "eli": {
+   "name": "Eli",
+   "years": [],
+   "sets": []
+  },
+  "las-petunias": {
+   "name": "Las Petunias",
+   "years": [],
+   "sets": []
+  },
+  "violet-grohl": {
+   "name": "Violet Grohl",
+   "years": [],
+   "sets": []
+  },
+  "jackie-hollander": {
+   "name": "Jackie Hollander",
+   "years": [
+    2026
+   ],
+   "sets": [
+    {
+     "year": 2026,
+     "day": "Sunday",
+     "stage": "The Do LaB (Weekend 1)",
+     "as": "Jackie Hollander"
+    }
+   ]
+  },
+  "jamback-x-marsolo": {
+   "name": "Jamback x Marsolo",
+   "years": [],
+   "sets": []
+  },
+  "noya": {
+   "name": "NOYA",
+   "years": [],
+   "sets": []
+  },
+  "tame-impala": {
+   "name": "Tame Impala",
+   "years": [
+    2011,
+    2013,
+    2015,
+    2019
+   ],
+   "sets": [
+    {
+     "year": 2011,
+     "day": "Friday",
+     "stage": "Outdoor Theatre",
+     "as": "Tame Impala"
+    },
+    {
+     "year": 2013,
+     "day": "Sunday",
+     "stage": "Outdoor Theatre",
+     "as": "Tame Impala"
+    },
+    {
+     "year": 2015,
+     "day": "Friday",
+     "stage": "Coachella Stage",
+     "as": "Tame Impala"
+    },
+    {
+     "year": 2019,
+     "day": "Saturday",
+     "stage": "Coachella Stage",
+     "as": "Tame Impala"
+    }
+   ]
+  },
+  "phoebe-bridgers": {
+   "name": "Phoebe Bridgers",
+   "years": [
+    2022
+   ],
+   "sets": [
+    {
+     "year": 2022,
+     "day": "Friday",
+     "stage": "Outdoor Theatre",
+     "as": "Phoebe Bridgers"
+    }
+   ]
+  },
+  "weezer": {
+   "name": "Weezer",
+   "years": [
+    2001,
+    2005,
+    2019,
+    2025
+   ],
+   "sets": [
+    {
+     "year": 2001,
+     "day": "Saturday",
+     "stage": "Coachella Stage",
+     "as": "Weezer"
+    },
+    {
+     "year": 2005,
+     "day": "Saturday",
+     "stage": "Coachella Stage",
+     "as": "Weezer"
+    },
+    {
+     "year": 2019,
+     "day": "Saturday",
+     "stage": "Coachella Stage",
+     "as": "Weezer"
+    },
+    {
+     "year": 2025,
+     "day": "Saturday",
+     "stage": "Mojave",
+     "as": "Weezer"
+    }
+   ]
+  },
+  "tiesto": {
+   "name": "Tiësto",
+   "years": [
+    2002,
+    2007,
+    2010,
+    2025
+   ],
+   "sets": [
+    {
+     "year": 2002,
+     "day": "Sunday",
+     "stage": "Sahara Tent",
+     "as": "Tiësto"
+    },
+    {
+     "year": 2007,
+     "day": "Saturday",
+     "stage": "Coachella Stage",
+     "as": "Tiësto"
+    },
+    {
+     "year": 2010,
+     "day": "Saturday",
+     "stage": "Coachella Stage",
+     "as": "Tiësto"
+    },
+    {
+     "year": 2025,
+     "day": "Sunday",
+     "stage": "Quasar",
+     "as": "Tiësto"
+    }
+   ]
+  },
+  "martin-garrix": {
+   "name": "Martin Garrix",
+   "years": [
+    2014,
+    2017
+   ],
+   "sets": [
+    {
+     "year": 2014,
+     "day": "Friday",
+     "stage": "Sahara",
+     "as": "Martin Garrix"
+    },
+    {
+     "year": 2017,
+     "day": "Saturday",
+     "stage": "Sahara",
+     "as": "Martin Garrix"
+    }
+   ]
+  },
+  "robyn": {
+   "name": "Robyn",
+   "years": [
+    2011
+   ],
+   "sets": [
+    {
+     "year": 2011,
+     "day": "Friday",
+     "stage": "Mojave",
+     "as": "Robyn"
+    }
+   ]
+  },
+  "role-model": {
+   "name": "Role Model",
+   "years": [
+    2022
+   ],
+   "sets": [
+    {
+     "year": 2022,
+     "day": "Friday",
+     "stage": "Gobi",
+     "as": "Role Model"
+    }
+   ]
+  },
+  "adela": {
+   "name": "ADÉLA",
+   "years": [],
+   "sets": []
+  },
+  "maneskin": {
+   "name": "Måneskin",
+   "years": [
+    2022
+   ],
+   "sets": [
+    {
+     "year": 2022,
+     "day": "Sunday",
+     "stage": "Mojave",
+     "as": "Måneskin"
+    }
+   ]
+  },
+  "solomun": {
+   "name": "Solomun",
+   "years": [
+    2014,
+    2017,
+    2022
+   ],
+   "sets": [
+    {
+     "year": 2014,
+     "day": "Friday",
+     "stage": "Yuma",
+     "as": "Solomun"
+    },
+    {
+     "year": 2017,
+     "day": "Saturday",
+     "stage": "Yuma",
+     "as": "Solomun"
+    },
+    {
+     "year": 2022,
+     "day": "Sunday",
+     "stage": "Outdoor Theatre",
+     "as": "Solomun"
+    }
+   ]
+  },
+  "nct": {
+   "name": "NCT",
+   "years": [],
+   "sets": []
+  },
+  "enigma": {
+   "name": "Enigma",
+   "years": [],
+   "sets": []
+  },
+  "underworld": {
+   "name": "Underworld",
+   "years": [
+    1999,
+    2003,
+    2016,
+    2023
+   ],
+   "sets": [
+    {
+     "year": 1999,
+     "day": "Saturday",
+     "stage": "Outdoor Theatre",
+     "as": "Underworld"
+    },
+    {
+     "year": 2003,
+     "day": "Sunday",
+     "stage": "Sahara Tent",
+     "as": "Underworld"
+    },
+    {
+     "year": 2016,
+     "day": "Friday",
+     "stage": "Sahara",
+     "as": "Underworld"
+    },
+    {
+     "year": 2023,
+     "day": "Saturday",
+     "stage": "Mojave",
+     "as": "Underworld"
+    }
+   ]
+  },
+  "charlotte-de-witte": {
+   "name": "Charlotte de Witte",
+   "years": [
+    2019,
+    2024
+   ],
+   "sets": [
+    {
+     "year": 2019,
+     "day": "Sunday",
+     "stage": "Yuma",
+     "as": "Charlotte de Witte"
+    },
+    {
+     "year": 2024,
+     "day": "Saturday",
+     "stage": "Mojave",
+     "as": "Charlotte de Witte"
+    }
+   ]
+  },
+  "leon-bridges": {
+   "name": "Leon Bridges",
+   "years": [],
+   "sets": []
+  },
+  "cloonee": {
+   "name": "Cloonee",
+   "years": [
+    2023,
+    2024,
+    2026
+   ],
+   "sets": [
+    {
+     "year": 2023,
+     "day": "Saturday",
+     "stage": "The Do LaB (Weekend 2)",
+     "as": "Cloonee"
+    },
+    {
+     "year": 2024,
+     "day": "Friday",
+     "stage": "Sahara",
+     "as": "Cloonee"
+    },
+    {
+     "year": 2026,
+     "day": "Sunday",
+     "stage": "The Do LaB (Weekend 2)",
+     "as": "Adriatique b2b Cloonee"
+    }
+   ]
+  },
+  "magdalena-bay": {
+   "name": "Magdalena Bay",
+   "years": [
+    2023
+   ],
+   "sets": [
+    {
+     "year": 2023,
+     "day": "Friday",
+     "stage": "Sonora",
+     "as": "Magdalena Bay"
+    }
+   ]
+  },
+  "barry-can-t-swim": {
+   "name": "Barry Can't Swim",
+   "years": [
+    2024,
+    2025
+   ],
+   "sets": [
+    {
+     "year": 2024,
+     "day": "Sunday",
+     "stage": "Gobi",
+     "as": "Barry Can't Swim"
+    },
+    {
+     "year": 2025,
+     "day": "Saturday",
+     "stage": "Quasar",
+     "as": "Barry Can't Swim x 2manydjs x salute"
+    }
+   ]
+  },
+  "boy-harsher": {
+   "name": "Boy Harsher",
+   "years": [
+    2024
+   ],
+   "sets": [
+    {
+     "year": 2024,
+     "day": "Sunday",
+     "stage": "Sonora",
+     "as": "Boy Harsher"
+    }
+   ]
+  },
+  "ki-ki": {
+   "name": "KI/KI",
+   "years": [],
+   "sets": []
+  },
+  "mariah-the-scientist": {
+   "name": "Mariah the Scientist",
+   "years": [
+    2022
+   ],
+   "sets": [
+    {
+     "year": 2022,
+     "day": "Sunday",
+     "stage": "Outdoor Theatre",
+     "as": "Mariah the Scientist"
+    }
+   ]
+  },
+  "bad-gyal": {
+   "name": "Bad Gyal",
+   "years": [],
+   "sets": []
+  },
+  "basement": {
+   "name": "Basement",
+   "years": [],
+   "sets": []
+  },
+  "brutalismus-3000": {
+   "name": "Brutalismus 3000",
+   "years": [
+    2024
+   ],
+   "sets": [
+    {
+     "year": 2024,
+     "day": "Saturday",
+     "stage": "Sonora",
+     "as": "Brutalismus 3000"
+    }
+   ]
+  },
+  "beltran": {
+   "name": "Beltran",
+   "years": [
+    2024,
+    2025
+   ],
+   "sets": [
+    {
+     "year": 2024,
+     "day": "Saturday",
+     "stage": "The Do LaB (Weekend 2)",
+     "as": "Beltran"
+    },
+    {
+     "year": 2025,
+     "day": "Friday",
+     "stage": "Yuma",
+     "as": "Beltran"
+    }
+   ]
+  },
+  "underscores": {
+   "name": "underscores",
+   "years": [
+    2025
+   ],
+   "sets": [
+    {
+     "year": 2025,
+     "day": "Saturday",
+     "stage": "Sonora",
+     "as": "underscores"
+    }
+   ]
+  },
+  "sb19": {
+   "name": "SB19",
+   "years": [],
+   "sets": []
+  },
+  "twin-tribes": {
+   "name": "Twin Tribes",
+   "years": [],
+   "sets": []
+  },
+  "odeal": {
+   "name": "Odeal",
+   "years": [],
+   "sets": []
+  },
+  "bassvictim": {
+   "name": "Bassvictim",
+   "years": [],
+   "sets": []
+  },
+  "los-pibes-chorros": {
+   "name": "Los Pibes Chorros",
+   "years": [],
+   "sets": []
+  },
+  "tiffany-day": {
+   "name": "Tiffany Day",
+   "years": [],
+   "sets": []
+  },
+  "no-na": {
+   "name": "no na",
+   "years": [],
+   "sets": []
+  },
+  "mathame": {
+   "name": "Mathame",
+   "years": [
+    2023
+   ],
+   "sets": [
+    {
+     "year": 2023,
+     "day": "Saturday",
+     "stage": "Yuma",
+     "as": "Mathame"
+    }
+   ]
+  },
+  "ear": {
+   "name": "ear",
+   "years": [],
+   "sets": []
+  },
+  "vandelux": {
+   "name": "Vandelux",
+   "years": [],
+   "sets": []
+  },
+  "rommulas": {
+   "name": "rommulas",
+   "years": [],
+   "sets": []
+  },
+  "apollonia": {
+   "name": "Apollonia",
+   "years": [],
+   "sets": []
+  },
+  "getdown-services": {
+   "name": "Getdown Services",
+   "years": [],
+   "sets": []
+  },
+  "good-neighbours": {
+   "name": "Good Neighbours",
+   "years": [],
+   "sets": []
+  },
+  "first-day-back": {
+   "name": "First Day Back",
+   "years": [],
+   "sets": []
+  },
+  "jimi-jules": {
+   "name": "Jimi Jules",
+   "years": [
+    2025
+   ],
+   "sets": [
+    {
+     "year": 2025,
+     "day": "Sunday",
+     "stage": "Yuma",
+     "as": "Dixon x Jimi Jules"
+    }
+   ]
+  },
+  "twisted-teens": {
+   "name": "Twisted Teens",
+   "years": [],
+   "sets": []
+  },
+  "murda-beatz": {
+   "name": "Murda Beatz",
+   "years": [
+    2019,
+    2025
+   ],
+   "sets": [
+    {
+     "year": 2019,
+     "day": "Saturday",
+     "stage": "Sahara",
+     "as": "Murda Beatz"
+    },
+    {
+     "year": 2025,
+     "day": "Saturday",
+     "stage": "Heineken House",
+     "as": "Murda Beatz"
+    }
+   ]
+  },
+  "villanelle": {
+   "name": "Villanelle",
+   "years": [],
+   "sets": []
+  },
+  "kolter-x-sidney-charles": {
+   "name": "Kolter x Sidney Charles",
+   "years": [],
+   "sets": []
+  },
+  "la-texana": {
+   "name": "La Texana",
+   "years": [],
+   "sets": []
+  },
+  "omri": {
+   "name": "OMRI.",
+   "years": [],
+   "sets": []
+  },
+  "volkoder": {
+   "name": "Volkoder",
+   "years": [],
+   "sets": []
+  },
+  "zimmer90": {
+   "name": "Zimmer90",
+   "years": [],
+   "sets": []
+  },
+  "lusid": {
+   "name": "LuSiD",
+   "years": [],
+   "sets": []
+  },
+  "dream-boat": {
+   "name": "Dream Boat",
+   "years": [],
+   "sets": []
+  },
+  "sza": {
+   "name": "SZA",
+   "years": [
+    2016,
+    2018
+   ],
+   "sets": [
+    {
+     "year": 2016,
+     "day": "Saturday",
+     "stage": "Gobi",
+     "as": "SZA"
+    },
+    {
+     "year": 2018,
+     "day": "Friday",
+     "stage": "Coachella Stage",
+     "as": "SZA"
+    }
+   ]
+  },
+  "don-toliver": {
+   "name": "Don Toliver",
+   "years": [],
+   "sets": []
+  },
+  "dom-dolla": {
+   "name": "DOM DOLLA",
+   "years": [
+    2022,
+    2024
+   ],
+   "sets": [
+    {
+     "year": 2022,
+     "day": "Friday",
+     "stage": "Sahara",
+     "as": "Dom Dolla"
+    },
+    {
+     "year": 2024,
+     "day": "Saturday",
+     "stage": "Sahara",
+     "as": "Dom Dolla"
+    }
+   ]
+  },
+  "kygo": {
+   "name": "Kygo",
+   "years": [
+    2015,
+    2018
+   ],
+   "sets": [
+    {
+     "year": 2015,
+     "day": "Sunday",
+     "stage": "Mojave",
+     "as": "Kygo"
+    },
+    {
+     "year": 2018,
+     "day": "Friday",
+     "stage": "Coachella Stage",
+     "as": "Kygo"
+    }
+   ]
+  },
+  "empire-of-the-sun": {
+   "name": "Empire of the Sun",
+   "years": [
+    2011,
+    2014,
+    2017
+   ],
+   "sets": [
+    {
+     "year": 2011,
+     "day": "Saturday",
+     "stage": "Outdoor Theatre",
+     "as": "Empire of the Sun"
+    },
+    {
+     "year": 2014,
+     "day": "Saturday",
+     "stage": "Sahara",
+     "as": "Empire of the Sun"
+    },
+    {
+     "year": 2017,
+     "day": "Friday",
+     "stage": "Sahara",
+     "as": "Empire of the Sun"
+    }
+   ]
+  },
+  "four-tet": {
+   "name": "Four Tet",
+   "years": [
+    2005,
+    2013,
+    2017,
+    2019,
+    2023
+   ],
+   "sets": [
+    {
+     "year": 2005,
+     "day": "Saturday",
+     "stage": "Gobi",
+     "as": "Four Tet"
+    },
+    {
+     "year": 2013,
+     "day": "Friday",
+     "stage": "Yuma",
+     "as": "Four Tet"
+    },
+    {
+     "year": 2017,
+     "day": "Saturday",
+     "stage": "Yuma",
+     "as": "Four Tet"
+    },
+    {
+     "year": 2019,
+     "day": "Saturday",
+     "stage": "Mojave",
+     "as": "Four Tet"
+    },
+    {
+     "year": 2023,
+     "day": "Sunday",
+     "stage": "Coachella Stage",
+     "as": "Four Tet x Fred again.. x Skrillex"
+    }
+   ]
+  },
+  "the-neighbourhood": {
+   "name": "the Neighbourhood",
+   "years": [
+    2013,
+    2018
+   ],
+   "sets": [
+    {
+     "year": 2013,
+     "day": "Friday",
+     "stage": "Outdoor Theatre",
+     "as": "The Neighbourhood"
+    },
+    {
+     "year": 2018,
+     "day": "Friday",
+     "stage": "Coachella Stage",
+     "as": "The Neighbourhood"
+    }
+   ]
+  },
+  "becky-g": {
+   "name": "Becky G",
+   "years": [
+    2023
+   ],
+   "sets": [
+    {
+     "year": 2023,
+     "day": "Friday",
+     "stage": "Coachella Stage",
+     "as": "Becky G"
+    }
+   ]
+  },
+  "babymonster": {
+   "name": "BABYMONSTER",
+   "years": [],
+   "sets": []
+  },
+  "amelie-lens-x-sara-landry": {
+   "name": "Amelie Lens x Sara Landry",
+   "years": [
+    2019,
+    2025
+   ],
+   "sets": [
+    {
+     "year": 2019,
+     "day": "Friday",
+     "stage": "Yuma",
+     "as": "Amelie Lens"
+    },
+    {
+     "year": 2025,
+     "day": "Saturday",
+     "stage": "Yuma",
+     "as": "Amelie Lens"
+    }
+   ]
+  },
+  "remi-wolf": {
+   "name": "Remi Wolf",
+   "years": [
+    2023
+   ],
+   "sets": [
+    {
+     "year": 2023,
+     "day": "Saturday",
+     "stage": "Mojave",
+     "as": "Remi Wolf"
+    }
+   ]
+  },
+  "tove-lo": {
+   "name": "Tove Lo",
+   "years": [
+    2017
+   ],
+   "sets": [
+    {
+     "year": 2017,
+     "day": "Sunday",
+     "stage": "Mojave",
+     "as": "Tove Lo"
+    }
+   ]
+  },
+  "victoria-monet": {
+   "name": "Victoria Monét",
+   "years": [
+    2024
+   ],
+   "sets": [
+    {
+     "year": 2024,
+     "day": "Sunday",
+     "stage": "Mojave",
+     "as": "Victoria Monét"
+    }
+   ]
+  },
+  "esdeekid": {
+   "name": "EsDeeKid",
+   "years": [],
+   "sets": []
+  },
+  "caroline-polachek": {
+   "name": "Caroline Polachek",
+   "years": [
+    2022
+   ],
+   "sets": [
+    {
+     "year": 2022,
+     "day": "Saturday",
+     "stage": "Gobi",
+     "as": "Caroline Polachek"
+    }
+   ]
+  },
+  "chase-status": {
+   "name": "Chase & Status",
+   "years": [
+    2011,
+    2024,
+    2025
+   ],
+   "sets": [
+    {
+     "year": 2011,
+     "day": "Sunday",
+     "stage": "Sahara",
+     "as": "Chase & Status"
+    },
+    {
+     "year": 2024,
+     "day": "Sunday",
+     "stage": "The Do LaB (Weekend 1)",
+     "as": "Chase & Status"
+    },
+    {
+     "year": 2025,
+     "day": "Sunday",
+     "stage": "Sahara",
+     "as": "Chase & Status"
+    }
+   ]
+  },
+  "muna": {
+   "name": "MUNA",
+   "years": [
+    2023
+   ],
+   "sets": [
+    {
+     "year": 2023,
+     "day": "Friday",
+     "stage": "Mojave",
+     "as": "MUNA"
+    }
+   ]
+  },
+  "boris-brejcha": {
+   "name": "Boris Brejcha",
+   "years": [
+    2023,
+    2025
+   ],
+   "sets": [
+    {
+     "year": 2023,
+     "day": "Sunday",
+     "stage": "Sahara",
+     "as": "Boris Brejcha"
+    },
+    {
+     "year": 2025,
+     "day": "Sunday",
+     "stage": "Sahara",
+     "as": "Boris Brejcha"
+    }
+   ]
+  },
+  "jorja-smith": {
+   "name": "Jorja Smith",
+   "years": [
+    2018
+   ],
+   "sets": [
+    {
+     "year": 2018,
+     "day": "Saturday",
+     "stage": "Gobi",
+     "as": "Jorja Smith"
+    }
+   ]
+  },
+  "the-avalanches": {
+   "name": "the Avalanches",
+   "years": [
+    2017,
+    2022
+   ],
+   "sets": [
+    {
+     "year": 2017,
+     "day": "Friday",
+     "stage": "Mojave",
+     "as": "The Avalanches"
+    },
+    {
+     "year": 2022,
+     "day": "Friday",
+     "stage": "Gobi",
+     "as": "The Avalanches"
+    }
+   ]
+  },
+  "bolo": {
+   "name": "BOLO",
+   "years": [],
+   "sets": []
+  },
+  "pennywise": {
+   "name": "Pennywise",
+   "years": [],
+   "sets": []
+  },
+  "freddie-gibbs": {
+   "name": "Freddie Gibbs",
+   "years": [
+    2022
+   ],
+   "sets": [
+    {
+     "year": 2022,
+     "day": "Saturday",
+     "stage": "Gobi",
+     "as": "Freddie Gibbs"
+    }
+   ]
+  },
+  "shygirl": {
+   "name": "Shygirl",
+   "years": [],
+   "sets": []
+  },
+  "julia-wolf": {
+   "name": "Julia Wolf",
+   "years": [],
+   "sets": []
+  },
+  "odd-mob": {
+   "name": "Odd Mob",
+   "years": [
+    2023,
+    2025
+   ],
+   "sets": [
+    {
+     "year": 2023,
+     "day": "Sunday",
+     "stage": "The Do LaB (Weekend 2)",
+     "as": "ODD MOB"
+    },
+    {
+     "year": 2025,
+     "day": "Sunday",
+     "stage": "Quasar",
+     "as": "Odd Mob"
+    }
+   ]
+  },
+  "ayra-starr": {
+   "name": "Ayra Starr",
+   "years": [],
+   "sets": []
+  },
+  "lambrini-girls": {
+   "name": "Lambrini Girls",
+   "years": [],
+   "sets": []
+  },
+  "akriila": {
+   "name": "AKRIILA",
+   "years": [],
+   "sets": []
+  },
+  "dinner-party": {
+   "name": "Dinner Party",
+   "years": [
+    2023
+   ],
+   "sets": [
+    {
+     "year": 2023,
+     "day": "Saturday",
+     "stage": "Gobi",
+     "as": "Dinner Party"
+    }
+   ]
+  },
+  "silva-bumpa": {
+   "name": "Silva Bumpa",
+   "years": [
+    2026
+   ],
+   "sets": [
+    {
+     "year": 2026,
+     "day": "Sunday",
+     "stage": "The Do LaB (Weekend 2)",
+     "as": "Silva Bumpa"
+    }
+   ]
+  },
+  "dj-habibeats": {
+   "name": "DJ Habibeats",
+   "years": [
+    2026
+   ],
+   "sets": [
+    {
+     "year": 2026,
+     "day": "Saturday",
+     "stage": "The Do LaB (Weekend 2)",
+     "as": "DJ Habibeats b2b Zainab"
+    }
+   ]
+  },
+  "chanel-beads": {
+   "name": "Chanel Beads",
+   "years": [],
+   "sets": []
+  },
+  "adam-ten": {
+   "name": "Adam Ten",
+   "years": [
+    2024
+   ],
+   "sets": [
+    {
+     "year": 2024,
+     "day": "Friday",
+     "stage": "Quasar",
+     "as": "Adam Ten x Mita Gami"
+    }
+   ]
+  },
+  "after": {
+   "name": "After",
+   "years": [],
+   "sets": []
+  },
+  "zack-fox": {
+   "name": "Zack Fox",
+   "years": [
+    2025
+   ],
+   "sets": [
+    {
+     "year": 2025,
+     "day": "Friday",
+     "stage": "The Do LaB (Weekend 1)",
+     "as": "Jyoty b2b Zack Fox"
+    }
+   ]
+  },
+  "fat-dog": {
+   "name": "Fat Dog",
+   "years": [],
+   "sets": []
+  },
+  "omar": {
+   "name": "Omar+",
+   "years": [
+    2026
+   ],
+   "sets": [
+    {
+     "year": 2026,
+     "day": "Sunday",
+     "stage": "The Do LaB (Weekend 1)",
+     "as": "Omar+"
+    }
+   ]
+  },
+  "genesis-owusu": {
+   "name": "Genesis Owusu",
+   "years": [],
+   "sets": []
+  },
+  "joshua-slone": {
+   "name": "Joshua Slone",
+   "years": [],
+   "sets": []
+  },
+  "the-mainliners": {
+   "name": "the Mainliners",
+   "years": [],
+   "sets": []
+  },
+  "marten-lou-x-alex-wann": {
+   "name": "Marten Lou x Alex Wann",
+   "years": [
+    2024
+   ],
+   "sets": [
+    {
+     "year": 2024,
+     "day": "Saturday",
+     "stage": "Heineken House (Weekend 1)",
+     "as": "Marten Lou"
+    }
+   ]
+  },
+  "chasewest": {
+   "name": "ChaseWest",
+   "years": [
+    2025
+   ],
+   "sets": [
+    {
+     "year": 2025,
+     "day": "Sunday",
+     "stage": "The Do LaB (Weekend 2)",
+     "as": "ChaseWest"
+    }
+   ]
+  },
+  "florence-road": {
+   "name": "Florence Road",
+   "years": [],
+   "sets": []
+  },
+  "jazzy": {
+   "name": "Jazzy",
+   "years": [
+    2026
+   ],
+   "sets": [
+    {
+     "year": 2026,
+     "day": "Friday",
+     "stage": "The Do LaB (Weekend 1)",
+     "as": "Jazzy"
+    }
+   ]
+  },
+  "tul8te": {
+   "name": "TUL8TE",
+   "years": [],
+   "sets": []
+  },
+  "jakob-nowell-and-the-castle": {
+   "name": "Jakob Nowell and THE CASTLE",
+   "years": [],
+   "sets": []
+  },
+  "talon": {
+   "name": "Talón",
+   "years": [
+    2023,
+    2025
+   ],
+   "sets": [
+    {
+     "year": 2023,
+     "day": "Saturday",
+     "stage": "Yuma",
+     "as": "Talon"
+    },
+    {
+     "year": 2025,
+     "day": "Saturday",
+     "stage": "Sahara",
+     "as": "Talón"
+    }
+   ]
+  },
+  "klave-efectiva": {
+   "name": "Klave Efectiva",
+   "years": [],
+   "sets": []
+  },
+  "daddy-yankee": {
+   "name": "Daddy Yankee",
+   "years": [],
+   "sets": []
+  },
+  "justice": {
+   "name": "Justice",
+   "years": [
+    2007,
+    2008,
+    2012,
+    2017,
+    2024
+   ],
+   "sets": [
+    {
+     "year": 2007,
+     "day": "Saturday",
+     "stage": "Sahara",
+     "as": "Justice"
+    },
+    {
+     "year": 2008,
+     "day": "Sunday",
+     "stage": "Sahara",
+     "as": "Justice"
+    },
+    {
+     "year": 2012,
+     "day": "Sunday",
+     "stage": "Coachella Stage",
+     "as": "Justice"
+    },
+    {
+     "year": 2017,
+     "day": "Sunday",
+     "stage": "Outdoor Theatre",
+     "as": "Justice"
+    },
+    {
+     "year": 2024,
+     "day": "Friday",
+     "stage": "Outdoor Theatre",
+     "as": "Justice"
+    }
+   ]
+  }
+ }
+}

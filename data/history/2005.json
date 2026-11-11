@@ -1,0 +1,176 @@
+{
+  "year": 2005,
+  "status": "happened",
+  "source": {
+    "name": "Wikipedia - Coachella Festival line-ups",
+    "url": "https://en.wikipedia.org/wiki/Coachella_Festival_line-ups",
+    "retrieved": "2026-11-11"
+  },
+  "days": [
+    {
+      "day": "Saturday",
+      "dates": "April 30",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "Coldplay",
+            "Bauhaus",
+            "Weezer",
+            "Wilco",
+            "Keane",
+            "Snow Patrol",
+            "The Raveonettes",
+            "Buck 65"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "Spoon",
+            "Mercury Rev",
+            "Sage Francis",
+            "Café Tacvba",
+            "Rilo Kiley",
+            "Razorlight",
+            "Eisley",
+            "Jamie Cullum",
+            "Nic Armstrong & the Thieves"
+          ]
+        },
+        {
+          "stage": "Sahara",
+          "acts": [
+            "The Chemical Brothers",
+            "Hernán Cattáneo",
+            "Josh Wink",
+            "U.N.K.L.E. (James Lavelle)",
+            "Tiga",
+            "DJ Marky",
+            "DJ Peretz"
+          ]
+        },
+        {
+          "stage": "Mojave",
+          "acts": [
+            "Fantômas",
+            "Bloc Party",
+            "The Secret Machines",
+            "MF Doom",
+            "Stereophonics",
+            "The Kills",
+            "Ambulance LTD",
+            "Radio 4",
+            "Gratitude",
+            "The Sexy Magazines"
+          ]
+        },
+        {
+          "stage": "Gobi",
+          "acts": [
+            "Zap Mama",
+            "Amp Fiddler",
+            "Four Tet",
+            "Swayzak",
+            "Jean Grae",
+            "Immortal Technique",
+            "M83",
+            "k-os",
+            "Katie Melua",
+            "Boom Bip"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Sunday",
+      "dates": "May 1",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "Black Star",
+            "Nine Inch Nails",
+            "New Order",
+            "Gang of Four",
+            "The Futureheads",
+            "Thrice",
+            "The Perceptionists",
+            "Gram Rabbit"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "Bright Eyes",
+            "The Faint",
+            "British Sea Power",
+            "Aesop Rock",
+            "Arcade Fire",
+            "Tegan and Sara",
+            "The Fiery Furnaces",
+            "Jem",
+            "Donavon Frankenreiter",
+            "Shout Out Louds"
+          ]
+        },
+        {
+          "stage": "Sahara",
+          "acts": [
+            "The Prodigy",
+            "Roni Size w/ Dynamite MC",
+            "Armin van Buuren",
+            "Junkie XL",
+            "Miss Kittin",
+            "Ben Watt",
+            "Matthew Dear",
+            "Diplo",
+            "DJ Jun"
+          ]
+        },
+        {
+          "stage": "Mojave",
+          "acts": [
+            "The Locust",
+            "The Blood Brothers",
+            "Pinback",
+            "The Dresden Dolls",
+            "Roots Manuva",
+            "The Bravery",
+            "Kasabian",
+            "Autolux",
+            "Sloan",
+            "Midlake",
+            "Goodbye Radar"
+          ]
+        },
+        {
+          "stage": "Gobi",
+          "acts": [
+            "Wolf Eyes",
+            "Matmos",
+            "DJ Krush",
+            "Z-Trip",
+            "Beans",
+            "M.I.A.",
+            "Sixtoo",
+            "Subtle",
+            "Zion I"
+          ]
+        },
+        {
+          "stage": "The Do LaB",
+          "acts": [
+            "Jupit3r",
+            "Todd Spero"
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Evil Nine (Sahara, Saturday): listed on the page as cancelled; not included in acts",
+    "Dropped Acts: Cocteau Twins, Doves Installation Art :: Curated by Philip Blaine",
+    "The Do LaB line (Jupit3r, Todd Spero) is printed after the Sunday table with no day given; filed under Sunday by page position"
+  ]
+}

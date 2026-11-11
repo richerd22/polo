@@ -1,0 +1,282 @@
+{
+  "year": 2008,
+  "status": "happened",
+  "source": {
+    "name": "Wikipedia - Coachella Festival line-ups",
+    "url": "https://en.wikipedia.org/wiki/Coachella_Festival_line-ups",
+    "retrieved": "2026-11-11"
+  },
+  "days": [
+    {
+      "day": "Friday",
+      "dates": "April 25",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "Jack Johnson",
+            "The Verve",
+            "The Raconteurs",
+            "Tegan and Sara",
+            "The Breeders",
+            "Slightly Stoopid",
+            "John Butler Trio",
+            "Rogue Wave"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "Serj Tankian",
+            "The Swell Season",
+            "The National",
+            "Vampire Weekend",
+            "Architecture in Helsinki",
+            "Les Savy Fav",
+            "Luckyiam"
+          ]
+        },
+        {
+          "stage": "Sahara",
+          "acts": [
+            "Fatboy Slim",
+            "Pendulum",
+            "Aphex Twin",
+            "Diplo",
+            "Sandra Collins",
+            "Adam Freeland",
+            "Busy P",
+            "SebastiAn",
+            "Midnight Juggernauts",
+            "DJ Mehdi"
+          ]
+        },
+        {
+          "stage": "Mojave",
+          "acts": [
+            "Black Lips",
+            "Sharon Jones & The Dap-Kings",
+            "Aesop Rock",
+            "Goldfrapp",
+            "múm",
+            "Jens Lekman",
+            "Black Kids",
+            "Redd Kross",
+            "American Bang"
+          ]
+        },
+        {
+          "stage": "Gobi",
+          "acts": [
+            "Professor Murder",
+            "Spank Rock",
+            "Datarock",
+            "Santogold",
+            "dan le sac vs Scroobius Pip",
+            "Cut Copy",
+            "Dan Deacon",
+            "Battles",
+            "Porter"
+          ]
+        },
+        {
+          "stage": "The Do LaB",
+          "acts": [
+            "Lucent Dossier Experience",
+            "The Ianator",
+            "Sammy Bliss",
+            "Jesse Wright",
+            "DJ Wolfie",
+            "Djun Djun",
+            "Henry Strange",
+            "Geno Cochino",
+            "Chad Rock"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "dates": "April 26",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "Prince",
+            "Portishead",
+            "Kraftwerk",
+            "Death Cab for Cutie",
+            "Café Tacvba",
+            "Cold War Kids",
+            "Minus the Bear",
+            "VHS or Beta"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "Flogging Molly",
+            "Mark Ronson",
+            "Rilo Kiley",
+            "Dwight Yoakam",
+            "Stephen Malkmus and the Jicks",
+            "DeVotchKa",
+            "dredg",
+            "Little Brother",
+            "Jupiter's Ring"
+          ]
+        },
+        {
+          "stage": "Sahara",
+          "acts": [
+            "Above & Beyond",
+            "Sasha & John Digweed",
+            "M.I.A.",
+            "Junkie XL",
+            "Hot Chip",
+            "Erol Alkan",
+            "Boys Noize",
+            "James Zabiela",
+            "Kavinsky",
+            "Uffie featuring DJ Mehdi",
+            "Institubes"
+          ]
+        },
+        {
+          "stage": "Mojave",
+          "acts": [
+            "Enter Shikari",
+            "Yelle",
+            "Animal Collective",
+            "Islands",
+            "Scars on Broadway",
+            "Kate Nash",
+            "MGMT",
+            "Man Man",
+            "The Teenagers",
+            "The Bird and the Bee"
+          ]
+        },
+        {
+          "stage": "Gobi",
+          "acts": [
+            "Calvin Harris",
+            "Akron/Family",
+            "Yo! Majesty",
+            "The Cinematic Orchestra",
+            "St. Vincent",
+            "Bonde do Rolê",
+            "120 Days",
+            "Carbon/Silicon",
+            "Yoav"
+          ]
+        },
+        {
+          "stage": "The Do LaB",
+          "acts": [
+            "Lucent Dossier Experience",
+            "The Glitch Mob",
+            "Random Rab",
+            "David Starfire with iCatching",
+            "Jesse (of Brazilian Girls)",
+            "Dandelion",
+            "DJ Imagika",
+            "Adam Ohana"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Sunday",
+      "dates": "April 27",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "Roger Waters",
+            "My Morning Jacket",
+            "Sean Penn (spoken word)",
+            "Gogol Bordello",
+            "Stars",
+            "Shout Out Louds",
+            "The Cool Kids",
+            "Austin TV"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "Love and Rockets",
+            "Metric",
+            "Autolux",
+            "Manchester Orchestra",
+            "Electric Touch",
+            "Grand Ole Party",
+            "Vas Defrans"
+          ]
+        },
+        {
+          "stage": "Sahara",
+          "acts": [
+            "Justice",
+            "Chromeo",
+            "Simian Mobile Disco",
+            "Modeselektor",
+            "Danny Tenaglia",
+            "Booka Shade",
+            "deadmau5",
+            "Dimitri from Paris",
+            "Perry Farrell",
+            "Institubes"
+          ]
+        },
+        {
+          "stage": "Mojave",
+          "acts": [
+            "Black Mountain",
+            "Murs",
+            "Sia",
+            "Spiritualized",
+            "Swervedriver",
+            "Duffy",
+            "I'm from Barcelona",
+            "Annuals",
+            "Plastiscines"
+          ]
+        },
+        {
+          "stage": "Gobi",
+          "acts": [
+            "Sons and Daughters",
+            "Kid Sister with A-Trak",
+            "Does It Offend You, Yeah?",
+            "Holy F*ck",
+            "Sean Penn (spoken word)",
+            "Linton Kwesi Johnson",
+            "Brett Dennen"
+          ]
+        },
+        {
+          "stage": "The Do LaB",
+          "acts": [
+            "Lucent Dossier Experience",
+            "Adam Freeland",
+            "Jupit3r",
+            "Patricio",
+            "Oscure",
+            "El Papa Chango",
+            "Helios Jive",
+            "Ana Sia",
+            "Saynt"
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "The Field (Gobi, Sunday): listed on the page as cancelled; not included in acts",
+    "Dropped Acts: Jamie T, Madness, New Young Pony Club, The Bees, The Horrors, The Streets, Turbonegro",
+    "Portishead were planned to headline the festival, but were demoted to playing before Prince's set.",
+    "In 2008, art was contributed by Gerard Minakawa: (Bamboo Waves), The Do Lab: (Oasis), Sean Orlando: (The Steampunk Treehouse), Mike Ross: (BigRigJig), Mark Lottor: (The Quad Cubatron), Ball-Nogues Studio: (Copper Droopscape), Martii Kalliala and Jenna Sutela: (Super Ball), Aaron Koblin: (Flight Patterns), Michael Christian: (Beyond the Garden), Christopher Janney: (Sonic Forest), Syd Klinge: (Cauac Twins), Corndog: (Parabola), James Nick Sears: (The Orb), Orion Fredericks: (Fata Morgana) HotShot the Robot, SWARM and Slick. Philip Blaine curated."
+  ]
+}

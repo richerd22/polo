@@ -4,39 +4,39 @@ Per-act pages: https://polo.cold.fyi/lineup/2027/a/<slug>/ (slugs in the JSON an
 Format: day | poster line (1 = headliner) | act as printed | note | earlier Coachella years
 
 Friday | 1 | Dua Lipa
-Friday | 2 | Madonna | in the dance tent
+Friday | 2 | Madonna | In the Dance Tent | 2006
 Friday | 2 | Zara Larsson
-Friday | 2 | Steve Lacy
+Friday | 2 | Steve Lacy |  | 2022
 Friday | 2 | JISOO
-Friday | 2 | Diljit Dosanjh
-Friday | 2 | Peggy Gou
-Friday | 2 | Kehlani
+Friday | 2 | Diljit Dosanjh |  | 2023
+Friday | 2 | Peggy Gou |  | 2018 2022 2024
+Friday | 2 | Kehlani |  | 2017
 Friday | 2 | Solid Grooves
 Friday | 3 | Giorgio Moroder
-Friday | 3 | Social Distortion
+Friday | 3 | Social Distortion |  | 2013
 Friday | 3 | Pinegrove
 Friday | 3 | Angine de Poitrine
 Friday | 3 | Leon Thomas
 Friday | 3 | Drain Gang
-Friday | 3 | Snow Strippers
+Friday | 3 | Snow Strippers |  | 2025
 Friday | 4 | Mike D 5D
 Friday | 4 | CHRIS STASSY
 Friday | 4 | Milo J
-Friday | 4 | SG Lewis
-Friday | 4 | Kelela
-Friday | 4 | Franky Rizardo
+Friday | 4 | SG Lewis |  | 2016 2019 2023
+Friday | 4 | Kelela |  | 2018
+Friday | 4 | Franky Rizardo |  | 2026
 Friday | 4 | Fetty Wap
-Friday | 4 | Vintage Culture
-Friday | 4 | the Damned
-Friday | 5 | ATARASHII GAKKO!
+Friday | 4 | Vintage Culture |  | 2022 2023 2025
+Friday | 4 | the Damned |  | 2016
+Friday | 5 | ATARASHII GAKKO! |  | 2024
 Friday | 5 | Nettspend
 Friday | 5 | American Football
 Friday | 5 | xaviersobased
 Friday | 5 | La Dispute
 Friday | 5 | Haute & Freddy
-Friday | 5 | the Hellp
-Friday | 5 | Disco Dom
-Friday | 6 | MPH
+Friday | 5 | the Hellp |  | 2025
+Friday | 5 | Disco Dom |  | 2025
+Friday | 6 | MPH |  | 2025
 Friday | 6 | Bella Kay
 Friday | 6 | This Is Lorelei
 Friday | 6 | the Womack Sisters
@@ -48,41 +48,41 @@ Friday | 7 | LEENALCHI
 Friday | 7 | Bea Miller
 Friday | 7 | Gang of Youths
 Friday | 7 | Love Spells
-Friday | 7 | Rafael
+Friday | 7 | Rafael |  | 2025
 Friday | 7 | Nirosta Steel
 Friday | 7 | Ragie Ban
 Friday | 8 | Eli
 Friday | 8 | Las Petunias
 Friday | 8 | Violet Grohl
-Friday | 8 | Jackie Hollander
+Friday | 8 | Jackie Hollander |  | 2026
 Friday | 8 | Jamback x Marsolo
 Friday | 8 | NOYA
-Saturday | 1 | Tame Impala
-Saturday | 2 | Phoebe Bridgers
-Saturday | 2 | Weezer
-Saturday | 2 | Tiësto
-Saturday | 2 | Martin Garrix
-Saturday | 2 | Robyn
-Saturday | 2 | Role Model
+Saturday | 1 | Tame Impala |  | 2011 2013 2015 2019
+Saturday | 2 | Phoebe Bridgers |  | 2022
+Saturday | 2 | Weezer |  | 2001 2005 2019 2025
+Saturday | 2 | Tiësto |  | 2002 2007 2010 2025
+Saturday | 2 | Martin Garrix |  | 2014 2017
+Saturday | 2 | Robyn |  | 2011
+Saturday | 2 | Role Model |  | 2022
 Saturday | 2 | ADÉLA
-Saturday | 2 | Måneskin
-Saturday | 2 | Solomun
+Saturday | 2 | Måneskin |  | 2022
+Saturday | 2 | Solomun |  | 2014 2017 2022
 Saturday | 2 | NCT
 Saturday | 3 | Enigma
-Saturday | 3 | Underworld
-Saturday | 3 | Charlotte de Witte
+Saturday | 3 | Underworld |  | 1999 2003 2016 2023
+Saturday | 3 | Charlotte de Witte |  | 2019 2024
 Saturday | 3 | Leon Bridges
-Saturday | 3 | Cloonee
-Saturday | 3 | Magdalena Bay
-Saturday | 3 | Barry Can't Swim
-Saturday | 3 | Boy Harsher
+Saturday | 3 | Cloonee |  | 2023 2024 2026
+Saturday | 3 | Magdalena Bay |  | 2023
+Saturday | 3 | Barry Can't Swim |  | 2024 2025
+Saturday | 3 | Boy Harsher |  | 2024
 Saturday | 3 | KI/KI
-Saturday | 4 | Mariah the Scientist
+Saturday | 4 | Mariah the Scientist |  | 2022
 Saturday | 4 | Bad Gyal
 Saturday | 4 | Basement
-Saturday | 4 | Brutalismus 3000
-Saturday | 4 | Beltran
-Saturday | 4 | underscores
+Saturday | 4 | Brutalismus 3000 |  | 2024
+Saturday | 4 | Beltran |  | 2024 2025
+Saturday | 4 | underscores |  | 2025
 Saturday | 4 | SB19
 Saturday | 4 | Twin Tribes
 Saturday | 4 | Odeal
@@ -90,7 +90,7 @@ Saturday | 5 | Bassvictim
 Saturday | 5 | Los Pibes Chorros
 Saturday | 5 | Tiffany Day
 Saturday | 5 | no na
-Saturday | 5 | Mathame
+Saturday | 5 | Mathame |  | 2023
 Saturday | 5 | ear
 Saturday | 5 | Vandelux
 Saturday | 5 | rommulas
@@ -98,9 +98,9 @@ Saturday | 5 | Apollonia
 Saturday | 5 | Getdown Services
 Saturday | 6 | Good Neighbours
 Saturday | 6 | First Day Back
-Saturday | 6 | Jimi Jules
+Saturday | 6 | Jimi Jules |  | 2025
 Saturday | 6 | Twisted Teens
-Saturday | 6 | Murda Beatz
+Saturday | 6 | Murda Beatz |  | 2019 2025
 Saturday | 6 | Villanelle
 Saturday | 6 | Kolter x Sidney Charles
 Saturday | 7 | La Texana
@@ -109,54 +109,54 @@ Saturday | 7 | Volkoder
 Saturday | 7 | Zimmer90
 Saturday | 7 | LuSiD
 Saturday | 7 | Dream Boat
-Sunday | 1 | SZA
+Sunday | 1 | SZA |  | 2016 2018
 Sunday | 2 | Don Toliver
-Sunday | 2 | DOM DOLLA
-Sunday | 2 | Kygo
-Sunday | 2 | Empire of the Sun
-Sunday | 2 | Four Tet
-Sunday | 2 | the Neighbourhood
-Sunday | 2 | Becky G
+Sunday | 2 | DOM DOLLA |  | 2022 2024
+Sunday | 2 | Kygo |  | 2015 2018
+Sunday | 2 | Empire of the Sun |  | 2011 2014 2017
+Sunday | 2 | Four Tet |  | 2005 2013 2017 2019 2023
+Sunday | 2 | the Neighbourhood |  | 2013 2018
+Sunday | 2 | Becky G |  | 2023
 Sunday | 2 | BABYMONSTER
-Sunday | 3 | Amelie Lens x Sara Landry
-Sunday | 3 | Remi Wolf
-Sunday | 3 | Tove Lo
-Sunday | 3 | Victoria Monét
+Sunday | 3 | Amelie Lens x Sara Landry |  | 2019 2025
+Sunday | 3 | Remi Wolf |  | 2023
+Sunday | 3 | Tove Lo |  | 2017
+Sunday | 3 | Victoria Monét |  | 2024
 Sunday | 3 | EsDeeKid
-Sunday | 3 | Caroline Polachek
-Sunday | 3 | Chase & Status
-Sunday | 3 | MUNA
-Sunday | 4 | Boris Brejcha
-Sunday | 4 | Jorja Smith
-Sunday | 4 | the Avalanches
+Sunday | 3 | Caroline Polachek |  | 2022
+Sunday | 3 | Chase & Status |  | 2011 2024 2025
+Sunday | 3 | MUNA |  | 2023
+Sunday | 4 | Boris Brejcha |  | 2023 2025
+Sunday | 4 | Jorja Smith |  | 2018
+Sunday | 4 | the Avalanches |  | 2017 2022
 Sunday | 4 | BOLO
 Sunday | 4 | Pennywise
-Sunday | 4 | Freddie Gibbs
+Sunday | 4 | Freddie Gibbs |  | 2022
 Sunday | 4 | Shygirl
 Sunday | 4 | Julia Wolf
-Sunday | 4 | Odd Mob
+Sunday | 4 | Odd Mob |  | 2023 2025
 Sunday | 4 | Ayra Starr
 Sunday | 5 | Lambrini Girls
 Sunday | 5 | AKRIILA
-Sunday | 5 | Dinner Party
-Sunday | 5 | Silva Bumpa
-Sunday | 5 | DJ Habibeats
+Sunday | 5 | Dinner Party |  | 2023
+Sunday | 5 | Silva Bumpa |  | 2026
+Sunday | 5 | DJ Habibeats |  | 2026
 Sunday | 5 | Chanel Beads
-Sunday | 5 | Adam Ten
+Sunday | 5 | Adam Ten |  | 2024
 Sunday | 5 | After
-Sunday | 5 | Zack Fox
+Sunday | 5 | Zack Fox |  | 2025
 Sunday | 5 | Fat Dog
-Sunday | 6 | Omar+
+Sunday | 6 | Omar+ |  | 2026
 Sunday | 6 | Genesis Owusu
 Sunday | 6 | Joshua Slone
 Sunday | 6 | the Mainliners
-Sunday | 6 | Marten Lou x Alex Wann
-Sunday | 6 | ChaseWest
+Sunday | 6 | Marten Lou x Alex Wann |  | 2024
+Sunday | 6 | ChaseWest |  | 2025
 Sunday | 6 | Florence Road
-Sunday | 7 | Jazzy
+Sunday | 7 | Jazzy |  | 2026
 Sunday | 7 | TUL8TE
 Sunday | 7 | Jakob Nowell and THE CASTLE
-Sunday | 8 | Talón
+Sunday | 8 | Talón |  | 2023 2025
 Sunday | 8 | Klave Efectiva
 Day TBA | - | Daddy Yankee | In the Desert
-Day TBA | - | Justice | The Bunker Debut Of JUSTICE - BLINDED BY THE LIGHTS
+Day TBA | - | Justice | The Bunker Debut Of JUSTICE - BLINDED BY THE LIGHTS | 2007 2008 2012 2017 2024

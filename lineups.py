@@ -373,6 +373,16 @@ def angles(L, H, A):
                 "In 2026 the last line of the poster read \"The Bunker Debut of Radiohead Kid A Mnesia.\" It was not a set: it was an underground cinema under the polo fields, open to anyone with a wristband (FLOOD, Stereogum). "
                 "The 2027 poster ends the same way, with \"The Bunker Debut Of JUSTICE - Blinded By The Lights\" and no day. If it works like 2026, it is a piece you visit, not a one-night show. That is a reading of last year, not an announcement."
                 + (f" Justice have played Coachella {len(ju['years'])} times before ({', '.join(str(x) for x in ju['years'])})." if ju.get("years") else "")))
+    climb = []
+    for a in acts(L):
+        if not a.get("headliner"):
+            continue
+        hh = H["acts"].get(a["slug"], {})
+        if hh.get("sets"):
+            climb.append(f"{a['name']}: " + ", then ".join(f"{s['stage']} in {s['year']}" for s in hh["sets"]) + ", now " + (f"headlining {a['day']}" if a.get("day") else f"\"{a.get('billing')}\""))
+        else:
+            climb.append(f"{a['name']}: no earlier Coachella set in the archive")
+    out.append(("How the headliners got here", ". ".join(climb) + "."))
     by_day = {}
     for d in L["days"]:
         r = [a for a in d["acts"] if H["acts"].get(a["slug"], {}).get("years")]
@@ -599,24 +609,30 @@ def page_archive_index(A, idx, site):
         n = sum(len(st["acts"]) for d in Y.get("days", []) for st in d.get("stages", []))
         stages = sorted({st["stage"] for d in Y.get("days", []) for st in d.get("stages", [])})
         rows_ += f'<tr><td class="n"><a href="/archive/{y}/">{y}</a></td><td>{e(Y.get("status"))}</td><td class="n">{n}</td><td>{e(", ".join(stages))}</td></tr>'
-    top = sorted(((v[0]["as"], v) for k, v in idx.items()), key=lambda t: (-len(t[1]), t[0].lower()))[:30]
+    SIDE = re.compile(r"do lab|heineken|desert sky|bassface|camp|matin|dome|unspecified|dj.?s between", re.I)
+    main_idx = {k: [r for r in v if not SIDE.search(r["stage"])] for k, v in idx.items()}
+    top = sorted(((v[0]["as"], v) for k, v in main_idx.items() if v), key=lambda t: (-len(t[1]), t[0].lower()))[:30]
+    top_all = sorted(((v[0]["as"], v) for k, v in idx.items()), key=lambda t: (-len(t[1]), t[0].lower()))[:15]
     toph = "".join(f'<li><b>{e(n)}</b> <span>{len(v)} · {", ".join(str(r["year"]) for r in v)}</span></li>' for n, v in top)
+    toph_all = "".join(f'<li><b>{e(n)}</b> <span>{len(v)} · {", ".join(str(r["year"]) for r in v)}</span></li>' for n, v in top_all)
     stage_count = {}
     for y, Y in A.items():
         for d in Y.get("days", []):
             for st in d.get("stages", []):
-                stage_count.setdefault(st["stage"], set()).add(y)
-    sth = "".join(f"<li><b>{e(s)}</b> <span>{min(v)}-{max(v)} · {len(v)} editions</span></li>" for s, v in sorted(stage_count.items(), key=lambda t: (-len(t[1]), t[0])))
+                base = re.sub(r"\s*\(weekend [12]\)|\s+tent$", "", st["stage"], flags=re.I).strip()
+                stage_count.setdefault(base, set()).add(y)
+    sth = "".join(f"<li><b>{e(s)}</b> <span>{min(v)}-{max(v)} · {len(v)} editions</span></li>" for s, v in sorted(stage_count.items(), key=lambda t: (-len(t[1]), t[0])) if s != "Unspecified")
     body = f"""<main class="lu" id="main">
 <h1 class="ch">Every Coachella lineup, 1999 to now</h1>
 <p class="lede">Every edition's lineup by day and stage, every act ever listed, who has played the most, and every stage name the festival has used. Transcribed from Wikipedia's "Coachella Festival line-ups" and linked to the 2027 poster.</p>
 <nav class="chips" aria-label="More"><a href="/lineup/2027/">The 2027 lineup</a><a href="/archive/artists/">Every act, A-Z</a><a href="/headliners/">Every headliner</a></nav>
 <div class="tbl"><table><thead><tr><th>Year</th><th>Status</th><th>Acts</th><th>Stages</th></tr></thead><tbody>{rows_}</tbody></table></div>
-<h2>Most appearances</h2><ol class="ix">{toph}</ol>
+<h2>Most appearances on the main lineup</h2><p class="note">Every stage except the sponsor and partner stages (the Do LaB, Heineken House and Dome, Desert Sky, the camping stages).</p><ol class="ix">{toph}</ol>
+<h2>Most appearances, every stage</h2><p class="note">The Do LaB and Heineken House residents play almost every year, so they lead here.</p><ol class="ix">{toph_all}</ol>
 <h2>Every stage name</h2><ul class="ix">{sth}</ul>
 <p class="note">Counts are per edition (an act playing both weekends counts once) and use exact name matches, so renamed acts count separately. Source: <a href="{WIKI}" rel="noopener" target="_blank">Wikipedia, "Coachella Festival line-ups"</a>. Data: <a href="/archive.json">archive.json</a>. Independent. Not affiliated with Coachella, Goldenvoice or AEG.</p>
 </main>"""
-    qas = [("Who has played Coachella the most?", "; ".join(f"{n}, {len(v)} times" for n, v in top[:5]) + ", counting every edition in Wikipedia's lineup lists with exact name matches."),
+    qas = [("Who has played Coachella the most?", "On the main lineup: " + "; ".join(f"{n}, {len(v)} times" for n, v in top[:5]) + ". Counting every edition in Wikipedia's lineup lists with exact name matches, and leaving out the Do LaB and other partner stages, whose residents play nearly every year."),
            ("How many stages does Coachella have?", "It changes by year; this page lists every stage name in the archive with the years it appears.")]
     return body + "", qas, top
 
@@ -626,7 +642,7 @@ def page_artists(A, idx, site, current_slugs):
     for k, v in idx.items():
         name = v[0]["as"]
         items.append((norm(name), name, v, k))
-    items.sort()
+    items.sort(key=lambda t: (t[0], t[1]))
     lis = "".join(f'<li data-n="{e(n)}"><b>' + (f'<a href="/lineup/2027/a/{current_slugs[k]}/">{e(n)}</a>' if k in current_slugs else e(n)) + f'</b> <span>{", ".join(f"<a href=\"/archive/{r["year"]}/\">{r["year"]}</a>" for r in v)}</span></li>' for _, n, v, k in items)
     body = f"""<main class="lu" id="main">
 <p class="bc"><a href="/archive/">Every Coachella lineup</a> / Every act</p>

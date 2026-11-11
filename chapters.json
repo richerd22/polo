@@ -642,7 +642,7 @@
   "title": "The lineup and the poster",
   "short": "One man reads thousands of pitches a year, picks about 150 acts, and sets every name on the poster in one typeface at one of several sizes - a size agents fight over. The poster used to land in January. Now it lands in the fall: the 2027 passes went on sale in May with no names on them, and the poster followed on Nov. 10, 2026, with a fourth headliner and no day for him. Behind it sits a radius clause that keeps those names off other stages from December to May, and a small Portland festival that sued over it.",
   "url": "https://polo.cold.fyi/lineup/",
-  "words": 2391,
+  "words": 2524,
   "sources": [
    25,
    42,
@@ -690,7 +690,8 @@
    468,
    469,
    470,
-   471
+   471,
+   472
   ]
  },
  {
@@ -733,7 +734,6 @@
    420,
    431,
    457,
-   472,
    473,
    474,
    475,
@@ -766,7 +766,8 @@
    502,
    503,
    504,
-   505
+   505,
+   506
   ]
  },
  {
@@ -808,7 +809,6 @@
    425,
    436,
    437,
-   506,
    507,
    508,
    509,
@@ -837,7 +837,8 @@
    532,
    533,
    534,
-   535
+   535,
+   536
   ]
  },
  {
@@ -876,9 +877,8 @@
    414,
    415,
    416,
-   516,
-   529,
-   536,
+   517,
+   530,
    537,
    538,
    539,
@@ -912,7 +912,8 @@
    567,
    568,
    569,
-   570
+   570,
+   571
   ]
  },
  {
@@ -926,10 +927,9 @@
    51,
    52,
    383,
-   536,
-   544,
-   565,
-   571,
+   537,
+   545,
+   566,
    572,
    573,
    574,
@@ -968,7 +968,8 @@
    607,
    608,
    609,
-   610
+   610,
+   611
   ]
  }
 ]

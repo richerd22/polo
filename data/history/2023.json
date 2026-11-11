@@ -1,0 +1,526 @@
+{
+  "year": 2023,
+  "status": "happened",
+  "source": {
+    "name": "Wikipedia - Coachella Festival line-ups",
+    "url": "https://en.wikipedia.org/wiki/Coachella_Festival_line-ups",
+    "retrieved": "2026-11-11"
+  },
+  "days": [
+    {
+      "day": "Friday",
+      "dates": "April 14 & 21",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "Bad Bunny",
+            "Gorillaz",
+            "Burna Boy",
+            "Becky G",
+            "Pusha T",
+            "Doechii",
+            "Record Safari"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "The Chemical Brothers",
+            "Kaytranada",
+            "SG Lewis",
+            "YUNGBLUD",
+            "Saba",
+            "The Comet Is Coming",
+            "Juicewon",
+            "Mimi"
+          ]
+        },
+        {
+          "stage": "Sonora",
+          "acts": [
+            "Uncle Waffles",
+            "Sasha Alex Sloan",
+            "TV Girl",
+            "Magdalena Bay",
+            "Danny Lux",
+            "Soul Glo",
+            "Lava La Rue",
+            "The Murder Capital",
+            "Jim Smith",
+            "Dave From The Grave"
+          ]
+        },
+        {
+          "stage": "Gobi",
+          "acts": [
+            "Ashnikko",
+            "Whyte Fang",
+            "The Garden",
+            "Yves Tumor",
+            "Tobe Nwigwe",
+            "Overmono",
+            "Gabriels",
+            "¿Téo?",
+            "Jupiter & Okwess",
+            "Desert Cahuilla Bird Singers"
+          ]
+        },
+        {
+          "stage": "Mojave",
+          "acts": [
+            "FKJ",
+            "Angèle",
+            "Blondie",
+            "Wet Leg",
+            "MUNA",
+            "BENEE",
+            "Domi & JD Beck",
+            "Lewis OfMan",
+            "Black Jade",
+            "Record Safari"
+          ]
+        },
+        {
+          "stage": "Sahara",
+          "acts": [
+            "Metro Boomin",
+            "Two Friends",
+            "Jamie Jones",
+            "blink-182",
+            "MK",
+            "Vintage Culture",
+            "Malaa",
+            "Dombresky",
+            "Mary Jane",
+            "Yimbo"
+          ]
+        },
+        {
+          "stage": "Yuma",
+          "acts": [
+            "Maceo Plex",
+            "TESTPILOT",
+            "Mochakk",
+            "Idris Elba",
+            "Nora En Pure",
+            "Dennis Cruz + PAWSA",
+            "Oliver Koletzki",
+            "Kyle Watson",
+            "Chris Stussy",
+            "Juliet Mendoza"
+          ]
+        },
+        {
+          "stage": "The Do LaB (Weekend 1)",
+          "acts": [
+            "Vintage Culture b2b Mochakk",
+            "Flight Facilities (DJ Set)",
+            "James Blake presents CMYK",
+            "Whipped Cream",
+            "The Glitch Mob",
+            "Mr. Carmack",
+            "BAMBII",
+            "Michaël Brun",
+            "Andreas One"
+          ]
+        },
+        {
+          "stage": "The Do LaB (Weekend 2)",
+          "acts": [
+            "The Brothers Macklovitch (A-Trak & Dave1)",
+            "Knock2",
+            "Disco Wrek (Disco Lines b2b Ship Wrek)",
+            "Of The Trees",
+            "The Funk Hunters",
+            "Maddy O'Neal",
+            "Flamingosis",
+            "Emmit Fenn",
+            "Patricio",
+            "Ali Farahani b2b Patrik Khach",
+            "Littlefoot"
+          ]
+        },
+        {
+          "stage": "Heineken House (Weekend 1)",
+          "acts": [
+            "Felix da Housecat",
+            "Walker & Royce",
+            "Hannah Wants",
+            "Lee Wells",
+            "BONES"
+          ]
+        },
+        {
+          "stage": "Heineken House (Weekend 2)",
+          "acts": [
+            "Emmit Fenn",
+            "Chris Stussy",
+            "Francis Mercier",
+            "HoneyLuv",
+            "Antoinette Van Dewark"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "dates": "April 15 & 22",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "Calvin Harris",
+            "BLACKPINK",
+            "ROSALÍA",
+            "Charli XCX",
+            "070 Shake",
+            "Marc Rebillet",
+            "BRN LUXXRY"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "Eric Prydz presents HOLO",
+            "boygenius",
+            "SOFI TUKKER",
+            "Hiatus Kaiyote",
+            "EARTHGANG",
+            "Rebelution",
+            "Yimbo",
+            "Tiffany Tyson"
+          ]
+        },
+        {
+          "stage": "Sonora",
+          "acts": [
+            "NIA ARCHIVES",
+            "Bakar",
+            "Sunset Rollercoaster",
+            "The Breeders",
+            "The Linda Lindas",
+            "Ethel Cain",
+            "Destroy Boys",
+            "Bratty",
+            "Scowl",
+            "Horsegirl",
+            "Buster Jarvis",
+            "Triste Juventud x TÓTEM"
+          ]
+        },
+        {
+          "stage": "Gobi",
+          "acts": [
+            "Donavan's Yard",
+            "Chromeo",
+            "Monolink",
+            "Eladio Carrión",
+            "Yaeji",
+            "Shenseea",
+            "Dinner Party",
+            "UMI",
+            "Elyanna",
+            "dxsko",
+            "Kershawn tha Don"
+          ]
+        },
+        {
+          "stage": "Mojave",
+          "acts": [
+            "Labrinth",
+            "Underworld",
+            "Jai Paul",
+            "Remi Wolf",
+            "Mura Masa",
+            "Yung Lean",
+            "Snail Mail",
+            "AG Club",
+            "wave Groove",
+            "Juicewon"
+          ]
+        },
+        {
+          "stage": "Sahara",
+          "acts": [
+            "$uicideboy$",
+            "The Kid LAROI",
+            "Tale Of Us",
+            "Diljit Dosanjh",
+            "Elderbrook",
+            "Kenny Beats",
+            "Flo Milli",
+            "Venessa Michaels",
+            "Siash K"
+          ]
+        },
+        {
+          "stage": "Yuma",
+          "acts": [
+            "Keinemusik",
+            "Hot Since 82",
+            "WhoMadeWho",
+            "Jan Blomqvist",
+            "DJ Tennis + Carlita",
+            "Mathame",
+            "Colyn",
+            "Chloé Caillet",
+            "Francis Mercier",
+            "Talon"
+          ]
+        },
+        {
+          "stage": "The Do LaB (Weekend 1)",
+          "acts": [
+            "Monolink",
+            "ODESZA (DJ Set)",
+            "Phantoms (DJ Set)",
+            "DJ Tennis",
+            "Carlita",
+            "Mild Minds (DJ Set)",
+            "Uncle Waffles",
+            "Kimonos",
+            "Sohmi",
+            "Little Dinosaur",
+            "Maria También"
+          ]
+        },
+        {
+          "stage": "The Do LaB (Weekend 2)",
+          "acts": [
+            "Gordo b2b Mathame",
+            "Elderbrook (DJ Set) plus special guests Hayden James & JOY (Anonymous)",
+            "ISOxo",
+            "HOLLY b2b Machinedrum",
+            "Elephant Heart",
+            "Cloonee",
+            "it's murph",
+            "A Hundred Drums",
+            "PARALEVEN",
+            "DJ Susan",
+            "Jo Jones"
+          ]
+        },
+        {
+          "stage": "Heineken House (Weekend 1)",
+          "acts": [
+            "Austin Millz",
+            "Method Man & Redman",
+            "DJ Pee .Wee (All Vinyl Set) (Anderson .Paak)",
+            "Andre Power",
+            "Sweet Like Chocolate"
+          ]
+        },
+        {
+          "stage": "Heineken House (Weekend 2)",
+          "acts": [
+            "Franc Moody (DJ Set)",
+            "SG Lewis (DJ Set)",
+            "TEED b2b SG Lewis",
+            "Totally Enormous Extinct Dinosaurs (DJ Set)",
+            "Coco & Breezy",
+            "Zen Freeman"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Sunday",
+      "dates": "April 16 & 23",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "Frank Ocean",
+            "Four Tet x Fred again.. x Skrillex",
+            "blink-182",
+            "Björk",
+            "Kali Uchis",
+            "Porter Robinson",
+            "GloRilla"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "Fisher + Chris Lake",
+            "Dominic Fike",
+            "Rae Sremmurd",
+            "Big Wild",
+            "Stick Figure",
+            "Los Fabulosos Cadillacs",
+            "Jaqck Glam",
+            "Gabe Real"
+          ]
+        },
+        {
+          "stage": "Sonora",
+          "acts": [
+            "Sudan Archives",
+            "Knocked Loose",
+            "Mareux",
+            "Alex G",
+            "Momma",
+            "Sleaford Mods",
+            "El Michels Affair",
+            "Los Bitchos",
+            "Conexión Divina",
+            "Argenis",
+            "Eric Sanchez"
+          ]
+        },
+        {
+          "stage": "Gobi",
+          "acts": [
+            "DPR LIVE + DPR IAN",
+            "DRAMA",
+            "Cannons",
+            "2manydjs",
+            "Romy",
+            "Fousheé",
+            "Joy Crookes",
+            "Ali Sethi",
+            "Gingee",
+            "BRIGGS"
+          ]
+        },
+        {
+          "stage": "Mojave",
+          "acts": [
+            "The Blaze",
+            "WILLOW",
+            "Christine and the Queens",
+            "Weyes Blood",
+            "Noname",
+            "IDK",
+            "Paris Texas",
+            "DJ Lil Buddha",
+            "Muezette"
+          ]
+        },
+        {
+          "stage": "Sahara",
+          "acts": [
+            "Boris Brejcha",
+            "A Boogie",
+            "Jai Wolf",
+            "Jackson Wang",
+            "LØREN",
+            "Latto",
+            "MK",
+            "Gordo",
+            "Pi'erre Bourne",
+            "Loboman",
+            "sir skrause"
+          ]
+        },
+        {
+          "stage": "Yuma",
+          "acts": [
+            "Gordo",
+            "Adam Beyer",
+            "Camelphat",
+            "Sasha & John Digweed",
+            "Cassian",
+            "TSHA",
+            "LP Giobbi",
+            "Airrica",
+            "Minus the Light"
+          ]
+        },
+        {
+          "stage": "The Do LaB (Weekend 1)",
+          "acts": [
+            "Dombresky presents Disco Dom",
+            "Kasablanca",
+            "Franky Wah",
+            "Dylan & Harry (Party Favor & Baauer)",
+            "Daily Bread",
+            "Aluna",
+            "Elif",
+            "Henry Pope",
+            "Miss Javi"
+          ]
+        },
+        {
+          "stage": "The Do LaB (Weekend 2)",
+          "acts": [
+            "DRAMA",
+            "Gioli & Assia",
+            "DEVAULT",
+            "ODD MOB",
+            "ARODES",
+            "Hank K",
+            "SYREETA",
+            "Carré b2b Samwise"
+          ]
+        },
+        {
+          "stage": "Heineken House (Weekend 1)",
+          "acts": [
+            "LondonBridge",
+            "NGHTMRE",
+            "Whipped Cream",
+            "Niiko x Swae",
+            "Tony H"
+          ]
+        },
+        {
+          "stage": "Heineken House (Weekend 2)",
+          "acts": [
+            "Snakehips",
+            "Fleetmac Wood",
+            "Bontan",
+            "Black V Neck",
+            "Max Styler"
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Main article: Coachella 2023",
+    "The 2023 festival was organized from April 14-16 and 21-23 and featured Bad Bunny, Blackpink, Frank Ocean and Calvin Harris as the headlining acts.",
+    "Record Safari (Coachella Stage, Friday): weekend 1 only",
+    "Juicewon (Outdoor Theatre, Friday): weekend 1 only",
+    "Mimi (Outdoor Theatre, Friday): weekend 2 only",
+    "Jim Smith (Sonora, Friday): weekend 1 only",
+    "Dave From The Grave (Sonora, Friday): weekend 2 only",
+    "Black Jade (Mojave, Friday): weekend 1 only",
+    "Record Safari (Mojave, Friday): weekend 2 only",
+    "blink-182 (Sahara, Friday): weekend 1 only",
+    "MK (Sahara, Friday): weekend 2 only",
+    "Mary Jane (Sahara, Friday): weekend 1 only",
+    "Yimbo (Sahara, Friday): weekend 2 only",
+    "BRN LUXXRY (Coachella Stage, Saturday): weekend 1 only",
+    "Yimbo (Outdoor Theatre, Saturday): weekend 1 only",
+    "Tiffany Tyson (Outdoor Theatre, Saturday): weekend 2 only",
+    "Buster Jarvis (Sonora, Saturday): weekend 1 only",
+    "Triste Juventud x TÓTEM (Sonora, Saturday): weekend 2 only",
+    "dxsko (Gobi, Saturday): weekend 1 only",
+    "Kershawn tha Don (Gobi, Saturday): weekend 2 only",
+    "wave Groove (Mojave, Saturday): weekend 1 only",
+    "Juicewon (Mojave, Saturday): weekend 2 only",
+    "Venessa Michaels (Sahara, Saturday): weekend 1 only",
+    "Siash K (Sahara, Saturday): weekend 2 only",
+    "Frank Ocean (Coachella Stage, Sunday): weekend 1 only",
+    "Four Tet x Fred again.. x Skrillex (Coachella Stage, Sunday): weekend 2 only",
+    "blink-182 (Coachella Stage, Sunday): weekend 2 only",
+    "Jaqck Glam (Outdoor Theatre, Sunday): weekend 1 only",
+    "Gabe Real (Outdoor Theatre, Sunday): weekend 2 only",
+    "Argenis (Sonora, Sunday): weekend 1 only",
+    "Eric Sanchez (Sonora, Sunday): weekend 2 only",
+    "Gingee (Gobi, Sunday): weekend 1 only",
+    "BRIGGS (Gobi, Sunday): weekend 2 only",
+    "DJ Lil Buddha (Mojave, Sunday): weekend 1 only",
+    "Muezette (Mojave, Sunday): weekend 2 only",
+    "LØREN (Sahara, Sunday): weekend 1 only",
+    "MK (Sahara, Sunday): weekend 1 only",
+    "Gordo (Sahara, Sunday): weekend 2 only",
+    "Loboman (Sahara, Sunday): weekend 1 only",
+    "sir skrause (Sahara, Sunday): weekend 2 only",
+    "Gordo (Yuma, Sunday): weekend 1 only",
+    "Plus: DESPACIO playing all weekend long",
+    "Dropped acts: 1999.ODDS"
+  ]
+}

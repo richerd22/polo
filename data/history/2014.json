@@ -1,0 +1,476 @@
+{
+  "year": 2014,
+  "status": "happened",
+  "source": {
+    "name": "Wikipedia - Coachella Festival line-ups",
+    "url": "https://en.wikipedia.org/wiki/Coachella_Festival_line-ups",
+    "retrieved": "2026-11-11"
+  },
+  "days": [
+    {
+      "day": "Friday",
+      "dates": "April 11 & 18",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "OutKast",
+            "Girl Talk",
+            "Chromeo",
+            "Ellie Goulding",
+            "AFI",
+            "Grouplove",
+            "MS MR",
+            "Anthony Green",
+            "The Preatures"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "The Knife",
+            "The Replacements",
+            "Broken Bells",
+            "Neko Case",
+            "Haim",
+            "A$AP Ferg",
+            "Dum Dum Girls",
+            "GOAT",
+            "Flatbush Zombies",
+            "The Bots"
+          ]
+        },
+        {
+          "stage": "Gobi",
+          "acts": [
+            "Anti-Flag",
+            "Caravan Palace",
+            "Flume",
+            "Woodkid",
+            "Shlohmo",
+            "Kate Nash",
+            "The Jon Spencer Blues Explosion",
+            "Jagwar Ma",
+            "Austra",
+            "Wye Oak",
+            "Gabba Gabba Heys"
+          ]
+        },
+        {
+          "stage": "Mojave",
+          "acts": [
+            "†††",
+            "The Cult",
+            "Bryan Ferry",
+            "Bonobo",
+            "The Afghan Whigs",
+            "Bastille",
+            "Aloe Blacc",
+            "Title Fight",
+            "ZZ Ward",
+            "Waxahatchee",
+            "Tom Odell",
+            "Co.Fee",
+            "KAB"
+          ]
+        },
+        {
+          "stage": "Sahara",
+          "acts": [
+            "Michael Brun",
+            "Zedd",
+            "Martin Garrix",
+            "The Glitch Mob",
+            "Carnage",
+            "Gareth Emery",
+            "Deorro",
+            "DJ Falcon",
+            "Mako",
+            "DJP",
+            "Boubakiki"
+          ]
+        },
+        {
+          "stage": "Yuma",
+          "acts": [
+            "Dixon",
+            "Hot Since 82",
+            "Solomun",
+            "Nicolas Jaar",
+            "Duke Dumont",
+            "Nina Kraviz",
+            "Damian Lazarus",
+            "Davide Squillace",
+            "Lee Wells",
+            "Alf Alpha"
+          ]
+        },
+        {
+          "stage": "The Do LaB (Weekend 1)",
+          "acts": [
+            "Minnesota vs. G Jones",
+            "Sound Remedy",
+            "Lucent Dossier Experience",
+            "Lowriderz",
+            "Gladkill",
+            "K Theory",
+            "Supervision",
+            "Thriftworks",
+            "Paul Basic"
+          ]
+        },
+        {
+          "stage": "The Do LaB (Weekend 2)",
+          "acts": [
+            "Thugfucker",
+            "DJ Tennis",
+            "Idiot Savant",
+            "Lucent Dossier Experience",
+            "Kidnap Kid",
+            "Isaac Tichauer",
+            "Perseus",
+            "Moonboots",
+            "Henry Krinkle",
+            "Jobot"
+          ]
+        },
+        {
+          "stage": "Heineken House (Weekend 1)",
+          "acts": [
+            "Last Call",
+            "Mike Will Made It",
+            "Solomun",
+            "Sneaky Sound System",
+            "Team Supreme",
+            "Eric Sharp"
+          ]
+        },
+        {
+          "stage": "Heineken House (Weekend 2)",
+          "acts": [
+            "Carnage & Guests",
+            "Surprise Guest",
+            "Mike Will Made It",
+            "Escort",
+            "Kingdom x Nguzunguzu",
+            "Team Supreme",
+            "Sean Glass"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "dates": "April 12 & 19",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "Muse",
+            "Queens of the Stone Age",
+            "Foster the People",
+            "MGMT",
+            "Kid Cudi",
+            "City and Colour",
+            "Cage the Elephant",
+            "Graveyard",
+            "Unlocking the Truth"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "Nas",
+            "Pharrell Williams",
+            "Sleigh Bells",
+            "Lorde",
+            "Capital Cities",
+            "The Head and the Heart",
+            "Chvrches",
+            "Ty Segall",
+            "Foxygen",
+            "Syd Arthur",
+            "Saints of Valory"
+          ]
+        },
+        {
+          "stage": "Gobi",
+          "acts": [
+            "The Dismemberment Plan",
+            "DARKSIDE",
+            "Galantis",
+            "Solange",
+            "Future Islands",
+            "Washed Out",
+            "Holy Ghost!",
+            "Banks",
+            "White Lies",
+            "The Internet",
+            "Laura Mvula",
+            "AFTA-1"
+          ]
+        },
+        {
+          "stage": "Mojave",
+          "acts": [
+            "Pet Shop Boys",
+            "Mogwai",
+            "Pixies",
+            "RL Grime",
+            "Warpaint",
+            "Julian Casablancas",
+            "Bombay Bicycle Club",
+            "Temples",
+            "Drowners",
+            "Bear Hands",
+            "Young & Sick",
+            "WoodysProduce"
+          ]
+        },
+        {
+          "stage": "Sahara",
+          "acts": [
+            "Skrillex",
+            "Empire of the Sun",
+            "Fatboy Slim",
+            "Dillon Francis",
+            "GTA",
+            "Carbon Airways",
+            "TJR",
+            "Headhunterz",
+            "MAKJ",
+            "UZ",
+            "Revell"
+          ]
+        },
+        {
+          "stage": "Yuma",
+          "acts": [
+            "Tiga",
+            "The Magician",
+            "Nicole Moudaber",
+            "Cajmere",
+            "Guy Gerber",
+            "Aeroplane",
+            "Sander Kleinenberg",
+            "Ricoshëi",
+            "Lesto"
+          ]
+        },
+        {
+          "stage": "The Do LaB (Weekend 1)",
+          "acts": [
+            "Totally Enormous Extinct Dinosaurs",
+            "Kastle",
+            "Rone",
+            "Sébastien Léger",
+            "Justin Martin",
+            "Gorgon City",
+            "Christian Martin",
+            "J.Phlip",
+            "Worthy",
+            "Sammy Bliss"
+          ]
+        },
+        {
+          "stage": "The Do LaB (Weekend 2)",
+          "acts": [
+            "Odesza",
+            "Kraddy",
+            "Swear Beats",
+            "Benji Vaughn",
+            "Blond:ish",
+            "Patricio",
+            "Eduardo Castillo",
+            "Mikey Lion",
+            "Lafa Taylor"
+          ]
+        },
+        {
+          "stage": "Heineken House (Weekend 1)",
+          "acts": [
+            "Last Call",
+            "The Gaslamp Killer vs. Thundercat",
+            "Nosaj Thing",
+            "Alvin Risk",
+            "Valentino Khan",
+            "Hundred Waters",
+            "Heartsrevolution",
+            "Anna Lunoe",
+            "Franki Chan"
+          ]
+        },
+        {
+          "stage": "Heineken House (Weekend 2)",
+          "acts": [
+            "GZA with Gaslamp Killer",
+            "Gaslamp Killer & Thundercat",
+            "UZ & Surprise Guest",
+            "Anabel Englund x Human Life",
+            "Escort with Guests",
+            "Chela",
+            "Anna Lunoe",
+            "Franki Chan"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Sunday",
+      "dates": "April 13 & 20",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "Arcade Fire",
+            "Beck",
+            "Calvin Harris",
+            "The Naked and Famous",
+            "Zoé",
+            "Chance the Rapper",
+            "Fishbone",
+            "Trombone Shorty & Orleans Avenue"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "Disclosure",
+            "Lana Del Rey",
+            "Neutral Milk Hotel",
+            "Blood Orange",
+            "The 1975",
+            "STRFKR",
+            "Surfer Blood",
+            "J Roddy Walston and the Business",
+            "Ratking"
+          ]
+        },
+        {
+          "stage": "Gobi",
+          "acts": [
+            "Lucent Dossier Experience",
+            "Jhené Aiko",
+            "John Newman",
+            "The Toy Dolls",
+            "AlunaGeorge",
+            "Superchunk",
+            "Frank Turner",
+            "Courtney Barnett",
+            "Bombino",
+            "Factory Floor",
+            "Bo Ningen"
+          ]
+        },
+        {
+          "stage": "Mojave",
+          "acts": [
+            "Netsky",
+            "Motörhead",
+            "Daughter",
+            "Little Dragon",
+            "Flosstradamus",
+            "Rudimental",
+            "Classixx",
+            "Poolside",
+            "Preservation Hall Jazz Band",
+            "James Vincent McMorrow",
+            "Machin'",
+            "CIVX"
+          ]
+        },
+        {
+          "stage": "Sahara",
+          "acts": [
+            "Duck Sauce",
+            "Adventure Club",
+            "Big Gigantic",
+            "Alesso",
+            "Krewella",
+            "Showtek",
+            "Flight Facilities",
+            "Anna Lunoe",
+            "John Beaver"
+          ]
+        },
+        {
+          "stage": "Yuma",
+          "acts": [
+            "Bicep",
+            "Laurent Garnier",
+            "Maceo Plex",
+            "Art Department",
+            "Lee Burridge",
+            "Scuba",
+            "The Martinez Brothers",
+            "Cooper Saver",
+            "Equip"
+          ]
+        },
+        {
+          "stage": "The Do LaB (Weekend 1)",
+          "acts": [
+            "Kill Paris",
+            "Sugarpill",
+            "Dimond Saints",
+            "Slow Magic",
+            "ill-esha",
+            "Chrime Sparks",
+            "El Papa Chango",
+            "Two Fresh",
+            "Vokab Kompany & Crush Effect",
+            "Dessert Dwellers"
+          ]
+        },
+        {
+          "stage": "The Do LaB (Weekend 2)",
+          "acts": [
+            "Mitis",
+            "Opiuo",
+            "Freddy Todd",
+            "Jupit3r",
+            "Love & Light",
+            "Chris B",
+            "Hunterleggit",
+            "Hopscotch",
+            "Ruff Hauser"
+          ]
+        },
+        {
+          "stage": "Heineken House (Weekend 1)",
+          "acts": [
+            "Last Call",
+            "Flight Facilities",
+            "Chela",
+            "MDNR",
+            "Femme",
+            "Sean Glass x Goddollars"
+          ]
+        },
+        {
+          "stage": "Heineken House (Weekend 2)",
+          "acts": [
+            "Classixx (DJ)",
+            "Escort with MNDR",
+            "Surprise Guest",
+            "Flight Facilities",
+            "Preservation Hall Jazz Band",
+            "Surprise Guest",
+            "MDNR",
+            "Femme",
+            "Sean Glass"
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Co.Fee (Mojave, Friday): Weekend 1 only",
+    "KAB (Mojave, Friday): Weekend 2 only",
+    "Chance the Rapper (Coachella Stage, Sunday): cancelled Weekend 2",
+    "Machin' (Mojave, Sunday): only Weekend 1",
+    "CIVX (Mojave, Sunday): only Weekend 2",
+    "Dropped Acts: Beady Eye",
+    "In 2014, art contributions included: 2Squared by Charles Gadeken; Balloon Chain by Robert Bose; Becoming Human by Christian Ristow; Cryochome by James Peterson; The Do Lab by Eepert Village; Escape Velocity (The Astronaut) by Poetic Kinetics; Smartbird by Festo; Giant Green Caterpillar by Mike Grandaw; Lightweaver by Stereo-Bot; Lucent Dossier Experience; Reflection Field by Philip K. Smith III; Archetypes by Keith Greco; Archetypes by Brent Spears/Shrine; Sidewinder by Abigail Portner; Paraiso by Raices Cultura; Road Trip by Don Kennel; Intentcity by Teale Hatheway; The Jive Joint; and Coachella Art Studios."
+  ]
+}

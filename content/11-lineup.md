@@ -92,6 +92,8 @@ The bottom of the sheet repeats a 2026 trick. That year's poster ended with "The
 
 There is one more break with the house rule in the Eurostile section above. On the 2027 sheet, Weezer's name is printed in the band's own logo lettering, the way the Misfits' was in 2025.[^ln-poster27]
 
+Checked against every earlier lineup in Wikipedia's year-by-year lists, 70 of the 157 acts on the 2027 poster have played Coachella before.[^ln-wikilineups] Sunday leans on them hardest: 29 of its 49 acts are returning, against 22 of 52 on Saturday and 18 of 54 on Friday. Two of the three day headliners came up through the tents. SZA played the Gobi in 2016 and the main stage in 2018; Tame Impala played the Outdoor Theatre in 2011 and 2013, the main stage in 2015 and headlined in 2019.[^ln-wikilineups] Justice's Bunker debut will be their sixth Coachella, after 2007, 2008, 2012, 2017 and 2024. Dua Lipa and Daddy Yankee have no earlier set in those lists. The full count, act by act, is on [the returning and debuts page](/lineup/2027/history/).
+
 Passes for 2027 go on general sale Friday, Nov. 13, 2026, at noon PT.[^ln-gvwire26] Every act, line by line and spelled as printed, is on [the 2027 lineup page](/lineup/2027/), with the same list as JSON, CSV and plain text for anyone, or anything, that wants to read it.
 
 ## When the top line falls out
@@ -116,6 +118,7 @@ The dome would have stood about where the toilets were. Every poster is a set of
 [^ln-spin06]: SPIN (staff) - "Madonna Gets Hung Up at Coachella" - 2006-03-01 - https://www.spinmagazine.com/2006/03/madonna-gets-hung-coachella/
 [^ln-lat23]: Los Angeles Times (August Brown), via AOL - "EDM may have waned, but the Sahara Tent remains the beating heart of Coachella" - 2023-04-09 - https://www.aol.com/news/edm-may-waned-sahara-tent-120013512.html
 [^ln-bbca26]: Billboard Canada (first published by Billboard US) - "Sabrina Carpenter Brings Out Madonna for Coachella Weekend Two" - 2026-04-18 - https://ca.billboard.com/music/concerts/madonna-sabrina-carpenter-coachella-2026-1236226082/
+[^ln-wikilineups]: Wikipedia - "Coachella Festival line-ups" (revision 1381296443, transcribed by day and stage in this site's archive) - 2026-11-11 - https://en.wikipedia.org/wiki/Coachella_Festival_line-ups
 [^ln-poster27]: Goldenvoice - "Coachella 2027" official lineup poster, read directly (print-style artwork, not hosted here) - 2026-11-10
 [^ln-latimes19]: Los Angeles Times, via PressReader - "Desert King" - 2019-01-13 - https://www.pressreader.com/usa/los-angeles-times/20190113/282686163384762
 [^ln-fader19]: The FADER - "Childish Gambino, Tame Impala and Ariana Grande will headline this year's Coachella" - 2019-01-02 - https://www.thefader.com/2019/01/02/coachella-2019-lineup-childish-gambino-ariana-grande-tame-impala-solange-indio-april

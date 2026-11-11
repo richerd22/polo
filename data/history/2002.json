@@ -1,0 +1,132 @@
+{
+  "year": 2002,
+  "status": "happened",
+  "source": {
+    "name": "Wikipedia - Coachella Festival line-ups",
+    "url": "https://en.wikipedia.org/wiki/Coachella_Festival_line-ups",
+    "retrieved": "2026-11-11"
+  },
+  "days": [
+    {
+      "day": "Saturday",
+      "dates": "April 27",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "The Chemical Brothers",
+            "Björk",
+            "Siouxsie & the Banshees",
+            "Jack Johnson",
+            "Pete Yorn",
+            "G. Love & Special Sauce",
+            "KRS-One",
+            "Princess Superstar",
+            "Vin Rock (of Naughty by Nature)"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "Cake",
+            "Jurassic 5",
+            "The Beta Band",
+            "Queens of the Stone Age",
+            "The Charlatans (UK)",
+            "Cornershop",
+            "Folk Implosion",
+            "Citizen Cope",
+            "Saul Williams"
+          ]
+        },
+        {
+          "stage": "Mojave Tent",
+          "acts": [
+            "The (International) Noise Conspiracy",
+            "The Vines",
+            "Z-Trip",
+            "Dan the Automator",
+            "Kosheen",
+            "The Pharcyde",
+            "Forest for the Trees",
+            "Cirrus",
+            "Liquid Todd"
+          ]
+        },
+        {
+          "stage": "Sahara Tent",
+          "acts": [
+            "Sasha & Digweed",
+            "Jimmy Van M & Lee Burridge (2)",
+            "Groove Armada (DJ set)",
+            "Miguel Migs w/ Lisa Shaw",
+            "Jimmy Van M & Lee Burridge",
+            "DJ Mauricio Aviles"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Sunday",
+      "dates": "April 28",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "Oasis",
+            "The Prodigy",
+            "Foo Fighters",
+            "The Strokes",
+            "Mos Def Black Jack Johnson",
+            "Saves the Day",
+            "Mix Master Mike",
+            "Vin Rock (of Naughty by Nature)"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "Dilated Peoples",
+            "Zero 7",
+            "Belle & Sebastian",
+            "Ozomatli",
+            "Blonde Redhead",
+            "Sound Tribe Sector 9",
+            "Ping Pong Bitches"
+          ]
+        },
+        {
+          "stage": "Mojave Tent",
+          "acts": [
+            "Galactic",
+            "Triple Threat",
+            "Herbert",
+            "Cut Chemist",
+            "Rock Steady Crew",
+            "The Mars Volta",
+            "Elbow",
+            "Fairview",
+            "Wagner"
+          ]
+        },
+        {
+          "stage": "Sahara Tent",
+          "acts": [
+            "BT (DJ Set)",
+            "Pete Tong",
+            "Tiësto",
+            "Paul Oakenfold",
+            "DJ Peretz",
+            "DJ Dan",
+            "Bad Boy Bill",
+            "Sandra Collins",
+            "Liquid Todd"
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Tenacious D performed a surprise guest set before Foo Fighters and Beck performed a surprise guest set after Z-Trip."
+  ]
+}

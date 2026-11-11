@@ -1,0 +1,565 @@
+{
+  "year": 2022,
+  "status": "happened",
+  "source": {
+    "name": "Wikipedia - Coachella Festival line-ups",
+    "url": "https://en.wikipedia.org/wiki/Coachella_Festival_line-ups",
+    "retrieved": "2026-11-11"
+  },
+  "days": [
+    {
+      "day": "Friday",
+      "dates": "April 15 & 22",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "Harry Styles",
+            "Daniel Caesar",
+            "Lil Baby",
+            "Grupo Firme",
+            "Anitta",
+            "Ari Lennox",
+            "MIKA",
+            "Princess Nokia",
+            "Juicewon",
+            "Saish K"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "King Gizzard & the Lizard Wizard",
+            "Louis the Child",
+            "Phoebe Bridgers",
+            "Madeon",
+            "NIKI",
+            "Omar Apollo",
+            "Bishop Briggs",
+            "Chelsea Cutler",
+            "The Hu",
+            "Yimbo",
+            "Coby"
+          ]
+        },
+        {
+          "stage": "Sonora",
+          "acts": [
+            "Ela Minus",
+            "Amyl and the Sniffers",
+            "PUP",
+            "Spiritualized",
+            "The Chats",
+            "Code Orange",
+            "Jean Dawson",
+            "Giselle Woo & the Night Owls",
+            "Jim Smith",
+            "crudo"
+          ]
+        },
+        {
+          "stage": "Gobi",
+          "acts": [
+            "BADBADNOTGOOD",
+            "EPIK HIGH",
+            "The Avalanches",
+            "TOKiMONSTA",
+            "slowthai",
+            "The Marías",
+            "Role Model",
+            "The Regrettes",
+            "Arooj Aftab",
+            "Torres Martinez Birdsinging and Dancing"
+          ]
+        },
+        {
+          "stage": "Mojave",
+          "acts": [
+            "Lane 8",
+            "Snoh Aalegra",
+            "Pink Sweat$",
+            "Run the Jewels",
+            "IDLES",
+            "Arcade Fire",
+            "Carly Rae Jepsen",
+            "Still Woozy",
+            "Raveena",
+            "Lawrence",
+            "MEUTE"
+          ]
+        },
+        {
+          "stage": "Sahara",
+          "acts": [
+            "SLANDER",
+            "Big Sean",
+            "Baby Keem",
+            "Black Coffee",
+            "Cordae",
+            "City Girls",
+            "Dom Dolla",
+            "John Summit",
+            "Lost Kings",
+            "GG Magree",
+            "DJ Lord",
+            "Venessa Michaels",
+            "Gabe Real"
+          ]
+        },
+        {
+          "stage": "Yuma",
+          "acts": [
+            "ARTBAT",
+            "The Martinez Brothers",
+            "Peggy Gou",
+            "Damian Lazarus",
+            "Daphni",
+            "Purple Disco Machine",
+            "Jayda G",
+            "Logic1000",
+            "SOHMI",
+            "Dear Humans"
+          ]
+        },
+        {
+          "stage": "The Do LaB (Weekend 1)",
+          "acts": [
+            "Diplo",
+            "Walker & Royce b2b VNSSA",
+            "Subtronics",
+            "Deathpact",
+            "Elephant Heart",
+            "UNIIQU3",
+            "Holly",
+            "Rochelle Jordan",
+            "Casmalia",
+            "Gee Dee + Latane from Fundido"
+          ]
+        },
+        {
+          "stage": "The Do LaB (Weekend 2)",
+          "acts": [
+            "Yung Bae b2b Madeon",
+            "The Glitch Mob",
+            "Skream",
+            "Ivy Lab",
+            "Moore Kismet",
+            "Mindchatter",
+            "HoneyLuv",
+            "Rinzen",
+            "Sainte Vie",
+            "Red Giant Project",
+            "Mary Droppinz"
+          ]
+        },
+        {
+          "stage": "Heineken House (Weekend 1)",
+          "acts": [
+            "Vegyn",
+            "AceMo",
+            "Black Noi$e",
+            "American Dance Ghosts",
+            "Skinny Macho",
+            "baby.com",
+            "seeso",
+            "SQREWU"
+          ]
+        },
+        {
+          "stage": "Heineken House (Weekend 2)",
+          "acts": [
+            "AceMo",
+            "American Dance Ghosts",
+            "Jacques Greene",
+            "Whethan",
+            "Black Noi$e",
+            "Bae Bae",
+            "Alko",
+            "seeso",
+            "SQREWU"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "dates": "April 16 & 23",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "Billie Eilish",
+            "Megan Thee Stallion",
+            "Flume",
+            "88rising",
+            "Giveon",
+            "Conan Gray",
+            "Masego",
+            "Koffee",
+            "Record Safari"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "Stromae",
+            "Danny Elfman",
+            "Disclosure",
+            "Cuco",
+            "Wallows",
+            "Beach Bunny",
+            "Chelsea Cutler",
+            "Gingee",
+            "Loboman x Masio"
+          ]
+        },
+        {
+          "stage": "Sonora",
+          "acts": [
+            "Molchat Doma",
+            "black midi",
+            "Inner Wave",
+            "Mannequin Pussy",
+            "Nicki Nicole",
+            "Ed Maverick",
+            "Nilüfer Yanya",
+            "Beach Goons",
+            "Yard Act",
+            "Buster Jarvis",
+            "Kuma"
+          ]
+        },
+        {
+          "stage": "Gobi",
+          "acts": [
+            "Kyary Pamyu Pamyu",
+            "Hot Chip",
+            "Freddie Gibbs",
+            "Freddie Gibbs & Madlib",
+            "Pabllo Vittar",
+            "Caroline Polachek",
+            "Rina Sawayama",
+            "Arlo Parks",
+            "L'Impératrice",
+            "Current Joys",
+            "Surf Curse",
+            "Alaina Castillo",
+            "Mark Lizaola",
+            "Wave Groove"
+          ]
+        },
+        {
+          "stage": "Mojave",
+          "acts": [
+            "DJ Koze",
+            "Floating Points",
+            "Caribou",
+            "Steve Lacy",
+            "Turnstile",
+            "girl in red",
+            "Japanese Breakfast",
+            "Holly Humberstone",
+            "Amber Mark",
+            "Gee Dee",
+            "Sabeerah Najee"
+          ]
+        },
+        {
+          "stage": "Sahara",
+          "acts": [
+            "21 Savage",
+            "Isaiah Rashad",
+            "Rich Brian",
+            "BROCKHAMPTON",
+            "Tchami",
+            "100 gecs",
+            "Emo Nite",
+            "J.I.D",
+            "Whipped Cream",
+            "VNSSA",
+            "DJ Lord",
+            "Latane from Fundido",
+            "DJ Susan"
+          ]
+        },
+        {
+          "stage": "Yuma",
+          "acts": [
+            "Richie Hawtin",
+            "Dixon",
+            "Chris Liebing",
+            "ANNA",
+            "Paco Osuna",
+            "Samaʼ Abdulhadi",
+            "DJ Holographic",
+            "Layla Benitez",
+            "Miane"
+          ]
+        },
+        {
+          "stage": "The Do LaB (Weekend 1)",
+          "acts": [
+            "SG Lewis (3 Hour DJ Set)",
+            "MEUTE",
+            "Prospa",
+            "Nala",
+            "Rebecca Black & Friends (DJ Set)",
+            "Major League Djz",
+            "Coco & Breezy",
+            "Life On Planets"
+          ]
+        },
+        {
+          "stage": "The Do LaB (Weekend 2)",
+          "acts": [
+            "Patricio",
+            "Hayden James (DJ Set)",
+            "SIDEPIECE",
+            "DJ BORING",
+            "Austin Millz",
+            "Joe Kay",
+            "Andre Power",
+            "ESTA",
+            "Sasha Marie",
+            "Sweet Like Chocolate"
+          ]
+        },
+        {
+          "stage": "Heineken House (Weekend 1)",
+          "acts": [
+            "Flying Lotus + Thundercat",
+            "OG Ron C & the Chopstars",
+            "454",
+            "Orion Sun (DJ Set)",
+            "Ife Radio",
+            "Junie.",
+            "Harlie",
+            "Tsugu"
+          ]
+        },
+        {
+          "stage": "Heineken House (Weekend 2)",
+          "acts": [
+            "OG Ron C & the Chopstars",
+            "454",
+            "Shlohmo",
+            "Yung Bae",
+            "Count Bass D",
+            "Ife Radio",
+            "Junie.",
+            "Harlie",
+            "Tsugu"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Sunday",
+      "dates": "April 17 & 24",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "Swedish House Mafia x The Weeknd",
+            "Doja Cat",
+            "Karol G",
+            "Maggie Rogers",
+            "Run the Jewels",
+            "Banda MS",
+            "Surf Curse",
+            "Gabe Real",
+            "Tiffany Tyson"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "Jamie xx",
+            "Joji",
+            "Solomun",
+            "FINNEAS",
+            "Alec Benjamin",
+            "Yola",
+            "Mariah the Scientist",
+            "Dave P",
+            "Jaqck Glam"
+          ]
+        },
+        {
+          "stage": "Sonora",
+          "acts": [
+            "Nathy Peluso",
+            "Current Joys",
+            "Eyedress",
+            "Crumb",
+            "Viagra Boys",
+            "Skegss",
+            "Altın Gün",
+            "Cariño",
+            "interventionboi",
+            "Argenis"
+          ]
+        },
+        {
+          "stage": "Gobi",
+          "acts": [
+            "Belly",
+            "Natanael Cano",
+            "Ali Gatie",
+            "Chicano Batman",
+            "Orville Peck",
+            "beabadoobee",
+            "Hayden James",
+            "Sampa the Great",
+            "Massio",
+            "Jillesque"
+          ]
+        },
+        {
+          "stage": "Mojave",
+          "acts": [
+            "The Blessed Madonna + Honey Dijon",
+            "Jessie Reyez",
+            "Måneskin",
+            "Dave",
+            "Fred again..",
+            "Kim Petras",
+            "Emotional Oranges",
+            "Olivia O'Brien",
+            "Inglish",
+            "Yimbo"
+          ]
+        },
+        {
+          "stage": "Sahara",
+          "acts": [
+            "Denzel Curry",
+            "Duke Dumont",
+            "Duck Sauce",
+            "Vince Staples",
+            "Channel Tres",
+            "Griselda",
+            "Maxo Kream",
+            "Cre-8",
+            "Beijing Junglist"
+          ]
+        },
+        {
+          "stage": "Yuma",
+          "acts": [
+            "Michael Bibi",
+            "Fatboy Slim",
+            "Bedouin",
+            "Adam Port",
+            "Luttrell",
+            "AMÉMÉ",
+            "Cole Knight"
+          ]
+        },
+        {
+          "stage": "The Do LaB (Weekend 1)",
+          "acts": [
+            "Dom Dolla b2b John Summit",
+            "Off The Deep End",
+            "CID",
+            "Totally Enormous Extinct Dinosaurs (DJ Set)",
+            "Chloé Caillet",
+            "QRTR",
+            "Balkan Bump",
+            "Duskus"
+          ]
+        },
+        {
+          "stage": "The Do LaB (Weekend 2)",
+          "acts": [
+            "DJ Hanzel",
+            "Elohim (DJ Set)",
+            "Justin Martin",
+            "Vintage Culture",
+            "LP Giobbi",
+            "Yulia Niko",
+            "Patricio",
+            "Hunter Leggitt"
+          ]
+        },
+        {
+          "stage": "Heineken House (Weekend 1)",
+          "acts": [
+            "Ms Nina (DJ Set)",
+            "D33J",
+            "Mia Carucci",
+            "Donovan's Sound Club",
+            "Bitter Babe",
+            "PIERI",
+            "Muñeka",
+            "Mawingo",
+            "TRYi"
+          ]
+        },
+        {
+          "stage": "Heineken House (Weekend 2)",
+          "acts": [
+            "Major League Djz",
+            "Silent Addy",
+            "Bitter Babe",
+            "Surprise Guest",
+            "PIERI",
+            "Brava",
+            "Muñeka",
+            "Mawingo",
+            "TRYi"
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Main article: Coachella 2022",
+    "Juicewon (Coachella Stage, Friday): weekend 1 only",
+    "Saish K (Coachella Stage, Friday): weekend 2 only",
+    "Bishop Briggs (Outdoor Theatre, Friday): weekend 1 only",
+    "Chelsea Cutler (Outdoor Theatre, Friday): weekend 2 only",
+    "Yimbo (Outdoor Theatre, Friday): weekend 1 only",
+    "Coby (Outdoor Theatre, Friday): weekend 2 only",
+    "Jim Smith (Sonora, Friday): weekend 1 only",
+    "crudo (Sonora, Friday): weekend 2 only",
+    "Run the Jewels (Mojave, Friday): weekend 2 only",
+    "Arcade Fire (Mojave, Friday): weekend 1 only",
+    "DJ Lord (Sahara, Friday): weekend 2 only",
+    "Venessa Michaels (Sahara, Friday): weekend 1 only",
+    "Gabe Real (Sahara, Friday): weekend 2 only",
+    "Chelsea Cutler (Outdoor Theatre, Saturday): weekend 1 only",
+    "Gingee (Outdoor Theatre, Saturday): weekend 1 only",
+    "Loboman x Masio (Outdoor Theatre, Saturday): weekend 2 only",
+    "Buster Jarvis (Sonora, Saturday): weekend 1 only",
+    "Kuma (Sonora, Saturday): weekend 2 only",
+    "Freddie Gibbs (Gobi, Saturday): weekend 1 only",
+    "Freddie Gibbs & Madlib (Gobi, Saturday): weekend 2 only",
+    "Current Joys (Gobi, Saturday): weekend 1 only",
+    "Surf Curse (Gobi, Saturday): weekend 2 only",
+    "Mark Lizaola (Gobi, Saturday): weekend 1 only",
+    "Wave Groove (Gobi, Saturday): weekend 2 only",
+    "Gee Dee (Mojave, Saturday): weekend 1 only",
+    "Sabeerah Najee (Mojave, Saturday): weekend 2 only",
+    "DJ Lord (Sahara, Saturday): weekend 1 only",
+    "Latane from Fundido (Sahara, Saturday): weekend 1 only",
+    "DJ Susan (Sahara, Saturday): weekend 2 only",
+    "Run the Jewels (Coachella Stage, Sunday): weekend 1 only",
+    "Surf Curse (Coachella Stage, Sunday): weekend 1 only",
+    "Gabe Real (Coachella Stage, Sunday): weekend 1 only",
+    "Tiffany Tyson (Coachella Stage, Sunday): weekend 2 only",
+    "Dave P (Outdoor Theatre, Sunday): weekend 1 only",
+    "Jaqck Glam (Outdoor Theatre, Sunday): weekend 2 only",
+    "Current Joys (Sonora, Sunday): weekend 2 only",
+    "interventionboi (Sonora, Sunday): weekend 1 only",
+    "Argenis (Sonora, Sunday): weekend 2 only",
+    "beabadoobee (Gobi, Sunday): weekend 1 only",
+    "Massio (Gobi, Sunday): weekend 1 only",
+    "Jillesque (Gobi, Sunday): weekend 2 only",
+    "Inglish (Mojave, Sunday): weekend 1 only",
+    "Yimbo (Mojave, Sunday): weekend 2 only",
+    "Cre-8 (Sahara, Sunday): weekend 1 only",
+    "Beijing Junglist (Sahara, Sunday): weekend 2 only",
+    "Dropped acts: Ye, Satori"
+  ]
+}

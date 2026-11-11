@@ -727,7 +727,7 @@ def main():
               + f'<p class="tier t3"><a href="/play/">Play polo</a><a href="/all/">Everything on one page</a><a href="/sources/">All sources</a></p>'
               + '<p class="foot2">Indio, California · Empire Polo Club · since 1999</p></div></section>')
     _ly = sorted(int(p.stem) for p in (ROOT / "data/lineup").glob("*.json"))
-    latest_lineup = f'<a href="/lineup/{_ly[-1]}/">The {_ly[-1]} lineup</a>' if _ly else ""
+    latest_lineup = (f'<a href="/lineup/{_ly[-1]}/">The {_ly[-1]} lineup</a>' if _ly else "") + '<a href="/archive/">Every lineup since 1999</a>'
     hub = f"""<main id="main"><div class="hero-art">{scene_svg("hero")}<span class="tag">Indio · the Empire Polo Club · an independent guide</span><h1>Polo</h1></div>
 <section class="hero"><p class="dek">How Coachella actually works: the polo club that stopped playing polo, the roads, the buses, the tents named for deserts, the money, the moments, the pyramid, and every billboard on the drive in.</p>
 <p class="stats"><b>{len(chapters)}</b> chapters · <b>{total_words:,}</b> words · <b>{len(sources)}</b> sources · <b>{len(json.loads((ROOT / 'data/years.json').read_text()))}</b> years · <b>{len([b for b in bs if b['confidence'] != 'low'])}</b> billboards · updated {UPDATED}</p>
