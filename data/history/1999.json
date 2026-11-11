@@ -1,0 +1,172 @@
+{
+  "year": 1999,
+  "status": "happened",
+  "source": {
+    "name": "Wikipedia - Coachella Festival line-ups",
+    "url": "https://en.wikipedia.org/wiki/Coachella_Festival_line-ups",
+    "retrieved": "2026-11-11"
+  },
+  "days": [
+    {
+      "day": "Saturday",
+      "dates": "October 9",
+      "stages": [
+        {
+          "stage": "Main Stage",
+          "acts": [
+            "Beck",
+            "Henry Strand (Monologue)",
+            "The Chemical Brothers",
+            "The Freemen",
+            "Morrissey",
+            "Perry Farrell",
+            "Medeski Martin & Wood",
+            "Bis",
+            "A Perfect Circle"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "Underworld",
+            "Spiritualized",
+            "Life On Repeat",
+            "Art of Noise",
+            "Modest Mouse",
+            "Super Furry Animals",
+            "IQU",
+            "The Bicycle Thief",
+            "At the Drive In"
+          ]
+        },
+        {
+          "stage": "Mojave Tent",
+          "acts": [
+            "DJ Rap",
+            "DJ Softy",
+            "Jurassic 5",
+            "Breakbeat Era with Roni Size, DJ Die, MC Dynamite",
+            "Cornelius",
+            "Simply Jeff",
+            "The Wiseguys",
+            "Christopher Lawrence"
+          ]
+        },
+        {
+          "stage": "Sahara Tent",
+          "acts": [
+            "Bassbin Twins (Live)",
+            "Richie Hawtin",
+            "Juan Atkins",
+            "Derrick May",
+            "Kevin Saunderson",
+            "Lunatic Calm"
+          ]
+        },
+        {
+          "stage": "Gobi Tent",
+          "acts": [
+            "DJ Food",
+            "Kid Koala",
+            "Amon Tobin",
+            "Mr. Scruff",
+            "μ-Ziq",
+            "Nightmares on Wax (DJ Ease)",
+            "Ming (DJ) & FS",
+            "Tomas (Umoja HiFi)",
+            "Mike Fix"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Sunday",
+      "dates": "October 10",
+      "stages": [
+        {
+          "stage": "Main Stage",
+          "acts": [
+            "Tool",
+            "Rage Against the Machine",
+            "Ben Harper",
+            "Pavement",
+            "Cibo Matto",
+            "Money Mark"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "Moby",
+            "Esthero",
+            "Innerzone Orchestra",
+            "DJ Shadow",
+            "Spearhead",
+            "Rahzel (of The Roots)",
+            "Gil Scott-Heron",
+            "Ugly Duckling"
+          ]
+        },
+        {
+          "stage": "Mojave Tent",
+          "acts": [
+            "GusGus",
+            "Thievery Corporation (Live)",
+            "Lamb",
+            "Fantastic Plastic Machine",
+            "Banco de Gaia",
+            "BT (DJ set)",
+            "The Angel a.k.a. 60 Channels"
+          ]
+        },
+        {
+          "stage": "Sahara Tent",
+          "acts": [
+            "Progression Sessions (LTJ Bukem, Blame, MC Question Mark)",
+            "Scratch Perverts",
+            "Mix Master Mike",
+            "Qbert",
+            "A-Trak",
+            "4hero",
+            "DJ Cam",
+            "Science Sessions (Raymond Roker, Jun, MC Conrad)"
+          ]
+        },
+        {
+          "stage": "Gobi Tent",
+          "acts": [
+            "Luke Vibert",
+            "Autechre (DJ Set)",
+            "Bola",
+            "Rob Hall",
+            "Jega (Live)",
+            "Neotropic",
+            "Push Button Objects",
+            "Mira Calix",
+            "Andy Maddocks"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "All",
+      "stages": [
+        {
+          "stage": "Main Stage (DJs between acts)",
+          "acts": [
+            "DJ Liquid Todd",
+            "DJ Raymond Roker",
+            "DJ Kid Koala",
+            "Bud Brothers",
+            "DJ Carbo",
+            "DJ Jason Bentley",
+            "DJ Jun"
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Main Stage (DJs between acts): page says these DJs played between every Main Stage act; no day given"
+  ]
+}

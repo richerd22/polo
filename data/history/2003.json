@@ -1,0 +1,159 @@
+{
+  "year": 2003,
+  "status": "happened",
+  "source": {
+    "name": "Wikipedia - Coachella Festival line-ups",
+    "url": "https://en.wikipedia.org/wiki/Coachella_Festival_line-ups",
+    "retrieved": "2026-11-11"
+  },
+  "days": [
+    {
+      "day": "Saturday",
+      "dates": "April 26",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "Beastie Boys",
+            "Ben Harper & the Innocent Criminals",
+            "Queens of the Stone Age",
+            "Blur",
+            "The Hives",
+            "N.E.R.D w/ Spymob",
+            "The Donnas",
+            "The Mooney Suzuki"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "Gomez",
+            "Blue Man Group",
+            "Black Eyed Peas",
+            "Talib Kweli",
+            "Michael Franti",
+            "Kinky",
+            "Ben Kweller",
+            "Joseph Arthur",
+            "Particle"
+          ]
+        },
+        {
+          "stage": "Sahara Tent",
+          "acts": [
+            "Roger Sanchez",
+            "Masters at Work",
+            "Marques Wyatt",
+            "Darren Emerson",
+            "Felix da Housecat",
+            "Christopher Lawrence",
+            "Hernán Cattáneo",
+            "D:Fuse"
+          ]
+        },
+        {
+          "stage": "Mojave Tent",
+          "acts": [
+            "The Libertines",
+            "Groove Armada (Live)",
+            "Ladytron",
+            "The Music",
+            "Hot Hot Heat",
+            "Badly Drawn Boy",
+            "The Rapture",
+            "Idlewild",
+            "South"
+          ]
+        },
+        {
+          "stage": "Gobi Tent",
+          "acts": [
+            "Amon Tobin",
+            "Dillinja & Lemon D",
+            "Stereo Total",
+            "Peanut Butter Wolf/Madlib/Wildchild",
+            "Ian MacKaye (Q & A)",
+            "Medusa (spoken word)",
+            "Tha Liks"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Sunday",
+      "dates": "April 27",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "Red Hot Chili Peppers",
+            "Iggy and the Stooges",
+            "The White Stripes",
+            "Jack Johnson",
+            "Sonic Youth",
+            "The Mars Volta",
+            "The Polyphonic Spree",
+            "The Soundtrack of Our Lives",
+            "Whirlwind Heat"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "Interpol",
+            "Blue Man Group",
+            "Thievery Corporation",
+            "Primal Scream",
+            "Café Tacvba",
+            "Tortoise",
+            "Ben Folds",
+            "The Kinison",
+            "Eisley"
+          ]
+        },
+        {
+          "stage": "Sahara Tent",
+          "acts": [
+            "Richie Hawtin",
+            "Underworld",
+            "Darren Price of Underworld",
+            "Deep Dish",
+            "Timo Maas",
+            "DB",
+            "DJ Irene",
+            "FC Kahuna"
+          ]
+        },
+        {
+          "stage": "Mojave Tent",
+          "acts": [
+            "Fischerspooner",
+            "G. Love & Special Sauce",
+            "Johnny Marr and the Healers",
+            "Dirty Vegas",
+            "Rooney",
+            "22-20s",
+            "The Von Bondies",
+            "Ima Robot",
+            "S.T.U.N."
+          ]
+        },
+        {
+          "stage": "Gobi Tent",
+          "acts": [
+            "El-P/Aesop Rock/RJD2/Mr. Lif/Murs",
+            "Mouse on Mars",
+            "C-Minus",
+            "Ursula Rucker (spoken word)",
+            "Ian MacKaye (Q & A)",
+            "Michael Franti (spoken word)"
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Dropped Acts: Division of Laura Lee",
+    "In 2003, Installation Art contributions came from: Cauac-Syd Klinge, Corndog and the Chaplain of Sparceland - Chunks, Nair B & Lovely, Magic Glasses, Facility 3 Artists and Joe Mangrum, Space Cowboys, Madagascar, 1Sky's HypKnowTron, Howard Hollis+Max Miceli, Christian Ristow, Bio-Fuel Bus, Joe Bard & Danya Parkinson, Finley Fryer, Buckethead, Mutaytor, String Theory Arcadian Circle. The art was curated by Philip Blaine."
+  ]
+}

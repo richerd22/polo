@@ -1,0 +1,166 @@
+{
+  "year": 2004,
+  "status": "happened",
+  "source": {
+    "name": "Wikipedia - Coachella Festival line-ups",
+    "url": "https://en.wikipedia.org/wiki/Coachella_Festival_line-ups",
+    "retrieved": "2026-11-11"
+  },
+  "days": [
+    {
+      "day": "Saturday",
+      "dates": "May 1",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "Radiohead",
+            "Pixies",
+            "Sparta",
+            "The (International) Noise Conspiracy",
+            "Hieroglyphics",
+            "Kinky",
+            "The Sounds",
+            "The Section Quartet"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "MF Doom",
+            "Kool Keith",
+            "Living Legends",
+            "Eyedea & Abilities",
+            "The Rapture",
+            "The Desert Sessions",
+            "Death Cab for Cutie",
+            "...And You Will Know Us by the Trail of Dead",
+            "The Stills",
+            "Howie Day",
+            "dios"
+          ]
+        },
+        {
+          "stage": "Sahara Tent",
+          "acts": [
+            "Kraftwerk",
+            "Mark Farina",
+            "Laurent Garnier",
+            "Sander Kleinenberg",
+            "Danny Howells",
+            "Seb Fontaine",
+            "DJ Peretz",
+            "DJ Icon"
+          ]
+        },
+        {
+          "stage": "Mojave Tent",
+          "acts": [
+            "Electric Six",
+            "Mindless Self Indulgence",
+            "Stereolab",
+            "Moving Units",
+            "The Black Keys",
+            "Junior Senior",
+            "stellastarr*",
+            "Sahara Hotnights",
+            "Erase Errata"
+          ]
+        },
+        {
+          "stage": "Gobi Tent",
+          "acts": [
+            "Phantom Planet",
+            "Da Lata",
+            "Boozoo Bajou",
+            "LCD Soundsystem",
+            "Savath & Savalas",
+            "Beck",
+            "Q and Not U",
+            "The Evens",
+            "Juana Molina"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Sunday",
+      "dates": "May 2",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "The Cure",
+            "The Flaming Lips",
+            "Air",
+            "Belle & Sebastian",
+            "Thursday",
+            "Muse",
+            "Antibalas Afrobeat Orchestra",
+            "Saul Williams",
+            "Thelonious Monster"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "Le Tigre",
+            "Basement Jaxx",
+            "Black Rebel Motorcycle Club",
+            "Bright Eyes",
+            "Cursive",
+            "Atmosphere",
+            "Broken Social Scene",
+            "!!!",
+            "Pretty Girls Make Graves"
+          ]
+        },
+        {
+          "stage": "Sahara Tent",
+          "acts": [
+            "Paul van Dyk",
+            "Ferry Corsten",
+            "Crystal Method",
+            "Adam Freeland",
+            "2manyDJs",
+            "Donald Glaude",
+            "DJ Peretz",
+            "Hybrid"
+          ]
+        },
+        {
+          "stage": "Mojave Tent",
+          "acts": [
+            "Ash",
+            "Mogwai",
+            "The Sleepy Jackson",
+            "Dizzee Rascal",
+            "The Cooper Temple Clause",
+            "The Thrills",
+            "Elefant",
+            "Home Town Hero",
+            "Whitestarr"
+          ]
+        },
+        {
+          "stage": "Gobi Tent",
+          "acts": [
+            "Sidestepper",
+            "Danger Mouse",
+            "Prefuse 73",
+            "Sage Francis",
+            "The Killers",
+            "Saul Williams",
+            "The Section Quartet",
+            "Supernatural"
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "T. Raumschmiere (Gobi Tent, Sunday): listed on the page as cancelled; not included in acts",
+    "Dropped Acts: The Future Sound of London, Jimmy Eat World, and Wilco",
+    "The 2004 Installation Artists were: Syd Klinge (Cauac Tesla Coil), Nairb (Deus Ex Machina), Laura Crosta and Funn Roberts (Lanternaria), LT Mustardseed (The Journey of the Dragonfly), Finley Fryer (\"Stan\" - The Diver), Rosanna Scimecca (Cleavage in Space+Red Widow Spider), Christian Ristow (Robochrist Industries), David Wharton + Scott Mattison (Diffraction Light Tunnel), Howard Hollis (Linticular 3-D Art), Scott Gasparian (gaspo) (HypKnowTron), D-light (Helix IV), Gabi Tuschak, Juli Gudmundson and Melody Byrd (Chitlin'n Grits), Mass Ensemble (Earth Harp), Jerico Woggon (Year of the Snake) and Cyclecide (Bike Rodeo). Philip Blaine curated the art."
+  ]
+}

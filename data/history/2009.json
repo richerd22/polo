@@ -1,0 +1,323 @@
+{
+  "year": 2009,
+  "status": "happened",
+  "source": {
+    "name": "Wikipedia - Coachella Festival line-ups",
+    "url": "https://en.wikipedia.org/wiki/Coachella_Festival_line-ups",
+    "retrieved": "2026-11-11"
+  },
+  "days": [
+    {
+      "day": "Friday",
+      "dates": "April 17",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "Paul McCartney",
+            "Morrissey",
+            "Franz Ferdinand",
+            "The Black Keys",
+            "The Airborne Toxic Event",
+            "We Are Scientists",
+            "The Courteeners"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "Silversun Pickups",
+            "Leonard Cohen",
+            "Conor Oberst and the Mystic Valley Band",
+            "M. Ward",
+            "Molotov",
+            "Noah and the Whale",
+            "Alberta Cross"
+          ]
+        },
+        {
+          "stage": "Gobi",
+          "acts": [
+            "Bajofondo",
+            "A Place to Bury Strangers",
+            "Peanut Butter Wolf",
+            "The Bug featuring Warrior Queen",
+            "Buraka Som Sistema",
+            "Los Campesinos!",
+            "People Under The Stairs",
+            "Ryan Bingham",
+            "El Gran Silencio"
+          ]
+        },
+        {
+          "stage": "Mojave",
+          "acts": [
+            "Genghis Tron",
+            "Mike Patton & Rahzel",
+            "Beirut",
+            "N.A.S.A.",
+            "White Lies",
+            "The Hold Steady",
+            "Cage the Elephant",
+            "The Aggrolites",
+            "Dear and the Headlights"
+          ]
+        },
+        {
+          "stage": "Sahara",
+          "acts": [
+            "The Crystal Method",
+            "The Presets",
+            "Girl Talk",
+            "Ghostland Observatory",
+            "Crystal Castles",
+            "The Ting Tings",
+            "Felix da Housecat",
+            "Steve Aoki",
+            "Gui Boratto",
+            "Switch"
+          ]
+        },
+        {
+          "stage": "The Do LaB",
+          "acts": [
+            "VibeSquaD",
+            "Lucent Dossier Experience",
+            "The Ianator",
+            "Jesse Wright",
+            "Kether",
+            "DJ Wolfie",
+            "Dub Science"
+          ]
+        },
+        {
+          "stage": "The Dome",
+          "acts": [
+            "Busy P",
+            "DJ Mehdi",
+            "Kim of The Presets",
+            "Peanut Butter Wolf",
+            "Steve Aoki",
+            "Friendly Fires (DJ Set)"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "dates": "April 18",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "The Killers",
+            "M.I.A.",
+            "Thievery Corporation",
+            "TV on the Radio",
+            "Michael Franti & Spearhead",
+            "Paolo Nutini",
+            "Joss Stone",
+            "Billy Talent"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "Atmosphere",
+            "Jenny Lewis",
+            "Band of Horses",
+            "Fleet Foxes",
+            "Calexico",
+            "Superchunk",
+            "Drive-By Truckers",
+            "Liars",
+            "Cloud Cult"
+          ]
+        },
+        {
+          "stage": "Gobi",
+          "acts": [
+            "Gang Gang Dance",
+            "Glass Candy",
+            "Junior Boys",
+            "Booker T. & the DBT's",
+            "Tinariwen",
+            "Amanda Palmer",
+            "Blitzen Trapper",
+            "Bob Mould Band",
+            "Ida Maria"
+          ]
+        },
+        {
+          "stage": "Mojave",
+          "acts": [
+            "Mastodon",
+            "Turbonegro",
+            "Electric Touch",
+            "James Morrison",
+            "Henry Rollins",
+            "Dr. Dog",
+            "thenewno2",
+            "Ariel Pink's Haunted Graffiti",
+            "P.O.S"
+          ]
+        },
+        {
+          "stage": "Sahara",
+          "acts": [
+            "MSTRKRFT",
+            "The Chemical Brothers (DJ Set)",
+            "Crookers",
+            "TRV$DJAM",
+            "The Bloody Beetroots",
+            "Zane Lowe",
+            "Surkin",
+            "Para One (Live)",
+            "Drop the Lime",
+            "Zizek Club"
+          ]
+        },
+        {
+          "stage": "The Do LaB",
+          "acts": [
+            "Lucent Dossier Experience",
+            "Sub Swara",
+            "Beats Antique",
+            "MiM0SA",
+            "Patricio",
+            "El Papa Chango",
+            "Helios Jive",
+            "RD",
+            "Pod"
+          ]
+        },
+        {
+          "stage": "The Dome",
+          "acts": [
+            "Flying Lotus",
+            "Kode9",
+            "Daedelus",
+            "Bomb Squad",
+            "The Professionals & 6 Blocc",
+            "Daddy Kev",
+            "Nobody & Nocando",
+            "The Gaslamp Killer & DLX",
+            "Ras G & Samiyam"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Sunday",
+      "dates": "April 19",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "The Cure",
+            "My Bloody Valentine",
+            "Yeah Yeah Yeahs",
+            "Peter Bjorn and John",
+            "Lupe Fiasco",
+            "Okkervil River",
+            "The Knux"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "Roni Size Reprazent",
+            "Public Enemy",
+            "Paul Weller",
+            "Antony and the Johnsons",
+            "Lykke Li",
+            "The Gaslight Anthem",
+            "The Night Marchers",
+            "Instituto Mexicano del Sonido"
+          ]
+        },
+        {
+          "stage": "Gobi",
+          "acts": [
+            "The Orb",
+            "Devendra Banhart",
+            "K'naan",
+            "Sébastien Tellier",
+            "Friendly Fires",
+            "Themselves"
+          ]
+        },
+        {
+          "stage": "Mojave",
+          "acts": [
+            "Throbbing Gristle",
+            "The Kills",
+            "The Horrors",
+            "X",
+            "Murder City Devils",
+            "The Brian Jonestown Massacre",
+            "Fucked Up",
+            "No Age",
+            "Vivian Girls"
+          ]
+        },
+        {
+          "stage": "Sahara",
+          "acts": [
+            "Étienne de Crécy",
+            "Groove Armada (DJ Set)",
+            "Christopher Lawrence",
+            "Late of the Pier",
+            "Plump DJs",
+            "Perry Farrell",
+            "M.A.N.D.Y.",
+            "Busy P",
+            "Shepard Fairey",
+            "Supermayer",
+            "Marshall Barnes"
+          ]
+        },
+        {
+          "stage": "The Do LaB",
+          "acts": [
+            "Lucent Dossier Experience",
+            "BLVD",
+            "Random Rab",
+            "Jupit3r",
+            "Marty Party",
+            "QUIET",
+            "David Starfire w/ iCatching",
+            "Imagika",
+            "Braden",
+            "Henrey Strange"
+          ]
+        },
+        {
+          "stage": "The Dome",
+          "acts": [
+            "LA Riots",
+            "Felix Cartal",
+            "Treasure Island",
+            "AC Slater",
+            "Joker of the Scene",
+            "Jokers of the Scene",
+            "Paparazzi",
+            "Kill the Noise",
+            "Franki Chan"
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Craze & Klever (Sahara, Friday): listed on the page as cancelled; not included in acts",
+    "The Dome (Friday): presented as \"Ed Banger Records Presents: Free DOME of Speech\"",
+    "M.I.A. (Coachella Stage, Saturday): replaced Amy Winehouse",
+    "Glasvegas (Mojave, Saturday): listed on the page as cancelled; not included in acts",
+    "The Dome (Saturday): presented as \"Pure Filth Presents: Soundclash in the Desert\"",
+    "Clipse (Gobi, Sunday): listed on the page as cancelled; not included in acts",
+    "The Dome (Sunday): presented as \"1107 Presents\"",
+    "Dropped Acts: Amy Winehouse, Hercules and Love Affair",
+    "In 2009, art was contributed by: The Do Lab's Lucent Mysting Oasis and Lucent Dossier Experience, Gerard Minakawa: (Bamboo Starscraper), Flaming Lotus Girls: (Serpent Mother), Rob Bucholz: (Perhaps) Hotshot the Robot: (Spectralcodec Interactive Video), CalPoly Pomona Architectural students+Michael Fox: (Flockwall), Shrine + Spears family: (La Familia Divina - Shrine), False Profits Labs: (Pyrocardium), Michael Christian: (Sphae), Ball-Nogues Studio (Benjamin Ball+Gaston Nogues+Andrew Lyon and Philip Blaine and SCI Arc Students): (Elastic Plastic Sponge), Rimski: (Rimski's Bicycle Piano), Christian Ristow: (Hand of Man), Mark Lottor: (The Quad Cubatron), Alex Nolan and Justin Grant: (SOL), Syd Klinge: (Cauac Twins). Philip Blaine curated."
+  ]
+}

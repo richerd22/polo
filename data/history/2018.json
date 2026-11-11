@@ -1,0 +1,331 @@
+{
+  "year": 2018,
+  "status": "happened",
+  "source": {
+    "name": "Wikipedia - Coachella Festival line-ups",
+    "url": "https://en.wikipedia.org/wiki/Coachella_Festival_line-ups",
+    "retrieved": "2026-11-11"
+  },
+  "days": [
+    {
+      "day": "Friday",
+      "dates": "April 13 & 20",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "The Weeknd",
+            "SZA",
+            "Kygo",
+            "Vince Staples",
+            "The Neighbourhood",
+            "SuperDuperKyle",
+            "Los Ángeles Azules"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "Jean-Michel Jarre",
+            "St. Vincent",
+            "The War on Drugs",
+            "Daniel Caesar",
+            "Kali Uchis",
+            "Skip Marley",
+            "Knox Fortune",
+            "JustPudge"
+          ]
+        },
+        {
+          "stage": "Gobi",
+          "acts": [
+            "Carpenter Brut",
+            "Maceo Plex",
+            "Perfume Genius",
+            "Belly",
+            "The Blaze",
+            "LÉON",
+            "Tank and the Bangas",
+            "PVRIS",
+            "Moses Sumney",
+            "Benjamin Clementine",
+            "DMM"
+          ]
+        },
+        {
+          "stage": "Sonora",
+          "acts": [
+            "The Buttertones",
+            "The Regrettes",
+            "Helado Negro",
+            "The Marías",
+            "Fazerdaze",
+            "Boogarins",
+            "Señor Kino",
+            "Jim Smith"
+          ]
+        },
+        {
+          "stage": "Mojave",
+          "acts": [
+            "Jamiroquai",
+            "Soulwax",
+            "Dreams",
+            "Black Coffee",
+            "Bleachers",
+            "Greta Van Fleet",
+            "Kelela",
+            "Slow Magic",
+            "MHD",
+            "Smiles Davis",
+            "Francesca Harding"
+          ]
+        },
+        {
+          "stage": "Sahara",
+          "acts": [
+            "REZZ",
+            "Alison Wonderland",
+            "TroyBoi",
+            "Deorro",
+            "Alan Walker",
+            "Justin Martin",
+            "Cash Cash",
+            "Whethan",
+            "Elohim",
+            "Gingee",
+            "Late Night Laggers"
+          ]
+        },
+        {
+          "stage": "Yuma",
+          "acts": [
+            "Detroit Love (Carl Craig, Kyle Hall, Moodymann)",
+            "Moon Boots",
+            "Avalon Emerson",
+            "HITO",
+            "B.Traits",
+            "Jesse Calosso",
+            "Anakim"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "dates": "April 14 & 21",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "Beyoncé",
+            "Haim",
+            "Tyler, the Creator",
+            "MØ",
+            "Chromeo",
+            "Nile Rodgers & Chic"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "Alt-J",
+            "Fleet Foxes",
+            "David Byrne",
+            "Børns",
+            "First Aid Kit",
+            "Marian Hill",
+            "Sir Sly",
+            "Alf Alpha"
+          ]
+        },
+        {
+          "stage": "Gobi",
+          "acts": [
+            "Highly Suspect",
+            "Tom Misch",
+            "Jorja Smith",
+            "Benjamin Booker",
+            "Alina Baraz",
+            "Angel Olsen",
+            "Sigrid",
+            "Big Thief",
+            "Sudan Archives",
+            "Ron Gallo",
+            "Birdtastique",
+            "Loboman"
+          ]
+        },
+        {
+          "stage": "Sonora",
+          "acts": [
+            "Hundred Waters",
+            "Oh Sees",
+            "The Bronx",
+            "Cherry Glazerr",
+            "Priests",
+            "R.O.C.",
+            "Mild High Club",
+            "Otoboke Beaver",
+            "Bane's World",
+            "Jim Smith"
+          ]
+        },
+        {
+          "stage": "Mojave",
+          "acts": [
+            "X Japan",
+            "Jungle",
+            "Alvvays",
+            "Tash Sultana",
+            "BROCKHAMPTON",
+            "Flatbush Zombies",
+            "Django Django",
+            "Declan McKenna",
+            "Chloe x Halle",
+            "Salami Rose Joe Louis"
+          ]
+        },
+        {
+          "stage": "Sahara",
+          "acts": [
+            "Post Malone",
+            "blackbear",
+            "Louis the Child",
+            "Snakehips",
+            "Party Favor",
+            "Ekali",
+            "AC Slater",
+            "KITTENS",
+            "Jimbo Jenkins"
+          ]
+        },
+        {
+          "stage": "Yuma",
+          "acts": [
+            "The Black Madonna",
+            "Pachanga Boys",
+            "Bedouin",
+            "Jackmaster",
+            "Yaeji",
+            "Busy P",
+            "Jason Bentley",
+            "Sahar Z"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Sunday",
+      "dates": "April 15 & 22",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "Eminem",
+            "Odesza",
+            "Portugal. The Man",
+            "Cardi B",
+            "Vance Joy",
+            "LANY",
+            "Lion Babe",
+            "Gabe Real"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "A Perfect Circle",
+            "Miguel",
+            "Kamasi Washington",
+            "Jessie Ware",
+            "DeJ Loaf",
+            "Nothing But Thieves",
+            "Magic Giant",
+            "Juicewon",
+            "nostradahm"
+          ]
+        },
+        {
+          "stage": "Gobi",
+          "acts": [
+            "Barclay Crenshaw",
+            "Kamaiyah",
+            "Ibeyi",
+            "Jidenna",
+            "AURORA",
+            "Hayley Kiyoko",
+            "Japanese Breakfast",
+            "Noname",
+            "Westside Gunn + Conway",
+            "Phantom Thrett"
+          ]
+        },
+        {
+          "stage": "Sonora",
+          "acts": [
+            "Princess Nokia",
+            "John Maus",
+            "Cuco",
+            "Buscabulla",
+            "Snail Mail",
+            "B Boys",
+            "The Delirians",
+            "Mu$ty Boyz"
+          ]
+        },
+        {
+          "stage": "Mojave",
+          "acts": [
+            "The Drums",
+            "King Krule",
+            "6lack",
+            "Jacob Banks",
+            "Fidlar",
+            "Aminé",
+            "THEY.",
+            "LP",
+            "Rolling Blackouts Coastal Fever",
+            "Pax"
+          ]
+        },
+        {
+          "stage": "Sahara",
+          "acts": [
+            "Migos",
+            "Illenium",
+            "French Montana",
+            "Petit Biscuit",
+            "Russ",
+            "San Holo",
+            "Giraffage",
+            "Hannah Wants",
+            "CVSS"
+          ]
+        },
+        {
+          "stage": "Yuma",
+          "acts": [
+            "Michael Mayer",
+            "Jamie Jones",
+            "Chris Liebing",
+            "Joseph Capriati",
+            "Motor City Drum Ensemble",
+            "Talaboman",
+            "Peggy Gou",
+            "Kölsch",
+            "Omar-S",
+            "Lee Wells"
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Kygo (Coachella Stage, Friday): marked '*' on the page with no legend in this section",
+    "On April 20, Kygo had special guest Ariana Grande during his set.",
+    "Loboman (Gobi, Saturday): marked '**' on the page with no legend in this section",
+    "Dropped acts: Wizkid",
+    "nostradahm (Outdoor Theatre, Sunday): marked '**' on the page with no legend in this section"
+  ]
+}

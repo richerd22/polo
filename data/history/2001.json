@@ -1,0 +1,93 @@
+{
+  "year": 2001,
+  "status": "happened",
+  "source": {
+    "name": "Wikipedia - Coachella Festival line-ups",
+    "url": "https://en.wikipedia.org/wiki/Coachella_Festival_line-ups",
+    "retrieved": "2026-11-11"
+  },
+  "days": [
+    {
+      "day": "Saturday",
+      "dates": "April 28",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "Jane's Addiction",
+            "Paul Oakenfold",
+            "Weezer",
+            "The Roots",
+            "MC Supernatural",
+            "Iggy Pop",
+            "The Dandy Warhols",
+            "Souls of Mischief",
+            "Medusa"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "Gang Starr",
+            "MC Supernatural",
+            "Roni Size Reprazent",
+            "Mos Def",
+            "St. Germain",
+            "Blonde Redhead",
+            "Ozomatli",
+            "Nikka Costa",
+            "The New Deal",
+            "Pedro the Lion"
+          ]
+        },
+        {
+          "stage": "Mojave Tent",
+          "acts": [
+            "The Orb",
+            "Tricky",
+            "Sigur Rós",
+            "Bad Company UK With MC Tommy D and MC Question Mark",
+            "Raymond Roker With MC Tommy D and MC Question Mark",
+            "Squarepusher",
+            "Plaid",
+            "Del the Funky Homosapien",
+            "Aceyalone",
+            "Planet of the Drums (AK1200, DJ Dara, Dieselboy)"
+          ]
+        },
+        {
+          "stage": "Insomniac Tent",
+          "acts": [
+            "The Chemical Brothers (DJ Set)",
+            "Fatboy Slim",
+            "Doc Martin",
+            "Christopher Lawrence",
+            "Überzone",
+            "Ian Pooley",
+            "Adam Freeland",
+            "Jason Blakemore",
+            "Swedish Egil"
+          ]
+        },
+        {
+          "stage": "Sahara Tent",
+          "acts": [
+            "Kruder & Dorfmeister",
+            "Jason Bentley",
+            "Photek",
+            "Andrea Parker",
+            "Smith & Mighty",
+            "Detroit Grand Pubahs",
+            "MC Supernatural",
+            "Z-Trip",
+            "Rinse & Flux"
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Nortec Collective also played that year",
+    "Art from 2001 was contributed by Joe Mangrum."
+  ]
+}

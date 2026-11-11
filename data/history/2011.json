@@ -1,0 +1,356 @@
+{
+  "year": 2011,
+  "status": "happened",
+  "source": {
+    "name": "Wikipedia - Coachella Festival line-ups",
+    "url": "https://en.wikipedia.org/wiki/Coachella_Festival_line-ups",
+    "retrieved": "2026-11-11"
+  },
+  "days": [
+    {
+      "day": "Friday",
+      "dates": "April 15",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "The Chemical Brothers",
+            "Kings of Leon",
+            "The Black Keys",
+            "Interpol",
+            "Ms. Lauryn Hill",
+            "Cee Lo Green",
+            "Ozomatli",
+            "Moving Units"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "Flogging Molly",
+            "Caifanes",
+            "Crystal Castles",
+            "Brandon Flowers",
+            "Cold War Kids",
+            "Tame Impala",
+            "Warpaint",
+            "Titus Andronicus",
+            "!!!",
+            "The Rural Alberta Advantage"
+          ]
+        },
+        {
+          "stage": "Gobi",
+          "acts": [
+            "Scala & Kolacny Brothers",
+            "Nosaj Thing",
+            "Monarchy",
+            "Marina and the Diamonds",
+            "Kele",
+            "Ariel Pink's Haunted Graffiti",
+            "The Morning Benders",
+            "Omar Rodríguez-López",
+            "Brandt Brauer Frick",
+            "New Pants"
+          ]
+        },
+        {
+          "stage": "Mojave",
+          "acts": [
+            "Gayngs",
+            "Robyn",
+            "The Aquabats",
+            "Cut Copy",
+            "Sleigh Bells",
+            "Yacht",
+            "The Pains of Being Pure at Heart",
+            "The Drums",
+            "Cold Cave",
+            "Black Joe Lewis & the Honeybears",
+            "Hurts",
+            "Miguel"
+          ]
+        },
+        {
+          "stage": "Sahara",
+          "acts": [
+            "Boys Noize",
+            "Sasha",
+            "Magnetic Man",
+            "Erick Morillo",
+            "Afrojack",
+            "A-Trak",
+            "Odd Future Wolf Gang Kill Them All",
+            "Skrillex",
+            "Excision",
+            "12th Planet",
+            "Tokimonsta",
+            "Alf Alpha"
+          ]
+        },
+        {
+          "stage": "Oasis Dome",
+          "acts": [
+            "Jakes",
+            "Beardyman",
+            "Breakage",
+            "Professionals",
+            "Mount Kimbie",
+            "Kyle Hall",
+            "Emicida",
+            "Gabe Real",
+            "Metaphase"
+          ]
+        },
+        {
+          "stage": "The Do LaB",
+          "acts": [
+            "Lucent Dossier Experience",
+            "Freq Nasty",
+            "KRADDY",
+            "Jupit3r",
+            "La' Reda",
+            "Govinda",
+            "SaQi",
+            "RLS",
+            "Michele Bass",
+            "GoldRush"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "dates": "April 16",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "Arcade Fire",
+            "Animal Collective",
+            "Mumford & Sons",
+            "Bright Eyes",
+            "Broken Social Scene",
+            "Erykah Badu",
+            "Gogol Bordello",
+            "Bomba Estéreo",
+            "Trampled by Turtles"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "Empire of the Sun",
+            "Big Audio Dynamite",
+            "The Kills",
+            "The New Pornographers",
+            "Cage the Elephant",
+            "Delta Spirit",
+            "Here We Go Magic",
+            "Thao with the Get Down Stay Down",
+            "Francis and the Lights",
+            "The Love Language"
+          ]
+        },
+        {
+          "stage": "Gobi",
+          "acts": [
+            "Daedelus",
+            "Raphael Saadiq",
+            "Wire",
+            "Electric Touch",
+            "Yelle",
+            "Glasser",
+            "The Radio Dept.",
+            "The Tallest Man on Earth",
+            "Cults",
+            "The Joy Formidable",
+            "EE"
+          ]
+        },
+        {
+          "stage": "Mojave",
+          "acts": [
+            "Scissor Sisters",
+            "Suede",
+            "The Swell Season",
+            "One Day as a Lion",
+            "Elbow",
+            "Jenny and Johnny",
+            "Two Door Cinema Club",
+            "Foals",
+            "Freelance Whales",
+            "The Henry Clay People",
+            "Mariachi El Bronx"
+          ]
+        },
+        {
+          "stage": "Sahara",
+          "acts": [
+            "Steve Angello",
+            "Paul van Dyke",
+            "Fedde le Grand",
+            "Shpongle presents: The Shpongletron Experience",
+            "Laidback Luke",
+            "Chuckie",
+            "Joachim Garraud",
+            "Sander Kleinenberg",
+            "Perry Farrell & Etty Lau Farrell vs. Chris Cox",
+            "The Twelves",
+            "Rye Rye",
+            "DJ Heavygrinder"
+          ]
+        },
+        {
+          "stage": "Oasis Dome",
+          "acts": [
+            "Andy C and GQ",
+            "DJ Kentaro",
+            "DJ Hype",
+            "Mary Anne Hobbs",
+            "Lil B",
+            "SBTRKT",
+            "Goth-Trad",
+            "Take",
+            "Don Letts",
+            "Alf Alpha",
+            "Ras G"
+          ]
+        },
+        {
+          "stage": "The Do LaB",
+          "acts": [
+            "An-Ten-Nae",
+            "Lucent Dossier Experience",
+            "NitGrit",
+            "Emancipator",
+            "Ana Sia",
+            "Patricio",
+            "Jesse Wright & Lee Burridge",
+            "Sammy Bliss",
+            "The Ianator"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Sunday",
+      "dates": "April 17",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "Kanye West",
+            "The Strokes",
+            "Duran Duran",
+            "Death from Above 1979",
+            "Nas & Damian Marley",
+            "Wiz Khalifa",
+            "Jack's Mannequin"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "PJ Harvey",
+            "Chromeo",
+            "The National",
+            "Best Coast",
+            "Jimmy Eat World",
+            "City and Colour",
+            "Fun",
+            "Menomena",
+            "Gord Downie",
+            "Good Old War"
+          ]
+        },
+        {
+          "stage": "Gobi",
+          "acts": [
+            "She Wants Revenge",
+            "Neon Trees",
+            "Phantogram",
+            "Lightning Bolt",
+            "Foster the People",
+            "Tinie Tempah",
+            "Ellie Goulding",
+            "Angus & Julia Stone",
+            "Off!",
+            "Delorean",
+            "Plan B",
+            "Eliza Doolittle"
+          ]
+        },
+        {
+          "stage": "Mojave",
+          "acts": [
+            "The Presets",
+            "Leftfield",
+            "Ratatat",
+            "Trentemøller",
+            "Fistful of Mercy",
+            "Health",
+            "CSS",
+            "Men",
+            "Twin Shadow",
+            "Phosphorescent",
+            "Ryan Leslie"
+          ]
+        },
+        {
+          "stage": "Sahara",
+          "acts": [
+            "Axwell",
+            "Bloody Beetroots - Death Crew 77",
+            "Chase & Status",
+            "Duck Sauce",
+            "Sven Väth",
+            "Jack Beats",
+            "Caspa",
+            "Green Velvet",
+            "Riva Starr",
+            "WhiteNoize"
+          ]
+        },
+        {
+          "stage": "Oasis Dome",
+          "acts": [
+            "Terror Danjah",
+            "Zed Bias",
+            "Ramadanman",
+            "Roska",
+            "Kode9",
+            "Joy Orbison",
+            "High Contrast",
+            "DJ Zinc",
+            "Thunderball",
+            "Tokimonsta",
+            "Lorn",
+            "Sam XL"
+          ]
+        },
+        {
+          "stage": "The Do LaB",
+          "acts": [
+            "Lucent Dossier Experience",
+            "Paper Diamond",
+            "R/D",
+            "Stephan Jacobs",
+            "Sugarpill",
+            "Siren",
+            "Gladkill",
+            "Timonkey",
+            "Karim So"
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "DJ Marky (Oasis Dome, Saturday): listed on the page as cancelled; not included in acts",
+    "Jeff Goldblum performed an unannounced jazz set in the campgrounds in the afternoon.",
+    "Los Bunkers (Coachella Stage, Sunday): listed on the page as cancelled; not included in acts",
+    "Dropped Acts: Clare Maguire, Fat Freddy's Drop, Gypsy & the Cat, Klaxons",
+    "In 2011, art was contributed by: The Do Lab Oasis and Lucent Dossier Experience, The Creators Project: Coachella Stage Enhanced, Sarah Tent Installation, Long March, Punch, Nidhogg, The Do Lab, The Do Lab's Pagoda, Winwin Creative: Joy, Michael Christian: Candelaphytes, Hotshot the Robot, Cyclecide Bike Rodeo, reel-Mobile, Coachella Art Studios, Rob Buchholz: Wish, Todd Williams: Land Sharks, Syd Klinge: (CauacTwins), Christian Ristow: Fledgling, Balloon Chain, A Physical Manifestation of Ladies and Gentlemen We Are Floating in Space: Jonathan Glazer + J. Spaceman with Undisclosable and One of Us."
+  ]
+}

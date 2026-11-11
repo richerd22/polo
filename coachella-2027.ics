@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//polo.cold.fyi//lineup//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Coachella 2027
+BEGIN:VEVENT
+UID:coachella-2027-w1@polo.cold.fyi
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270412
+SUMMARY:Coachella 2027 - weekend 1
+LOCATION:Empire Polo Club\, 81800 Avenue 51\, Indio\, CA 92201
+DESCRIPTION:Lineup by day: https://polo.cold.fyi/lineup/2027/ (independent guide\, not affiliated with Coachella)
+URL:https://polo.cold.fyi/lineup/2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:coachella-2027-w2@polo.cold.fyi
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270419
+SUMMARY:Coachella 2027 - weekend 2
+LOCATION:Empire Polo Club\, 81800 Avenue 51\, Indio\, CA 92201
+DESCRIPTION:Lineup by day: https://polo.cold.fyi/lineup/2027/ (independent guide\, not affiliated with Coachella)
+URL:https://polo.cold.fyi/lineup/2027/
+END:VEVENT
+END:VCALENDAR

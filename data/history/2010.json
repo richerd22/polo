@@ -1,0 +1,365 @@
+{
+  "year": 2010,
+  "status": "happened",
+  "source": {
+    "name": "Wikipedia - Coachella Festival line-ups",
+    "url": "https://en.wikipedia.org/wiki/Coachella_Festival_line-ups",
+    "retrieved": "2026-11-11"
+  },
+  "days": [
+    {
+      "day": "Thursday",
+      "dates": "April 15",
+      "stages": [
+        {
+          "stage": "Matinée Sessions in the Camgrounds",
+          "acts": [
+            "Jokers of the Scene",
+            "Le Castle Vania",
+            "12th Planet",
+            "Toy Selectah",
+            "Franki Chan",
+            "Matinee Resident All Stars featuring: Paparazzi",
+            "Joaquin",
+            "Sir Charles"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Friday",
+      "dates": "April 16",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "Jay-Z",
+            "LCD Soundsystem",
+            "Them Crooked Vultures",
+            "The Specials",
+            "Street Sweeper Social Club",
+            "Calle 13",
+            "Wale"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "Public Image Ltd.",
+            "Vampire Weekend",
+            "Echo and the Bunnymen",
+            "Passion Pit",
+            "She & Him",
+            "The Avett Brothers",
+            "Deer Tick",
+            "Alana Grace"
+          ]
+        },
+        {
+          "stage": "Gobi",
+          "acts": [
+            "The Whitest Boy Alive",
+            "Céu",
+            "Little Dragon",
+            "La Roux",
+            "Gil Scott-Heron",
+            "The Dillinger Escape Plan",
+            "Hockey",
+            "Sleigh Bells",
+            "Iglu & Hartly",
+            "P.O.S",
+            "Kate Miller-Heidke"
+          ]
+        },
+        {
+          "stage": "Mojave",
+          "acts": [
+            "Fever Ray",
+            "Imogen Heap",
+            "Grizzly Bear",
+            "Lucero",
+            "Ra Ra Riot",
+            "Yeasayer",
+            "As Tall as Lions",
+            "Baroness",
+            "Jets Overhead"
+          ]
+        },
+        {
+          "stage": "Sahara",
+          "acts": [
+            "deadmau5",
+            "Benny Benassi",
+            "Erol Alkan",
+            "Pretty Lights",
+            "Wolfgang Gartner",
+            "Aeroplane",
+            "Proxy",
+            "Perry Farrell vs. Steve Porter",
+            "DJ Lance Rock",
+            "Pablo Hassan"
+          ]
+        },
+        {
+          "stage": "The Do LaB",
+          "acts": [
+            "Lucent Dossier Experience",
+            "KRADDY",
+            "R/D",
+            "Jesse Wright",
+            "Sammy Bliss",
+            "The Ianator",
+            "Pod"
+          ]
+        },
+        {
+          "stage": "Heineken Dome",
+          "acts": [
+            "DJ Tre - Special Session: Coachella's first Silent Disco",
+            "Andy Caldwell",
+            "Classixx",
+            "Eskmo",
+            "Fred Everything",
+            "J-Boogie vs. DJ Eleven",
+            "David Arevalo"
+          ]
+        },
+        {
+          "stage": "BASSFACE, Camping Sessions",
+          "acts": [
+            "Mary Anne Hobbs",
+            "Daedelus",
+            "The Gaslamp Killer",
+            "Nobody",
+            "Sam XL",
+            "Ras G & Samiyam",
+            "Nocando"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "dates": "April 17",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "Tiësto",
+            "Muse",
+            "Faith No More",
+            "Coheed and Cambria",
+            "Tokyo Police Club",
+            "White Rabbits",
+            "Old Crow Medicine Show",
+            "Zoé",
+            "Steel Train"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "The Dead Weather",
+            "MGMT",
+            "Hot Chip",
+            "The xx",
+            "Edward Sharpe and the Magnetic Zeros",
+            "The Temper Trap",
+            "Porcupine Tree",
+            "Rx Bandits"
+          ]
+        },
+        {
+          "stage": "Gobi",
+          "acts": [
+            "Sia",
+            "Flying Lotus",
+            "Corinne Bailey Rae",
+            "The Raveonettes",
+            "Band of Skulls",
+            "Girls",
+            "Portugal. The Man",
+            "The Almighty Defenders",
+            "Frank Turner"
+          ]
+        },
+        {
+          "stage": "Mojave",
+          "acts": [
+            "Devo",
+            "Les Claypool",
+            "Major Lazer",
+            "Aterciopelados",
+            "Dirty Projectors",
+            "Gossip",
+            "Beach House",
+            "Camera Obscura",
+            "Shooter Jennings & Hierophant",
+            "John Waters"
+          ]
+        },
+        {
+          "stage": "Sahara",
+          "acts": [
+            "2manyDJs",
+            "Die Antwoord",
+            "Z-Trip",
+            "David Guetta",
+            "Kaskade",
+            "Bassnectar",
+            "Dirty South",
+            "Craze & Klever",
+            "Jason Bentley",
+            "Sam XL"
+          ]
+        },
+        {
+          "stage": "The Do LaB",
+          "acts": [
+            "Beats Antique",
+            "Eskmo",
+            "Lucent Dossier Experience",
+            "Jupit3r",
+            "Oscure",
+            "LYNX & Janover",
+            "Patricio",
+            "Deru",
+            "The Ianator"
+          ]
+        },
+        {
+          "stage": "Heineken Dome",
+          "acts": [
+            "VJ/DJ Kris P - Special Session: Coachella's first Silent Disco",
+            "Milo/Vello",
+            "David Carvahlo",
+            "David Starfire featuring MC iCatching",
+            "Nisus",
+            "Franky Boissy",
+            "Isaiah Martin featuring Dustin on Brass",
+            "Behrouz",
+            "Bunny (of Rabbit in the Moon)"
+          ]
+        },
+        {
+          "stage": "BASSFACE, Camping Sessions",
+          "acts": [
+            "Seven",
+            "Jakes",
+            "The Professionals",
+            "Take",
+            "Free the Robots",
+            "Deco & DLX",
+            "MC Kemst"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Sunday",
+      "dates": "April 18",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "Gorillaz",
+            "Pavement",
+            "Spoon",
+            "Yo La Tengo",
+            "De La Soul",
+            "B.o.B",
+            "Babasonicos"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "Thom Yorke",
+            "Phoenix",
+            "Jónsi",
+            "Sunny Day Real Estate",
+            "Deerhunter",
+            "Owen Pallett",
+            "The Middle East"
+          ]
+        },
+        {
+          "stage": "Gobi",
+          "acts": [
+            "Little Boots",
+            "Sly Stone",
+            "Charlotte Gainsbourg",
+            "Florence + the Machine",
+            "Mayer Hawthorne and the County",
+            "Local Natives",
+            "Kevin Devine"
+          ]
+        },
+        {
+          "stage": "Mojave",
+          "acts": [
+            "Yann Tiersen",
+            "The Big Pink",
+            "Miike Snow",
+            "Julian Casablancas",
+            "Matt & Kim",
+            "Mutemath",
+            "King Khan and the Shrines",
+            "The Soft Pack",
+            "One eskimO"
+          ]
+        },
+        {
+          "stage": "Sahara",
+          "acts": [
+            "Plastikman",
+            "Orbital",
+            "Infected Mushroom",
+            "Club 75: DJ Mehdi, Cassius, Busy P, Xavier de Rosnay",
+            "The Glitch Mob",
+            "Rusko",
+            "Paparazzi"
+          ]
+        },
+        {
+          "stage": "The Do LaB",
+          "acts": [
+            "Lucent Dossier Experience",
+            "MiM0SA",
+            "Random Rab",
+            "Siren",
+            "Welder",
+            "Patricio"
+          ]
+        },
+        {
+          "stage": "Heineken Dome",
+          "acts": [
+            "VJ/DJ Kris P - Special Session: Coachella's first Silent Disco",
+            "Donald Glaude",
+            "Brion Topolski",
+            "Jamie Schwabl",
+            "Kris P",
+            "DJ Frances",
+            "Freddy Be",
+            "Kazell"
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Matinée Sessions in the Camgrounds (Thursday): presented by 1107 Events; stage name printed as \"Camgrounds\" on the page",
+    "The Cribs (Outdoor Theatre, Friday): listed on the page as cancelled; not included in acts",
+    "BASSFACE, Camping Sessions (Friday): presented by Coachella & Pure Filth; visuals by Dr. Strangeloop",
+    "Frightened Rabbit (Outdoor Theatre, Saturday): listed on the page as cancelled; not included in acts",
+    "Bad Lieutenant (Gobi, Saturday): listed on the page as cancelled; not included in acts",
+    "Seven (BASSFACE, Camping Sessions, Saturday): filled the spot after Flylo's cancellation",
+    "BASSFACE, Camping Sessions (Saturday): presented by Coachella & Pure Filth; visuals by Dr. Strangeloop",
+    "Delphic (Outdoor Theatre, Sunday): listed on the page as cancelled; not included in acts",
+    "Hypnotic Brass Ensemble (Gobi, Sunday): listed on the page as cancelled; not included in acts",
+    "Gary Numan (Mojave, Sunday): listed on the page as cancelled; not included in acts",
+    "Talvin Singh (Sahara, Sunday): listed on the page as cancelled; not included in acts",
+    "Dropped Acts: Grace Jones, Hadouken!, Mew"
+  ]
+}

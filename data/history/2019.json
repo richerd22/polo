@@ -1,0 +1,316 @@
+{
+  "year": 2019,
+  "status": "happened",
+  "source": {
+    "name": "Wikipedia - Coachella Festival line-ups",
+    "url": "https://en.wikipedia.org/wiki/Coachella_Festival_line-ups",
+    "retrieved": "2026-11-11"
+  },
+  "days": [
+    {
+      "day": "Friday",
+      "dates": "April 12 & 19",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "Childish Gambino",
+            "Janelle Monáe",
+            "The 1975",
+            "Anderson .Paak & The Free Nationals",
+            "Kacey Musgraves",
+            "Mon Laferte",
+            "Los Tucanes de Tijuana"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "DJ Snake",
+            "Rüfüs Du Sol",
+            "Ella Mai",
+            "Gorgon City",
+            "JPEGMafia",
+            "88Glam",
+            "Jimbo Jenkins"
+          ]
+        },
+        {
+          "stage": "Sonora",
+          "acts": [
+            "U.S. Girls",
+            "The Frights",
+            "Still Woozy",
+            "Kero Kero Bonito",
+            "Rat Boy",
+            "Turnstile",
+            "Las Robertas",
+            "Tomasa Del Real",
+            "Cool Era"
+          ]
+        },
+        {
+          "stage": "Gobi",
+          "acts": [
+            "Yves Tumor",
+            "Charlotte Gainsbourg",
+            "Khruangbin",
+            "Polo & Pan",
+            "dvsn",
+            "Calypso Rose",
+            "Beach Fossils",
+            "Hurray for the Riff Raff",
+            "Let's Eat Grandma"
+          ]
+        },
+        {
+          "stage": "Mojave",
+          "acts": [
+            "Nina Kraviz",
+            "Sophie",
+            "Rosalía",
+            "Tierra Whack",
+            "SG Lewis",
+            "King Princess",
+            "Yellow Days",
+            "Vickki Acuna"
+          ]
+        },
+        {
+          "stage": "Sahara",
+          "acts": [
+            "Kayzo",
+            "Nora En Pure",
+            "Diplo",
+            "Blackpink",
+            "Jaden Smith",
+            "Fisher",
+            "Jauz",
+            "Anna Lunoe",
+            "Murda Child",
+            "Loboman"
+          ]
+        },
+        {
+          "stage": "Yuma",
+          "acts": [
+            "Hot Since 82 / Lauren Lane / Nic Fanciulli",
+            "Nicole Moudaber",
+            "Chris Lake",
+            "Kölsch",
+            "Amelie Lens",
+            "CamelPhat",
+            "Walker & Royce",
+            "Ross from Friends",
+            "Blond:ish",
+            "Dave P"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "dates": "April 13 & 20",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "Tame Impala",
+            "Weezer",
+            "J Balvin",
+            "Bazzi",
+            "Sabrina Claudio",
+            "Mr Eazi",
+            "ARIZONA",
+            "Gabe Real"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "BASSNECTAR",
+            "Billie Eilish",
+            "Christine and the Queens",
+            "Bob Moses",
+            "Mac DeMarco",
+            "the Interrupters",
+            "Ty Segall & White Fence",
+            "Nostradahm"
+          ]
+        },
+        {
+          "stage": "Sonora",
+          "acts": [
+            "Superorganism",
+            "The Garden",
+            "Turnover",
+            "Hop Along",
+            "shame",
+            "Javiera Mena",
+            "the Messthetics",
+            "the Red Pears",
+            "Jim Smith"
+          ]
+        },
+        {
+          "stage": "Gobi",
+          "acts": [
+            "Little Simz",
+            "Parcels",
+            "Smino",
+            "Maggie Rogers",
+            "SiR",
+            "JAIN",
+            "SALES",
+            "Steady Holiday",
+            "Jambinai",
+            "CPTN KIRK"
+          ]
+        },
+        {
+          "stage": "Mojave",
+          "acts": [
+            "Aphex Twin",
+            "Four Tet",
+            "Virgil Abloh",
+            "Soulection",
+            "FKJ",
+            "serpentwithfeet",
+            "Wallows",
+            "CHON",
+            "Yeti Out"
+          ]
+        },
+        {
+          "stage": "Sahara",
+          "acts": [
+            "Kid Cudi",
+            "Wiz Khalifa",
+            "Gryffin",
+            "CloZee",
+            "Sheck Wes",
+            "Murda Beatz",
+            "Ookay",
+            "BearTraxx",
+            "John Beaver + DJ Durty"
+          ]
+        },
+        {
+          "stage": "Yuma",
+          "acts": [
+            "Stephan Bodzin",
+            "Idris Elba",
+            "Tale Of Us",
+            "Deep Dish",
+            "Âme",
+            "Adriatique",
+            "Lee Burridge",
+            "Agoria",
+            "Heidi Lawden"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Sunday",
+      "dates": "April 14 & 21",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "Ariana Grande",
+            "Khalid",
+            "Zedd",
+            "Bad Bunny",
+            "Pusha T",
+            "Burna Boy",
+            "Alf Alpha"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "H.E.R.",
+            "Gesaffelstein",
+            "Blood Orange",
+            "Unknown Mortal Orchestra",
+            "Social House",
+            "Tiffany Tyson"
+          ]
+        },
+        {
+          "stage": "Sonora",
+          "acts": [
+            "Ocho Ojos",
+            "HYUKOH",
+            "Soccer Mommy",
+            "Men I Trust",
+            "Cola Boyy",
+            "Iceage",
+            "Razorbumps",
+            "Easy Life",
+            "Mr. 5y10"
+          ]
+        },
+        {
+          "stage": "Gobi",
+          "acts": [
+            "Jon Hopkins",
+            "Perfume",
+            "070 Shake",
+            "Dermot Kennedy",
+            "Alice Merton",
+            "boy pablo",
+            "Emily King",
+            "Record Safari"
+          ]
+        },
+        {
+          "stage": "Mojave",
+          "acts": [
+            "Kaytranada",
+            "CHVRCHES",
+            "SOFI TUKKER",
+            "Clairo",
+            "Lizzo",
+            "Dennis Lloyd",
+            "Rico Nasty",
+            "Mansionair",
+            "Ericalandia"
+          ]
+        },
+        {
+          "stage": "Sahara",
+          "acts": [
+            "NGHTMRE",
+            "Dillon Francis",
+            "Gucci Gang (Gucci Mane, Lil Pump, and Smokepurpp)",
+            "YG",
+            "Playboi Carti",
+            "SOB X RBE",
+            "Shallou",
+            "R3LL"
+          ]
+        },
+        {
+          "stage": "Yuma",
+          "acts": [
+            "Cirez D",
+            "Guy Gerber",
+            "Nocturnal Sunshine",
+            "Charlotte de Witte",
+            "Dusky",
+            "Yotto",
+            "Patrice Bäumel",
+            "Jan Blomqvist",
+            "Tara Brooks"
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Main article: Coachella 2019",
+    "Dropped acts: Solange"
+  ]
+}

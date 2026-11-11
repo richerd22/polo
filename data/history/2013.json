@@ -1,0 +1,475 @@
+{
+  "year": 2013,
+  "status": "happened",
+  "source": {
+    "name": "Wikipedia - Coachella Festival line-ups",
+    "url": "https://en.wikipedia.org/wiki/Coachella_Festival_line-ups",
+    "retrieved": "2026-11-11"
+  },
+  "days": [
+    {
+      "day": "Friday",
+      "dates": "April 12 & 19",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "The Stone Roses",
+            "Blur",
+            "Yeah Yeah Yeahs",
+            "Modest Mouse",
+            "Passion Pit",
+            "Metric",
+            "Stars",
+            "Dâm-Funk",
+            "Tokyo Ska Paradise Orchestra",
+            "Skinny Lister"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "Tegan and Sara",
+            "Jurassic 5",
+            "Band of Horses",
+            "Beach House",
+            "Local Natives",
+            "Of Monsters and Men",
+            "Divine Fits",
+            "Aesop Rock",
+            "Beardyman",
+            "The Neighbourhood",
+            "White Arrows",
+            "Falcons",
+            "Mr. Carmack"
+          ]
+        },
+        {
+          "stage": "Gobi",
+          "acts": [
+            "Earl Sweatshirt",
+            "Foals",
+            "Purity Ring",
+            "TNGHT",
+            "Jello Biafra and the Guantanamo School of Medicine",
+            "Lee \"Scratch\" Perry",
+            "Japandroids",
+            "James McCartney",
+            "Poliça",
+            "The Shouting Matches",
+            "Deathfix",
+            "IO Echo",
+            "Moustache"
+          ]
+        },
+        {
+          "stage": "Mojave",
+          "acts": [
+            "How to Destroy Angels",
+            "Grinderman",
+            "Infected Mushroom",
+            "Sparks",
+            "Palma Violets",
+            "Alt-J",
+            "Johnny Marr",
+            "Jake Bugg",
+            "Youth Lagoon",
+            "Lord Huron",
+            "You Me & Us"
+          ]
+        },
+        {
+          "stage": "Sahara",
+          "acts": [
+            "Bassnectar",
+            "Modestep",
+            "Wolfgang Gartner",
+            "Dog Blood",
+            "Nicky Romero",
+            "Tommy Trash",
+            "Thomas Gold",
+            "Dillon Francis",
+            "C2C",
+            "Sam XL Pure Filth Sound",
+            "DJ Geo",
+            "Dangerous Stranger",
+            "DJP (playing All Scott Hardkiss set)"
+          ]
+        },
+        {
+          "stage": "Yuma",
+          "acts": [
+            "Luciano",
+            "Seth Troxler",
+            "DJ Harvey",
+            "Four Tet",
+            "Pete Tong",
+            "Raymond Roker",
+            "Mario Cotto",
+            "Sece"
+          ]
+        },
+        {
+          "stage": "The Do LaB (Weekend 1)",
+          "acts": [
+            "Goldrush",
+            "Lucent Dossier Experience",
+            "Run DMT",
+            "R/D",
+            "Robotic Pirate Monkey",
+            "Unlimited Gravity",
+            "G Jones",
+            "Manic Focus",
+            "Jupit3r",
+            "Hunterleggitt"
+          ]
+        },
+        {
+          "stage": "The Do LaB (Weekend 2)",
+          "acts": [
+            "Kastle",
+            "Lucent Dossier Experience",
+            "Kraddy",
+            "Jupit3r",
+            "Stephan Jacobs",
+            "Sugarpill",
+            "Metaphase",
+            "Astronautica"
+          ]
+        },
+        {
+          "stage": "Heineken Dome (Weekend 1)",
+          "acts": [
+            "Kenny \"Dope\" Gonzalez",
+            "DJ Spen",
+            "Acid Face",
+            "Sex Panther",
+            "David Paul"
+          ]
+        },
+        {
+          "stage": "Heineken Dome (Weekend 2)",
+          "acts": [
+            "Gene Farris",
+            "Sonny Fodera",
+            "J. Phlip",
+            "Ale Rauen (b2b) Rodrigo Vieira",
+            "Lexal"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "dates": "April 13 & 20",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "Phoenix",
+            "The xx",
+            "The Postal Service",
+            "Hot Chip",
+            "Violent Femmes",
+            "Café Tacvba",
+            "Dropkick Murphys",
+            "Biffy Clyro",
+            "Theophilus London",
+            "Vintage Trouble",
+            "DJ Gabe Real"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "Sigur Rós",
+            "Two Door Cinema Club",
+            "Descendents",
+            "Yeasayer",
+            "Portugal. The Man",
+            "Puscifer",
+            "Ben Howard",
+            "Danny Brown",
+            "Action Bronson",
+            "Trash Talk",
+            "Reignwolf",
+            "Abjo",
+            "Insightful"
+          ]
+        },
+        {
+          "stage": "Gobi",
+          "acts": [
+            "Booka Shade",
+            "Janelle Monáe",
+            "Pusha T",
+            "Spiritualized",
+            "Make-Up",
+            "El-P",
+            "The Selecter",
+            "Allen Stone",
+            "The Evens",
+            "Shovels & Rope",
+            "Guards",
+            "The Colourist"
+          ]
+        },
+        {
+          "stage": "Mojave",
+          "acts": [
+            "New Order",
+            "Franz Ferdinand",
+            "Simian Mobile Disco",
+            "Grizzly Bear",
+            "Major Lazer",
+            "Bat for Lashes",
+            "2 Chainz",
+            "Savages",
+            "Wild Nothing",
+            "Mona",
+            "The Wombats",
+            "Kids These Days"
+          ]
+        },
+        {
+          "stage": "Sahara",
+          "acts": [
+            "Knife Party",
+            "Moby (DJ set)",
+            "Benny Benassi",
+            "Fedde Le Grand",
+            "Bingo Players",
+            "Kill the Noise",
+            "Baauer",
+            "Birdy Nam Nam",
+            "3Ball MTY",
+            "Been Trill"
+          ]
+        },
+        {
+          "stage": "Yuma",
+          "acts": [
+            "Richie Hawtin",
+            "Cassy",
+            "Julio Bashmore",
+            "Jason Bentley",
+            "The 2 Bears",
+            "Zane Lowe",
+            "Huoratron",
+            "Lauren Lane"
+          ]
+        },
+        {
+          "stage": "The Do LaB (Weekend 1)",
+          "acts": [
+            "Sammy Bliss",
+            "Idiot Savant",
+            "Lucent Dossier Experience",
+            "Jeremy Sole",
+            "Marques Wyatt",
+            "Orchard Lounge",
+            "POD"
+          ]
+        },
+        {
+          "stage": "The Do LaB (Weekend 2)",
+          "acts": [
+            "Russ Liquid",
+            "Jobot",
+            "Lucent Dossier Experience",
+            "Black 22's",
+            "Pumpkin",
+            "Patricio",
+            "Hunterleggit",
+            "Pickles"
+          ]
+        },
+        {
+          "stage": "Heineken Dome (Weekend 1)",
+          "acts": [
+            "DJ Pierre",
+            "Gene Hunt",
+            "Whitenoize",
+            "Alain Octavio",
+            "Sleight of Hands",
+            "Deron"
+          ]
+        },
+        {
+          "stage": "Heineken Dome (Weekend 2)",
+          "acts": [
+            "Mark Farina",
+            "Roy Davis Jr.",
+            "Donald Glaude",
+            "Tim Mason",
+            "Ivan Ruiz"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Sunday",
+      "dates": "April 14 & 21",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "Red Hot Chili Peppers",
+            "Nick Cave and the Bad Seeds",
+            "Vampire Weekend",
+            "Social Distortion",
+            "The Lumineers",
+            "The Gaslight Anthem",
+            "The Airborne Toxic Event",
+            "Ghost B.C.",
+            "Slipping Into Darkness",
+            "Mantastique"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "Wu-Tang Clan",
+            "Pretty Lights",
+            "Tame Impala",
+            "Dinosaur Jr.",
+            "Kurt Vile & the Violators",
+            "JEFF the Brotherhood",
+            "Smith Westerns",
+            "Raider Klan",
+            "Wild Belle",
+            "Sango",
+            "Esta"
+          ]
+        },
+        {
+          "stage": "Gobi",
+          "acts": [
+            "Disclosure",
+            "Parov Stelar Band",
+            "Dub FX",
+            "OMD",
+            "Father John Misty",
+            "Rodriguez",
+            "Tanlines",
+            "Grimes",
+            "Thee Oh Sees",
+            "The Three O'Clock",
+            "Hanni El Khatib",
+            "Little Green Cars",
+            "Jimbo Jenkins"
+          ]
+        },
+        {
+          "stage": "Mojave",
+          "acts": [
+            "Dead Can Dance",
+            "Roni Size & Dynamite MC",
+            "The Faint",
+            "La Roux",
+            "James Blake",
+            "Alex Clare",
+            "Jessie Ware",
+            "DIIV",
+            "Cloud Nothings",
+            "Robert DeLong",
+            "Deap Vally"
+          ]
+        },
+        {
+          "stage": "Sahara",
+          "acts": [
+            "Eric Prydz",
+            "Excision presents The Executioner",
+            "Hardwell",
+            "Paul Oakenfold",
+            "Paul Kalkbrenner",
+            "Mimosa",
+            "Dirtyphonics",
+            "Danny Avila",
+            "Mord Fustang",
+            "Adrian Lux"
+          ]
+        },
+        {
+          "stage": "Yuma",
+          "acts": [
+            "Jamie Jones",
+            "Loco Dice",
+            "Maya Jane Coles",
+            "Joris Voorn",
+            "Jamie xx",
+            "Ladies Night",
+            "JDH and DAVE P",
+            "Droog"
+          ]
+        },
+        {
+          "stage": "The Do LaB (Weekend 1)",
+          "acts": [
+            "Sammy Bliss",
+            "Idiot Savant",
+            "Lucent Dossier Experience",
+            "Jeremy Sole",
+            "Marques Wyatt",
+            "Orchard Lounge",
+            "POD"
+          ]
+        },
+        {
+          "stage": "The Do LaB (Weekend 2)",
+          "acts": [
+            "Thugfucker",
+            "Worthy",
+            "Lucent Dossier Experience",
+            "J. Phlip",
+            "Christian Martin",
+            "Nick Monaco",
+            "Jason Burns"
+          ]
+        },
+        {
+          "stage": "Heineken Dome (Weekend 1)",
+          "acts": [
+            "DJ Sneak (b2b) Doc Martin",
+            "DJ Dan",
+            "Mike Balance",
+            "Buds not Bombs",
+            "Elz"
+          ]
+        },
+        {
+          "stage": "Heineken Dome (Weekend 2)",
+          "acts": [
+            "Stanton Warriors",
+            "Lazy Rich",
+            "Dzeko & Torres",
+            "Cappa Regime",
+            "Carlos Alfonzo"
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "The Stone Roses (Coachella Stage, Friday): main headliner for Weekend 1",
+    "Blur (Coachella Stage, Friday): main headliner for Weekend 2",
+    "Falcons (Outdoor Theatre, Friday): Weekend 1 only",
+    "Mr. Carmack (Outdoor Theatre, Friday): Weekend 2 only",
+    "DJ Geo (Sahara, Friday): Weekend 1 only",
+    "Dangerous Stranger (Sahara, Friday): Weekend 2 only",
+    "Violent Femmes (Coachella Stage, Saturday): switching places with Café Tacvba, Weekend 2",
+    "Biffy Clyro (Coachella Stage, Saturday): Weekend 1 only",
+    "Abjo (Outdoor Theatre, Saturday): Weekend 1 only",
+    "Insightful (Outdoor Theatre, Saturday): Weekend 2 only",
+    "Zane Lowe (Yuma, Saturday): Weekend 1, only",
+    "Sango (Outdoor Theatre, Sunday): Weekend 1 only",
+    "Esta (Outdoor Theatre, Sunday): Weekend 2 only",
+    "Parov Stelar Band (Gobi, Sunday): Weekend 1 only",
+    "Dub FX (Gobi, Sunday): replaced Parov Stelar Band spot on Weekend 2",
+    "Jamie xx (Yuma, Sunday): playing after Lauren Lane, Weekend 1",
+    "Dub FX playing at the 10:25PM at The Do Lab (Weekend 1)",
+    "Dropped Acts: Unicorn Kid, Lou Reed",
+    "In 2013, art contributions included: The Power Station by Derek Doublin, Vanessa Bonet and Chris Wagganer, Helix Poeticus (The Snail) by Poetic Kinetics, Los Angeles. CAUC Twins by Syd Klinge, Los Angeles. Recyclosauras Rex by Johny Amerika, Los Angeles. Mirage by Paul Clemente, Los Angeles. PK-107 Mantis by Poetic Kinetics, Los Angeles."
+  ]
+}

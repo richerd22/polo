@@ -868,7 +868,8 @@
    "stages",
    "pyramid",
    "moments",
-   "started"
+   "started",
+   "lineup"
   ]
  },
  {
@@ -1180,7 +1181,8 @@
   "url": "https://www.yahoo.com/entertainment/music/articles/expect-coachellas-underground-movie-theater-020048709.html",
   "chapters": [
    "polo",
-   "moments"
+   "moments",
+   "lineup"
   ]
  },
  {
@@ -1634,6 +1636,15 @@
  },
  {
   "n": 187,
+  "citation": "CULTR, describing the official 2027 poster - \"Coachella Reveal 2027 Lineup: Dua Lipa, Tame Impala, SZA + More\" - 2026-11-11 - https://www.cultr.com/news/coachella-reveal-2027-lineup-dua-lipa-tame-impala-sza-more/",
+  "url": "https://www.cultr.com/news/coachella-reveal-2027-lineup-dua-lipa-tame-impala-sza-more/",
+  "chapters": [
+   "stages",
+   "lineup"
+  ]
+ },
+ {
+  "n": 188,
   "citation": "mxdwn (Raymond Flotat) - \"Breakage Live at the Oasis Dome Coachella\" - 2011-04-16 - https://music.mxdwn.com/2011/04/16/reviews/breakage-live-at-the-oasis-dome-coachella/amp",
   "url": "https://music.mxdwn.com/2011/04/16/reviews/breakage-live-at-the-oasis-dome-coachella/amp",
   "chapters": [
@@ -1641,7 +1652,7 @@
   ]
  },
  {
-  "n": 188,
+  "n": 189,
   "citation": "Pacific Domes - \"Coachella Festival Oasis Dome\" - n.d. - https://pacificdomes.com/?p=11793",
   "url": "https://pacificdomes.com/?p=11793",
   "chapters": [
@@ -1649,7 +1660,7 @@
   ]
  },
  {
-  "n": 189,
+  "n": 190,
   "citation": "Digital Music News (Paul Resnikoff), relaying Billboard (Dave Brooks) - \"Kanye West Cancelled Coachella Because They Wouldn't Build Him a Giant Dome In the Middle of the Festival\" - 2019-01-13 - https://www.digitalmusicnews.com/2019/01/13/kanye-west-cancelled-coachella-dome/",
   "url": "https://www.digitalmusicnews.com/2019/01/13/kanye-west-cancelled-coachella-dome/",
   "chapters": [
@@ -1658,7 +1669,7 @@
   ]
  },
  {
-  "n": 190,
+  "n": 191,
   "citation": "Live Design - \"One More Time With Daft Punk\" - 2006 - https://www.livedesignonline.com/concerts/one-more-time-daft-punk",
   "url": "https://www.livedesignonline.com/concerts/one-more-time-daft-punk",
   "chapters": [
@@ -1666,7 +1677,7 @@
   ]
  },
  {
-  "n": 191,
+  "n": 192,
   "citation": "Wikipedia - \"Alive 2007\" (tour section and dates) - accessed 2026-11-04 - https://en.wikipedia.org/wiki/Alive_2007",
   "url": "https://en.wikipedia.org/wiki/Alive_2007",
   "chapters": [
@@ -1674,7 +1685,7 @@
   ]
  },
  {
-  "n": 192,
+  "n": 193,
   "citation": "Synthtopia - \"Grammy Awards announced, Daft Punk, Justice winners\" - 2009-02-09 - https://www.synthtopia.com/content/2009/02/08/grammy-awards-announced-daft-punk-justice-winners/",
   "url": "https://www.synthtopia.com/content/2009/02/08/grammy-awards-announced-daft-punk-justice-winners/",
   "chapters": [
@@ -1682,7 +1693,7 @@
   ]
  },
  {
-  "n": 193,
+  "n": 194,
   "citation": "JamBase (Nate Todd) - \"Daft Punk's Alive 2007 Pyramid Stage Inspires New LEGO Set\" - 2026-10-23 - https://www.jambase.com/article/daft-punk-lego-pyramid-stage-set",
   "url": "https://www.jambase.com/article/daft-punk-lego-pyramid-stage-set",
   "chapters": [
@@ -1690,7 +1701,7 @@
   ]
  },
  {
-  "n": 194,
+  "n": 195,
   "citation": "The Guardian (Ben Cardew, via inkl) - \"10 things we learned from Daft Punk Unchained\" - 2015 - https://www.inkl.com/news/10-things-we-learned-from-daft-punk-unchained",
   "url": "https://www.inkl.com/news/10-things-we-learned-from-daft-punk-unchained",
   "chapters": [
@@ -1698,7 +1709,7 @@
   ]
  },
  {
-  "n": 195,
+  "n": 196,
   "citation": "Billboard (Katie Bain, via Yahoo) - \"How was Daft Punk booked for Coachella 2006? Watch a new documentary that shares the story\" - 2024-12-18 - https://www.yahoo.com/entertainment/daft-punk-booked-coachella-2006-180000503.html",
   "url": "https://www.yahoo.com/entertainment/daft-punk-booked-coachella-2006-180000503.html",
   "chapters": [
@@ -1706,7 +1717,7 @@
   ]
  },
  {
-  "n": 196,
+  "n": 197,
   "citation": "Radio FG (Antony Harari) - \"Daft Punk à Coachella 2006 : comment ce 'oui' de Busy P a tout changé\" - 2024-12-23 - https://www.radiofg.com/daft-punk-a-coachella-2006-comment-ce-oui-de-busy-p-a-tout-change",
   "url": "https://www.radiofg.com/daft-punk-a-coachella-2006-comment-ce-oui-de-busy-p-a-tout-change",
   "chapters": [
@@ -1714,7 +1725,7 @@
   ]
  },
  {
-  "n": 197,
+  "n": 198,
   "citation": "Variety (Jonathan Cohen, via Yahoo) - \"Daft Punk Talks Kanye West, Coachella and That Wild Pyramid Stage in Unpublished Interview\" - 2021-02-23 - https://ca.news.yahoo.com/daft-punk-talks-kanye-west-000436207.html",
   "url": "https://ca.news.yahoo.com/daft-punk-talks-kanye-west-000436207.html",
   "chapters": [
@@ -1722,7 +1733,7 @@
   ]
  },
  {
-  "n": 198,
+  "n": 199,
   "citation": "Water & Music (Kristin Robinson) - \"15 years ago, Daft Punk's Coachella set helped spark an 'arms race' for live music technology\" - 2021-04-29 - https://www.waterandmusic.com/15-years-ago-daft-punks-coachella-set-helped-spark-an-arms-race-for-live-music-technology",
   "url": "https://www.waterandmusic.com/15-years-ago-daft-punks-coachella-set-helped-spark-an-arms-race-for-live-music-technology",
   "chapters": [
@@ -1730,7 +1741,7 @@
   ]
  },
  {
-  "n": 199,
+  "n": 200,
   "citation": "The Ringer (Justin Sayles) - \"The Robots Who Ruled the World\" - 2021-02-23 - https://www.theringer.com/music/2021/2/23/22296993/daft-punk-break-up-announcement",
   "url": "https://www.theringer.com/music/2021/2/23/22296993/daft-punk-break-up-announcement",
   "chapters": [
@@ -1738,7 +1749,7 @@
   ]
  },
  {
-  "n": 200,
+  "n": 201,
   "citation": "Buildings.com / LEDs Magazine - \"LEDs create pyramid showcase for Daft Punk\" - 2006-08-21 - https://www.buildings.com/building-systems-om/lighting/article/55258729/leds-create-pyramid-showcase-for-daft-punk",
   "url": "https://www.buildings.com/building-systems-om/lighting/article/55258729/leds-create-pyramid-showcase-for-daft-punk",
   "chapters": [
@@ -1746,7 +1757,7 @@
   ]
  },
  {
-  "n": 201,
+  "n": 202,
   "citation": "Coachella (YouTube) - \"Busy P Says 'Oui' - Ed Banger, Daft Punk & Coachella\" - 2024-12-18 - https://www.youtube.com/watch?v=1hLfhhBsNBo",
   "url": "https://www.youtube.com/watch?v=1hLfhhBsNBo",
   "chapters": [
@@ -1754,7 +1765,7 @@
   ]
  },
  {
-  "n": 202,
+  "n": 203,
   "citation": "BPM (Alex Voss) - \"Busy P Recalls Daft Punk's Coachella Pyramid\" - 2024-12-19 - https://www.bpm-mag.com/story/busy-says-oui-daftpunk-coachella-2006-pyramid-show-story",
   "url": "https://www.bpm-mag.com/story/busy-says-oui-daftpunk-coachella-2006-pyramid-show-story",
   "chapters": [
@@ -1762,7 +1773,7 @@
   ]
  },
  {
-  "n": 203,
+  "n": 204,
   "citation": "Dancing Astronaut (Kim Reyes) - \"Watch Daft Punk's Coachella 2006 performance ahead of 'Daft Punk Unchained' premiere\" - 2015-12-10 - https://dancingastronaut.com/2015/12/watch-daft-punks-coachella-2006-performance-ahead-daft-punk-unchained-premiere-2/",
   "url": "https://dancingastronaut.com/2015/12/watch-daft-punks-coachella-2006-performance-ahead-daft-punk-unchained-premiere-2/",
   "chapters": [
@@ -1770,7 +1781,7 @@
   ]
  },
  {
-  "n": 204,
+  "n": 205,
   "citation": "Vice / Thump (Joshua Glazer) - \"Daft Punk's Legendary Pyramid Is Only Half The Story of That Fateful Night at Coachella 2006\" - 2015-12-10 - https://www.vice.com/en/article/daft-punks-legendary-pyramid-is-only-half-the-story-of-that-fateful-night-at-coachella-2006/",
   "url": "https://www.vice.com/en/article/daft-punks-legendary-pyramid-is-only-half-the-story-of-that-fateful-night-at-coachella-2006/",
   "chapters": [
@@ -1778,7 +1789,7 @@
   ]
  },
  {
-  "n": 205,
+  "n": 206,
   "citation": "Deadline - Coachella: 20 Years in the Desert documentary bows on YouTube - 2020-04 - https://deadline.com/2020/04/coachella-20-years-in-the-deset-documentary-bows-on-youtube-music-1202905237/",
   "url": "https://deadline.com/2020/04/coachella-20-years-in-the-deset-documentary-bows-on-youtube-music-1202905237/",
   "chapters": [
@@ -1786,7 +1797,7 @@
   ]
  },
  {
-  "n": 206,
+  "n": 207,
   "citation": "GotWub (YouTube) - \"Daft Punk Live @ Coachella - 04.29.2006 (crowd footage)\" - 2025-04-24 - https://www.youtube.com/watch?v=r2MU9tv5Xz8",
   "url": "https://www.youtube.com/watch?v=r2MU9tv5Xz8",
   "chapters": [
@@ -1794,7 +1805,7 @@
   ]
  },
  {
-  "n": 207,
+  "n": 208,
   "citation": "PLSN - \"Daft Punk\" (Alive 2007 production profile) - 2007-11-19 - https://plsn.com/?p=230142",
   "url": "https://plsn.com/?p=230142",
   "chapters": [
@@ -1802,7 +1813,7 @@
   ]
  },
  {
-  "n": 208,
+  "n": 209,
   "citation": "Rolling Stone Australia (Jon Blistein) - \"Flashback: Daft Punk Bring the Pyramid to Lollapalooza\" - 2021-02-23 - https://au.rollingstone.com/music/music-news/daft-punk-pyramid-lollapalooza-2007-flashback-23420/amp/",
   "url": "https://au.rollingstone.com/music/music-news/daft-punk-pyramid-lollapalooza-2007-flashback-23420/amp/",
   "chapters": [
@@ -1810,7 +1821,7 @@
   ]
  },
  {
-  "n": 209,
+  "n": 210,
   "citation": "The Creators Project (Vice, Mike Sugarman) - \"Meet the Man Behind the Daft Punk Pyramid and The Presets' New Tour\" - 2014-10-29 - https://www.vice.com/en/article/meet-the-man-behind-the-daft-punk-pyramid-and-the-presets-new-tour/",
   "url": "https://www.vice.com/en/article/meet-the-man-behind-the-daft-punk-pyramid-and-the-presets-new-tour/",
   "chapters": [
@@ -1818,7 +1829,7 @@
   ]
  },
  {
-  "n": 210,
+  "n": 211,
   "citation": "MusicRadar (Ben Rogerson, via Yahoo), citing The Times - \"Thomas Bangalter reveals Daft Punk's extreme preparation for the heat of their iconic 2006 Coachella set\" - 2026-06-10 - https://www.yahoo.com/entertainment/music/articles/thomas-bangalter-reveals-daft-punks-104523382.html",
   "url": "https://www.yahoo.com/entertainment/music/articles/thomas-bangalter-reveals-daft-punks-104523382.html",
   "chapters": [
@@ -1826,7 +1837,7 @@
   ]
  },
  {
-  "n": 211,
+  "n": 212,
   "citation": "Billboard - \"Coachella Valley Music & Arts Festival, April 29-30, 2006, Indio, Calif., Empire Polo Field\" - 2006 - https://www.billboard.com/music/music-news/coachella-valley-music-arts-festival-april-29-30-2006-indio-calif-empire-polo-58544",
   "url": "https://www.billboard.com/music/music-news/coachella-valley-music-arts-festival-april-29-30-2006-indio-calif-empire-polo-58544",
   "chapters": [
@@ -1834,7 +1845,7 @@
   ]
  },
  {
-  "n": 212,
+  "n": 213,
   "citation": "Far Out - \"The Daft Punk Coachella comeback set that changed the course of music\" - n.d. - https://faroutmagazine.co.uk/the-daft-punk-coachella-comeback-set-that-changed-the-course-of-music/",
   "url": "https://faroutmagazine.co.uk/the-daft-punk-coachella-comeback-set-that-changed-the-course-of-music/",
   "chapters": [
@@ -1842,7 +1853,7 @@
   ]
  },
  {
-  "n": 213,
+  "n": 214,
   "citation": "Dancing Astronaut (Andrew Spada) - \"Good Morning Mix: Daft Punk Alive at Coachella 2006\" - 2013-04-11 - https://dancingastronaut.com/2013/04/good-morning-mix-daft-punk-alive-at-coachella-2006/",
   "url": "https://dancingastronaut.com/2013/04/good-morning-mix-daft-punk-alive-at-coachella-2006/",
   "chapters": [
@@ -1850,7 +1861,7 @@
   ]
  },
  {
-  "n": 214,
+  "n": 215,
   "citation": "NME - \"Daft Punk make live comeback at Coachella\" - 2006-04-30 - https://www.nme.com/?p=1359908",
   "url": "https://www.nme.com/?p=1359908",
   "chapters": [
@@ -1858,7 +1869,7 @@
   ]
  },
  {
-  "n": 215,
+  "n": 216,
   "citation": "SPIN - \"Coachella '06 Reviewed\" (live blog) - 2006-04-29 - https://www.spinmagazine.com/2006/04/coachella-06-reviewed/",
   "url": "https://www.spinmagazine.com/2006/04/coachella-06-reviewed/",
   "chapters": [
@@ -1866,7 +1877,7 @@
   ]
  },
  {
-  "n": 216,
+  "n": 217,
   "citation": "Okayplayer (Scott Heins) - \"One More Time: Relive Daft Punk's Legendary 2006 Coachella Set In A New Documentary Clip\" - 2015-12-10 - https://www.okayplayer.com/news/daft-punk-unchained-coachella-2006-footage.html",
   "url": "https://www.okayplayer.com/news/daft-punk-unchained-coachella-2006-footage.html",
   "chapters": [
@@ -1874,7 +1885,7 @@
   ]
  },
  {
-  "n": 217,
+  "n": 218,
   "citation": "Live Design - \"Daft Punk Disbands: Duo Set Design Standards\" - 2021 - https://www.livedesignonline.com/concerts/daft-punk-disbands-duo-set-design-standards",
   "url": "https://www.livedesignonline.com/concerts/daft-punk-disbands-duo-set-design-standards",
   "chapters": [
@@ -1882,7 +1893,7 @@
   ]
  },
  {
-  "n": 218,
+  "n": 219,
   "citation": "LA Weekly (Randall Roberts) - interview, \"Buy It, Use It, Break It, Fix It\" - 2007-10-25 - https://www.laweekly.com/?p=236870",
   "url": "https://www.laweekly.com/?p=236870",
   "chapters": [
@@ -1890,7 +1901,7 @@
   ]
  },
  {
-  "n": 219,
+  "n": 220,
   "citation": "JamBase - \"Daft Punk: Live album\" - 2007-08-27 - https://www.jambase.com/article/daft-punk-live-album",
   "url": "https://www.jambase.com/article/daft-punk-live-album",
   "chapters": [
@@ -1898,7 +1909,7 @@
   ]
  },
  {
-  "n": 220,
+  "n": 221,
   "citation": "SPIN - \"Exclusive: Daft Punk Unveil Live Album Details; Midlake to Release EP\" - 2007-08 - https://www.spin.com/2007/08/exclusive-daft-punk-unveil-live-album-details-midlake-release-ep/",
   "url": "https://www.spin.com/2007/08/exclusive-daft-punk-unveil-live-album-details-midlake-release-ep/",
   "chapters": [
@@ -1906,7 +1917,7 @@
   ]
  },
  {
-  "n": 221,
+  "n": 222,
   "citation": "Star Tribune - \"That was Daft Punk behind Kanye\" - 2008-02-15 - https://www.startribune.com/that-was-daft-punk-behind-kanye/15646512",
   "url": "https://www.startribune.com/that-was-daft-punk-behind-kanye/15646512",
   "chapters": [
@@ -1914,7 +1925,7 @@
   ]
  },
  {
-  "n": 222,
+  "n": 223,
   "citation": "Resident Advisor - \"Daft Punk and Justice win at the Grammys\" - 2009-02-10 - https://ra.co/news/10201",
   "url": "https://ra.co/news/10201",
   "chapters": [
@@ -1922,7 +1933,7 @@
   ]
  },
  {
-  "n": 223,
+  "n": 224,
   "citation": "Rock & Roll Hall of Fame Library (Jennie Thomas) - \"Greatest Festival Moments in Rock and Roll History: Coachella 2006\" - 2024-08-14 - https://library.rockhall.com/greatest_festival_moments/coachella_2006",
   "url": "https://library.rockhall.com/greatest_festival_moments/coachella_2006",
   "chapters": [
@@ -1930,7 +1941,7 @@
   ]
  },
  {
-  "n": 224,
+  "n": 225,
   "citation": "Quote Investigator - \"Everyone who bought one of those 30,000 copies started a band\" (citing Kristine McKenna, Los Angeles Times, 1982-05-23) - 2016-03-01 - https://quoteinvestigator.com/2016/03/01/velvet/",
   "url": "https://quoteinvestigator.com/2016/03/01/velvet/",
   "chapters": [
@@ -1938,7 +1949,7 @@
   ]
  },
  {
-  "n": 225,
+  "n": 226,
   "citation": "Gear Live - \"Daft Punk Show Changed Skrillex\" - 2012-03-31 - https://www.gearlive.com/music/article/q309-daft-punk-show-changed-skrillex",
   "url": "https://www.gearlive.com/music/article/q309-daft-punk-show-changed-skrillex",
   "chapters": [
@@ -1946,7 +1957,7 @@
   ]
  },
  {
-  "n": 226,
+  "n": 227,
   "citation": "Dancing Astronaut (Christina Hernandez) - \"Skrillex to Daft Punk: 'Come on guys, let's get a live show again'\" - 2017-02-13 - https://dancingastronaut.com/2017/02/skrillex-daft-punk-pop-shop-come-guys-lets-get-live-show/",
   "url": "https://dancingastronaut.com/2017/02/skrillex-daft-punk-pop-shop-come-guys-lets-get-live-show/",
   "chapters": [
@@ -1954,7 +1965,7 @@
   ]
  },
  {
-  "n": 227,
+  "n": 228,
   "citation": "NME (Luke Morgan Britton) - \"Pharrell Williams addresses Daft Punk Coachella rumours\" - 2017-06-14 - https://www.nme.com/?p=2088712",
   "url": "https://www.nme.com/?p=2088712",
   "chapters": [
@@ -1962,7 +1973,7 @@
   ]
  },
  {
-  "n": 228,
+  "n": 229,
   "citation": "SPIN (Kyle McGovern) - \"Daft Punk's Coachella Album Trailer Confirms Guests Pharrell Williams, Julian Casablancas\" - 2013-04-13 - https://www.spinmagazine.com/2013/04/daft-punk-coachella-2013-get-lucky-video/",
   "url": "https://www.spinmagazine.com/2013/04/daft-punk-coachella-2013-get-lucky-video/",
   "chapters": [
@@ -1970,7 +1981,7 @@
   ]
  },
  {
-  "n": 229,
+  "n": 230,
   "citation": "Relix - \"Daft Punk teases 'Get Lucky' at Coachella\" - 2013-04-13 - https://relix.com/blogs/detail/daft-punk-teases-get-lucky-at-coachella/",
   "url": "https://relix.com/blogs/detail/daft-punk-teases-get-lucky-at-coachella/",
   "chapters": [
@@ -1978,7 +1989,7 @@
   ]
  },
  {
-  "n": 230,
+  "n": 231,
   "citation": "Time Out Los Angeles (Michael Juliano) - \"Is Daft Punk playing Coachella? The internet thinks so\" - 2016-10-05 - https://www.timeout.com/los-angeles/blog/is-daft-punk-playing-coachella-the-internet-thinks-so-100516",
   "url": "https://www.timeout.com/los-angeles/blog/is-daft-punk-playing-coachella-the-internet-thinks-so-100516",
   "chapters": [
@@ -1986,7 +1997,7 @@
   ]
  },
  {
-  "n": 231,
+  "n": 232,
   "citation": "Yanko Design - \"Daft Punk's iconic Coachella pyramid stage is becoming an official LEGO set in 2027\" - 2026-10-22 - https://www.yankodesign.com/2026/10/22/daft-punks-iconic-coachella-pyramid-stage-is-becoming-an-official-lego-set-in-2027/amp/",
   "url": "https://www.yankodesign.com/2026/10/22/daft-punks-iconic-coachella-pyramid-stage-is-becoming-an-official-lego-set-in-2027/amp/",
   "chapters": [
@@ -1994,7 +2005,7 @@
   ]
  },
  {
-  "n": 232,
+  "n": 233,
   "citation": "Andscape (Aaron Dodson) - \"The strange legacy of Tupac's 'hologram' lives on five years after its historic Coachella debut\" - 2017-04-14 - https://andscape.com/features/the-strange-legacy-of-tupacs-hologram-after-coachella",
   "url": "https://andscape.com/features/the-strange-legacy-of-tupacs-hologram-after-coachella",
   "chapters": [
@@ -2003,7 +2014,7 @@
   ]
  },
  {
-  "n": 233,
+  "n": 234,
   "citation": "Okayplayer (Jaelani Turner Williams) - \"Frank Ocean's Planned Ice Rink Was Used During Second Coachella Weekend\" - 2023-04-24 - https://www.okayplayer.com/frank-oceans-planned-ice-rink-was-used-during-second-coachella-weekend/413613",
   "url": "https://www.okayplayer.com/frank-oceans-planned-ice-rink-was-used-during-second-coachella-weekend/413613",
   "chapters": [
@@ -2011,7 +2022,7 @@
   ]
  },
  {
-  "n": 234,
+  "n": 235,
   "citation": "The Current, MPR (Colleen Cowie) - \"Remember when Prince ruled Coachella (and controversially covered Radiohead) in 2008?\" - 2019-01-03 - https://www.thecurrent.org/feature/2019/01/03/remember-when-prince-ruled-coachella-and-controversially-covered-radiohead-in-2008",
   "url": "https://www.thecurrent.org/feature/2019/01/03/remember-when-prince-ruled-coachella-and-controversially-covered-radiohead-in-2008",
   "chapters": [
@@ -2019,7 +2030,7 @@
   ]
  },
  {
-  "n": 235,
+  "n": 236,
   "citation": "Consequence (Alex Young) - \"Prince covered Radiohead's 'Creep' at Coachella 2008, and you can finally watch it online\" - 2015-12-08 (updated 2015-12-16) - https://consequence.net/2015/12/prince-radiohead-creep-coachella",
   "url": "https://consequence.net/2015/12/prince-radiohead-creep-coachella",
   "chapters": [
@@ -2027,7 +2038,7 @@
   ]
  },
  {
-  "n": 236,
+  "n": 237,
   "citation": "Hypebeast (John Ifejika) - \"Tupac hologram cost at least $100K\" - 2012-04-16 - https://hypebeast.com/2012/4/tupac-hologram-cost-10-million",
   "url": "https://hypebeast.com/2012/4/tupac-hologram-cost-10-million",
   "chapters": [
@@ -2035,7 +2046,7 @@
   ]
  },
  {
-  "n": 237,
+  "n": 238,
   "citation": "Cartoon Brew (Chris Arrant), relaying the company's release - \"Digital Domain Media Group Files For Chapter 11 Bankruptcy; Searchlight Capital Partners Reaches Agreement To Acquire Digital Domain Productions\" - 2012-09-12 - https://www.cartoonbrew.com/biz/digital-domain-media-group-files-for-chapter-11-bankruptcy-searchlight-capital-partners-reaches-agreement-to-acquire-digital-domain-productions-69811.html",
   "url": "https://www.cartoonbrew.com/biz/digital-domain-media-group-files-for-chapter-11-bankruptcy-searchlight-capital-partners-reaches-agreement-to-acquire-digital-domain-productions-69811.html",
   "chapters": [
@@ -2043,7 +2054,7 @@
   ]
  },
  {
-  "n": 238,
+  "n": 239,
   "citation": "GRAMMY.com (Jennifer Velez) - \"Beyonce Created A Space To Celebrate Black Culture At Coachella & More Things 'Homecoming' Taught Us\" - 2019-04-19 - https://grammy.com/news/beyonce-created-space-celebrate-black-culture-coachella-more-things-homecoming-taught",
   "url": "https://grammy.com/news/beyonce-created-space-celebrate-black-culture-coachella-more-things-homecoming-taught",
   "chapters": [
@@ -2051,7 +2062,7 @@
   ]
  },
  {
-  "n": 239,
+  "n": 240,
   "citation": "The FADER (Jordan Darville) - \"#Beychella sets record for most simultaneous Coachella live streams\" - 2018-04-17 - https://www.thefader.com/2018/04/17/beyonce-coachella-youtube-most-simultaneous-coachella-live-streams",
   "url": "https://www.thefader.com/2018/04/17/beyonce-coachella-youtube-most-simultaneous-coachella-live-streams",
   "chapters": [
@@ -2060,7 +2071,7 @@
   ]
  },
  {
-  "n": 240,
+  "n": 241,
   "citation": "Dictionary.com - \"Beychella\" (pop culture entry) - 2019-05-01 - https://www.dictionary.com/e/pop-culture/beychella",
   "url": "https://www.dictionary.com/e/pop-culture/beychella",
   "chapters": [
@@ -2069,7 +2080,7 @@
   ]
  },
  {
-  "n": 241,
+  "n": 242,
   "citation": "Recording Academy - \"Best Music Film, 2020 (62nd) Grammy Awards\" - 2020 - https://www.grammy.com/awards/categories/best-music-film/2020/",
   "url": "https://www.grammy.com/awards/categories/best-music-film/2020/",
   "chapters": [
@@ -2077,7 +2088,7 @@
   ]
  },
  {
-  "n": 242,
+  "n": 243,
   "citation": "The Hollywood Reporter - \"Coachella: Ariana Grande's Production Designer on Creating a 'Strong, Feminine, Futuristic' World\" - 2019-04 - https://www.hollywoodreporter.com/news/ariana-grande-production-designer-interview-coachella-2019-1202874",
   "url": "https://www.hollywoodreporter.com/news/ariana-grande-production-designer-interview-coachella-2019-1202874",
   "chapters": [
@@ -2085,7 +2096,7 @@
   ]
  },
  {
-  "n": 243,
+  "n": 244,
   "citation": "Complex (Brenton Blanchet) - \"How Kanye West Pulled Off His Iconic Headlining Set at Coachella 2011\" - 2021-04-17 - https://www.complex.com/music/kanye-west-2011-coachella-performance-anniversary/part-1",
   "url": "https://www.complex.com/music/kanye-west-2011-coachella-performance-anniversary/part-1",
   "chapters": [
@@ -2093,7 +2104,7 @@
   ]
  },
  {
-  "n": 244,
+  "n": 245,
   "citation": "Dancing Astronaut - \"Kanye cancels Coachella performance due to 'artistically limiting' stage design\" - 2019-01-02 - https://dancingastronaut.com/2019/01/kanye-cancels-coachella-performance-due-artistically-limiting-stage-design/",
   "url": "https://dancingastronaut.com/2019/01/kanye-cancels-coachella-performance-due-artistically-limiting-stage-design/",
   "chapters": [
@@ -2101,7 +2112,7 @@
   ]
  },
  {
-  "n": 245,
+  "n": 246,
   "citation": "The FADER (Salvatore Maicki) - \"Kanye West's Easter Sunday service at Coachella will be held atop 'the mountain'\" - 2019-04-03 - https://thefader.com/2019/04/03/kanye-west-coachella-easter-sunday-service-coachella-2019-the-mountain",
   "url": "https://thefader.com/2019/04/03/kanye-west-coachella-easter-sunday-service-coachella-2019-the-mountain",
   "chapters": [
@@ -2110,7 +2121,7 @@
   ]
  },
  {
-  "n": 246,
+  "n": 247,
   "citation": "Complex (Brad Callas) - \"The Evolution of Kanye West's Sunday Services, From Calabasas to Coachella\" - 2019-04-19 - https://www.complex.com/music/2019/04/kanye-west-sunday-service-timeline",
   "url": "https://www.complex.com/music/2019/04/kanye-west-sunday-service-timeline",
   "chapters": [
@@ -2118,7 +2129,7 @@
   ]
  },
  {
-  "n": 247,
+  "n": 248,
   "citation": "Variety - \"Kanye West Takes Coachella to Church With Easter Sunday Service\" - 2019-04 - https://variety.com/2019/music/news/kanye-west-takes-coachella-to-church-with-easter-sunday-service-1203194108",
   "url": "https://variety.com/2019/music/news/kanye-west-takes-coachella-to-church-with-easter-sunday-service-1203194108",
   "chapters": [
@@ -2127,7 +2138,7 @@
   ]
  },
  {
-  "n": 248,
+  "n": 249,
   "citation": "CBS News - \"Coachella to be headlined entirely by nonwhite artists for first time in festival's history\" - 2023-01-10 - https://www.cbsnews.com/amp/news/coachella-headlined-entirely-nonwhite-artists-first-time-festival-history-bad-bunny-frank-ocean-blackpink",
   "url": "https://www.cbsnews.com/amp/news/coachella-headlined-entirely-nonwhite-artists-first-time-festival-history-bad-bunny-frank-ocean-blackpink",
   "chapters": [
@@ -2135,7 +2146,7 @@
   ]
  },
  {
-  "n": 249,
+  "n": 250,
   "citation": "Rolling Stone - \"Ankle Injury Messed Up Frank Ocean's Coachella Set, Source Claims\" - 2023-04 - https://www.rollingstone.com/music/music-news/frank-oceans-coachella-set-derailed-by-ankle-injury-source-claims-1234716595/",
   "url": "https://www.rollingstone.com/music/music-news/frank-oceans-coachella-set-derailed-by-ankle-injury-source-claims-1234716595/",
   "chapters": [
@@ -2143,7 +2154,7 @@
   ]
  },
  {
-  "n": 250,
+  "n": 251,
   "citation": "Hypebeast (Aaron Chow) - \"Frank Ocean's Coachella Livestream Has Been Cancelled\" - 2023-04-16 - https://hypebeast.com/2023/4/frank-ocean-coachella-livestream-cancelled-news-info",
   "url": "https://hypebeast.com/2023/4/frank-ocean-coachella-livestream-cancelled-news-info",
   "chapters": [
@@ -2151,7 +2162,7 @@
   ]
  },
  {
-  "n": 251,
+  "n": 252,
   "citation": "Stereogum (Rachel Brodsky) - \"Frank Ocean Pulls Out Of Coachella Weekend 2\" - 2023-04-19 - https://stereogum.com/2220996/frank-ocean-pulls-out-of-coachella-weekend-2/news",
   "url": "https://stereogum.com/2220996/frank-ocean-pulls-out-of-coachella-weekend-2/news",
   "chapters": [
@@ -2159,7 +2170,7 @@
   ]
  },
  {
-  "n": 252,
+  "n": 253,
   "citation": "Loudwire (Taylor Linzinmeir) - \"Setlist + Video - blink-182 Play First Reunion Show With Tom DeLonge at Coachella\" - 2023-04-15 - https://loudwire.com/blink-182-coachella-2023-setlist-video-tom-delonge/",
   "url": "https://loudwire.com/blink-182-coachella-2023-setlist-video-tom-delonge/",
   "chapters": [
@@ -2168,7 +2179,7 @@
   ]
  },
  {
-  "n": 253,
+  "n": 254,
   "citation": "The FADER (Jordan Darville) - \"Report: Coachella spent millions on Frank Ocean's ice rink, still trying to figure out how to use it\" - 2023-04-21 - https://www.thefader.com/2023/04/21/report-coachella-spent-millions-on-frank-oceans-ice-rink-still-trying-to-figure-out-how-to-use-it",
   "url": "https://www.thefader.com/2023/04/21/report-coachella-spent-millions-on-frank-oceans-ice-rink-still-trying-to-figure-out-how-to-use-it",
   "chapters": [
@@ -2176,7 +2187,7 @@
   ]
  },
  {
-  "n": 254,
+  "n": 255,
   "citation": "Stereogum (Rachel Brodsky) - \"Frank Ocean Scrapped Coachella Ice Rink After Injuring His Ankle: Report\" - 2023-04-17 - https://stereogum.com/2220709/frank-ocean-scrapped-coachella-ice-rink-after-breaking-his-ankle-report/news",
   "url": "https://stereogum.com/2220709/frank-ocean-scrapped-coachella-ice-rink-after-breaking-his-ankle-report/news",
   "chapters": [
@@ -2184,15 +2195,16 @@
   ]
  },
  {
-  "n": 255,
+  "n": 256,
   "citation": "Far Out Magazine - \"What does 'The Bunker Debut of Radiohead Kid A Mnesia' mean?\" - 2025 - https://faroutmagazine.co.uk/what-does-the-bunker-debut-of-radiohead-kid-a-mnesia-mean/",
   "url": "https://faroutmagazine.co.uk/what-does-the-bunker-debut-of-radiohead-kid-a-mnesia-mean/",
   "chapters": [
-   "moments"
+   "moments",
+   "lineup"
   ]
  },
  {
-  "n": 256,
+  "n": 257,
   "citation": "FLOOD Magazine (Will Schube) - \"Radiohead to Screen 'KID A MNESIA' in Newly Built Bunker Underneath Coachella\" - 2026-04-08 - https://floodmagazine.com/220098/radiohead-kid-a-mnesia-motion-picture-house-coachella",
   "url": "https://floodmagazine.com/220098/radiohead-kid-a-mnesia-motion-picture-house-coachella",
   "chapters": [
@@ -2200,7 +2212,7 @@
   ]
  },
  {
-  "n": 257,
+  "n": 258,
   "citation": "Variety Australia (staff) - \"Coachella Announces Set Times, With Jack White as Surprise Last-Minute Addition\" - 2026-04-07 - https://au.variety.com/2026/music/news/coachella-announces-set-times-2026-jack-white-addition-34990/",
   "url": "https://au.variety.com/2026/music/news/coachella-announces-set-times-2026-jack-white-addition-34990/",
   "chapters": [
@@ -2208,7 +2220,7 @@
   ]
  },
  {
-  "n": 258,
+  "n": 259,
   "citation": "The Needle Drop (Christian Potter) - \"Radiohead turn 'KID A MNESIA' into a walkable fever dream\" - 2026-04-08 - https://theneedledrop.com/news/radiohead-turn-kid-a-mnesia-into-a-walkable-fever-dream/",
   "url": "https://theneedledrop.com/news/radiohead-turn-kid-a-mnesia-into-a-walkable-fever-dream/",
   "chapters": [
@@ -2216,7 +2228,7 @@
   ]
  },
  {
-  "n": 259,
+  "n": 260,
   "citation": "KID A MNESIA official site - dates and FAQ - accessed 2026-10-31 - https://kida-mnesia.com/",
   "url": "https://kida-mnesia.com/",
   "chapters": [
@@ -2224,7 +2236,7 @@
   ]
  },
  {
-  "n": 260,
+  "n": 261,
   "citation": "Time Out Los Angeles (Michael Juliano) - \"Travis Scott at Coachella 2025: Everything you need to know\" - 2025-04-19 - https://www.timeout.com/los-angeles/news/travis-scott-at-coachella-2025-everything-you-need-to-know-weekend-two-041825",
   "url": "https://www.timeout.com/los-angeles/news/travis-scott-at-coachella-2025-everything-you-need-to-know-weekend-two-041825",
   "chapters": [
@@ -2232,7 +2244,7 @@
   ]
  },
  {
-  "n": 261,
+  "n": 262,
   "citation": "LA Weekly (Lina Lecaro) - \"Back From the Dead: Bauhaus Reunited\" - 2019-10-30 - https://www.laweekly.com/back-from-the-dead-bauhaus-reunited/",
   "url": "https://www.laweekly.com/back-from-the-dead-bauhaus-reunited/",
   "chapters": [
@@ -2240,7 +2252,7 @@
   ]
  },
  {
-  "n": 262,
+  "n": 263,
   "citation": "Stereogum (James Rettig) - \"Watch Drake Recoil From Madonna's Long Kiss At Coachella\" - 2015-04-13 - https://stereogum.com/1793653/watch-drake-recoil-from-madonnas-long-kiss-at-coachella/news",
   "url": "https://stereogum.com/1793653/watch-drake-recoil-from-madonnas-long-kiss-at-coachella/news",
   "chapters": [
@@ -2248,7 +2260,7 @@
   ]
  },
  {
-  "n": 263,
+  "n": 264,
   "citation": "The A.V. Club - \"Lady Gaga drops new single after Coachella headlining performance\" - 2017-04-16 - https://www.avclub.com/lady-gaga-drops-new-single-after-coachella-headlining-p-1798260686",
   "url": "https://www.avclub.com/lady-gaga-drops-new-single-after-coachella-headlining-p-1798260686",
   "chapters": [
@@ -2256,7 +2268,7 @@
   ]
  },
  {
-  "n": 264,
+  "n": 265,
   "citation": "BrooklynVegan - \"Lady Gaga turned Coachella into a demonic opera with debut 'Mayhem' live show (review)\" - 2025-04 - https://www.brooklynvegan.com/lady-gaga-turned-coachella-into-a-demonic-opera-with-debut-mayhem-live-show-review/",
   "url": "https://www.brooklynvegan.com/lady-gaga-turned-coachella-into-a-demonic-opera-with-debut-mayhem-live-show-review/",
   "chapters": [
@@ -2264,7 +2276,7 @@
   ]
  },
  {
-  "n": 265,
+  "n": 266,
   "citation": "WTOP / Associated Press - \"Ariana Grande reunites (most of) *NSYNC at Coachella\" - 2019-04 - https://wtop.com/music/2019/04/ariana-grande-reunites-most-of-nsync-at-coachella",
   "url": "https://wtop.com/music/2019/04/ariana-grande-reunites-most-of-nsync-at-coachella",
   "chapters": [
@@ -2272,7 +2284,7 @@
   ]
  },
  {
-  "n": 266,
+  "n": 267,
   "citation": "The FADER (Sandra Song) - \"Harry Styles duets with Shania Twain, debuts new songs at Coachella\" - 2022-04-16 - https://thefader.com/2022/04/16/harry-styles-shania-twain-coachella",
   "url": "https://thefader.com/2022/04/16/harry-styles-shania-twain-coachella",
   "chapters": [
@@ -2280,7 +2292,7 @@
   ]
  },
  {
-  "n": 267,
+  "n": 268,
   "citation": "mxdwn - \"Odd Future Wolf Gang Kill Them All live at the Sahara Tent, Coachella\" - 2011-04-15 - https://music.mxdwn.com/2011/04/15/reviews/odd-future-wolf-gang-kill-them-all-live-at-the-sahara-tent-coachella/",
   "url": "https://music.mxdwn.com/2011/04/15/reviews/odd-future-wolf-gang-kill-them-all-live-at-the-sahara-tent-coachella/",
   "chapters": [
@@ -2288,7 +2300,7 @@
   ]
  },
  {
-  "n": 268,
+  "n": 269,
   "citation": "LA Weekly (Dennis Romero) - \"Deadmau5 Blazes New Trails In The Desert\" - 2010-04-17 - https://www.laweekly.com/deadmau5-blazes-new-trails-in-the-desert/",
   "url": "https://www.laweekly.com/deadmau5-blazes-new-trails-in-the-desert/",
   "chapters": [
@@ -2297,7 +2309,7 @@
   ]
  },
  {
-  "n": 269,
+  "n": 270,
   "citation": "Stereogum (Tom Breihan) - \"Deadmau5 Apologizes For Drunk Coachella Performance: 'Probably My Last Coachella'\" - 2025-04-21 - https://stereogum.com/2305073/deadmau5-apologizes-for-drunk-coachella-performance-probably-my-last-coachella/news",
   "url": "https://stereogum.com/2305073/deadmau5-apologizes-for-drunk-coachella-performance-probably-my-last-coachella/news",
   "chapters": [
@@ -2305,7 +2317,7 @@
   ]
  },
  {
-  "n": 270,
+  "n": 271,
   "citation": "Rolling Stone Canada (Jeff Miller) - \"Justin Bieber Draws Massive Crowd for Messy, 'Swag'-Heavy Set at Coachella\" - 2026-04-13 - https://ca.rollingstone.com/justin-bieber-performance-coachella-2026/",
   "url": "https://ca.rollingstone.com/justin-bieber-performance-coachella-2026/",
   "chapters": [
@@ -2314,7 +2326,7 @@
   ]
  },
  {
-  "n": 271,
+  "n": 272,
   "citation": "Consequence - \"Sabrina Carpenter Turns Coachella Into Sabrinawood\" - 2026-04-11 - https://concerts.consequence.net/articles/sabrina-carpenter-coachella-review",
   "url": "https://concerts.consequence.net/articles/sabrina-carpenter-coachella-review",
   "chapters": [
@@ -2322,7 +2334,7 @@
   ]
  },
  {
-  "n": 272,
+  "n": 273,
   "citation": "NME (Poppy Burton) - \"Sabrina Carpenter revives spirit of Old Hollywood with Coachella set featuring Susan Sarandon, Will Ferrell, and men dressed as dogs\" - 2026-04-11 - https://www.nme.com/news/music/sabrina-carpenter-revives-spirit-of-old-hollywood-with-coachella-set-featuring-susan-saradon-will-ferrell-and-men-dressed-as-dogs-3939607",
   "url": "https://www.nme.com/news/music/sabrina-carpenter-revives-spirit-of-old-hollywood-with-coachella-set-featuring-susan-saradon-will-ferrell-and-men-dressed-as-dogs-3939607",
   "chapters": [
@@ -2330,7 +2342,7 @@
   ]
  },
  {
-  "n": 273,
+  "n": 274,
   "citation": "TheWrap (Alyssa Ray) - \"Coachella 2026: Sabrina Carpenter Brings Out Madonna, Geena Davis and Terry Crews as Surprise Guests\" - 2026-04-18 - https://www.thewrap.com/creative-content/music/coachella-2026-sabrina-carpenter-geena-davis-mid-set-monologue/",
   "url": "https://www.thewrap.com/creative-content/music/coachella-2026-sabrina-carpenter-geena-davis-mid-set-monologue/",
   "chapters": [
@@ -2338,7 +2350,7 @@
   ]
  },
  {
-  "n": 274,
+  "n": 275,
   "citation": "Rolling Stone (Maya Georgi) - \"Karol G's Historic Coachella Set Included Becky G, Wisin, and Tons of Latin Genres\" - 2026-04-13 - https://www.rollingstone.com/music/music-latin/karol-g-coachella-performance-1235545608/",
   "url": "https://www.rollingstone.com/music/music-latin/karol-g-coachella-performance-1235545608/",
   "chapters": [
@@ -2346,7 +2358,7 @@
   ]
  },
  {
-  "n": 275,
+  "n": 276,
   "citation": "Complex (Trace William Cowen) - \"Karol G at Coachella: Peso Pluma, J Balvin, and More Surprise Guests Take the Stage for Weekend 2\" - 2026-04-20 - https://www.complex.com/music/a/tracewilliamcowen/karol-g-coachella-peso-pluma-j-balvin",
   "url": "https://www.complex.com/music/a/tracewilliamcowen/karol-g-coachella-peso-pluma-j-balvin",
   "chapters": [
@@ -2354,7 +2366,7 @@
   ]
  },
  {
-  "n": 276,
+  "n": 277,
   "citation": "mxdwn (Akeem Ivory) - \"Karol G Invites Peso Pluma, Becky G, J. Balvin, Ryan Castro Onstage During Coachella Weekend Two Set\" - 2026-04-20 - https://music.mxdwn.com/2026/04/20/news/karol-g-invites-peso-pluma-becky-g-j-balvin-ryan-castro-onstage-during-coachella-weekend-two-set/",
   "url": "https://music.mxdwn.com/2026/04/20/news/karol-g-invites-peso-pluma-becky-g-j-balvin-ryan-castro-onstage-during-coachella-weekend-two-set/",
   "chapters": [
@@ -2362,7 +2374,7 @@
   ]
  },
  {
-  "n": 277,
+  "n": 278,
   "citation": "The Independent (Carsen Holaday) - \"The Strokes end Coachella set with fiery video condemning US and Israeli bombings in Iran and Gaza\" - 2026-04-20 - https://www.the-independent.com/arts-entertainment/music/news/the-strokes-coachella-set-gaza-trump-video-b2960778.html",
   "url": "https://www.the-independent.com/arts-entertainment/music/news/the-strokes-coachella-set-gaza-trump-video-b2960778.html",
   "chapters": [
@@ -2370,7 +2382,7 @@
   ]
  },
  {
-  "n": 278,
+  "n": 279,
   "citation": "Stereogum (Danielle Chelosky) - \"Anyma Coachella Set Canceled Due To Wind\" - 2026-04-11 - https://stereogum.com/2495497/anyma-coachella-set-canceled-due-to-wind/news",
   "url": "https://stereogum.com/2495497/anyma-coachella-set-canceled-due-to-wind/news",
   "chapters": [
@@ -2379,7 +2391,7 @@
   ]
  },
  {
-  "n": 279,
+  "n": 280,
   "citation": "Variety Australia (Arushi Jacob) - \"Anyma to Perform Surprise Set With Marlon Hoffstadt at Coachella After Canceled Performance on Friday\" - 2026-04-13 - https://au.variety.com/2026/music/news/anyma-surprise-set-coachella-cancelled-performance-35207/",
   "url": "https://au.variety.com/2026/music/news/anyma-surprise-set-coachella-cancelled-performance-35207/",
   "chapters": [
@@ -2387,7 +2399,7 @@
   ]
  },
  {
-  "n": 280,
+  "n": 281,
   "citation": "Variety Australia (Jem Aswad) - \"Madonna, SZA, Snoop, Olivia Rodrigo: Why Is Coachella Weekend 2 Crushing Weekend 1?\" - 2026-04-20 - https://au.variety.com/2026/music/global/madonna-sza-why-is-coachella-weekend-2-crushing-weekend-1-35656/",
   "url": "https://au.variety.com/2026/music/global/madonna-sza-why-is-coachella-weekend-2-crushing-weekend-1-35656/",
   "chapters": [
@@ -2395,23 +2407,25 @@
   ]
  },
  {
-  "n": 281,
+  "n": 282,
   "citation": "Billboard Canada (first published by Billboard US) - \"Sabrina Carpenter Brings Out Madonna for Coachella Weekend Two\" - 2026-04-18 - https://ca.billboard.com/music/concerts/madonna-sabrina-carpenter-coachella-2026-1236226082/",
   "url": "https://ca.billboard.com/music/concerts/madonna-sabrina-carpenter-coachella-2026-1236226082/",
   "chapters": [
-   "moments"
-  ]
- },
- {
-  "n": 282,
-  "citation": "SPIN (staff) - \"Madonna Gets Hung Up at Coachella\" - 2006-03-01 - https://www.spinmagazine.com/2006/03/madonna-gets-hung-coachella/",
-  "url": "https://www.spinmagazine.com/2006/03/madonna-gets-hung-coachella/",
-  "chapters": [
-   "moments"
+   "moments",
+   "lineup"
   ]
  },
  {
   "n": 283,
+  "citation": "SPIN (staff) - \"Madonna Gets Hung Up at Coachella\" - 2006-03-01 - https://www.spinmagazine.com/2006/03/madonna-gets-hung-coachella/",
+  "url": "https://www.spinmagazine.com/2006/03/madonna-gets-hung-coachella/",
+  "chapters": [
+   "moments",
+   "lineup"
+  ]
+ },
+ {
+  "n": 284,
   "citation": "Consequence - \"Justin Bieber Brings Out Billie Eilish, SZA at Coachella Weekend Two\" - 2026-04-19 - https://concerts.consequence.net/articles/justin-bieber-coachella-billie-eilish-sza",
   "url": "https://concerts.consequence.net/articles/justin-bieber-coachella-billie-eilish-sza",
   "chapters": [
@@ -2419,7 +2433,7 @@
   ]
  },
  {
-  "n": 284,
+  "n": 285,
   "citation": "mxdwn (Aryn Honaker) - \"Muse's Matt Bellamy, Lisa of Blackpink, Swae Lee & Joji Make Appearances at Anyma's ÆDEN Premiere at Coachella\" - 2026-04-18 - https://music.mxdwn.com/2026/04/18/news/muses-matt-bellamy-lisa-of-blackpink-swae-lee-joji-make-appearances-at-anymas-aeden-premiere-at-coachella/",
   "url": "https://music.mxdwn.com/2026/04/18/news/muses-matt-bellamy-lisa-of-blackpink-swae-lee-joji-make-appearances-at-anymas-aeden-premiere-at-coachella/",
   "chapters": [
@@ -2427,7 +2441,7 @@
   ]
  },
  {
-  "n": 285,
+  "n": 286,
   "citation": "YouTube Blog (Ali Rivera) - \"Get ready! Catch Coachella 2025 live, only on YouTube\" - 2025-04-02 - https://blog.youtube/news-and-events/coachella-2025-livestream-how-to-watch/",
   "url": "https://blog.youtube/news-and-events/coachella-2025-livestream-how-to-watch/",
   "chapters": [
@@ -2435,7 +2449,7 @@
   ]
  },
  {
-  "n": 286,
+  "n": 287,
   "citation": "YouTube Blog - \"Coachella weekend 1: How to watch the full livestream on YouTube\" - 2025-04-15 - https://blog.youtube/news-and-events/the-countdown-to-coachella-weekend-1-begins/",
   "url": "https://blog.youtube/news-and-events/the-countdown-to-coachella-weekend-1-begins/",
   "chapters": [
@@ -2443,7 +2457,7 @@
   ]
  },
  {
-  "n": 287,
+  "n": 288,
   "citation": "YouTube Blog (Lyor Cohen) - \"Coachella will stream exclusively on YouTube through 2030\" - 2026-09-23 - https://blog.youtube/news-and-events/made-on-youtube-coachella-exclusively-stream-youtube-2030/",
   "url": "https://blog.youtube/news-and-events/made-on-youtube-coachella-exclusively-stream-youtube-2030/",
   "chapters": [
@@ -2451,7 +2465,7 @@
   ]
  },
  {
-  "n": 288,
+  "n": 289,
   "citation": "The FADER (David Renshaw) - \"Burna Boy is not happy with his place on the Coachella poster\" - 2019-01-03 - https://www.thefader.com/2019/01/03/burna-boy-coachella-poster-reaction",
   "url": "https://www.thefader.com/2019/01/03/burna-boy-coachella-poster-reaction",
   "chapters": [
@@ -2459,7 +2473,7 @@
   ]
  },
  {
-  "n": 289,
+  "n": 290,
   "citation": "CNN - \"Burna Boy is Africa's breakout star\" - 2019-11-21 - https://cnn.com/2019/11/21/africa/burna-boy-is-africas-breakout-star/index.html",
   "url": "https://cnn.com/2019/11/21/africa/burna-boy-is-africas-breakout-star/index.html",
   "chapters": [
@@ -2467,7 +2481,7 @@
   ]
  },
  {
-  "n": 290,
+  "n": 291,
   "citation": "notjustok (Linorajj) - \"Burna Boy's African Giant album nominated for Grammy Awards\" - 2019-11-20 - https://notjustok.com/news/burna-boys-african-giant-album-nominated-for-grammy-awards/",
   "url": "https://notjustok.com/news/burna-boys-african-giant-album-nominated-for-grammy-awards/",
   "chapters": [
@@ -2475,7 +2489,7 @@
   ]
  },
  {
-  "n": 291,
+  "n": 292,
   "citation": "Rolling Stone - \"Flashback: The Pixies Reunite at Coachella in 2004\" - c. 2013 - https://www.rollingstone.com/music/music-news/flashback-the-pixies-reunite-at-coachella-in-2004-67628/",
   "url": "https://www.rollingstone.com/music/music-news/flashback-the-pixies-reunite-at-coachella-in-2004-67628/",
   "chapters": [
@@ -2483,7 +2497,7 @@
   ]
  },
  {
-  "n": 292,
+  "n": 293,
   "citation": "Star Tribune (Chris Riemenschneider) - \"Now streaming: Pixies 2004 reunion kickoff at Fine Line\" - n.d. - https://www.startribune.com/now-streaming-pixies-2004-reunion-kickoff-at-fine-line-in-minneapolis/600035316",
   "url": "https://www.startribune.com/now-streaming-pixies-2004-reunion-kickoff-at-fine-line-in-minneapolis/600035316",
   "chapters": [
@@ -2491,7 +2505,7 @@
   ]
  },
  {
-  "n": 293,
+  "n": 294,
   "citation": "Blabbermouth - \"Rage Against the Machine Reunites at Coachella; Photos, Setlist Available\" - 2007-04-30 - https://blabbermouth.net/news/rage-against-the-machine-reunites-at-coachella-photos-setlist-available",
   "url": "https://blabbermouth.net/news/rage-against-the-machine-reunites-at-coachella-photos-setlist-available",
   "chapters": [
@@ -2499,7 +2513,7 @@
   ]
  },
  {
-  "n": 294,
+  "n": 295,
   "citation": "Rolling Stone - Rage Against the Machine reunion flashback - c. 2020 - https://www.rollingstone.com/music/music-news/rage-against-the-machine-tour-reunite-coachella-79633/",
   "url": "https://www.rollingstone.com/music/music-news/rage-against-the-machine-tour-reunite-coachella-79633/",
   "chapters": [
@@ -2507,7 +2521,7 @@
   ]
  },
  {
-  "n": 295,
+  "n": 296,
   "citation": "Wikipedia - \"Rage Against the Machine reunion tour\" - accessed 2026-10-31 - https://en.wikipedia.org/wiki/Rage_Against_the_Machine_reunion_tour",
   "url": "https://en.wikipedia.org/wiki/Rage_Against_the_Machine_reunion_tour",
   "chapters": [
@@ -2515,7 +2529,7 @@
   ]
  },
  {
-  "n": 296,
+  "n": 297,
   "citation": "Loudwire (Philip Trapp) - \"It's Now Official That Rage Against the Machine Aren't Playing Coachella\" - 2022-01-13 - https://loudwire.com/its-now-official-that-rage-against-the-machine-arent-playing-coachella-2022/",
   "url": "https://loudwire.com/its-now-official-that-rage-against-the-machine-arent-playing-coachella-2022/",
   "chapters": [
@@ -2523,7 +2537,7 @@
   ]
  },
  {
-  "n": 297,
+  "n": 298,
   "citation": "The FADER - \"Rage Against the Machine have no tour plans, says Brad Wilk\" - 2024-01-04 - https://thefader.com/2024/01/04/rage-against-the-machine-no-tour-plans-brad-wilk",
   "url": "https://thefader.com/2024/01/04/rage-against-the-machine-no-tour-plans-brad-wilk",
   "chapters": [
@@ -2531,7 +2545,7 @@
   ]
  },
  {
-  "n": 298,
+  "n": 299,
   "citation": "SPIN (Marc Hogan) - \"Pulp Confirm Beginnings of First U.S. Tour in 14 Years\" - 2012-01-23 - https://www.spinmagazine.com/2012/01/pulp-confirm-beginnings-first-us-tour-14-years/",
   "url": "https://www.spinmagazine.com/2012/01/pulp-confirm-beginnings-first-us-tour-14-years/",
   "chapters": [
@@ -2539,7 +2553,7 @@
   ]
  },
  {
-  "n": 299,
+  "n": 300,
   "citation": "BrooklynVegan - \"Blur and The Stone Roses are finally returning to America\" - c. 2013-01 - https://www.brooklynvegan.com/blur-the-stone/",
   "url": "https://www.brooklynvegan.com/blur-the-stone/",
   "chapters": [
@@ -2547,7 +2561,7 @@
   ]
  },
  {
-  "n": 300,
+  "n": 301,
   "citation": "Billboard - \"Outkast to tour 40 festivals in 2014\" - c. 2014-01-13 - https://www.billboard.com/music/rb-hip-hop/outkast-tour-40-festivals-2014-5869587",
   "url": "https://www.billboard.com/music/rb-hip-hop/outkast-tour-40-festivals-2014-5869587",
   "chapters": [
@@ -2555,7 +2569,7 @@
   ]
  },
  {
-  "n": 301,
+  "n": 302,
   "citation": "Ultimate Classic Rock (Nick DeRiso) - \"UPDATED: Guns N' Roses to Play Warm-Up Gig Tonight in Los Angeles\" - 2016-04-01 - https://ultimateclassicrock.com/guns-n-roses-troubadour/",
   "url": "https://ultimateclassicrock.com/guns-n-roses-troubadour/",
   "chapters": [
@@ -2563,7 +2577,7 @@
   ]
  },
  {
-  "n": 302,
+  "n": 303,
   "citation": "Blabbermouth (citing Billboard) - \"Guns N' Roses' 'Not in This Lifetime' tour has grossed more than $580 million\" - 2019-11-22 - https://blabbermouth.net/news/guns-n-roses-not-in-this-lifetime-tour-has-grossed-more-than-580-million",
   "url": "https://blabbermouth.net/news/guns-n-roses-not-in-this-lifetime-tour-has-grossed-more-than-580-million",
   "chapters": [
@@ -2571,7 +2585,7 @@
   ]
  },
  {
-  "n": 303,
+  "n": 304,
   "citation": "KpopStarz (Alexa Lewis) - \"K-Pop Artists Who Have Made History at Coachella: BLACKPINK, 2NE1, More!\" - 2022-04-18 - https://www.kpopstarz.com/articles/306083/20220418/kpop-artists-coachella-blackpink-2ne1.htm",
   "url": "https://www.kpopstarz.com/articles/306083/20220418/kpop-artists-coachella-blackpink-2ne1.htm",
   "chapters": [
@@ -2579,7 +2593,7 @@
   ]
  },
  {
-  "n": 304,
+  "n": 305,
   "citation": "ABS-CBN - \"K-pop sensation 2NE1 reunites for global tour\" - 2024-07-21 - https://abs-cbn.com/entertainment/2024/7/21/k-pop-sensation-2ne1-reunites-for-global-tour-2321",
   "url": "https://abs-cbn.com/entertainment/2024/7/21/k-pop-sensation-2ne1-reunites-for-global-tour-2321",
   "chapters": [
@@ -2587,7 +2601,7 @@
   ]
  },
  {
-  "n": 305,
+  "n": 306,
   "citation": "FOX 13 Seattle - \"No Doubt reunites at Coachella 2024 for first live show in nearly 10 years\" - 2024-04-15 - https://fox13seattle.com/news/no-doubt-reunites-coachella-2024",
   "url": "https://fox13seattle.com/news/no-doubt-reunites-coachella-2024",
   "chapters": [
@@ -2595,7 +2609,7 @@
   ]
  },
  {
-  "n": 306,
+  "n": 307,
   "citation": "The A.V. Club - \"No Doubt and Gwen Stefani to reunite inside the Sphere\" - 2025-10-10 - https://www.avclub.com/no-doubt-gwen-stefani-reuniting-las-vegas-sphere",
   "url": "https://www.avclub.com/no-doubt-gwen-stefani-reuniting-las-vegas-sphere",
   "chapters": [
@@ -2603,7 +2617,7 @@
   ]
  },
  {
-  "n": 307,
+  "n": 308,
   "citation": "Music Festival Wizard - \"Austin City Limits will be two weekends in 2013\" - c. 2012-08 - https://www.musicfestivalwizard.com/austin-city-limits-will-be-two-weekends-in-2013/",
   "url": "https://www.musicfestivalwizard.com/austin-city-limits-will-be-two-weekends-in-2013/",
   "chapters": [
@@ -2611,7 +2625,7 @@
   ]
  },
  {
-  "n": 308,
+  "n": 309,
   "citation": "CNBC - \"'Oldchella' set to be a boon of at least $250 million to Coachella Valley\" - 2016-10-07 - https://www.cnbc.com/2016/10/07/oldchella-set-to-be-a-boon-of-at-least-250-million-to-coachella-valley.html",
   "url": "https://www.cnbc.com/2016/10/07/oldchella-set-to-be-a-boon-of-at-least-250-million-to-coachella-valley.html",
   "chapters": [
@@ -2619,7 +2633,7 @@
   ]
  },
  {
-  "n": 309,
+  "n": 310,
   "citation": "CBS News (Daniel Terdiman, originally CNET) - \"How the Coachella Webcast changed the music biz\" - 2011-04-20 - https://www.cbsnews.com/news/how-the-coachella-webcast-changed-the-music-biz/",
   "url": "https://www.cbsnews.com/news/how-the-coachella-webcast-changed-the-music-biz/",
   "chapters": [
@@ -2628,7 +2642,7 @@
   ]
  },
  {
-  "n": 310,
+  "n": 311,
   "citation": "Inquirer Technology / Associated Press - \"YouTube to stream Lollapalooza, Austin City Limits\" - 2011-07-23 - https://technology.inquirer.net/?p=2675",
   "url": "https://technology.inquirer.net/?p=2675",
   "chapters": [
@@ -2636,7 +2650,7 @@
   ]
  },
  {
-  "n": 311,
+  "n": 312,
   "citation": "Music Business Worldwide (Murray Stassen) - \"YouTube extends exclusive Coachella livestream deal with Goldenvoice through 2030\" - 2026-09-23 - https://www.musicbusinessworldwide.com/coachella-stays-exclusive-to-youtube-through-2030-as-goldenvoice-renews-livestream-deal/",
   "url": "https://www.musicbusinessworldwide.com/coachella-stays-exclusive-to-youtube-through-2030-as-goldenvoice-renews-livestream-deal/",
   "chapters": [
@@ -2645,7 +2659,7 @@
   ]
  },
  {
-  "n": 312,
+  "n": 313,
   "citation": "Spin - \"Hologram Michael Jackson to Perform at Billboard Music Awards\" - 2014-05 - https://www.spin.com/2014/05/michael-jackson-hologram-billboard-music-awards/",
   "url": "https://www.spin.com/2014/05/michael-jackson-hologram-billboard-music-awards/",
   "chapters": [
@@ -2653,7 +2667,7 @@
   ]
  },
  {
-  "n": 313,
+  "n": 314,
   "citation": "WSB-TV - \"Roy Orbison, 30 years gone, will tour as a hologram\" - 2018-07-20 - https://wsbtv.com/living/roy-orbison-30-years-gone-will-tour-as-a-hologram/794222878",
   "url": "https://wsbtv.com/living/roy-orbison-30-years-gone-will-tour-as-a-hologram/794222878",
   "chapters": [
@@ -2661,7 +2675,7 @@
   ]
  },
  {
-  "n": 314,
+  "n": 315,
   "citation": "Wikipedia - \"Coachella 2019\" (citing Billboard, 2019-04-15) - accessed 2026-10-31 - https://en.wikipedia.org/wiki/Coachella_2019",
   "url": "https://en.wikipedia.org/wiki/Coachella_2019",
   "chapters": [
@@ -2669,7 +2683,7 @@
   ]
  },
  {
-  "n": 315,
+  "n": 316,
   "citation": "Rolling Stone - \"Bad Bunny and Blackpink Make History as 2023 Coachella Headliners, Frank Ocean Makes Grand Return\" - c. 2023-01 - https://www.rollingstone.com/music/music-news/2023-coachella-headliners-bad-bunny-blackpink-frank-ocean-1234657207/",
   "url": "https://www.rollingstone.com/music/music-news/2023-coachella-headliners-bad-bunny-blackpink-frank-ocean-1234657207/",
   "chapters": [
@@ -2677,7 +2691,7 @@
   ]
  },
  {
-  "n": 316,
+  "n": 317,
   "citation": "Remezcla (Lucas Villa) - \"Karol G's headlining Coachella 2026, becoming first Latina to do so\" - 2025-09-16 - https://remezcla.com/music/karol-gs-headlining-coachella-2026-becoming-first-latina-to-do-so/",
   "url": "https://remezcla.com/music/karol-gs-headlining-coachella-2026-becoming-first-latina-to-do-so/",
   "chapters": [
@@ -2685,7 +2699,7 @@
   ]
  },
  {
-  "n": 317,
+  "n": 318,
   "citation": "The FADER (Tobias Hess) - \"Every surprise guest at Coachella 2026: Becky G, M.I.A., and more\" - 2026-04-13 - https://www.thefader.com/2026/04/13/every-surprise-guest-coachella-2026",
   "url": "https://www.thefader.com/2026/04/13/every-surprise-guest-coachella-2026",
   "chapters": [
@@ -2693,7 +2707,7 @@
   ]
  },
  {
-  "n": 318,
+  "n": 319,
   "citation": "Billboard - interview with 88rising's Sean Miyashiro on Coachella - c. 2022-04 - https://www.billboard.com/culture/events/88rising-coachella-sean-miyashiro-interview-1235062156/",
   "url": "https://www.billboard.com/culture/events/88rising-coachella-sean-miyashiro-interview-1235062156/",
   "chapters": [
@@ -2701,7 +2715,7 @@
   ]
  },
  {
-  "n": 319,
+  "n": 320,
   "citation": "Wikipedia - \"Head in the Clouds Festival\" - accessed 2026-10-31 - https://en.wikipedia.org/wiki/Head_in_the_Clouds_Festival",
   "url": "https://en.wikipedia.org/wiki/Head_in_the_Clouds_Festival",
   "chapters": [
@@ -2709,7 +2723,7 @@
   ]
  },
  {
-  "n": 320,
+  "n": 321,
   "citation": "Quartz - \"Coachella is the festival where underground artists go mainstream, except for African acts\" - c. 2019-01 - https://qz.com/africa/1515509/coachella-2019-burna-boy-mr-eazi-only-african-acts-on-lineup",
   "url": "https://qz.com/africa/1515509/coachella-2019-burna-boy-mr-eazi-only-african-acts-on-lineup",
   "chapters": [
@@ -2718,7 +2732,7 @@
   ]
  },
  {
-  "n": 321,
+  "n": 322,
   "citation": "CNN Style (Leah Dolan), via KTVZ - \"Coachella is back. But have festivals escaped the problematic legacy of 'boho chic'?\" - 2022-04-15 - https://ktvz.com/entertainment/cnn-style/2022/04/15/coachella-is-back-but-have-festivals-escaped-the-problematic-legacy-of-boho-chic/",
   "url": "https://ktvz.com/entertainment/cnn-style/2022/04/15/coachella-is-back-but-have-festivals-escaped-the-problematic-legacy-of-boho-chic/",
   "chapters": [
@@ -2726,7 +2740,7 @@
   ]
  },
  {
-  "n": 322,
+  "n": 323,
   "citation": "Dazed (Sophie Wilson) - \"When exactly did the Coachella aesthetic become so soulless?\" - 2026-04-20 - https://www.dazeddigital.com/fashion/article/70114/1/when-exactly-coachella-aesthetic-soulless-sheinchella-influencers",
   "url": "https://www.dazeddigital.com/fashion/article/70114/1/when-exactly-coachella-aesthetic-soulless-sheinchella-influencers",
   "chapters": [
@@ -2734,7 +2748,7 @@
   ]
  },
  {
-  "n": 323,
+  "n": 324,
   "citation": "NYLON - \"25 Years of Coachella Style\" - 2024-04-15 - https://www.nylon.com/fashion/coachella-trends-festival-history",
   "url": "https://www.nylon.com/fashion/coachella-trends-festival-history",
   "chapters": [
@@ -2742,7 +2756,7 @@
   ]
  },
  {
-  "n": 324,
+  "n": 325,
   "citation": "H&M Group - \"H&M to announce the first ever co-branded collection with the Coachella Valley Music & Arts Festival\" - 2015-01-12 - https://hmgroup.com/news/hm-to-announce-the-first-ever-co-branded-collection-with-the-coachella-valley-music-arts-festival/",
   "url": "https://hmgroup.com/news/hm-to-announce-the-first-ever-co-branded-collection-with-the-coachella-valley-music-arts-festival/",
   "chapters": [
@@ -2750,7 +2764,7 @@
   ]
  },
  {
-  "n": 325,
+  "n": 326,
   "citation": "Newspaper Rock - \"Alessandra Ambrosio in headdress\" - 2014-04-10 - https://newspaperrock.bluecorncomics.com/2014/04/alessandra-ambrosio-in-headdress.html",
   "url": "https://newspaperrock.bluecorncomics.com/2014/04/alessandra-ambrosio-in-headdress.html",
   "chapters": [
@@ -2758,7 +2772,7 @@
   ]
  },
  {
-  "n": 326,
+  "n": 327,
   "citation": "CBC News - \"Bass Coast festival headdress ban ruffles feathers and sparks debate\" - 2014-08-02 - https://www.cbc.ca/1.2723719",
   "url": "https://www.cbc.ca/1.2723719",
   "chapters": [
@@ -2766,7 +2780,7 @@
   ]
  },
  {
-  "n": 327,
+  "n": 328,
   "citation": "Dazed - \"Glastonbury bans sale of Native American headdresses\" - 2014-10-15 - https://www.dazeddigital.com/music/article/22183/1/glastonbury-bans-sale-of-native-american-headdresses",
   "url": "https://www.dazeddigital.com/music/article/22183/1/glastonbury-bans-sale-of-native-american-headdresses",
   "chapters": [
@@ -2774,7 +2788,7 @@
   ]
  },
  {
-  "n": 328,
+  "n": 329,
   "citation": "NME (David Renshaw) - \"Native American headresses banned at Canada's Osheaga festival\" - 2015-07-14 - https://www.nme.com/?p=1215296",
   "url": "https://www.nme.com/?p=1215296",
   "chapters": [
@@ -2782,7 +2796,7 @@
   ]
  },
  {
-  "n": 329,
+  "n": 330,
   "citation": "Dancing Astronaut (Lucy Davidson) - \"Electric Forest bans headdresses for 2016 edition\" - 2015-11-17 - https://dancingastronaut.com/2015/11/electric-forest-bans-headdresses-festivals-2016-edition/",
   "url": "https://dancingastronaut.com/2015/11/electric-forest-bans-headdresses-festivals-2016-edition/",
   "chapters": [
@@ -2790,7 +2804,7 @@
   ]
  },
  {
-  "n": 330,
+  "n": 331,
   "citation": "SFist - \"American Indian headdresses now officially banned at Outside Lands\" - 2019-07-26 - https://sfist.com/2019/07/26/american-indian-headdresses-now-officially-banned-at-outside-lands",
   "url": "https://sfist.com/2019/07/26/american-indian-headdresses-now-officially-banned-at-outside-lands",
   "chapters": [
@@ -2798,7 +2812,7 @@
   ]
  },
  {
-  "n": 331,
+  "n": 332,
   "citation": "Hypebeast (Dylan Kelly) - \"How Coachella Became the Influencer's Met Gala\" - 2023-04-13 - https://hypebeast.com/2023/4/how-coachella-became-influencers-met-gala-style-fashion-evolution-shift",
   "url": "https://hypebeast.com/2023/4/how-coachella-became-influencers-met-gala-style-fashion-evolution-shift",
   "chapters": [
@@ -2807,7 +2821,7 @@
   ]
  },
  {
-  "n": 332,
+  "n": 333,
   "citation": "BizBash - \"As Coachella expands to two weekends, brands stick to the first\" - 2012-04-16 - https://www.bizbash.com/programming-entertainment/as-coachella-expands-to-two-weekends-brands-stick-to-the-first",
   "url": "https://www.bizbash.com/programming-entertainment/as-coachella-expands-to-two-weekends-brands-stick-to-the-first",
   "chapters": [
@@ -2817,7 +2831,7 @@
   ]
  },
  {
-  "n": 333,
+  "n": 334,
   "citation": "Business of Fashion (Liz Flora) - \"Revolve invented influencer marketing as we know it. Now it's pulling back\" - 2024 - https://Businessoffashion.com/articles/marketing-pr/revolve-invented-influencer-marketing-as-we-know-it-now-its-pulling-back/",
   "url": "https://Businessoffashion.com/articles/marketing-pr/revolve-invented-influencer-marketing-as-we-know-it-now-its-pulling-back/",
   "chapters": [
@@ -2826,7 +2840,7 @@
   ]
  },
  {
-  "n": 334,
+  "n": 335,
   "citation": "WWD (Elizabeth Grace Coyne), via Yahoo - \"What the First-ever Revolve Festival Was Like in 2015 Compared to 2024: The Coachella Weekend Party's Evolution\" - 2024-04-12 - https://ca.news.yahoo.com/first-ever-revolve-festival-2015-185139744.html",
   "url": "https://ca.news.yahoo.com/first-ever-revolve-festival-2015-185139744.html",
   "chapters": [
@@ -2835,7 +2849,7 @@
   ]
  },
  {
-  "n": 335,
+  "n": 336,
   "citation": "Retail Brew (Halie LeSavage) - \"Festival Fashion at Revolve and Asos Suffers Without Music Festivals\" - 2020-04-13 - https://www.retailbrew.com/stories/2020/04/13/festival-fashion-revolve-asos-suffers-without-music-festivals",
   "url": "https://www.retailbrew.com/stories/2020/04/13/festival-fashion-revolve-asos-suffers-without-music-festivals",
   "chapters": [
@@ -2844,7 +2858,7 @@
   ]
  },
  {
-  "n": 336,
+  "n": 337,
   "citation": "Glossy (Priya Rao) - \"'There's definitely been a decline': fashion and beauty brands pull back on Coachella\" - 2019-04-10 - https://www.glossy.co/fashion/theres-definitely-been-a-decline-fashion-and-beauty-brands-pull-back-on-coachella",
   "url": "https://www.glossy.co/fashion/theres-definitely-been-a-decline-fashion-and-beauty-brands-pull-back-on-coachella",
   "chapters": [
@@ -2853,7 +2867,7 @@
   ]
  },
  {
-  "n": 337,
+  "n": 338,
   "citation": "Hypebae (Pauline De Leon) - \"REVOLVE Responds to Backlash Over Its Fyre Festival-Like Coachella Event\" - 2022-04-19 - https://hypebae.com/2022/4/revolve-coachella-festival-fyre-backlash-statement-info",
   "url": "https://hypebae.com/2022/4/revolve-coachella-festival-fyre-backlash-statement-info",
   "chapters": [
@@ -2862,7 +2876,7 @@
   ]
  },
  {
-  "n": 338,
+  "n": 339,
   "citation": "Arnold Zwicky's Blog - \"Bookchella\" - 2022-04-28 - https://arnoldzwicky.org/2022/04/28/bookchella/",
   "url": "https://arnoldzwicky.org/2022/04/28/bookchella/",
   "chapters": [
@@ -2870,7 +2884,7 @@
   ]
  },
  {
-  "n": 339,
+  "n": 340,
   "citation": "Hypebot (Bruce Houghton) - \"Coachella Sues Underground Fest Hoodchella For $100K Over Name\" - 2016-02-04 - https://www.hypebot.com/coachella-sues-underground-fest-hoodchella-for-100k-over-name",
   "url": "https://www.hypebot.com/coachella-sues-underground-fest-hoodchella-for-100k-over-name",
   "chapters": [
@@ -2878,7 +2892,7 @@
   ]
  },
  {
-  "n": 340,
+  "n": 341,
   "citation": "Buzzbands.LA (Kevin Bronson) - \"Brokechella gets a new name: Meet BROKE LA\" - 2016-01-14 - https://buzzbands.la/2016/01/14/brokechella-3/",
   "url": "https://buzzbands.la/2016/01/14/brokechella-3/",
   "chapters": [
@@ -2886,7 +2900,7 @@
   ]
  },
  {
-  "n": 341,
+  "n": 342,
   "citation": "Promotion Centre (blog) - \"Welsh festival forced to rebrand after Coachella complaint\" - 2025-06-04 - https://promotioncentre.co.uk/blog/welsh-festival-forced-to-rebrand-after-coachella-complaint/",
   "url": "https://promotioncentre.co.uk/blog/welsh-festival-forced-to-rebrand-after-coachella-complaint/",
   "chapters": [
@@ -2894,7 +2908,7 @@
   ]
  },
  {
-  "n": 342,
+  "n": 343,
   "citation": "World Trademark Review (Nisha Shetty) - \"No, you can't take the 'chella' out of Coachella\" - 2025-07-25 - https://www.worldtrademarkreview.com/article/no-you-cant-take-the-chella-out-of-coachella",
   "url": "https://www.worldtrademarkreview.com/article/no-you-cant-take-the-chella-out-of-coachella",
   "chapters": [
@@ -2902,7 +2916,7 @@
   ]
  },
  {
-  "n": 343,
+  "n": 344,
   "citation": "Collie Mail / Daily Liberal - \"Get sparkly for first Col-Chella festival under outback stars\" - 2023-10 - https://www.dailyliberal.com.au/story/8399395/get-sparkly-for-first-col-chella-festival-under-outback-stars/",
   "url": "https://www.dailyliberal.com.au/story/8399395/get-sparkly-for-first-col-chella-festival-under-outback-stars/",
   "chapters": [
@@ -2910,7 +2924,7 @@
   ]
  },
  {
-  "n": 344,
+  "n": 345,
   "citation": "TicketNews - \"Coachella 2010 revives layaway plan for second year as ticket presales begin\" - 2009-12-16 - https://www.ticketnews.com/2009/12/coachella-2010-revives-layaway-plan-for-second-year-as-ticket-presales-begin/",
   "url": "https://www.ticketnews.com/2009/12/coachella-2010-revives-layaway-plan-for-second-year-as-ticket-presales-begin/",
   "chapters": [
@@ -2918,7 +2932,7 @@
   ]
  },
  {
-  "n": 345,
+  "n": 346,
   "citation": "Entrepreneur (Sherin Shibu, citing Billboard) - \"Most Coachella Attendees Bought Their $600 Tickets This Year with a Buy Now, Pay Later Option\" - 2025-04-24 - https://www.entrepreneur.com/business-news/most-coachella-attendees-buy-tickets-with-buy-now-pay-later/490596",
   "url": "https://www.entrepreneur.com/business-news/most-coachella-attendees-buy-tickets-with-buy-now-pay-later/490596",
   "chapters": [
@@ -2927,7 +2941,7 @@
   ]
  },
  {
-  "n": 346,
+  "n": 347,
   "citation": "UrbanDaddy - \"Welcome to the Jungle: Introducing Your Coachella Safari Tent\" - 2010-04-07 - https://urbandaddy.com/articles/9449/los-angeles/welcome-to-the-jungle-introducing-your-coachella-safari-tent",
   "url": "https://urbandaddy.com/articles/9449/los-angeles/welcome-to-the-jungle-introducing-your-coachella-safari-tent",
   "chapters": [
@@ -2935,7 +2949,7 @@
   ]
  },
  {
-  "n": 347,
+  "n": 348,
   "citation": "Palm Springs Life - \"Haute Safari\" - n.d. - https://www.palmspringslife.com/Haute-Safari/",
   "url": "https://www.palmspringslife.com/Haute-Safari/",
   "chapters": [
@@ -2944,7 +2958,7 @@
   ]
  },
  {
-  "n": 348,
+  "n": 349,
   "citation": "Wikipedia - \"Stagecoach Festival\" - accessed 2026-10-31 - https://en.wikipedia.org/wiki/Stagecoach_Festival",
   "url": "https://en.wikipedia.org/wiki/Stagecoach_Festival",
   "chapters": [
@@ -2952,7 +2966,7 @@
   ]
  },
  {
-  "n": 349,
+  "n": 350,
   "citation": "Ultimate Classic Rock (Jeff Giles) - \"Desert Trip Festival's Gross Is Roughly $160 Million\" - 2016-07-22 - https://ultimateclassicrock.com/desert-trip-festival-gross/",
   "url": "https://ultimateclassicrock.com/desert-trip-festival-gross/",
   "chapters": [
@@ -2960,7 +2974,7 @@
   ]
  },
  {
-  "n": 350,
+  "n": 351,
   "citation": "Buzzbands.LA (Kevin Bronson) - \"Just Like Heaven festival returns in 2022, with Interpol, Modest Mouse, the Shins, M.I.A., Franz Ferdinand and more\" - 2021-06-21 - https://buzzbands.la/?p=272873",
   "url": "https://buzzbands.la/?p=272873",
   "chapters": [
@@ -2968,7 +2982,7 @@
   ]
  },
  {
-  "n": 351,
+  "n": 352,
   "citation": "Wikipedia - \"Cruel World Festival\" - accessed 2026-10-31 - https://en.wikipedia.org/wiki/Cruel_World_Festival",
   "url": "https://en.wikipedia.org/wiki/Cruel_World_Festival",
   "chapters": [
@@ -2976,7 +2990,7 @@
   ]
  },
  {
-  "n": 352,
+  "n": 353,
   "citation": "Goldenvoice - \"Festivals\" - n.d. (read 2026-10-31) - https://goldenvoice.com/festivals",
   "url": "https://goldenvoice.com/festivals",
   "chapters": [
@@ -2985,7 +2999,7 @@
   ]
  },
  {
-  "n": 353,
+  "n": 354,
   "citation": "InsideHook (Tobias Carroll) - \"When It Comes to Music Festivals, Nostalgia Is in Vogue\" - 2024-06-04 - https://www.insidehook.com/?p=855118",
   "url": "https://www.insidehook.com/?p=855118",
   "chapters": [
@@ -2993,7 +3007,7 @@
   ]
  },
  {
-  "n": 354,
+  "n": 355,
   "citation": "UPROXX (Steve Bramucci) - \"Welcome To The New Era Of Food At Music Festivals\" - 2019-10-17 - https://uproxx.com/life/food-at-music-festivals-coachella-kaaboo-beachlife",
   "url": "https://uproxx.com/life/food-at-music-festivals-coachella-kaaboo-beachlife",
   "chapters": [
@@ -3002,7 +3016,7 @@
   ]
  },
  {
-  "n": 355,
+  "n": 356,
   "citation": "LA Weekly (Besha Rodell) - \"Coachella Is Getting Serious About Food. But Do Festivalgoers Care?\" - 2015-04-15 - https://www.laweekly.com/coachella-is-getting-serious-about-food-but-do-festivalgoers-care/",
   "url": "https://www.laweekly.com/coachella-is-getting-serious-about-food-but-do-festivalgoers-care/",
   "chapters": [
@@ -3011,7 +3025,7 @@
   ]
  },
  {
-  "n": 356,
+  "n": 357,
   "citation": "Time Out Los Angeles (Erin Kuschner) - \"Coachella announces its Outstanding in the Field chef lineup for 2016\" - 2016-03-03 - https://www.timeout.com/los-angeles/blog/coachella-announces-its-outstanding-in-the-field-chef-lineup-for-2016-030316",
   "url": "https://www.timeout.com/los-angeles/blog/coachella-announces-its-outstanding-in-the-field-chef-lineup-for-2016-030316",
   "chapters": [
@@ -3020,7 +3034,7 @@
   ]
  },
  {
-  "n": 357,
+  "n": 358,
   "citation": "Philadelphia Inquirer (Michael Hinkelman) - \"Changing the way fans attend live-music events\" - 2015-03-04 - https://www.inquirer.com/philly/business/20150304_Changing_the_way_fans_attend_live-music_events.html",
   "url": "https://www.inquirer.com/philly/business/20150304_Changing_the_way_fans_attend_live-music_events.html",
   "chapters": [
@@ -3029,7 +3043,7 @@
   ]
  },
  {
-  "n": 358,
+  "n": 359,
   "citation": "Sports Video Group - \"TKO Completes Acquisition of Sports Assets From Endeavor\" - 2025-02-28 - https://www.sportsvideo.org/2025/02/28/tko-completes-acquisition-of-sports-assets-from-endeavor/",
   "url": "https://www.sportsvideo.org/2025/02/28/tko-completes-acquisition-of-sports-assets-from-endeavor/",
   "chapters": [
@@ -3037,7 +3051,7 @@
   ]
  },
  {
-  "n": 359,
+  "n": 360,
   "citation": "KVCR - \"Caltrans Warns Inland Empire: Prepare For Coachella Traffic\" - 2019-04-09 - https://www.kvcrnews.org/local-transportation/2019-04-09/caltrans-warns-inland-empire-prepare-for-coachella-traffic",
   "url": "https://www.kvcrnews.org/local-transportation/2019-04-09/caltrans-warns-inland-empire-prepare-for-coachella-traffic",
   "chapters": [
@@ -3045,7 +3059,7 @@
   ]
  },
  {
-  "n": 360,
+  "n": 361,
   "citation": "Valley Music Travel - \"Coachella FAQs\" - accessed 2026-10-31 - https://coachella.valleymusictravel.com/faqs",
   "url": "https://coachella.valleymusictravel.com/faqs",
   "chapters": [
@@ -3053,7 +3067,7 @@
   ]
  },
  {
-  "n": 361,
+  "n": 362,
   "citation": "Valley Music Travel - \"Platinum Services\" - accessed 2026-10-31 - https://coachella.valleymusictravel.com/platinum-services",
   "url": "https://coachella.valleymusictravel.com/platinum-services",
   "chapters": [
@@ -3061,7 +3075,7 @@
   ]
  },
  {
-  "n": 362,
+  "n": 363,
   "citation": "Valley Music Travel - \"About Us\" - accessed 2026-10-31 - https://www.valleymusictravel.com/about-us/",
   "url": "https://www.valleymusictravel.com/about-us/",
   "chapters": [
@@ -3070,7 +3084,7 @@
   ]
  },
  {
-  "n": 363,
+  "n": 364,
   "citation": "Pollstar - \"Q&A with CID Entertainment's Dan Berkowitz\" - 2019-01-29 - https://news.pollstar.com/2019/01/29/qs-with-a-pollstar-live-panelist-cid-entertainments-dan-berkowitz-on-boutique-festivals-and-destination-events/",
   "url": "https://news.pollstar.com/2019/01/29/qs-with-a-pollstar-live-panelist-cid-entertainments-dan-berkowitz-on-boutique-festivals-and-destination-events/",
   "chapters": [
@@ -3078,7 +3092,7 @@
   ]
  },
  {
-  "n": 364,
+  "n": 365,
   "citation": "On Location - \"About Us\" - accessed 2026-10-31 - https://music.onlocationexp.com/about-us",
   "url": "https://music.onlocationexp.com/about-us",
   "chapters": [
@@ -3086,7 +3100,7 @@
   ]
  },
  {
-  "n": 365,
+  "n": 366,
   "citation": "Pollstar - \"Coachella Lodging Filling Up\" - 2010-03-23 - https://news.pollstar.com/2010/03/23/coachella-lodging-filling-up/",
   "url": "https://news.pollstar.com/2010/03/23/coachella-lodging-filling-up/",
   "chapters": [
@@ -3094,7 +3108,7 @@
   ]
  },
  {
-  "n": 366,
+  "n": 367,
   "citation": "Desert Trip - \"Shuttles\" - 2016 - https://deserttrip.com/shuttles",
   "url": "https://deserttrip.com/shuttles",
   "chapters": [
@@ -3102,7 +3116,7 @@
   ]
  },
  {
-  "n": 367,
+  "n": 368,
   "citation": "Valley Music Travel - \"Coachella 2015 local hotel shuttles\" - 2015 - https://valleymusictravel.com/events/coachella2015/local-hotel-shuttles",
   "url": "https://valleymusictravel.com/events/coachella2015/local-hotel-shuttles",
   "chapters": [
@@ -3110,7 +3124,7 @@
   ]
  },
  {
-  "n": 368,
+  "n": 369,
   "citation": "Time Out Los Angeles (Michael Juliano) - \"All of the different (and cheapest) ways to get to Coachella\" - 2017-04-05 - https://www.timeout.com/los-angeles/blog/all-of-the-different-and-cheapest-ways-to-get-to-coachella-040517",
   "url": "https://www.timeout.com/los-angeles/blog/all-of-the-different-and-cheapest-ways-to-get-to-coachella-040517",
   "chapters": [
@@ -3118,7 +3132,7 @@
   ]
  },
  {
-  "n": 369,
+  "n": 370,
   "citation": "KFI AM 640 (City News Service) - \"Indio Gears Up For Traffic Headaches As Weekend 2 Of Coachella Looms\" - 2019-04-18 - https://kfiam640.iheart.com/content/2019-04-18-indio-gears-up-for-traffic-headaches-as-weekend-2-of-coachella-looms",
   "url": "https://kfiam640.iheart.com/content/2019-04-18-indio-gears-up-for-traffic-headaches-as-weekend-2-of-coachella-looms",
   "chapters": [
@@ -3126,7 +3140,7 @@
   ]
  },
  {
-  "n": 370,
+  "n": 371,
   "citation": "NBC Palm Springs - \"Coachella 2026 Traffic Plan: Road Closures, Alternate Routes and Drone Ban Announced in Indio\" - 2026-04-07 - https://www.nbcpalmsprings.com/local-and-community/2026/04/07/coachella-2026-traffic-plan-road-closures-alternate-routes-and-drone-ban-announced-in-indio",
   "url": "https://www.nbcpalmsprings.com/local-and-community/2026/04/07/coachella-2026-traffic-plan-road-closures-alternate-routes-and-drone-ban-announced-in-indio",
   "chapters": [
@@ -3135,7 +3149,7 @@
   ]
  },
  {
-  "n": 371,
+  "n": 372,
   "citation": "Valley Music Travel - \"Stagecoach shuttles\" - accessed 2026-10-31 - https://valleymusictravel.com/events/stagecoach/shuttles",
   "url": "https://valleymusictravel.com/events/stagecoach/shuttles",
   "chapters": [
@@ -3143,7 +3157,7 @@
   ]
  },
  {
-  "n": 372,
+  "n": 373,
   "citation": "NBC Palm Springs - \"Coachella Valley Music and Arts Festival Traffic: What to Expect Thursday Through Monday\" - 2026-04-06 - https://www.nbcpalmsprings.com/local-and-community/2026/04/06/coachella-valley-music-and-arts-festival-traffic-what-to-expect-thursday-through-monday",
   "url": "https://www.nbcpalmsprings.com/local-and-community/2026/04/06/coachella-valley-music-and-arts-festival-traffic-what-to-expect-thursday-through-monday",
   "chapters": [
@@ -3151,7 +3165,7 @@
   ]
  },
  {
-  "n": 373,
+  "n": 374,
   "citation": "Valley Music Travel - \"Weekend Two Travel Packages 2022\" - 2022 - https://www.valleymusictravel.com/events/coachella-2022/travel-packages-weekend-2-2022/",
   "url": "https://www.valleymusictravel.com/events/coachella-2022/travel-packages-weekend-2-2022/",
   "chapters": [
@@ -3159,7 +3173,7 @@
   ]
  },
  {
-  "n": 374,
+  "n": 375,
   "citation": "Coachella - \"Getting Here\" - 2026 - https://coachella.com/getting-here",
   "url": "https://coachella.com/getting-here",
   "chapters": [
@@ -3167,7 +3181,7 @@
   ]
  },
  {
-  "n": 375,
+  "n": 376,
   "citation": "KESQ (Samantha Lomibao) - \"100+ Coachella shuttle drivers reported being sick from food poisoning\" - 2022-04-26 - https://kesq.com/news/festival-season/2022/04/26/100-coachella-shuttle-drivers-reported-being-sick-from-food-poisoning/",
   "url": "https://kesq.com/news/festival-season/2022/04/26/100-coachella-shuttle-drivers-reported-being-sick-from-food-poisoning/",
   "chapters": [
@@ -3175,7 +3189,7 @@
   ]
  },
  {
-  "n": 376,
+  "n": 377,
   "citation": "Wikipedia - \"Indio station\" (citing Colin Atagi, Desert Sun, \"Plans derailed for April train to Coachella, Stagecoach music festivals,\" 2020-07-13) - accessed 2026-10-31 - https://en.wikipedia.org/wiki/Indio_station",
   "url": "https://en.wikipedia.org/wiki/Indio_station",
   "chapters": [
@@ -3183,7 +3197,7 @@
   ]
  },
  {
-  "n": 377,
+  "n": 378,
   "citation": "RailPAC (Russ Jackson) - \"A Purple Surfliner to Indio\" - 2008-04-26 - https://www.railpac.org/?p=624",
   "url": "https://www.railpac.org/?p=624",
   "chapters": [
@@ -3191,7 +3205,7 @@
   ]
  },
  {
-  "n": 378,
+  "n": 379,
   "citation": "LA Weekly (Randall Roberts) - \"Rolling on the Coachella Express to Indio\" - 2008-04-25 - https://www.laweekly.com/rolling-on-the-coachella-express-to-indio/",
   "url": "https://www.laweekly.com/rolling-on-the-coachella-express-to-indio/",
   "chapters": [
@@ -3199,7 +3213,7 @@
   ]
  },
  {
-  "n": 379,
+  "n": 380,
   "citation": "EDMTunes (Zoltan Gyulasi) - \"All Aboard the Choo-Choo-Chella Train\" - 2016-05-04 - https://www.edmtunes.com/2016/05/aboard-choo-choo-chella-train/",
   "url": "https://www.edmtunes.com/2016/05/aboard-choo-choo-chella-train/",
   "chapters": [
@@ -3207,7 +3221,7 @@
   ]
  },
  {
-  "n": 380,
+  "n": 381,
   "citation": "RCTC - \"All Aboard Choo-Choo-Chella!\" - 2019-03-12 - https://www.rctc.org/choo-choo-funding/",
   "url": "https://www.rctc.org/choo-choo-funding/",
   "chapters": [
@@ -3215,7 +3229,7 @@
   ]
  },
  {
-  "n": 381,
+  "n": 382,
   "citation": "NBC Palm Springs (City News Service) - \"Riverside County Transportation Commission Awards $80M for CV Rail Study\" - 2026-01-30 - https://www.nbcpalmsprings.com/local-and-community/2026/01/30/riverside-county-transportation-commission-awards-80m-for-cv-rail-study",
   "url": "https://www.nbcpalmsprings.com/local-and-community/2026/01/30/riverside-county-transportation-commission-awards-80m-for-cv-rail-study",
   "chapters": [
@@ -3223,7 +3237,7 @@
   ]
  },
  {
-  "n": 382,
+  "n": 383,
   "citation": "Riverside County Transportation Commission - \"Coachella Valley Rail\" fact sheet - 2025-02-14 - https://www.rctc.org/wp-content/uploads/2025/02/CVR_Fact_Sheet_021425.pdf",
   "url": "https://www.rctc.org/wp-content/uploads/2025/02/CVR_Fact_Sheet_021425.pdf",
   "chapters": [
@@ -3232,7 +3246,7 @@
   ]
  },
  {
-  "n": 383,
+  "n": 384,
   "citation": "Metro Magazine - \"HDR Selected to Advance LA-Coachella Valley Rail Corridor Project\" - 2026-02-20 - https://www.metro-magazine.com/news/hdr-selected-to-advance-lacoachella-valley-rail-corridor-project",
   "url": "https://www.metro-magazine.com/news/hdr-selected-to-advance-lacoachella-valley-rail-corridor-project",
   "chapters": [
@@ -3240,7 +3254,7 @@
   ]
  },
  {
-  "n": 384,
+  "n": 385,
   "citation": "Wikipedia - \"Palm Springs station\" - n.d. (read 2026-11-04) - https://en.wikipedia.org/wiki/Palm_Springs_station",
   "url": "https://en.wikipedia.org/wiki/Palm_Springs_station",
   "chapters": [
@@ -3248,7 +3262,7 @@
   ]
  },
  {
-  "n": 385,
+  "n": 386,
   "citation": "FlixBus - \"FlixBus kicks off direct service from Los Angeles to Coachella Valley Music & Arts Festival\" - 2023-03-21 - https://flixbus.com/company/press-room/flixbus-coachella-2023",
   "url": "https://flixbus.com/company/press-room/flixbus-coachella-2023",
   "chapters": [
@@ -3256,7 +3270,7 @@
   ]
  },
  {
-  "n": 386,
+  "n": 387,
   "citation": "Wikipedia - \"Jacqueline Cochran Regional Airport\" - accessed 2026-10-31 - https://en.wikipedia.org/wiki/Jacqueline_Cochran_Regional_Airport",
   "url": "https://en.wikipedia.org/wiki/Jacqueline_Cochran_Regional_Airport",
   "chapters": [
@@ -3264,7 +3278,7 @@
   ]
  },
  {
-  "n": 387,
+  "n": 388,
   "citation": "Fortune (Jen Wieczner) - \"Uber and Blade Will Fly You to Coachella in a Helicopter for about $4,000\" - 2016-03-25 - https://fortune.com/2016/03/25/uber-blade-coachella-helicopter",
   "url": "https://fortune.com/2016/03/25/uber-blade-coachella-helicopter",
   "chapters": [
@@ -3272,7 +3286,7 @@
   ]
  },
  {
-  "n": 388,
+  "n": 389,
   "citation": "Private Jet Card Comparisons (Doug Gollan) - \"Coachella Attracts The Private Jet Set\" - 2017-04-14 - https://privatejetcardcomparisons.com/2017/04/14/coachella-attracts-the-private-jet-set/",
   "url": "https://privatejetcardcomparisons.com/2017/04/14/coachella-attracts-the-private-jet-set/",
   "chapters": [
@@ -3280,7 +3294,7 @@
   ]
  },
  {
-  "n": 389,
+  "n": 390,
   "citation": "KESQ (Crystal Jimenez) - \"Hundreds fly into Coachella Valley for the music festival using charter service\" - 2022-04-15 - https://kesq.com/?p=870505",
   "url": "https://kesq.com/?p=870505",
   "chapters": [
@@ -3289,7 +3303,7 @@
   ]
  },
  {
-  "n": 390,
+  "n": 391,
   "citation": "Private Jet Card Comparisons (Doug Gollan) - \"JSX sets Coachella pop-up shared private flight from Santa Monica\" - 2026-02-04 - https://privatejetcardcomparisons.com/2026/02/04/jsx-sets-coachella-pop-up-shared-private-flight-from-santa-monica/",
   "url": "https://privatejetcardcomparisons.com/2026/02/04/jsx-sets-coachella-pop-up-shared-private-flight-from-santa-monica/",
   "chapters": [
@@ -3297,7 +3311,7 @@
   ]
  },
  {
-  "n": 391,
+  "n": 392,
   "citation": "San Francisco Chronicle (Chris McGinnis) - \"Palm Springs airfares soar this spring\" - n.d. (about 2019; no date on the page) - https://preview-prod.w.sfchronicle.com/travel/article/Palm-Springs-airfares-soar-this-spring-13706496.php",
   "url": "https://preview-prod.w.sfchronicle.com/travel/article/Palm-Springs-airfares-soar-this-spring-13706496.php",
   "chapters": [
@@ -3305,7 +3319,7 @@
   ]
  },
  {
-  "n": 392,
+  "n": 393,
   "citation": "The Palm Springs Post - \"Palm Springs International Airport reports record 3.3 million passengers in 2025\" - 2026-01-20 - https://thepalmspringspost.com/palm-springs-international-airport-reports-record-3-3-million-passengers-in-2025/",
   "url": "https://thepalmspringspost.com/palm-springs-international-airport-reports-record-3-3-million-passengers-in-2025/",
   "chapters": [
@@ -3313,7 +3327,7 @@
   ]
  },
  {
-  "n": 393,
+  "n": 394,
   "citation": "Palm Springs International Airport - \"Monthly Passenger Activity Report - 2026\" and \"Aircraft Operations 2026\" (June 2026 report) - 2026-07 - https://flypsp.com/wp-content/uploads/2026/07/June-2026-Passenger-Aircraft-Activity.pdf",
   "url": "https://flypsp.com/wp-content/uploads/2026/07/June-2026-Passenger-Aircraft-Activity.pdf",
   "chapters": [
@@ -3321,7 +3335,7 @@
   ]
  },
  {
-  "n": 394,
+  "n": 395,
   "citation": "The Desert Sun (Jennifer Cortez), via PressReader - \"Coachella road closure updates: What to know about detours, delays\" - 2024-04-12 - https://www.pressreader.com/usa/the-desert-sun/20240412/281509346220618",
   "url": "https://www.pressreader.com/usa/the-desert-sun/20240412/281509346220618",
   "chapters": [
@@ -3329,7 +3343,7 @@
   ]
  },
  {
-  "n": 395,
+  "n": 396,
   "citation": "NBC Palm Springs - \"KNOW BEFORE YOU GO - Festival Season Begins: Avenue 50 Closes, Valley-Wide Traffic Expected Through May\" - 2026-03-23 - https://www.nbcpalmsprings.com/local-and-community/2026/03/23/know-before-you-go-festival-season-begins-avenue-50-closes-valleywide-traffic-expected-through-may",
   "url": "https://www.nbcpalmsprings.com/local-and-community/2026/03/23/know-before-you-go-festival-season-begins-avenue-50-closes-valleywide-traffic-expected-through-may",
   "chapters": [
@@ -3337,7 +3351,7 @@
   ]
  },
  {
-  "n": 396,
+  "n": 397,
   "citation": "NBC Palm Springs - \"Indio Releases Festival Season Road Closure Plan for Coachella and Stagecoach Weekends\" - 2026-03-27 - https://www.nbcpalmsprings.com/2026/03/27/indio-releases-festival-season-road-closure-plan-for-coachella-and-stagecoach-weekends",
   "url": "https://www.nbcpalmsprings.com/2026/03/27/indio-releases-festival-season-road-closure-plan-for-coachella-and-stagecoach-weekends",
   "chapters": [
@@ -3345,7 +3359,7 @@
   ]
  },
  {
-  "n": 397,
+  "n": 398,
   "citation": "NBC Palm Springs - \"Indio Police Crack Down Festival Driving\" - 2025-04-16 - https://www.nbcpalmsprings.com/local-and-community/2025/04/16/indio-police-crack-down-festival-driving",
   "url": "https://www.nbcpalmsprings.com/local-and-community/2025/04/16/indio-police-crack-down-festival-driving",
   "chapters": [
@@ -3353,7 +3367,7 @@
   ]
  },
  {
-  "n": 398,
+  "n": 399,
   "citation": "NBC Palm Springs - \"Report: Coachella Weekend Two Ends with Arrests and Parking Challenges\" - 2026-04-21 - https://www.nbcpalmsprings.com/2026/04/21/report-coachella-weekend-two-ends-with-arrests-and-parking-challenges",
   "url": "https://www.nbcpalmsprings.com/2026/04/21/report-coachella-weekend-two-ends-with-arrests-and-parking-challenges",
   "chapters": [
@@ -3361,7 +3375,7 @@
   ]
  },
  {
-  "n": 399,
+  "n": 400,
   "citation": "Patch (Ashley Ludwig) - \"Coachella Weekend 2: Festival Schedule, Road Closures Amid Final Weekend Of 2026\" - 2026-04-17 (updated 2026-04-21) - https://patch.com/california/palmdesert/coachella-weekend-2-festival-schedule-road-closures-amid-final-weekend-2026",
   "url": "https://patch.com/california/palmdesert/coachella-weekend-2-festival-schedule-road-closures-amid-final-weekend-2026",
   "chapters": [
@@ -3369,7 +3383,7 @@
   ]
  },
  {
-  "n": 400,
+  "n": 401,
   "citation": "MyNewsLA - \"106 Arrests During Weekend Two of Coachella Fest in Indio\" - 2026-04-21 - https://mynewsla.com/crime/2026/04/21/106-arrests-during-weekend-two-of-coachella-fest-in-indio/",
   "url": "https://mynewsla.com/crime/2026/04/21/106-arrests-during-weekend-two-of-coachella-fest-in-indio/",
   "chapters": [
@@ -3377,7 +3391,7 @@
   ]
  },
  {
-  "n": 401,
+  "n": 402,
   "citation": "Patch (Ashley Ludwig) - \"Coachella Traffic, Road Closures For Coachella Music & Arts Festival 2026\" - 2026-04-10 - https://patch.com/california/palmdesert/coachella-traffic-road-closures-coachella-music-arts-festival-2026",
   "url": "https://patch.com/california/palmdesert/coachella-traffic-road-closures-coachella-music-arts-festival-2026",
   "chapters": [
@@ -3385,7 +3399,7 @@
   ]
  },
  {
-  "n": 402,
+  "n": 403,
   "citation": "The Palm Springs Post - \"Regional traffic signal network to double in size as Palm Springs pushes safety upgrades\" - 2026-07-15 - https://thepalmspringspost.com/regional-traffic-signal-network-to-double-in-size-as-palm-springs-pushes-safety-upgrades/",
   "url": "https://thepalmspringspost.com/regional-traffic-signal-network-to-double-in-size-as-palm-springs-pushes-safety-upgrades/",
   "chapters": [
@@ -3393,7 +3407,7 @@
   ]
  },
  {
-  "n": 403,
+  "n": 404,
   "citation": "Institute of Transportation Engineers - \"Transportation Achievement Award - TSMO: CVAG and ADVANTEC, CV-Sync\" - 2024 - https://ite.org/ITEORG/assets/File/Awards/_2024/Winner%20Announcements/TAA-TSMO_%20CVAG%20ADVANTEC%20CV%20Sync_web%20copy_final.pdf",
   "url": "https://ite.org/ITEORG/assets/File/Awards/_2024/Winner%20Announcements/TAA-TSMO_%20CVAG%20ADVANTEC%20CV%20Sync_web%20copy_final.pdf",
   "chapters": [
@@ -3401,7 +3415,7 @@
   ]
  },
  {
-  "n": 404,
+  "n": 405,
   "citation": "Global Inheritance - \"Transportation\" - accessed 2026-10-31 - https://www.globalinheritance.org/programs/transportation",
   "url": "https://www.globalinheritance.org/programs/transportation",
   "chapters": [
@@ -3409,7 +3423,7 @@
   ]
  },
  {
-  "n": 405,
+  "n": 406,
   "citation": "Coachella Valley Independent (Matt King) - \"Parking-Lot Party: Scenes From One of Coachella's Hottest Pre-Festival Gatherings - at the Ralphs in Indio\" - 2026-04-18 - https://cvindependent.com/2026/04/parking-lot-party-scenes-from-one-of-coachellas-hottest-pre-festival-gatherings-at-the-ralphs-in-indio/",
   "url": "https://cvindependent.com/2026/04/parking-lot-party-scenes-from-one-of-coachellas-hottest-pre-festival-gatherings-at-the-ralphs-in-indio/",
   "chapters": [
@@ -3418,7 +3432,7 @@
   ]
  },
  {
-  "n": 406,
+  "n": 407,
   "citation": "KESQ (Luis Avila) - \"Carmageddon: Campers stuck in line for hours trying to get into Coachella music festival\" - 2025-04-10 - https://kesq.com/?p=1660977",
   "url": "https://kesq.com/?p=1660977",
   "chapters": [
@@ -3427,7 +3441,7 @@
   ]
  },
  {
-  "n": 407,
+  "n": 408,
   "citation": "Patch (Kat Schuster) - \"'Unacceptable': Coachella Apologizes For Traffic Chaos During Heat Wave\" - 2025-04-16 - https://patch.com/california/palmdesert/coachella-apologizes-unacceptable-chaotic-traffic-lines",
   "url": "https://patch.com/california/palmdesert/coachella-apologizes-unacceptable-chaotic-traffic-lines",
   "chapters": [
@@ -3436,7 +3450,7 @@
   ]
  },
  {
-  "n": 408,
+  "n": 409,
   "citation": "KESQ (Julia Castro and Luis Avila) - \"Goldenvoice apologizes for Coachella traffic chaos and promises changes for Weekend 2\" - 2025-04-16 - https://kesq.com/?p=1663117",
   "url": "https://kesq.com/?p=1663117",
   "chapters": [
@@ -3445,7 +3459,7 @@
   ]
  },
  {
-  "n": 409,
+  "n": 410,
   "citation": "Phoenix New Times - \"Coachella 2010 Dates Confirmed, Layaway Plan Available\" - 2010 - https://www.phoenixnewtimes.com/?p=40532050",
   "url": "https://www.phoenixnewtimes.com/?p=40532050",
   "chapters": [
@@ -3453,7 +3467,7 @@
   ]
  },
  {
-  "n": 410,
+  "n": 411,
   "citation": "Coachella - \"Camping\" - 2026 - https://www.coachella.com/camping",
   "url": "https://www.coachella.com/camping",
   "chapters": [
@@ -3461,7 +3475,7 @@
   ]
  },
  {
-  "n": 411,
+  "n": 412,
   "citation": "Coachella - \"Passes\" - accessed 2026-10-31 - https://www.coachella.com/passes",
   "url": "https://www.coachella.com/passes",
   "chapters": [
@@ -3469,7 +3483,7 @@
   ]
  },
  {
-  "n": 412,
+  "n": 413,
   "citation": "Coachella - \"Activities & Amenities\" - 2026 - https://www.coachella.com/activities-amenities",
   "url": "https://www.coachella.com/activities-amenities",
   "chapters": [
@@ -3477,7 +3491,7 @@
   ]
  },
  {
-  "n": 413,
+  "n": 414,
   "citation": "CBS Los Angeles - \"With Coachella Campground Closed, Festival-Goers Improvise With 'Walmartchella'\" - 2018-04-20 - https://www.cbsnews.com/losangeles/news/walmartchella/",
   "url": "https://www.cbsnews.com/losangeles/news/walmartchella/",
   "chapters": [
@@ -3486,7 +3500,7 @@
   ]
  },
  {
-  "n": 414,
+  "n": 415,
   "citation": "KESQ - \"THURS AM: Stranded Coachella campers have nowhere to go\" - 2018-04-19 - https://kesq.com/?p=304240",
   "url": "https://kesq.com/?p=304240",
   "chapters": [
@@ -3495,7 +3509,7 @@
   ]
  },
  {
-  "n": 415,
+  "n": 416,
   "citation": "NBC Los Angeles (City News Service) - \"Stranded Coachella Festival Campers Take Refuge in Temporary Sites\" - 2018-04-19 - https://www.nbclosangeles.com/news/stranded-coachella-festival-campers-take-refuge-in-temporary-sites/44081/?amp=1",
   "url": "https://www.nbclosangeles.com/news/stranded-coachella-festival-campers-take-refuge-in-temporary-sites/44081/?amp=1",
   "chapters": [
@@ -3504,7 +3518,7 @@
   ]
  },
  {
-  "n": 416,
+  "n": 417,
   "citation": "Patch (Kat Schuster) - \"Coachella Round 2: Trading Heat For Wind, The Weeknd Takeover + More\" - 2025-04-17 - https://patch.com/california/palmdesert/coachella-round-2-trading-heat-wind-weeknd-takeover-more",
   "url": "https://patch.com/california/palmdesert/coachella-round-2-trading-heat-wind-weeknd-takeover-more",
   "chapters": [
@@ -3512,7 +3526,7 @@
   ]
  },
  {
-  "n": 417,
+  "n": 418,
   "citation": "Beatportal - \"KETTAMA, Prospa, and Josh Baker to Go b3b at Coachella Weekend 2 Day Zero Party\" - 2026-04-14 - https://www.beatportal.com/articles/1374860-kettama-prospa-and-josh-baker-to-go-b3b-at-coachella-weekend-2-day-zero-party",
   "url": "https://www.beatportal.com/articles/1374860-kettama-prospa-and-josh-baker-to-go-b3b-at-coachella-weekend-2-day-zero-party",
   "chapters": [
@@ -3520,7 +3534,7 @@
   ]
  },
  {
-  "n": 418,
+  "n": 419,
   "citation": "Not to be confused with Day Zero, Damian Lazarus's festival in the jungle outside Tulum, which he started in 2012. W Magazine (Arthur Lubow) - \"Day Zero Turns a Tulum Jungle Into an Electronic Music Festival\" - 2024-01-19 - https://www.wmagazine.com/culture/day-zero-tulum-music-festival-rave-founder-interview",
   "url": "https://www.wmagazine.com/culture/day-zero-tulum-music-festival-rave-founder-interview",
   "chapters": [
@@ -3528,7 +3542,7 @@
   ]
  },
  {
-  "n": 419,
+  "n": 420,
   "citation": "Los Angeles Times, via PressReader - \"He just might take a day off\" - 2019-04-23 - https://www.pressreader.com/usa/los-angeles-times/20190423/282007558797522",
   "url": "https://www.pressreader.com/usa/los-angeles-times/20190423/282007558797522",
   "chapters": [
@@ -3538,7 +3552,7 @@
   ]
  },
  {
-  "n": 420,
+  "n": 421,
   "citation": "WORLD - \"Easter at Coachella\" - 2019-04-26 - https://wng.org/roundups/easter-at-coachella-1617225726",
   "url": "https://wng.org/roundups/easter-at-coachella-1617225726",
   "chapters": [
@@ -3546,7 +3560,7 @@
   ]
  },
  {
-  "n": 421,
+  "n": 422,
   "citation": "TMZ - \"Over 50,000 People Attended Kanye West's Coachella Sunday Service\" - 2019-04-22 - https://www.tmz.com/2019/04/22/kanye-west-sunday-service-50000-people-coachella/",
   "url": "https://www.tmz.com/2019/04/22/kanye-west-sunday-service-50000-people-coachella/",
   "chapters": [
@@ -3554,7 +3568,7 @@
   ]
  },
  {
-  "n": 422,
+  "n": 423,
   "citation": "OC Weekly (Mary Carreon) - \"Coachella Sets The Standard Of Security In High Risk Festival Environment\" - 2018-04-16 - https://www.ocweekly.com/?p=88753",
   "url": "https://www.ocweekly.com/?p=88753",
   "chapters": [
@@ -3562,7 +3576,7 @@
   ]
  },
  {
-  "n": 423,
+  "n": 424,
   "citation": "KESQ (Timothy Foster) - \"Coachella weekend one marked by strong police presence and security\" - 2026-04-12 - https://kesq.com/news/2026/04/12/coachella-weekend-one-marked-by-strong-police-presence-and-security/",
   "url": "https://kesq.com/news/2026/04/12/coachella-weekend-one-marked-by-strong-police-presence-and-security/",
   "chapters": [
@@ -3570,7 +3584,7 @@
   ]
  },
  {
-  "n": 424,
+  "n": 425,
   "citation": "NBC Palm Springs - \"Security Tightens Ahead of Three Festival Weekends in Indio as Thousands Arrive\" - 2025-04-10 - https://www.nbcpalmsprings.com/local-and-community/2025/04/10/security-tightens-ahead-of-three-festival-weekends-in-indio-as-thousands-arrive",
   "url": "https://www.nbcpalmsprings.com/local-and-community/2025/04/10/security-tightens-ahead-of-three-festival-weekends-in-indio-as-thousands-arrive",
   "chapters": [
@@ -3579,7 +3593,7 @@
   ]
  },
  {
-  "n": 425,
+  "n": 426,
   "citation": "NBC Palm Springs - \"Coachella Weekend 1 Sees 97 Arrests, Police Say Festival Largely Safe and Well-Behaved\" - 2026-04-14 - https://www.nbcpalmsprings.com/2026/04/14/coachella-weekend-1-sees-97-arrests-police-say-festival-largely-safe-and-wellbehaved",
   "url": "https://www.nbcpalmsprings.com/2026/04/14/coachella-weekend-1-sees-97-arrests-police-say-festival-largely-safe-and-wellbehaved",
   "chapters": [
@@ -3587,7 +3601,7 @@
   ]
  },
  {
-  "n": 426,
+  "n": 427,
   "citation": "Phoenix New Times - \"The Slow Death of Coachella's Local Vendor Economy\" - about 2016 - https://www.phoenixnewtimes.com/music/the-slow-death-of-coachellas-local-vendor-economy-8246020/",
   "url": "https://www.phoenixnewtimes.com/music/the-slow-death-of-coachellas-local-vendor-economy-8246020/",
   "chapters": [
@@ -3595,7 +3609,7 @@
   ]
  },
  {
-  "n": 427,
+  "n": 428,
   "citation": "Distractify (Chrissy Bobic) - \"Hot Dog Vendors Are All About Opportunity When It Comes to Thrifty Coachella Attendees\" - 2025-04-15 - https://www.distractify.com/p/hot-dog-vendors-storm-coachella",
   "url": "https://www.distractify.com/p/hot-dog-vendors-storm-coachella",
   "chapters": [
@@ -3603,7 +3617,7 @@
   ]
  },
  {
-  "n": 428,
+  "n": 429,
   "citation": "SecureIDNews - \"Coachella rakes in more fans via RFID social media\" - 2012-05-14 - https://www.secureidnews.com/?p=22280",
   "url": "https://www.secureidnews.com/?p=22280",
   "chapters": [
@@ -3611,7 +3625,7 @@
   ]
  },
  {
-  "n": 429,
+  "n": 430,
   "citation": "BetaKit (Joseph Czikk) - \"Montreal Startup Intellitix 'Cleaned Up' Coachella Ticketing Problem\" - 2014-05-27 - https://betakit.com/montreal-startup-intellitix-cleaned-up-coachella-ticketing-problem/",
   "url": "https://betakit.com/montreal-startup-intellitix-cleaned-up-coachella-ticketing-problem/",
   "chapters": [
@@ -3619,7 +3633,7 @@
   ]
  },
  {
-  "n": 430,
+  "n": 431,
   "citation": "Coachella Valley Independent (Christina Lange) - \"Wristband Roulette: Coachella Tickets Are Sold Out, and You Really Want to Go - Here's What Not to Do\" - 2014-02-17 - https://cvindependent.com/2014/02/wristband-roulette-coachella-tickets-are-sold-out-and-you-really-want-to-go-here-s-what-not-to-do/",
   "url": "https://cvindependent.com/2014/02/wristband-roulette-coachella-tickets-are-sold-out-and-you-really-want-to-go-here-s-what-not-to-do/",
   "chapters": [
@@ -3628,7 +3642,7 @@
   ]
  },
  {
-  "n": 431,
+  "n": 432,
   "citation": "NBC Palm Springs - \"'Scamchella' Surge: Ticket Fraud Casts Shadow Over Festival Season\" - 2026-04-17 - https://www.nbcpalmsprings.com/2026/04/17/scamchella-surge-ticket-fraud-casts-shadow-over-festival-season",
   "url": "https://www.nbcpalmsprings.com/2026/04/17/scamchella-surge-ticket-fraud-casts-shadow-over-festival-season",
   "chapters": [
@@ -3636,7 +3650,7 @@
   ]
  },
  {
-  "n": 432,
+  "n": 433,
   "citation": "Encyclopaedia Britannica - \"Coachella Valley Festival\" - accessed 2026-10-31 - https://www.britannica.com/art/Coachella-Valley-Festival",
   "url": "https://www.britannica.com/art/Coachella-Valley-Festival",
   "chapters": [
@@ -3644,7 +3658,7 @@
   ]
  },
  {
-  "n": 433,
+  "n": 434,
   "citation": "NBC Palm Springs - \"Coachella Weekend One Nears as Local Hospitals Brace for Patient Surge\" - 2026-04-09 - https://nbcpalmsprings.com/2026/04/09/coachella-weekend-one-nears-as-local-hospitals-brace-for-patient-surge",
   "url": "https://nbcpalmsprings.com/2026/04/09/coachella-weekend-one-nears-as-local-hospitals-brace-for-patient-surge",
   "chapters": [
@@ -3652,7 +3666,7 @@
   ]
  },
  {
-  "n": 434,
+  "n": 435,
   "citation": "OC Weekly - \"What's It Like Living Right Next to Coachella?\" - 2016-04-22 - https://www.ocweekly.com/?p=107674",
   "url": "https://www.ocweekly.com/?p=107674",
   "chapters": [
@@ -3660,7 +3674,7 @@
   ]
  },
  {
-  "n": 435,
+  "n": 436,
   "citation": "Hotel Management - \"How Coachella, Stagecoach Festival are filling hotel rooms in the Southern California desert\" - 2017 - https://www.hotelmanagement.net/operate/coachella-stagecoach-festivals-are-filling-hotel-rooms-southern-california-desert-april",
   "url": "https://www.hotelmanagement.net/operate/coachella-stagecoach-festivals-are-filling-hotel-rooms-southern-california-desert-april",
   "chapters": [
@@ -3669,7 +3683,7 @@
   ]
  },
  {
-  "n": 436,
+  "n": 437,
   "citation": "NBC Palm Springs (Brett Rosen) - \"Festival Season Fuels Surge in Airbnb Prices Across Coachella Valley\" - 2026-03-24 - https://www.nbcpalmsprings.com/2026/03/24/festival-season-fuels-surge-in-airbnb-prices-across-coachella-valley",
   "url": "https://www.nbcpalmsprings.com/2026/03/24/festival-season-fuels-surge-in-airbnb-prices-across-coachella-valley",
   "chapters": [
@@ -3678,7 +3692,7 @@
   ]
  },
  {
-  "n": 437,
+  "n": 438,
   "citation": "The FADER - \"Childish Gambino, Tame Impala and Ariana Grande will headline this year's Coachella\" - 2019-01-02 - https://www.thefader.com/2019/01/02/coachella-2019-lineup-childish-gambino-ariana-grande-tame-impala-solange-indio-april",
   "url": "https://www.thefader.com/2019/01/02/coachella-2019-lineup-childish-gambino-ariana-grande-tame-impala-solange-indio-april",
   "chapters": [
@@ -3686,7 +3700,7 @@
   ]
  },
  {
-  "n": 438,
+  "n": 439,
   "citation": "The FADER (David Renshaw) - \"Coachella co-founder confirms Kanye West dropped out two days before line-up announcement\" - 2019-01-14 - https://thefader.com/2019/01/14/coachella-kanye-wet-headline-dome-paul-tollett",
   "url": "https://thefader.com/2019/01/14/coachella-kanye-wet-headline-dome-paul-tollett",
   "chapters": [
@@ -3694,7 +3708,7 @@
   ]
  },
  {
-  "n": 439,
+  "n": 440,
   "citation": "SPIN (Winston Cook-Wilson), summarizing The New Yorker's profile of Paul Tollett - \"Coachella Could've Booked Kate Bush's First Ever U.S. Performance, But It Didn't Think Anyone Would 'Understand It'\" - 2017-04-10 - https://www.spinmagazine.com/2017/04/coachella-owner-kate-bush-interview-new-yorker/",
   "url": "https://www.spinmagazine.com/2017/04/coachella-owner-kate-bush-interview-new-yorker/",
   "chapters": [
@@ -3702,7 +3716,7 @@
   ]
  },
  {
-  "n": 440,
+  "n": 441,
   "citation": "The Ringer (Ben Lindbergh) - \"Size Matters: Inside the Politics of Festival Posters\" - 2022-04-15 - https://www.theringer.com/music/2022/4/15/23026326/festival-font-size-coachella-poster-joyner-lucas",
   "url": "https://www.theringer.com/music/2022/4/15/23026326/festival-font-size-coachella-poster-joyner-lucas",
   "chapters": [
@@ -3710,7 +3724,7 @@
   ]
  },
  {
-  "n": 441,
+  "n": 442,
   "citation": "Wallpaper* (Harry Levin) - \"Why are festival line-up poster designs getting so hard to read?\" - 2026-06-14 - https://www.wallpaper.com/art/why-are-festival-line-up-poster-designs-getting-so-hard-to-read",
   "url": "https://www.wallpaper.com/art/why-are-festival-line-up-poster-designs-getting-so-hard-to-read",
   "chapters": [
@@ -3718,7 +3732,7 @@
   ]
  },
  {
-  "n": 442,
+  "n": 443,
   "citation": "Stereogum (Tom Breihan) - \"The Coachella 2014 Poster Font Size Hunger Games\" - 2014-01-09 - https://stereogum.com/1623871/the-2014-coachella-poster-font-size-hunger-games/news",
   "url": "https://stereogum.com/1623871/the-2014-coachella-poster-font-size-hunger-games/news",
   "chapters": [
@@ -3726,7 +3740,7 @@
   ]
  },
  {
-  "n": 443,
+  "n": 444,
   "citation": "Billboard - \"Why the Misfits' font is different on the Coachella 2025 lineup poster\" - 2024 - https://www.billboard.com/music/concerts/the-misfits-font-coachella-2025-lineup-poster-why-different-1235837141/",
   "url": "https://www.billboard.com/music/concerts/the-misfits-font-coachella-2025-lineup-poster-why-different-1235837141/",
   "chapters": [
@@ -3734,7 +3748,7 @@
   ]
  },
  {
-  "n": 444,
+  "n": 445,
   "citation": "mxdwn - \"Coachella 2013 Lineup Announced!... Just Kidding (Fake Posters)\" - 2012-12-15 - https://music.mxdwn.com/2012/12/15/news/coachella-2013-lineup-announced-just-kidding-fake-posters/amp/",
   "url": "https://music.mxdwn.com/2012/12/15/news/coachella-2013-lineup-announced-just-kidding-fake-posters/amp/",
   "chapters": [
@@ -3742,7 +3756,7 @@
   ]
  },
  {
-  "n": 445,
+  "n": 446,
   "citation": "Music Festival Wizard - \"When will the Coachella lineup for 2023 be released?\" - n.d. - https://www.musicfestivalwizard.com/when-will-the-coachella-lineup-for-2023-be-released/",
   "url": "https://www.musicfestivalwizard.com/when-will-the-coachella-lineup-for-2023-be-released/",
   "chapters": [
@@ -3750,7 +3764,7 @@
   ]
  },
  {
-  "n": 446,
+  "n": 447,
   "citation": "Grimy Goods - \"When is Coachella announcing their 2024 lineup?\" - 2024-01-02 - https://www.grimygoods.com/2024/01/02/when-is-coachella-announcing-their-2024-lineup/",
   "url": "https://www.grimygoods.com/2024/01/02/when-is-coachella-announcing-their-2024-lineup/",
   "chapters": [
@@ -3758,7 +3772,7 @@
   ]
  },
  {
-  "n": 447,
+  "n": 448,
   "citation": "Pollstar - \"Lady Gaga, Green Day, Post Malone, Travis Scott top Coachella lineup\" - 2024-11-20 - https://news.pollstar.com/2024/11/20/lady-gaga-green-day-post-malone-travis-scott-top-coachella-lineup/",
   "url": "https://news.pollstar.com/2024/11/20/lady-gaga-green-day-post-malone-travis-scott-top-coachella-lineup/",
   "chapters": [
@@ -3766,7 +3780,7 @@
   ]
  },
  {
-  "n": 448,
+  "n": 449,
   "citation": "NME (Max Pilley) - \"Coachella announce dates for 2027 and how to get tickets\" - 2026-04-22 - https://www.nme.com/news/music/coachella-announce-dates-for-2027-and-how-to-get-tickets-3941844",
   "url": "https://www.nme.com/news/music/coachella-announce-dates-for-2027-and-how-to-get-tickets-3941844",
   "chapters": [
@@ -3774,7 +3788,7 @@
   ]
  },
  {
-  "n": 449,
+  "n": 450,
   "citation": "KISS 95.1 - \"Coachella 2027 Tickets Go on Sale May 1 as Olivia Rodrigo Leads Headliner Odds\" - 2026-04-22 - https://kiss951.com/2026/04/22/coachella-2027-tickets-go-on-sale-may-1-as-olivia-rodrigo-leads-headliner-odds/",
   "url": "https://kiss951.com/2026/04/22/coachella-2027-tickets-go-on-sale-may-1-as-olivia-rodrigo-leads-headliner-odds/",
   "chapters": [
@@ -3782,7 +3796,7 @@
   ]
  },
  {
-  "n": 450,
+  "n": 451,
   "citation": "Consequence (Alex Young) - \"Coachella 2027: SZA, Dua Lipa, and Tame Impala to Headline, Per New Report\" - 2026-10-30 - https://consequence.net/2026/10/coachella-2027-sza-dua-lipa-and-tame-impala-to-headline-per-new-report/",
   "url": "https://consequence.net/2026/10/coachella-2027-sza-dua-lipa-and-tame-impala-to-headline-per-new-report/",
   "chapters": [
@@ -3790,7 +3804,7 @@
   ]
  },
  {
-  "n": 451,
+  "n": 452,
   "citation": "GV Wire (Anthony W. Haddad) - \"Dua Lipa, Tame Impala, and SZA to Headline Coachella 2027\" - 2026-11-10 - https://gvwire.com/2026/11/10/dua-lipa-tame-impala-and-sza-to-headline-coachella-2027/",
   "url": "https://gvwire.com/2026/11/10/dua-lipa-tame-impala-and-sza-to-headline-coachella-2027/",
   "chapters": [
@@ -3798,7 +3812,7 @@
   ]
  },
  {
-  "n": 452,
+  "n": 453,
   "citation": "Pollstar - \"Coachella announces 2020 lineup led by Rage Against the Machine, Travis Scott, Frank Ocean\" - 2020-01-02 - https://news.pollstar.com/2020/01/02/coachella-announces-2020-lineup-led-by-rage-against-the-machine-travis-scott-frank-ocean/",
   "url": "https://news.pollstar.com/2020/01/02/coachella-announces-2020-lineup-led-by-rage-against-the-machine-travis-scott-frank-ocean/",
   "chapters": [
@@ -3806,7 +3820,7 @@
   ]
  },
  {
-  "n": 453,
+  "n": 454,
   "citation": "The FADER (Raphael Helfand) - \"Bad Bunny, BLACKPINK, and Frank Ocean are Coachella's 2023 headliners\" - 2023-01-10 - https://www.thefader.com/2023/01/10/bad-bunny-blackpink-frank-ocean-coachellas-2023-headliners",
   "url": "https://www.thefader.com/2023/01/10/bad-bunny-blackpink-frank-ocean-coachellas-2023-headliners",
   "chapters": [
@@ -3814,7 +3828,7 @@
   ]
  },
  {
-  "n": 454,
+  "n": 455,
   "citation": "Pollstar - \"Coachella announces 2024 lineup\" - 2024-01-16 - https://news.pollstar.com/2024/01/16/coachella-announces-2024-lineup/",
   "url": "https://news.pollstar.com/2024/01/16/coachella-announces-2024-lineup/",
   "chapters": [
@@ -3822,7 +3836,7 @@
   ]
  },
  {
-  "n": 455,
+  "n": 456,
   "citation": "Complex (Jaelani Turner-Williams) - \"Coachella Ticket Sales Are Reportedly Historically Slow and People Have Theories Why (UPDATE)\" - 2024-01-25 (updated 2024-02-19) - https://www.complex.com/music/a/jaelaniturnerwilliams/coachella-ticket-sales-are-reportedly-historically-slow",
   "url": "https://www.complex.com/music/a/jaelaniturnerwilliams/coachella-ticket-sales-are-reportedly-historically-slow",
   "chapters": [
@@ -3830,7 +3844,7 @@
   ]
  },
  {
-  "n": 456,
+  "n": 457,
   "citation": "Digital Music News (Ashley King) - \"Coachella 2025 Isn't Sold Out Yet - VIP Weekend 1 Available, General Admission Weekend 2 Widely Available\" - 2024-11-26 - https://www.digitalmusicnews.com/2024/11/26/coachella-2025-not-sold-out/",
   "url": "https://www.digitalmusicnews.com/2024/11/26/coachella-2025-not-sold-out/",
   "chapters": [
@@ -3839,7 +3853,7 @@
   ]
  },
  {
-  "n": 457,
+  "n": 458,
   "citation": "Rolling Stone (Andrew White) - \"Coachella bans artists from playing half the festivals competing with Coachella\" - 2018 - https://www.rollingstone.com/pro/news/coachella-bans-artists-from-playing-half-the-festivals-competing-with-coachella-666103/",
   "url": "https://www.rollingstone.com/pro/news/coachella-bans-artists-from-playing-half-the-festivals-competing-with-coachella-666103/",
   "chapters": [
@@ -3847,7 +3861,7 @@
   ]
  },
  {
-  "n": 458,
+  "n": 459,
   "citation": "SPIN - \"Coachella Sued Over Radius Clauses, Which Suck for Bands and Fans\" - 2018-04 - https://www.spin.com/2018/04/coachella-radius-clause-lawsuit/",
   "url": "https://www.spin.com/2018/04/coachella-radius-clause-lawsuit/",
   "chapters": [
@@ -3855,7 +3869,7 @@
   ]
  },
  {
-  "n": 459,
+  "n": 460,
   "citation": "Digital Music News (Daniel Sanchez) - \"Federal Judge Rules: Coachella's 'Radius Clause' Is Completely Legal\" - 2019-03-13 - https://www.digitalmusicnews.com/2019/03/13/coachella-radius-clause-lawsuit-dismissed/",
   "url": "https://www.digitalmusicnews.com/2019/03/13/coachella-radius-clause-lawsuit-dismissed/",
   "chapters": [
@@ -3863,7 +3877,7 @@
   ]
  },
  {
-  "n": 460,
+  "n": 461,
   "citation": "mxdwn - \"Coachella radius clause dismissal reversed by U.S. Ninth Circuit Court of Appeals\" - 2020-05-13 - https://music.mxdwn.com/2020/05/13/news/coachella-radius-clause-dismissal-reversed-by-u-s-ninth-circuit-court-of-appeals/",
   "url": "https://music.mxdwn.com/2020/05/13/news/coachella-radius-clause-dismissal-reversed-by-u-s-ninth-circuit-court-of-appeals/",
   "chapters": [
@@ -3871,7 +3885,7 @@
   ]
  },
  {
-  "n": 461,
+  "n": 462,
   "citation": "Dancing Astronaut (Rugby Scruggs) - \"2018 lawsuit against restrictive Coachella radius clause cleared to proceed in Oregon district court\" - 2020-08-20 - https://dancingastronaut.com/2020/08/2018-lawsuit-against-restrictive-coachella-radius-clause-cleared-to-proceed-in-oregon-district-court/",
   "url": "https://dancingastronaut.com/2020/08/2018-lawsuit-against-restrictive-coachella-radius-clause-cleared-to-proceed-in-oregon-district-court/",
   "chapters": [
@@ -3879,7 +3893,7 @@
   ]
  },
  {
-  "n": 462,
+  "n": 463,
   "citation": "Digital Music News (Dylan Smith) - \"AEG Fires Back Against Allegations In Coachella 'Radius Clause' Lawsuit\" - 2020-09-22 - https://www.digitalmusicnews.com/2020/09/22/coachella-radius-clause-update/",
   "url": "https://www.digitalmusicnews.com/2020/09/22/coachella-radius-clause-update/",
   "chapters": [
@@ -3887,7 +3901,7 @@
   ]
  },
  {
-  "n": 463,
+  "n": 464,
   "citation": "Digital Music News (Dylan Smith) - \"Coachella and Soul'd Out Productions Settle Years-Running 'Radius Clause' Lawsuit\" - 2020-11-25 - https://www.digitalmusicnews.com/2020/11/25/coachella-sould-out-settle-lawsuit/",
   "url": "https://www.digitalmusicnews.com/2020/11/25/coachella-sould-out-settle-lawsuit/",
   "chapters": [
@@ -3895,7 +3909,7 @@
   ]
  },
  {
-  "n": 464,
+  "n": 465,
   "citation": "Consequence (Alex Young) - \"Rage Against the Machine, Frank Ocean, Travis Scott to play Coachella 2020: Sources\" - 2019-12-30 (updated 2020-01-02) - https://consequence.net/2019/12/coachella-2020-lineup",
   "url": "https://consequence.net/2019/12/coachella-2020-lineup",
   "chapters": [
@@ -3903,7 +3917,7 @@
   ]
  },
  {
-  "n": 465,
+  "n": 466,
   "citation": "Stereogum (Abby Jones) - \"Post Malone Headlining Coachella 2025\" - 2024-11-19 - https://stereogum.com/2288046/post-malone-headlining-coachella-2025/news",
   "url": "https://stereogum.com/2288046/post-malone-headlining-coachella-2025/news",
   "chapters": [
@@ -3911,7 +3925,7 @@
   ]
  },
  {
-  "n": 466,
+  "n": 467,
   "citation": "Stereogum (Chris DeVille) - \"Coachella 2027 Headliners Reportedly Include Tame Impala & Dua Lipa\" - 2026-09-01 - https://stereogum.com/2510083/coachella-2027-headliners-reportedly-include-tame-impala-dua-lipa/news",
   "url": "https://stereogum.com/2510083/coachella-2027-headliners-reportedly-include-tame-impala-dua-lipa/news",
   "chapters": [
@@ -3919,7 +3933,7 @@
   ]
  },
  {
-  "n": 467,
+  "n": 468,
   "citation": "Goldenvoice - \"Coachella 2027\" official lineup poster, read directly (print-style artwork, not hosted here) - 2026-11-10",
   "url": null,
   "chapters": [
@@ -3927,7 +3941,7 @@
   ]
  },
  {
-  "n": 468,
+  "n": 469,
   "citation": "Yahoo Entertainment - \"Coachella 2027 Sets Dua Lipa, Tame Impala, SZA and Daddy Yankee as Headliners\" - 2026-11-11 - https://www.yahoo.com/entertainment/music/festivals/articles/coachella-2027-sets-dua-lipa-064237129.html",
   "url": "https://www.yahoo.com/entertainment/music/festivals/articles/coachella-2027-sets-dua-lipa-064237129.html",
   "chapters": [
@@ -3935,15 +3949,15 @@
   ]
  },
  {
-  "n": 469,
-  "citation": "CULTR - \"Coachella Reveal 2027 Lineup: Dua Lipa, Tame Impala, SZA + More\" - 2026-11-11 - https://www.cultr.com/news/coachella-reveal-2027-lineup-dua-lipa-tame-impala-sza-more/",
-  "url": "https://www.cultr.com/news/coachella-reveal-2027-lineup-dua-lipa-tame-impala-sza-more/",
+  "n": 470,
+  "citation": "Wikipedia - \"Coachella Festival line-ups\" (revision 1381296443, transcribed by day and stage in this site's archive) - 2026-11-11 - https://en.wikipedia.org/wiki/Coachella_Festival_line-ups",
+  "url": "https://en.wikipedia.org/wiki/Coachella_Festival_line-ups",
   "chapters": [
    "lineup"
   ]
  },
  {
-  "n": 470,
+  "n": 471,
   "citation": "mxdwn - \"Beyoncé pulls out of Coachella 2017 lineup due to doctor's orders but will headline in 2018\" - 2017-02-23 - https://music.mxdwn.com/2017/02/23/news/beyonce-pulls-out-of-coachella-2017-lineup-due-to-doctors-orders-but-will-headline-in-2018/amp",
   "url": "https://music.mxdwn.com/2017/02/23/news/beyonce-pulls-out-of-coachella-2017-lineup-due-to-doctors-orders-but-will-headline-in-2018/amp",
   "chapters": [
@@ -3951,7 +3965,7 @@
   ]
  },
  {
-  "n": 471,
+  "n": 472,
   "citation": "WTVR (CNN Wire) - \"Lady Gaga will replace Beyoncé as Coachella headliner\" - 2017-03-01 - https://www.wtvr.com/2017/02/28/lady-gaga-will-replace-beyonce-as-coachella-headliner",
   "url": "https://www.wtvr.com/2017/02/28/lady-gaga-will-replace-beyonce-as-coachella-headliner",
   "chapters": [
@@ -3959,7 +3973,7 @@
   ]
  },
  {
-  "n": 472,
+  "n": 473,
   "citation": "Mix - \"Coachella and Stagecoach crews connect in the desert\" - 2025-08-26 - https://www.mixonline.com/live-sound/coachella-and-stagecoach-crews-connect-in-the-desert",
   "url": "https://www.mixonline.com/live-sound/coachella-and-stagecoach-crews-connect-in-the-desert",
   "chapters": [
@@ -3967,7 +3981,7 @@
   ]
  },
  {
-  "n": 473,
+  "n": 474,
   "citation": "PBS SoCal *Artbound* (Matt Stromberg) - \"Paul Clemente and the art of Coachella\" - 2016-04-15 - https://pbssocal.org/shows/artbound/paul-clemente-and-the-art-of-coachella",
   "url": "https://pbssocal.org/shows/artbound/paul-clemente-and-the-art-of-coachella",
   "chapters": [
@@ -3975,7 +3989,7 @@
   ]
  },
  {
-  "n": 474,
+  "n": 475,
   "citation": "Fox News (Paulina Dedaj) - \"Coachella stagehand dies during setup, police say\" - 2019-04-06 - https://www.foxnews.com/us/coachella-stagehand-dies-during-setup-police-say",
   "url": "https://www.foxnews.com/us/coachella-stagehand-dies-during-setup-police-say",
   "chapters": [
@@ -3983,7 +3997,7 @@
   ]
  },
  {
-  "n": 475,
+  "n": 476,
   "citation": "WMMO (Natalie Dreier, Cox Media Group), citing TMZ - \"Coachella fined after Justin Bieber, Anyma sets go past curfew\" - 2026-04-22 - https://www.wmmo.com/news/trending/coachella-fined-over-justin-bieber-anyma-sets-go-past-curfew/ICB3UBTU6NBI5EN52FWWJSIVGI/",
   "url": "https://www.wmmo.com/news/trending/coachella-fined-over-justin-bieber-anyma-sets-go-past-curfew/ICB3UBTU6NBI5EN52FWWJSIVGI/",
   "chapters": [
@@ -3991,7 +4005,7 @@
   ]
  },
  {
-  "n": 476,
+  "n": 477,
   "citation": "GPS Business Insider (Bob Marra) - \"IID and Indio Break Ground on First of Four Major Energy Projects\" - 2026-01-07 - https://gpsbusinessinsider.com/iid-and-indio-celebrate-first-major-energy-project/",
   "url": "https://gpsbusinessinsider.com/iid-and-indio-celebrate-first-major-energy-project/",
   "chapters": [
@@ -3999,7 +4013,7 @@
   ]
  },
  {
-  "n": 477,
+  "n": 478,
   "citation": "PRG (vendor release) - \"PRG provides production support for J Balvin, Doja Cat, Anti Up and more at Coachella 2024\" - 2024-05-23 - https://www.prg.com/en/news/prg-provides-production-support-for-j-balvin-doja-cat-anti-up-and-more-at-coachella-2024",
   "url": "https://www.prg.com/en/news/prg-provides-production-support-for-j-balvin-doja-cat-anti-up-and-more-at-coachella-2024",
   "chapters": [
@@ -4007,7 +4021,7 @@
   ]
  },
  {
-  "n": 478,
+  "n": 479,
   "citation": "Tubefilter (Sam Gutelle) - \"YouTube's 2026 Coachella coverage includes its answer to FAST platforms\" - 2026-04-02 - https://www.tubefilter.com/2026/04/02/youtube-coachella-2026-stations-fast-streams/",
   "url": "https://www.tubefilter.com/2026/04/02/youtube-coachella-2026-stations-fast-streams/",
   "chapters": [
@@ -4015,7 +4029,7 @@
   ]
  },
  {
-  "n": 479,
+  "n": 480,
   "citation": "The Desert Sun (Brian Blueskye), via Yahoo - \"Coachella 2024: What it takes to livestream the festival on YouTube\" - 2024-04-20 - https://tech.yahoo.com/general/articles/coachella-2024-takes-livestream-festival-062216227.html",
   "url": "https://tech.yahoo.com/general/articles/coachella-2024-takes-livestream-festival-062216227.html",
   "chapters": [
@@ -4023,7 +4037,7 @@
   ]
  },
  {
-  "n": 480,
+  "n": 481,
   "citation": "Creative COW (vendor release) - \"Media Stream Wave uses Blackmagic Design live production workflow for Coachella and Stagecoach\" - 2024-07-03 - https://creativecow.net/media-stream-wave-uses-blackmagic-design-live-production-workflow-for-coachella-and-stagecoach-music-festivals/",
   "url": "https://creativecow.net/media-stream-wave-uses-blackmagic-design-live-production-workflow-for-coachella-and-stagecoach-music-festivals/",
   "chapters": [
@@ -4031,7 +4045,7 @@
   ]
  },
  {
-  "n": 481,
+  "n": 482,
   "citation": "9to5Mac (Jared Weintraub) - \"Inside AT&T's 83GB/hour mobile cell tower ...or why your iPhone no longer drops out at huge events\" - 2013-05-19 - https://9to5mac.com/2013/05/19/inside-atts-83gbhour-mobile-cell-tower-or-why-your-iphone-no-longer-drops-out-at-huge-events/",
   "url": "https://9to5mac.com/2013/05/19/inside-atts-83gbhour-mobile-cell-tower-or-why-your-iphone-no-longer-drops-out-at-huge-events/",
   "chapters": [
@@ -4039,7 +4053,7 @@
   ]
  },
  {
-  "n": 482,
+  "n": 483,
   "citation": "Fierce Network - \"AT&T debuts 'Drum Set' antenna at Coachella\" - 2016 - https://www.fierce-network.com/tech/at-t-debuts-drum-set-antenna-at-coachella",
   "url": "https://www.fierce-network.com/tech/at-t-debuts-drum-set-antenna-at-coachella",
   "chapters": [
@@ -4047,7 +4061,7 @@
   ]
  },
  {
-  "n": 483,
+  "n": 484,
   "citation": "T-Mobile Newsroom - \"From the Main Stage to the Desert: T-Mobile Gets Coachella-Ready\" - 2026-04-10 - https://www.t-mobile.com/news/network/t-mobile-gets-coachella-ready",
   "url": "https://www.t-mobile.com/news/network/t-mobile-gets-coachella-ready",
   "chapters": [
@@ -4055,7 +4069,7 @@
   ]
  },
  {
-  "n": 484,
+  "n": 485,
   "citation": "PBS SoCal *Artbound* (Benjamin Gottlieb) - \"Beyond the snail: the art and imagination of the Coachella festival\" - 2013-04-24 - https://pbssocal.org/shows/artbound/beyond-the-snail-the-art-and-imagination-of-the-coachella-festival",
   "url": "https://pbssocal.org/shows/artbound/beyond-the-snail-the-art-and-imagination-of-the-coachella-festival",
   "chapters": [
@@ -4063,7 +4077,7 @@
   ]
  },
  {
-  "n": 485,
+  "n": 486,
   "citation": "KCRW (Frances Anderton) - \"Coachella commission a dream come true for artist Sofia Enríquez\" - 2019-04-16 - https://www.kcrw.com/shows/design-and-architecture/stories/coachella-commission-a-dream-come-true-for-artist-sofia-enriquez",
   "url": "https://www.kcrw.com/shows/design-and-architecture/stories/coachella-commission-a-dream-come-true-for-artist-sofia-enriquez",
   "chapters": [
@@ -4071,7 +4085,7 @@
   ]
  },
  {
-  "n": 486,
+  "n": 487,
   "citation": "Dezeen - \"Coachella 2024: three large-scale and deeply interactive installations\" - 2024-04-15 - https://www.dezeen.com/2024/04/15/coachella-2024-three-large-scale-and-deeply-interactive-installations/amp/",
   "url": "https://www.dezeen.com/2024/04/15/coachella-2024-three-large-scale-and-deeply-interactive-installations/amp/",
   "chapters": [
@@ -4079,7 +4093,7 @@
   ]
  },
  {
-  "n": 487,
+  "n": 488,
   "citation": "Complex (Susan Cheng) - \"The Backstory of the Massive Astronaut Drifting Through Coachella Festival This Year\" - 2014-04-15 - https://www.complex.com/style/a/susan-cheng/the-backstory-of-the-massive-astronaut-drifting-through-coachella-festival-this-year",
   "url": "https://www.complex.com/style/a/susan-cheng/the-backstory-of-the-massive-astronaut-drifting-through-coachella-festival-this-year",
   "chapters": [
@@ -4087,7 +4101,7 @@
   ]
  },
  {
-  "n": 488,
+  "n": 489,
   "citation": "Time Out Los Angeles (Michael Juliano) - \"The big astronaut is back to hover over Coachella - and it's looking a little burnt out\" - 2019-04-12 - https://www.timeout.com/los-angeles/news/the-big-astronaut-is-back-to-hover-over-coachellaand-its-looking-a-little-burnt-out-041219",
   "url": "https://www.timeout.com/los-angeles/news/the-big-astronaut-is-back-to-hover-over-coachellaand-its-looking-a-little-burnt-out-041219",
   "chapters": [
@@ -4095,7 +4109,7 @@
   ]
  },
  {
-  "n": 489,
+  "n": 490,
   "citation": "Newsubstance - \"SPECTRA: Coachella's Iconic Light Pavilion Experience\" - n.d. - https://newsubstance.co.uk/journal/spectra-coachella",
   "url": "https://newsubstance.co.uk/journal/spectra-coachella",
   "chapters": [
@@ -4103,7 +4117,7 @@
   ]
  },
  {
-  "n": 490,
+  "n": 491,
   "citation": "ArchDaily (Antonia Piñeiro) - \"Coachella 2026 immersive installations explore monumentality and light transparency in the California desert\" - 2026-04-14 - https://www.archdaily.com/1040623/coachella-2026-immersive-installations-explore-monumentality-and-light-transparency-in-the-california-desert",
   "url": "https://www.archdaily.com/1040623/coachella-2026-immersive-installations-explore-monumentality-and-light-transparency-in-the-california-desert",
   "chapters": [
@@ -4111,7 +4125,7 @@
   ]
  },
  {
-  "n": 491,
+  "n": 492,
   "citation": "ICON Magazine - \"Los Angeles design agency Public Art Company unveils playful art commissions for Coachella Valley Music and Arts Festival\" - 2025-04-16 - https://www.iconeye.com/design/public-art-company-art-commissions-coachella-2025",
   "url": "https://www.iconeye.com/design/public-art-company-art-commissions-coachella-2025",
   "chapters": [
@@ -4119,7 +4133,7 @@
   ]
  },
  {
-  "n": 492,
+  "n": 493,
   "citation": "Palm Springs Life - \"Inside the sustainability efforts of Coachella festival and Stagecoach\" - n.d. (covers 2024) - https://www.palmspringslife.com/arts-culture/inside-the-sustainability-efforts-of-coachella-festival-and-stagecoach/",
   "url": "https://www.palmspringslife.com/arts-culture/inside-the-sustainability-efforts-of-coachella-festival-and-stagecoach/",
   "chapters": [
@@ -4127,7 +4141,7 @@
   ]
  },
  {
-  "n": 493,
+  "n": 494,
   "citation": "TicketNews - \"Coachella posts second largest attendance despite economy\" - 2009-04-22 - https://www.ticketnews.com/2009/04/coachella-posts-second-largest-attendance-despite-economy/",
   "url": "https://www.ticketnews.com/2009/04/coachella-posts-second-largest-attendance-despite-economy/",
   "chapters": [
@@ -4135,7 +4149,7 @@
   ]
  },
  {
-  "n": 494,
+  "n": 495,
   "citation": "IBTimes (Sandra Okerulu) - \"Coachella 2022: How Much Are Tickets? Lineup Features Harry Styles, Kanye West, Billie Eilish\" - 2022-01-13 - https://ibtimes.com/coachella-2022-how-much-are-tickets-lineup-features-harry-styles-kanye-west-billie-3375156",
   "url": "https://ibtimes.com/coachella-2022-how-much-are-tickets-lineup-features-harry-styles-kanye-west-billie-3375156",
   "chapters": [
@@ -4143,7 +4157,7 @@
   ]
  },
  {
-  "n": 495,
+  "n": 496,
   "citation": "Pollstar - \"Coachella Unveils 2027 Dates & Ticket Info\" - 2026-04-20 - https://news.pollstar.com/2026/04/20/coachella-unveils-2027-dates-ticket-info/",
   "url": "https://news.pollstar.com/2026/04/20/coachella-unveils-2027-dates-ticket-info/",
   "chapters": [
@@ -4151,7 +4165,7 @@
   ]
  },
  {
-  "n": 496,
+  "n": 497,
   "citation": "LAist (Joshua Pressman) - \"Coachella 2009 Tickets 'Recession-Proof' says USA Today\" - 2009-01-25 - https://laist.com/news/entertainment/coachella-2009-tickets-recession-pr",
   "url": "https://laist.com/news/entertainment/coachella-2009-tickets-recession-pr",
   "chapters": [
@@ -4159,7 +4173,7 @@
   ]
  },
  {
-  "n": 497,
+  "n": 498,
   "citation": "TicketNews - \"Coachella Festival Plots 2023 Dates, Advance Tickets on Sale Friday\" - 2022-06-16 - https://www.ticketnews.com/2022/06/coachella-festival-plots-2023-dates-advance-tickets-on-sale-friday",
   "url": "https://www.ticketnews.com/2022/06/coachella-festival-plots-2023-dates-advance-tickets-on-sale-friday",
   "chapters": [
@@ -4167,7 +4181,7 @@
   ]
  },
  {
-  "n": 498,
+  "n": 499,
   "citation": "SecureIDNews - \"Intellitix activates 1 million RFID, expands to UK\" - 2011-11-14 - https://www.secureidnews.com/?p=20736",
   "url": "https://www.secureidnews.com/?p=20736",
   "chapters": [
@@ -4175,7 +4189,7 @@
   ]
  },
  {
-  "n": 499,
+  "n": 500,
   "citation": "Coachella.com - \"FAQ\" - accessed 2026-10-31 - https://www.coachella.com/faq",
   "url": "https://www.coachella.com/faq",
   "chapters": [
@@ -4183,7 +4197,7 @@
   ]
  },
  {
-  "n": 500,
+  "n": 501,
   "citation": "NBC Palm Springs - \"'Scamchella' Surge: Ticket Fraud Casts Shadow Over Festival Season\" - 2026-04-17 - https://www.nbcpalmsprings.com/local-and-community/2026/04/17/scamchella-surge-ticket-fraud-casts-shadow-over-festival-season",
   "url": "https://www.nbcpalmsprings.com/local-and-community/2026/04/17/scamchella-surge-ticket-fraud-casts-shadow-over-festival-season",
   "chapters": [
@@ -4191,7 +4205,7 @@
   ]
  },
  {
-  "n": 501,
+  "n": 502,
   "citation": "CV Independent (Erin Peters) - \"The beer goddess: an interview with Nic Adler, Coachella's curator of food and drink\" - 2017-04-20 - https://cvindependent.com/2017/04/the-beer-goddess-an-interview-with-nic-adler-coachella-s-curator-of-food-and-drink/",
   "url": "https://cvindependent.com/2017/04/the-beer-goddess-an-interview-with-nic-adler-coachella-s-curator-of-food-and-drink/",
   "chapters": [
@@ -4199,7 +4213,7 @@
   ]
  },
  {
-  "n": 502,
+  "n": 503,
   "citation": "LA Weekly (Rebecca Pardess) - \"How Coachella's Culinary Curator Has Made Food the Main Attraction\" - 2017-04-05 - https://www.laweekly.com/how-coachellas-culinary-curator-has-made-food-the-main-attraction/",
   "url": "https://www.laweekly.com/how-coachellas-culinary-curator-has-made-food-the-main-attraction/",
   "chapters": [
@@ -4207,7 +4221,7 @@
   ]
  },
  {
-  "n": 503,
+  "n": 504,
   "citation": "Flaunt (Franchesca Baratta and Annie Bush) - \"The Coachella Valley Music and Arts Festival 2026 - Romance in Perfect Chaos\" - 2026 - https://www.flaunt.com/post/coachella-2026-fnb-lineup",
   "url": "https://www.flaunt.com/post/coachella-2026-fnb-lineup",
   "chapters": [
@@ -4215,7 +4229,7 @@
   ]
  },
  {
-  "n": 504,
+  "n": 505,
   "citation": "Mashed (Amberly Mckee) - \"Coachella's Rose Garden Dinners Are Its Best Kept Secret\" - 2023-04-08 - https://mashed.com/1247901/coachella-rose-garden-dinners-secret",
   "url": "https://mashed.com/1247901/coachella-rose-garden-dinners-secret",
   "chapters": [
@@ -4223,7 +4237,7 @@
   ]
  },
  {
-  "n": 505,
+  "n": 506,
   "citation": "FOODbible (Ella Scott) - \"Coachella's 'criminal' food and drink prices are being defended\" - 2026-04-13 - https://www.foodbible.com/news/us-food/coachella-2026-food-drink-prices-defended-162568-20260413",
   "url": "https://www.foodbible.com/news/us-food/coachella-2026-food-drink-prices-defended-162568-20260413",
   "chapters": [
@@ -4231,7 +4245,7 @@
   ]
  },
  {
-  "n": 506,
+  "n": 507,
   "citation": "Billboard (Ray Waddell) - \"Coachella Fest Posts Second Biggest Year Ever\" - 2009-04-21 - https://www.billboard.com/?p=268844",
   "url": "https://www.billboard.com/?p=268844",
   "chapters": [
@@ -4239,7 +4253,7 @@
   ]
  },
  {
-  "n": 507,
+  "n": 508,
   "citation": "Rolling Stone (Tomás Mier) - \"Justin Bieber Scores Seven-Figure Coachella Payday: 'He's Fully in the Driver's Seat'\" - 2025-09-17 - https://www.rollingstone.com/music/music-news/justin-bieber-coachella-pay-swag-chart-numbers-1235426501/",
   "url": "https://www.rollingstone.com/music/music-news/justin-bieber-coachella-pay-swag-chart-numbers-1235426501/",
   "chapters": [
@@ -4247,7 +4261,7 @@
   ]
  },
  {
-  "n": 508,
+  "n": 509,
   "citation": "Complex (Trace William Cowen), relaying Rolling Stone - \"Justin Bieber's Coachella 2026 Headlining Deal Reportedly Worth 'North of $10 Million'\" - 2025-09-17 - https://www.complex.com/music/a/tracewilliamcowen/justin-bieber-coachella-2026-deal-10-million",
   "url": "https://www.complex.com/music/a/tracewilliamcowen/justin-bieber-coachella-2026-deal-10-million",
   "chapters": [
@@ -4255,7 +4269,7 @@
   ]
  },
  {
-  "n": 509,
+  "n": 510,
   "citation": "Pollstar (Pollstar Staff) - \"Stagecoach Rides Again\" - 2007-11-09 - https://news.pollstar.com/?p=160500",
   "url": "https://news.pollstar.com/?p=160500",
   "chapters": [
@@ -4263,7 +4277,7 @@
   ]
  },
  {
-  "n": 510,
+  "n": 511,
   "citation": "Pollstar (Pollstar Staff) - \"Riley Green, Zach Top, Garth Brooks Top Stagecoach 2027 Lineup, Set For Indio April 23-25\" - 2026-09-14 - https://news.pollstar.com/?p=1225737",
   "url": "https://news.pollstar.com/?p=1225737",
   "chapters": [
@@ -4271,7 +4285,7 @@
   ]
  },
  {
-  "n": 511,
+  "n": 512,
   "citation": "KCRW - \"Goldenvoice\" - n.d. (read 2026-10-31) - https://www.kcrw.com/people/goldenvoice",
   "url": "https://www.kcrw.com/people/goldenvoice",
   "chapters": [
@@ -4279,7 +4293,7 @@
   ]
  },
  {
-  "n": 512,
+  "n": 513,
   "citation": "The FADER (Myles Tanzer) - \"Coachella's Owner Is A Republican Mega-Donor Who Has Funded Anti-LGBTQ Hate Groups\" - 2017-01-05 - https://www.thefader.com/2017/01/05/coachellas-republican-lgbtq-hate-groups",
   "url": "https://www.thefader.com/2017/01/05/coachellas-republican-lgbtq-hate-groups",
   "chapters": [
@@ -4287,7 +4301,7 @@
   ]
  },
  {
-  "n": 513,
+  "n": 514,
   "citation": "KCUR / KPCC (Ben Bergman) - \"Coachella's hometown aims to cash in on fest's rising tide\" - 2013-04-18 - https://www.kcur.org/2013-04-18/coachellas-hometown-aims-to-cash-in-on-fests-rising-tide",
   "url": "https://www.kcur.org/2013-04-18/coachellas-hometown-aims-to-cash-in-on-fests-rising-tide",
   "chapters": [
@@ -4295,7 +4309,7 @@
   ]
  },
  {
-  "n": 514,
+  "n": 515,
   "citation": "SPIN (Kyle McGovern) - \"Coachella Ain't Leaving Indio Anytime Soon\" - 2013-04-04 - https://spinmagazine.com/2013/04/coachella-indio-california-2030/",
   "url": "https://spinmagazine.com/2013/04/coachella-indio-california-2030/",
   "chapters": [
@@ -4303,7 +4317,7 @@
   ]
  },
  {
-  "n": 515,
+  "n": 516,
   "citation": "NPR - \"Coachella's hometown aims to cash in on fest's rising tide\" (transcript) - 2013-04 - https://www.npr.org/transcripts/177652870",
   "url": "https://www.npr.org/transcripts/177652870",
   "chapters": [
@@ -4311,7 +4325,7 @@
   ]
  },
  {
-  "n": 516,
+  "n": 517,
   "citation": "Dancing Astronaut (Cameron DeFaria) - \"Goldenvoice inks new lease to keep Coachella in Indio through 2050\" - 2021-10-27 - https://dancingastronaut.com/2021/10/goldenvoice-inks-new-lease-to-keep-coachella-in-indio-through-2050/",
   "url": "https://dancingastronaut.com/2021/10/goldenvoice-inks-new-lease-to-keep-coachella-in-indio-through-2050/",
   "chapters": [
@@ -4320,7 +4334,7 @@
   ]
  },
  {
-  "n": 517,
+  "n": 518,
   "citation": "ABC7 Los Angeles - \"Coachella fined $117,000 by city of Indio for apparently breaking curfew rules first 3 nights\" - 2023-04-19 - https://abc7.com/13150929",
   "url": "https://abc7.com/13150929",
   "chapters": [
@@ -4328,7 +4342,7 @@
   ]
  },
  {
-  "n": 518,
+  "n": 519,
   "citation": "City of Indio (Ruby D. Walla, Director of Finance) - \"Fiscal Year 2024-25 Mid-Year Budget Report\" (City Council staff report) - 2025-02-19 - https://indio.civicweb.net/document/180056/FY%202024-25%20Mid-Year%20Budget%20Report.pdf?handle=21B13DF3AB8944B2AD979D0290276039",
   "url": "https://indio.civicweb.net/document/180056/FY%202024-25%20Mid-Year%20Budget%20Report.pdf?handle=21B13DF3AB8944B2AD979D0290276039",
   "chapters": [
@@ -4336,7 +4350,7 @@
   ]
  },
  {
-  "n": 519,
+  "n": 520,
   "citation": "Hypebot (Steve Baltin, for The Grammys), citing The Desert Sun - \"Music festivals revenue for event and host city is staggering\" - 2016-05 - https://www.hypebot.com/music-festivals-revenue-for-event-and-host-city-is-staggering/",
   "url": "https://www.hypebot.com/music-festivals-revenue-for-event-and-host-city-is-staggering/",
   "chapters": [
@@ -4344,7 +4358,7 @@
   ]
  },
  {
-  "n": 520,
+  "n": 521,
   "citation": "The Indio Post (Kendall Balchan) - \"Indio updates tax revenue expectations ahead of festival season\" - 2026-02-19 - https://theindiopost.com/indio-updates-tax-revenue-expectations-ahead-of-festival-season/",
   "url": "https://theindiopost.com/indio-updates-tax-revenue-expectations-ahead-of-festival-season/",
   "chapters": [
@@ -4352,7 +4366,7 @@
   ]
  },
  {
-  "n": 521,
+  "n": 522,
   "citation": "NBC Los Angeles - \"Over one billion to be made worldwide from Coachella Valley festivals\" - 2019-04-13 - https://www.nbclosangeles.com/news/over-one-billion-to-be-made-worldwide-from-coachella-valley-festivals/164669/",
   "url": "https://www.nbclosangeles.com/news/over-one-billion-to-be-made-worldwide-from-coachella-valley-festivals/164669/",
   "chapters": [
@@ -4360,7 +4374,7 @@
   ]
  },
  {
-  "n": 522,
+  "n": 523,
   "citation": "TicketNews (Olivia Perreault) - \"Coachella Postponement Brings $700M Hit To Local Economy\" - 2020-04-13 - https://ticketnews.com/2020/04/coachella-postponement-local-economy",
   "url": "https://ticketnews.com/2020/04/coachella-postponement-local-economy",
   "chapters": [
@@ -4368,7 +4382,7 @@
   ]
  },
  {
-  "n": 523,
+  "n": 524,
   "citation": "NBC Palm Springs (Pristine Villarreal) - \"Music festivals generate $600 million for local economy\" - 2024-04-16 - https://www.nbcpalmsprings.com/2024/04/16/music-festivals-generate-600-million-for-local-economy-according-to-study",
   "url": "https://www.nbcpalmsprings.com/2024/04/16/music-festivals-generate-600-million-for-local-economy-according-to-study",
   "chapters": [
@@ -4376,7 +4390,7 @@
   ]
  },
  {
-  "n": 524,
+  "n": 525,
   "citation": "KRON4 (Iman Palm) - \"Newsom: Coachella, Stagecoach generate over $700M for California annually\" - 2026-04-14 - https://www.kron4.com/news/california/newsom-coachella-stagecoach-generate-over-700m-for-ca-annually/amp/",
   "url": "https://www.kron4.com/news/california/newsom-coachella-stagecoach-generate-over-700m-for-ca-annually/amp/",
   "chapters": [
@@ -4384,7 +4398,7 @@
   ]
  },
  {
-  "n": 525,
+  "n": 526,
   "citation": "NBC Palm Springs - \"Coachella and Stagecoach Generate $700 Million, Boost Indio Economy and Jobs\" - 2026-04-13 - https://www.nbcpalmsprings.com/local-and-community/2026/04/13/coachella-and-stagecoach-generate-700-million-boost-indio-economy-and-jobs",
   "url": "https://www.nbcpalmsprings.com/local-and-community/2026/04/13/coachella-and-stagecoach-generate-700-million-boost-indio-economy-and-jobs",
   "chapters": [
@@ -4392,7 +4406,7 @@
   ]
  },
  {
-  "n": 526,
+  "n": 527,
   "citation": "Mixmag (Dave Turner) - \"Coachella helps generate around $704 million\" - 2016-05-05 - https://mixmag.net/read/coachella-helps-generate-around-704-million-news",
   "url": "https://mixmag.net/read/coachella-helps-generate-around-704-million-news",
   "chapters": [
@@ -4400,7 +4414,7 @@
   ]
  },
  {
-  "n": 527,
+  "n": 528,
   "citation": "GPS Business Insider (Bob Marra) - \"Coachella and Stagecoach Music Festival Economic Impacts: Pick a Number, Any Number\" - 2026-04-16 - https://gpsbusinessinsider.com/coachella-and-stagecoach-music-festival-economic-impacts-pick-a-number-any-number/",
   "url": "https://gpsbusinessinsider.com/coachella-and-stagecoach-music-festival-economic-impacts-pick-a-number-any-number/",
   "chapters": [
@@ -4408,7 +4422,7 @@
   ]
  },
  {
-  "n": 528,
+  "n": 529,
   "citation": "Office of the Governor of California - \"As weekend one of Coachella wraps, Governor Newsom highlights economic power of Indio's world-renowned music festivals\" - 2026-04-13 - https://www.gov.ca.gov/2026/04/13/as-weekend-one-of-coachella-wraps-governor-newsom-highlights-economic-power-of-indios-world-renowned-music-festivals/",
   "url": "https://www.gov.ca.gov/2026/04/13/as-weekend-one-of-coachella-wraps-governor-newsom-highlights-economic-power-of-indios-world-renowned-music-festivals/",
   "chapters": [
@@ -4416,7 +4430,7 @@
   ]
  },
  {
-  "n": 529,
+  "n": 530,
   "citation": "The Desert Sun (Rebecca Plevin), via KQED - \"As grape industry changes, farmworkers pick up extra shifts collecting trash at Coachella festival\" - 2019-04-18 - https://www.kqed.org/news/11741243/as-grape-industry-changes-farmworkers-pick-up-extra-shifts-collecting-trash-at-coachella-festival",
   "url": "https://www.kqed.org/news/11741243/as-grape-industry-changes-farmworkers-pick-up-extra-shifts-collecting-trash-at-coachella-festival",
   "chapters": [
@@ -4425,7 +4439,7 @@
   ]
  },
  {
-  "n": 530,
+  "n": 531,
   "citation": "San Francisco Standard (Sarah Holtz) - \"Why are Marines working unpaid shifts as security guards at California concerts?\" - 2022-11-11 - https://sfstandard.com/arts-culture/why-are-marines-working-unpaid-shifts-as-security-guards-at-california-concerts",
   "url": "https://sfstandard.com/arts-culture/why-are-marines-working-unpaid-shifts-as-security-guards-at-california-concerts",
   "chapters": [
@@ -4433,7 +4447,7 @@
   ]
  },
  {
-  "n": 531,
+  "n": 532,
   "citation": "mxdwn (Lexi Becker) - \"Coachella Stagehand Dies After Falling in Staging Area\" - 2019-04-07 - https://music.mxdwn.com/2019/04/07/news/coachella-stagehand-dies-after-falling-in-staging-area/",
   "url": "https://music.mxdwn.com/2019/04/07/news/coachella-stagehand-dies-after-falling-in-staging-area/",
   "chapters": [
@@ -4441,7 +4455,7 @@
   ]
  },
  {
-  "n": 532,
+  "n": 533,
   "citation": "Law360 (Emmy Freedman) - \"Entertainment Cos. Stiff Workers On Wages, Suit Says\" - 2025-02-04 - https://law360.com/articles/2292598",
   "url": "https://law360.com/articles/2292598",
   "chapters": [
@@ -4449,7 +4463,7 @@
   ]
  },
  {
-  "n": 533,
+  "n": 534,
   "citation": "Stereogum, republishing Billboard - \"Belly Sues Coachella Over 2018 Attack\" - 2019-07-25 - https://stereogum.com/2052662/belly-sues-coachella-over-2018-attack/news",
   "url": "https://stereogum.com/2052662/belly-sues-coachella-over-2018-attack/news",
   "chapters": [
@@ -4457,7 +4471,7 @@
   ]
  },
  {
-  "n": 534,
+  "n": 535,
   "citation": "Digital Music News (Ashley King) - \"Coachella Ticket Sales Remain Sluggish - Weekend 1 Still Not Sold Out, Weekend 2 Tickets Widely Available Across All Tiers\" - 2024-12-02 - https://www.digitalmusicnews.com/2024/12/02/coachella-ticket-sales-sluggish-weekend-2-widely-available/",
   "url": "https://www.digitalmusicnews.com/2024/12/02/coachella-ticket-sales-sluggish-weekend-2-widely-available/",
   "chapters": [
@@ -4465,7 +4479,7 @@
   ]
  },
  {
-  "n": 535,
+  "n": 536,
   "citation": "SponsorUnited - \"Inside Coachella 2026: where brand activations became cultural architecture\" - 2026-04-22 - https://www.sponsorunited.com/insights/inside-coachella-2026-where-brand-activations-became-cultural-architecture",
   "url": "https://www.sponsorunited.com/insights/inside-coachella-2026-where-brand-activations-became-cultural-architecture",
   "chapters": [
@@ -4473,7 +4487,7 @@
   ]
  },
  {
-  "n": 536,
+  "n": 537,
   "citation": "Desert X - \"Jennifer Bolande: Visible Distance / Second Sight\" (Desert X 2017 archive) - n.d. (read 2026-10-31) - https://desertx.org/dx/archive/visible-distance-second-sight",
   "url": "https://desertx.org/dx/archive/visible-distance-second-sight",
   "chapters": [
@@ -4482,7 +4496,7 @@
   ]
  },
  {
-  "n": 537,
+  "n": 538,
   "citation": "ANTI- Records - \"Ramblin' Jack Elliott to play inaugural Stagecoach festival\" - 2007-01-11 - https://www.anti.com/news/ramblin-jack-elliott-to-play-innagural-stagecoach-festival",
   "url": "https://www.anti.com/news/ramblin-jack-elliott-to-play-innagural-stagecoach-festival",
   "chapters": [
@@ -4490,7 +4504,7 @@
   ]
  },
  {
-  "n": 538,
+  "n": 539,
   "citation": "NME - \"High winds prompt temporary evacuation at Stagecoach festival\" - 2026-04-26 - https://www.nme.com/news/music/high-winds-prompt-temporary-evacuation-at-stagecoach-festival-3942573",
   "url": "https://www.nme.com/news/music/high-winds-prompt-temporary-evacuation-at-stagecoach-festival-3942573",
   "chapters": [
@@ -4498,7 +4512,7 @@
   ]
  },
  {
-  "n": 539,
+  "n": 540,
   "citation": "FOX 11 Los Angeles - \"Stagecoach 2026 lineup: Post Malone, Lainey Wilson, Cody Johnson headline\" - 2025-09-25 - https://www.foxla.com/news/stagecoach-2026-lineup-post-malone-lainey-wilson-cody-johnson-headline",
   "url": "https://www.foxla.com/news/stagecoach-2026-lineup-post-malone-lainey-wilson-cody-johnson-headline",
   "chapters": [
@@ -4506,7 +4520,7 @@
   ]
  },
  {
-  "n": 540,
+  "n": 541,
   "citation": "ABC7 Los Angeles (with City News Service) - \"Windblown dust advisory in effect in Indio on last day of Stagecoach Country Music Festival\" - 2026-04-26 - https://abc7.com/post/windblown-dust-advisory-effect-coachella-valley-last-day-stagecoach-country-music-festival/18973438/",
   "url": "https://abc7.com/post/windblown-dust-advisory-effect-coachella-valley-last-day-stagecoach-country-music-festival/18973438/",
   "chapters": [
@@ -4514,7 +4528,7 @@
   ]
  },
  {
-  "n": 541,
+  "n": 542,
   "citation": "The Art Newspaper (Gareth Harris) - \"Art among the cacti: recurring exhibition to launch in the southern Californian desert\" - 2016-01-06 - https://www.theartnewspaper.com/2016/01/06/art-among-the-cacti-recurring-exhibition-to-launch-in-the-southern-californian-desert",
   "url": "https://www.theartnewspaper.com/2016/01/06/art-among-the-cacti-recurring-exhibition-to-launch-in-the-southern-californian-desert",
   "chapters": [
@@ -4522,7 +4536,7 @@
   ]
  },
  {
-  "n": 542,
+  "n": 543,
   "citation": "Desert X - \"News\" - n.d. (read 2026-10-31) - https://desertx.org/learn/news",
   "url": "https://desertx.org/learn/news",
   "chapters": [
@@ -4530,7 +4544,7 @@
   ]
  },
  {
-  "n": 543,
+  "n": 544,
   "citation": "Daily Bruin (Sidra Rashid) - \"UCLA professor's billboard art piece frames road to Coachella\" - 2017-04-19 - https://dailybruin.com/2017/04/19/ucla-professors-billboard-art-piece-frames-road-to-coachella/",
   "url": "https://dailybruin.com/2017/04/19/ucla-professors-billboard-art-piece-frames-road-to-coachella/",
   "chapters": [
@@ -4538,7 +4552,7 @@
   ]
  },
  {
-  "n": 544,
+  "n": 545,
   "citation": "The Spaces (Annabel Herrick) - \"Billboards bring Native American culture into the spotlight at Desert X\" - 2019-02-14 - https://thespaces.com/billboards-bring-native-american-culture-into-the-spotlight-at-desert-x/",
   "url": "https://thespaces.com/billboards-bring-native-american-culture-into-the-spotlight-at-desert-x/",
   "chapters": [
@@ -4547,7 +4561,7 @@
   ]
  },
  {
-  "n": 545,
+  "n": 546,
   "citation": "Desert X - \"Cara Romero\" (Desert X 2019 artist page) - 2019 - https://desertx.org/dx/desert-x-19/cara-romero",
   "url": "https://desertx.org/dx/desert-x-19/cara-romero",
   "chapters": [
@@ -4555,7 +4569,7 @@
   ]
  },
  {
-  "n": 546,
+  "n": 547,
   "citation": "PBS SoCal Artbound (Rohini Walker) - \"Palm Springs billboards prompt heavy road trip conversations\" - 2021-04-21 - https://pbssocal.org/shows/artbound/xaivera-simmons-because-you-know-ultimately-we-will-band-a-militia",
   "url": "https://pbssocal.org/shows/artbound/xaivera-simmons-because-you-know-ultimately-we-will-band-a-militia",
   "chapters": [
@@ -4563,7 +4577,7 @@
   ]
  },
  {
-  "n": 547,
+  "n": 548,
   "citation": "PetaPixel - \"Tyre Nichols's Photography Featured in Californian Desert Billboard Exhibition\" - 2023-03-08 - https://petapixel.com/2023/03/08/tyre-nicholss-photography-featured-in-californian-desert-billboard-exhibition",
   "url": "https://petapixel.com/2023/03/08/tyre-nicholss-photography-featured-in-californian-desert-billboard-exhibition",
   "chapters": [
@@ -4571,7 +4585,7 @@
   ]
  },
  {
-  "n": 548,
+  "n": 549,
   "citation": "TheGrio - \"A unique tribute to Tyre Nichols rises in Coachella Valley\" - 2023-03-09 - https://thegrio.com/2023/03/09/tribute-to-tyre-nichols-in-coachella-valley/",
   "url": "https://thegrio.com/2023/03/09/tribute-to-tyre-nichols-in-coachella-valley/",
   "chapters": [
@@ -4579,7 +4593,7 @@
   ]
  },
  {
-  "n": 549,
+  "n": 550,
   "citation": "Dezeen (Ellen Eberhardt) - \"Desert X 2025 installations explore the 'vast knowledge' of Coachella Valley\" - 2025-03-14 - https://www.dezeen.com/2025/03/14/desert-x-2025-installations-explore-the-vast-knowledge-of-coachella-valley/",
   "url": "https://www.dezeen.com/2025/03/14/desert-x-2025-installations-explore-the-vast-knowledge-of-coachella-valley/",
   "chapters": [
@@ -4587,7 +4601,7 @@
   ]
  },
  {
-  "n": 550,
+  "n": 551,
   "citation": "TheWrap (Mikey Glazer) - \"Neon Carnival at Coachella: The Inside Story Behind Hollywood's Biggest Party\" - 2014-04-10 - https://www.thewrap.com/coachella-neon-carnival-list-get-exclusive",
   "url": "https://www.thewrap.com/coachella-neon-carnival-list-get-exclusive",
   "chapters": [
@@ -4595,7 +4609,7 @@
   ]
  },
  {
-  "n": 551,
+  "n": 552,
   "citation": "BizBash (Claire Hoffman) - \"Q&A: How Neon Carnival Became One of the Year's Most Coveted Event Invites\" - 2024-04-04 - https://www.bizbash.com/programming-entertainment/q-a-how-neon-carnival-became-one-of-the-year-s-most-coveted-event-invites",
   "url": "https://www.bizbash.com/programming-entertainment/q-a-how-neon-carnival-became-one-of-the-year-s-most-coveted-event-invites",
   "chapters": [
@@ -4603,7 +4617,7 @@
   ]
  },
  {
-  "n": 552,
+  "n": 553,
   "citation": "NBC News - \"Revolve Festival at Coachella compared to Fyre Fest\" - 2022-04 - https://www.nbcnews.com/pop-culture/viral/revolve-festival-coachella-fyre-fest-rcna24892",
   "url": "https://www.nbcnews.com/pop-culture/viral/revolve-festival-coachella-fyre-fest-rcna24892",
   "chapters": [
@@ -4611,7 +4625,7 @@
   ]
  },
  {
-  "n": 553,
+  "n": 554,
   "citation": "NBC Palm Springs - \"Coachella Weekend One Wraps With Historic Headliner, Wind Scares and a Few Surprises\" - 2026-04-13 - https://www.nbcpalmsprings.com/local-and-community/2026/04/13/coachella-weekend-one-wraps-with-historic-headliner-wind-scares-and-a-few-surprises",
   "url": "https://www.nbcpalmsprings.com/local-and-community/2026/04/13/coachella-weekend-one-wraps-with-historic-headliner-wind-scares-and-a-few-surprises",
   "chapters": [
@@ -4619,7 +4633,7 @@
   ]
  },
  {
-  "n": 554,
+  "n": 555,
   "citation": "Amusement Today - \"Heat, rain, immigration issues dampen Riverside County Fair\" - 2026-04 - https://amusementtoday.com/issues/2026/202604/pages/0053.html",
   "url": "https://amusementtoday.com/issues/2026/202604/pages/0053.html",
   "chapters": [
@@ -4627,7 +4641,7 @@
   ]
  },
  {
-  "n": 555,
+  "n": 556,
   "citation": "Greater Palm Springs Business Insider (Bob Marra) - \"Modernism Week's $62 Million Impact in 2026 Underscores Its Role as a Major Desert Economic Driver\" - 2026-03-26 - https://gpsbusinessinsider.com/?p=241490",
   "url": "https://gpsbusinessinsider.com/?p=241490",
   "chapters": [
@@ -4635,7 +4649,7 @@
   ]
  },
  {
-  "n": 556,
+  "n": 557,
   "citation": "Tennis Now (Richard Pagliaro) - \"BNP Paribas Open Sets Records In Attendance, Prize Money, TV Viewership\" - 2026-03-27 - https://tennisnow.com/bnp-paribas-open-sets-records-in-attendance-prize-money-tv-viewership/",
   "url": "https://tennisnow.com/bnp-paribas-open-sets-records-in-attendance-prize-money-tv-viewership/",
   "chapters": [
@@ -4643,7 +4657,7 @@
   ]
  },
  {
-  "n": 557,
+  "n": 558,
   "citation": "Coachella Valley Independent (Brian Blueskye) - \"Party in triplicate: Splash House melds music festival with pool fun over two days, three venues\" - 2013-07-30 - https://cvindependent.com/2013/07/party-in-triplicate-splash-house-melds-music-festival-with-pool-fun-over-two-days-three-venues/",
   "url": "https://cvindependent.com/2013/07/party-in-triplicate-splash-house-melds-music-festival-with-pool-fun-over-two-days-three-venues/",
   "chapters": [
@@ -4651,7 +4665,7 @@
   ]
  },
  {
-  "n": 558,
+  "n": 559,
   "citation": "Visit Greater Palm Springs - \"Everything you need to know about Splash House\" - 2026-07-17 - https://www.visitgreaterpalmsprings.com/blog/post/everything-you-need-to-know-about-splash-house/",
   "url": "https://www.visitgreaterpalmsprings.com/blog/post/everything-you-need-to-know-about-splash-house/",
   "chapters": [
@@ -4659,7 +4673,7 @@
   ]
  },
  {
-  "n": 559,
+  "n": 560,
   "citation": "Type Investigations (Gabriel Thompson, with Longreads) - \"Coachella, Underground\" - 2018-04-12 - https://typeinvestigations.org/investigation/2018/04/12/coachella-underground/",
   "url": "https://typeinvestigations.org/investigation/2018/04/12/coachella-underground/",
   "chapters": [
@@ -4667,7 +4681,7 @@
   ]
  },
  {
-  "n": 560,
+  "n": 561,
   "citation": "The Atlantic, via Yahoo - \"The Other Coachella: What You Won't See at the Music Festival\" - 2018-04-15 - https://www.yahoo.com/news/other-coachella-won-apos-t-100000485.html",
   "url": "https://www.yahoo.com/news/other-coachella-won-apos-t-100000485.html",
   "chapters": [
@@ -4675,7 +4689,7 @@
   ]
  },
  {
-  "n": 561,
+  "n": 562,
   "citation": "FOX 11 Los Angeles - \"Judge grants Coachella festival restraining order against New Year's event with similar name\" - 2021-12-21 - https://www.foxla.com/news/judge-grants-coachella-festival-restraining-order-against-new-years-event-with-similar-name",
   "url": "https://www.foxla.com/news/judge-grants-coachella-festival-restraining-order-against-new-years-event-with-similar-name",
   "chapters": [
@@ -4683,7 +4697,7 @@
   ]
  },
  {
-  "n": 562,
+  "n": 563,
   "citation": "Festival Insider - \"AEG, Live Nation settle lawsuit over Coachella event name dispute\" - 2022-08-17 - https://festivalinsider.com/articles/aeg-live-nation-settle-lawsuit-over-coachella-event-name-dispute",
   "url": "https://festivalinsider.com/articles/aeg-live-nation-settle-lawsuit-over-coachella-event-name-dispute",
   "chapters": [
@@ -4691,7 +4705,7 @@
   ]
  },
  {
-  "n": 563,
+  "n": 564,
   "citation": "NBC Bay Area (Christian Cázares and Sahana Patel) - \"Billboards in honor of farm workers displayed in Coachella\" - 2025-04-04 - https://www.nbcbayarea.com/news/local/billboards-farm-workers-displayed-coachella-valley/3836990/",
   "url": "https://www.nbcbayarea.com/news/local/billboards-farm-workers-displayed-coachella-valley/3836990/",
   "chapters": [
@@ -4699,7 +4713,7 @@
   ]
  },
  {
-  "n": 564,
+  "n": 565,
   "citation": "NBC Palm Springs - \"Coachella Weekend One Nears as Local Hospitals Brace for Patient Surge\" - 2026-04-09 - https://www.nbcpalmsprings.com/local-and-community/2026/04/09/coachella-weekend-one-nears-as-local-hospitals-brace-for-patient-surge",
   "url": "https://www.nbcpalmsprings.com/local-and-community/2026/04/09/coachella-weekend-one-nears-as-local-hospitals-brace-for-patient-surge",
   "chapters": [
@@ -4707,7 +4721,7 @@
   ]
  },
  {
-  "n": 565,
+  "n": 566,
   "citation": "FOX Weather - \"Coachella festivalgoers experience record heat during the first weekend\" - 2025-04-10 - https://www.foxweather.com/weather-news/coachella-festival-potential-record-high-temperatures-first-weekend",
   "url": "https://www.foxweather.com/weather-news/coachella-festival-potential-record-high-temperatures-first-weekend",
   "chapters": [
@@ -4716,7 +4730,7 @@
   ]
  },
  {
-  "n": 566,
+  "n": 567,
   "citation": "NBC Palm Springs - \"Coachella Festival Promoter Sued By Woman Injured in Light Fixture Mishap\" - 2019-11-08 - https://nbcpalmsprings.com/2019/11/08/coachella-festival-promoter-sued-by-woman-injured-in-light-fixture-mishap",
   "url": "https://nbcpalmsprings.com/2019/11/08/coachella-festival-promoter-sued-by-woman-injured-in-light-fixture-mishap",
   "chapters": [
@@ -4724,7 +4738,7 @@
   ]
  },
  {
-  "n": 567,
+  "n": 568,
   "citation": "South Coast AQMD - \"South Coast AQMD Extends a Windblown Dust Advisory for Coachella Valley\" - 2025-04-17 - https://www.aqmd.gov/docs/default-source/news-archive/2025/ext-wbd-17-2025.pdf",
   "url": "https://www.aqmd.gov/docs/default-source/news-archive/2025/ext-wbd-17-2025.pdf",
   "chapters": [
@@ -4732,7 +4746,7 @@
   ]
  },
  {
-  "n": 568,
+  "n": 569,
   "citation": "Waste360 - \"Coachella music festival attendees produce 107 tons of waste each day\" - 2017-04-24 - https://www.waste360.com/waste-reduction/coachella-music-festival-attendees-produce-107-tons-of-waste-each-day",
   "url": "https://www.waste360.com/waste-reduction/coachella-music-festival-attendees-produce-107-tons-of-waste-each-day",
   "chapters": [
@@ -4740,7 +4754,7 @@
   ]
  },
  {
-  "n": 569,
+  "n": 570,
   "citation": "AFP, via Malay Mail - \"Can music festivals actually go green?\" - 2023-04-23 - https://www.malaymail.com/news/showbiz/2023/04/23/can-music-festivals-actually-go-green/66044",
   "url": "https://www.malaymail.com/news/showbiz/2023/04/23/can-music-festivals-actually-go-green/66044",
   "chapters": [
@@ -4748,7 +4762,7 @@
   ]
  },
  {
-  "n": 570,
+  "n": 571,
   "citation": "NBC Palm Springs - \"Major Development Planned Near Coachella Festival Grounds in Indio\" - 2025-06-09 - https://www.nbcpalmsprings.com/2025/06/10/major-development-planned-near-coachella-festival-grounds-in-indio",
   "url": "https://www.nbcpalmsprings.com/2025/06/10/major-development-planned-near-coachella-festival-grounds-in-indio",
   "chapters": [
@@ -4756,7 +4770,7 @@
   ]
  },
  {
-  "n": 571,
+  "n": 572,
   "citation": "Complex (Brenton Blanchet) - \"Travis Scott's 'Utopia' Album Promoted on Billboards Near Coachella, Festival He Was Removed From Headlining\" - 2022-04-11 - https://www.complex.com/music/travis-scott-utopia-album-promoted-on-billboards-near-coachella-removed-from-headlining",
   "url": "https://www.complex.com/music/travis-scott-utopia-album-promoted-on-billboards-near-coachella-removed-from-headlining",
   "chapters": [
@@ -4764,7 +4778,7 @@
   ]
  },
  {
-  "n": 572,
+  "n": 573,
   "citation": "Coachella - \"Getting Here\" - n.d. (read 2026-11-04) - https://www.coachella.com/getting-here",
   "url": "https://www.coachella.com/getting-here",
   "chapters": [
@@ -4772,7 +4786,7 @@
   ]
  },
  {
-  "n": 573,
+  "n": 574,
   "citation": "Billboard Pro - \"On the Road to Coachella? Those Billboards Are There Just for You\" - 2022 (undated; inferred from content) - https://www.billboard.com/pro/coachella-billboards-interstate-10-festival-advertising-strategy/",
   "url": "https://www.billboard.com/pro/coachella-billboards-interstate-10-festival-advertising-strategy/",
   "chapters": [
@@ -4780,7 +4794,7 @@
   ]
  },
  {
-  "n": 574,
+  "n": 575,
   "citation": "Outfront (Jay Fenster) - \"Billboards are the real Coachella influencers\" - 2025-04-24 - https://www.outfront.com/blog/billboards-are-real-coachella-influencers",
   "url": "https://www.outfront.com/blog/billboards-are-real-coachella-influencers",
   "chapters": [
@@ -4788,7 +4802,7 @@
   ]
  },
  {
-  "n": 575,
+  "n": 576,
   "citation": "Visit Greater Palm Springs - \"Lamar Advertising of Palm Springs\" (listing) - n.d. - https://www.visitgreaterpalmsprings.com/listing/lamar-advertising-of-palm-springs/19807/",
   "url": "https://www.visitgreaterpalmsprings.com/listing/lamar-advertising-of-palm-springs/19807/",
   "chapters": [
@@ -4796,7 +4810,7 @@
   ]
  },
  {
-  "n": 576,
+  "n": 577,
   "citation": "AdQuick - \"What are Coachella billboards and how much do they cost?\" - n.d. (2026 observations) - https://www.adquick.com/answers/billboards/coachella-billboards",
   "url": "https://www.adquick.com/answers/billboards/coachella-billboards",
   "chapters": [
@@ -4804,7 +4818,7 @@
   ]
  },
  {
-  "n": 577,
+  "n": 578,
   "citation": "OAAA - \"Billboards headlining at Coachella\" - 2019-04-22 - https://oaaa.org/blog-posts/billboards-headlining-at-coachella/",
   "url": "https://oaaa.org/blog-posts/billboards-headlining-at-coachella/",
   "chapters": [
@@ -4812,7 +4826,7 @@
   ]
  },
  {
-  "n": 578,
+  "n": 579,
   "citation": "Billboard Insider - \"Demand Surges for Coachella Festival Billboards\" - 2019-04-11 - https://billboardinsider.com/demand-surges-for-coachella-festival-billboards/",
   "url": "https://billboardinsider.com/demand-surges-for-coachella-festival-billboards/",
   "chapters": [
@@ -4820,7 +4834,7 @@
   ]
  },
  {
-  "n": 579,
+  "n": 580,
   "citation": "DASH TWO (Rodolfo Queiroz) - \"Coachella Billboard Ads Updated for 2027\" - 2025-08-18 (updated 2026-09-01) - https://dashtwo.com/blog/guide-to-coachella-billboards/",
   "url": "https://dashtwo.com/blog/guide-to-coachella-billboards/",
   "chapters": [
@@ -4828,7 +4842,7 @@
   ]
  },
  {
-  "n": 580,
+  "n": 581,
   "citation": "NBC Palm Springs - \"Festival Billboards on I-10 Vandalized as Officials Plan Stronger Security\" - 2026-04-28 - https://www.nbcpalmsprings.com/2026/04/28/festival-billboards-on-i10-vandalized-as-officials-plan-stronger-security",
   "url": "https://www.nbcpalmsprings.com/2026/04/28/festival-billboards-on-i10-vandalized-as-officials-plan-stronger-security",
   "chapters": [
@@ -4836,7 +4850,7 @@
   ]
  },
  {
-  "n": 581,
+  "n": 582,
   "citation": "OOH Today - \"The road to Coachella didn't care which weekend it was\" - 2026-04-13 - https://oohtoday.com/the-road-to-coachella-didnt-care-which-weekend-it-was/",
   "url": "https://oohtoday.com/the-road-to-coachella-didnt-care-which-weekend-it-was/",
   "chapters": [
@@ -4844,7 +4858,7 @@
   ]
  },
  {
-  "n": 582,
+  "n": 583,
   "citation": "Los Angeles Times (Mike Eberts) - \"Dinosaur Garden Blooms in Desert: At 89, Claude Bell Has Even More Beasts Up His Sleeve\" - 1986-01-23 - https://www.latimes.com/archives/la-xpm-1986-01-23-vw-27870-story.html",
   "url": "https://www.latimes.com/archives/la-xpm-1986-01-23-vw-27870-story.html",
   "chapters": [
@@ -4852,7 +4866,7 @@
   ]
  },
  {
-  "n": 583,
+  "n": 584,
   "citation": "Los Angeles Times (Burt A. Folkart) - \"Claude K. Bell; He Described Himself as a 'Nut on Dinosaurs'\" - 1988-09-21 - https://www.latimes.com/archives/la-xpm-1988-09-21-mn-2146-story.html",
   "url": "https://www.latimes.com/archives/la-xpm-1988-09-21-mn-2146-story.html",
   "chapters": [
@@ -4860,7 +4874,7 @@
   ]
  },
  {
-  "n": 584,
+  "n": 585,
   "citation": "Wikipedia - \"Cabazon Dinosaurs\" - n.d. (read 2026-11-04) - https://en.wikipedia.org/wiki/Cabazon_Dinosaurs",
   "url": "https://en.wikipedia.org/wiki/Cabazon_Dinosaurs",
   "chapters": [
@@ -4868,7 +4882,7 @@
   ]
  },
  {
-  "n": 585,
+  "n": 586,
   "citation": "Los Angeles Times (Ashley Powers) - \"Adam, Eve and T. Rex\" - 2005-08-27 - https://www.latimes.com/archives/la-xpm-2005-aug-27-me-dinosaurs27-story.html",
   "url": "https://www.latimes.com/archives/la-xpm-2005-aug-27-me-dinosaurs27-story.html",
   "chapters": [
@@ -4876,7 +4890,7 @@
   ]
  },
  {
-  "n": 586,
+  "n": 587,
   "citation": "REBusiness Online - \"Desert Hills Premium Outlets in Cabazon Opens 50-Store Expansion\" - 2014-04-30 - https://rebusinessonline.com/desert-hills-premium-outlets-in-cabazon-opens-50-store-expansion/",
   "url": "https://rebusinessonline.com/desert-hills-premium-outlets-in-cabazon-opens-50-store-expansion/",
   "chapters": [
@@ -4884,7 +4898,7 @@
   ]
  },
  {
-  "n": 587,
+  "n": 588,
   "citation": "Patch (Shaena Engle) - \"Desert Hills Premium Outlets Welcomes New Luxury Brands Ahead of National Outlet Shopping Day\" - 2025-06-09 - https://patch.com/california/palmsprings-ca/desert-hills-premium-outlets-welcomes-new-luxury-brands-ahead-national",
   "url": "https://patch.com/california/palmsprings-ca/desert-hills-premium-outlets-welcomes-new-luxury-brands-ahead-national",
   "chapters": [
@@ -4892,7 +4906,7 @@
   ]
  },
  {
-  "n": 588,
+  "n": 589,
   "citation": "KESQ - \"Desert Hills Premium Outlets adding 50 new stores\" - 2014-04-22 - https://kesq.com/?p=73573",
   "url": "https://kesq.com/?p=73573",
   "chapters": [
@@ -4900,7 +4914,7 @@
   ]
  },
  {
-  "n": 589,
+  "n": 590,
   "citation": "EDM Maniac - \"Maruchan To Pop Up Outside Coachella With Free Noodles Both Festival Weekends\" - 2026-04-06 - https://edmmaniac.com/maruchan-pop-up-coachella-2026/",
   "url": "https://edmmaniac.com/maruchan-pop-up-coachella-2026/",
   "chapters": [
@@ -4908,7 +4922,7 @@
   ]
  },
  {
-  "n": 590,
+  "n": 591,
   "citation": "Modern Retail (Melissa Daniels) - \"Bloom, Pacsun and more chase Coachella crowds on the way to the show with roadside activations\" - 2026-04-10 - https://www.modernretail.co/marketing/bloom-pacsun-and-more-chase-coachella-crowds-on-the-way-to-the-show-with-roadside-activations/",
   "url": "https://www.modernretail.co/marketing/bloom-pacsun-and-more-chase-coachella-crowds-on-the-way-to-the-show-with-roadside-activations/",
   "chapters": [
@@ -4916,7 +4930,7 @@
   ]
  },
  {
-  "n": 591,
+  "n": 592,
   "citation": "Wikipedia - \"San Gorgonio Pass wind farm\" (citing the U.S. Wind Turbine Database, v8.1, May 2025) - n.d. (read 2026-11-04) - https://en.wikipedia.org/wiki/San_Gorgonio_Pass_wind_farm",
   "url": "https://en.wikipedia.org/wiki/San_Gorgonio_Pass_wind_farm",
   "chapters": [
@@ -4924,7 +4938,7 @@
   ]
  },
  {
-  "n": 592,
+  "n": 593,
   "citation": "TheWrap (Alex Welch) - \"Why Tom Cruise Put a Massive Shovel in the Desert for Coachella\" - 2026-04-10 - https://www.thewrap.com/culture-lifestyle/culture/digger-tom-cruise-movie-giant-shovel-installation-coachella/",
   "url": "https://www.thewrap.com/culture-lifestyle/culture/digger-tom-cruise-movie-giant-shovel-installation-coachella/",
   "chapters": [
@@ -4932,7 +4946,7 @@
   ]
  },
  {
-  "n": 593,
+  "n": 594,
   "citation": "AceShowbiz (editorial team, with AI assistance) - \"Why a 24,000-Pound Shovel Is Trending on TikTok Linked to Tom Cruise Film\" - 2026-04-16 - https://www.aceshowbiz.com/news/view/00253984.html",
   "url": "https://www.aceshowbiz.com/news/view/00253984.html",
   "chapters": [
@@ -4940,7 +4954,7 @@
   ]
  },
  {
-  "n": 594,
+  "n": 595,
   "citation": "Signs at the *Digger* shovel exhibit, Indio (\"Warning\" sign and \"Public Filming Notification\") - photographed by Richard Lathrop - 2026-04-16",
   "url": null,
   "chapters": [
@@ -4948,7 +4962,7 @@
   ]
  },
  {
-  "n": 595,
+  "n": 596,
   "citation": "TV Insider (Dan Clarendon), citing The Hollywood Reporter - \"'Digger' Headed for Worst Opening for a Tom Cruise Film in Nearly 20 Years\" - 2026-10-03 - https://www.tvinsider.com/1294836/digger-box-office-first-weekend-tom-cruise-film/",
   "url": "https://www.tvinsider.com/1294836/digger-box-office-first-weekend-tom-cruise-film/",
   "chapters": [
@@ -4956,7 +4970,7 @@
   ]
  },
  {
-  "n": 596,
+  "n": 597,
   "citation": "The Hollywood Reporter (Jem Aswad, Billboard) - \"The Road to Coachella Belongs to Republic Records\" - 2013-04-12 - https://www.hollywoodreporter.com/news/general-news/road-coachella-belongs-republic-records-438812/",
   "url": "https://www.hollywoodreporter.com/news/general-news/road-coachella-belongs-republic-records-438812/",
   "chapters": [
@@ -4964,7 +4978,7 @@
   ]
  },
  {
-  "n": 597,
+  "n": 598,
   "citation": "DASH TWO (Gino Sesto / Kim M. Pham) - \"Coachella Billboard Advertising\" - 2015-01-20 - https://dashtwo.com/blog/coachella-billboard-advertising/",
   "url": "https://dashtwo.com/blog/coachella-billboard-advertising/",
   "chapters": [
@@ -4972,7 +4986,7 @@
   ]
  },
  {
-  "n": 598,
+  "n": 599,
   "citation": "Billboard Insider (John Weller) - \"US out of home advertising down 45% in Q2 2020\" - 2020-08-27 - https://billboardinsider.com/ooh-advertising-down-45-in-q2-2020/",
   "url": "https://billboardinsider.com/ooh-advertising-down-45-in-q2-2020/",
   "chapters": [
@@ -4980,7 +4994,7 @@
   ]
  },
  {
-  "n": 599,
+  "n": 600,
   "citation": "Outfront Media - Form 8-K earnings release, fourth quarter and full year 2020 - 2021-02-25 - https://www.sec.gov/Archives/edgar/data/1579877/000157987721000031/ex991123120earningsrelease.htm",
   "url": "https://www.sec.gov/Archives/edgar/data/1579877/000157987721000031/ex991123120earningsrelease.htm",
   "chapters": [
@@ -4988,7 +5002,7 @@
   ]
  },
  {
-  "n": 600,
+  "n": 601,
   "citation": "The Advocate (Baton Rouge) - Lamar Advertising 2020 results - 2021 - https://www.theadvocate.com/baton_rouge/news/business/article_927fb41c-785d-11eb-af6a-ef193f5c9050.html",
   "url": "https://www.theadvocate.com/baton_rouge/news/business/article_927fb41c-785d-11eb-af6a-ef193f5c9050.html",
   "chapters": [
@@ -4996,7 +5010,7 @@
   ]
  },
  {
-  "n": 601,
+  "n": 602,
   "citation": "Rolling Stone (Larisha Paul), via Yahoo - \"Cryptic Coachella Billboards and Mysterious New Instagram: What Is Frank Ocean Teasing?\" - 2025-04-09 - https://www.yahoo.com/entertainment/articles/cryptic-coachella-billboards-mysterious-instagram-182357210.html",
   "url": "https://www.yahoo.com/entertainment/articles/cryptic-coachella-billboards-mysterious-instagram-182357210.html",
   "chapters": [
@@ -5004,7 +5018,7 @@
   ]
  },
  {
-  "n": 602,
+  "n": 603,
   "citation": "NBC Palm Springs (Carmela Karcher) - \"Coachella Festival Organizers Demand Removal Of New I-10 Billboard\" - 2024-04-02 - https://www.nbcpalmsprings.com/2024/04/02/coachella-festival-organizers-demand-removal-of-new-i-10-billboard",
   "url": "https://www.nbcpalmsprings.com/2024/04/02/coachella-festival-organizers-demand-removal-of-new-i-10-billboard",
   "chapters": [
@@ -5012,7 +5026,7 @@
   ]
  },
  {
-  "n": 603,
+  "n": 604,
   "citation": "AIDS Healthcare Foundation, via Business Wire - \"Coachella Concerned That People Have Sex, Says AHF\" - 2024-03-28 - https://investor.wedbush.com/wedbush/article/bizwire-2024-3-28-coachella-concerned-that-people-have-sex-says-ahf",
   "url": "https://investor.wedbush.com/wedbush/article/bizwire-2024-3-28-coachella-concerned-that-people-have-sex-says-ahf",
   "chapters": [
@@ -5020,7 +5034,7 @@
   ]
  },
  {
-  "n": 604,
+  "n": 605,
   "citation": "Adweek (Robert Klara) - \"Coachella Went After a Nonprofit Behind an STD Awareness - and Missed a Big Marketing Opportunity\" - 2024-04-18 - https://www.adweek.com/brand-marketing/coachella-went-after-a-nonprofit-behind-an-std-awareness-and-missed-a-big-marketing-opportunity/",
   "url": "https://www.adweek.com/brand-marketing/coachella-went-after-a-nonprofit-behind-an-std-awareness-and-missed-a-big-marketing-opportunity/",
   "chapters": [
@@ -5028,7 +5042,7 @@
   ]
  },
  {
-  "n": 605,
+  "n": 606,
   "citation": "OOH Today - \"Coachella is not 'Vibing' with AHF's Latest Ad\" - 2024-04-15 - https://oohtoday.com/coachella-is-not-vibing-with-ahfs-latest-ad",
   "url": "https://oohtoday.com/coachella-is-not-vibing-with-ahfs-latest-ad",
   "chapters": [
@@ -5036,7 +5050,7 @@
   ]
  },
  {
-  "n": 606,
+  "n": 607,
   "citation": "AIDS Healthcare Foundation (Ged Kenslea) - \"'Bad Romance?' Festival Billboard Promotes STD Testing\" - 2025-04-01 - https://www.aidshealth.org/2025/04/bad-romance-festival-billboard-promotes-std-testing/",
   "url": "https://www.aidshealth.org/2025/04/bad-romance-festival-billboard-promotes-std-testing/",
   "chapters": [
@@ -5044,7 +5058,7 @@
   ]
  },
  {
-  "n": 607,
+  "n": 608,
   "citation": "KESQ (Shay Lawson) - \"Coachella billboard sparks controversy among families affected by Fentanyl Crisis\" - 2025-04-21 - https://kesq.com/?p=1663909",
   "url": "https://kesq.com/?p=1663909",
   "chapters": [
@@ -5052,7 +5066,7 @@
   ]
  },
  {
-  "n": 608,
+  "n": 609,
   "citation": "Stereogum (Chris DeVille) - \"Fans Are Vandalizing Coachella Billboards And Artists Are Rolling With It\" - 2025-04-11 - https://stereogum.com/2303983/coachella-billboards-vandalized-clairo-snow-strippers/news",
   "url": "https://stereogum.com/2303983/coachella-billboards-vandalized-clairo-snow-strippers/news",
   "chapters": [
@@ -5060,7 +5074,7 @@
   ]
  },
  {
-  "n": 609,
+  "n": 610,
   "citation": "Google - \"Geo Guidelines\" (Brand Resource Center) - n.d. (read 2026-10-31) - https://about.google/brand-resource-center/products-and-services/geo-guidelines/",
   "url": "https://about.google/brand-resource-center/products-and-services/geo-guidelines/",
   "chapters": [
@@ -5068,7 +5082,7 @@
   ]
  },
  {
-  "n": 610,
+  "n": 611,
   "citation": "The Desert Sun (Ema Sasic), via Yahoo - \"Headed to Indio? Be on the lookout for these Coachella billboards\" - 2026-04-02 - https://www.yahoo.com/entertainment/music/articles/headed-indio-lookout-coachella-billboards-181955932.html",
   "url": "https://www.yahoo.com/entertainment/music/articles/headed-indio-lookout-coachella-billboards-181955932.html",
   "chapters": [

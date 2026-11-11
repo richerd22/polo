@@ -1,0 +1,308 @@
+{
+  "year": 2007,
+  "status": "happened",
+  "source": {
+    "name": "Wikipedia - Coachella Festival line-ups",
+    "url": "https://en.wikipedia.org/wiki/Coachella_Festival_line-ups",
+    "retrieved": "2026-11-11"
+  },
+  "days": [
+    {
+      "day": "Friday",
+      "dates": "April 27",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "Björk",
+            "Interpol",
+            "The Jesus and Mary Chain",
+            "Arctic Monkeys",
+            "Silversun Pickups",
+            "Satellite Party",
+            "Brother Ali",
+            "Flosstradamus"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "DJ Shadow",
+            "Sonic Youth",
+            "Jarvis Cocker",
+            "Peaches",
+            "Stephen Marley featuring Jr. Gong",
+            "Of Montreal",
+            "Nickel Creek"
+          ]
+        },
+        {
+          "stage": "Sahara",
+          "acts": [
+            "Evil Nine",
+            "Faithless",
+            "Benny Benassi",
+            "Felix Da Housecat",
+            "Digitalism",
+            "David Guetta",
+            "Charles Feelgood",
+            "Terry Mullan"
+          ]
+        },
+        {
+          "stage": "Mojave",
+          "acts": [
+            "Gogol Bordello",
+            "El-P",
+            "Peeping Tom",
+            "Rufus Wainwright",
+            "Circa Survive",
+            "Tilly and the Wall",
+            "Tokyo Police Club",
+            "Noisettes"
+          ]
+        },
+        {
+          "stage": "Gobi",
+          "acts": [
+            "Brazilian Girls",
+            "Busdriver",
+            "Julieta Venegas",
+            "Amy Winehouse",
+            "Gillian Welch",
+            "Comedians of Comedy"
+          ]
+        },
+        {
+          "stage": "Dome",
+          "acts": [
+            "Machete",
+            "Scooba",
+            "Clutch",
+            "No Face & Drone",
+            "Kraak & Smaak",
+            "David J",
+            "Marques Wyatt",
+            "Jacob Thiele (of The Faint)",
+            "Travis Keller"
+          ]
+        },
+        {
+          "stage": "The Do LaB",
+          "acts": [
+            "Lucent Dossier Experience",
+            "Jesse Wright",
+            "Sammy Bliss",
+            "Helios Jive",
+            "DJ Imagika",
+            "Nalepa"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "dates": "April 28",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "Tiësto",
+            "Red Hot Chili Peppers",
+            "Arcade Fire",
+            "Kings of Leon",
+            "Travis",
+            "Regina Spektor",
+            "Fountains of Wayne",
+            "Pharoahe Monch"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "The Good, the Bad & the Queen",
+            "Gotan Project",
+            "Blonde Redhead",
+            "Ghostface Killah",
+            "The Decemberists",
+            "The New Pornographers",
+            "Jack's Mannequin",
+            "The Frames"
+          ]
+        },
+        {
+          "stage": "Sahara",
+          "acts": [
+            "The Rapture",
+            "LCD Soundsystem",
+            "Justice",
+            "Busy P & DJ Mehdi",
+            "MSTRKRFT",
+            "DJ Heather",
+            "Steve Aoki"
+          ]
+        },
+        {
+          "stage": "Mojave",
+          "acts": [
+            "The Black Keys",
+            "Sparklehorse",
+            "Ozomatli",
+            "!!!",
+            "Peter Bjorn and John",
+            "Hot Chip",
+            "The Fratellis",
+            "The Cribs",
+            "Fields"
+          ]
+        },
+        {
+          "stage": "Gobi",
+          "acts": [
+            "Cornelius",
+            "Mike Relm",
+            "Girl Talk",
+            "CocoRosie",
+            "Andrew Bird",
+            "The Nightwatchman",
+            "Roky Erickson",
+            "Chuck Dukowski Sextet",
+            "Yeva",
+            "Pop Levi"
+          ]
+        },
+        {
+          "stage": "Dome",
+          "acts": [
+            "Silver",
+            "Hazen",
+            "XXXL",
+            "Subflo",
+            "MC Dino & Question Mark",
+            "Lady Miss Kier",
+            "Andy Rourke",
+            "Daniel Ash",
+            "Eugene",
+            "Carla and Greg (of Autolux)",
+            "The Professionals"
+          ]
+        },
+        {
+          "stage": "The Do LaB",
+          "acts": [
+            "Lucent Dossier Experience",
+            "Bassnectar",
+            "Jupit3r",
+            "Dandelion",
+            "David Starfire",
+            "Metamorphs",
+            "Nick the Neck",
+            "The Ianator"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Sunday",
+      "dates": "April 29",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "Rage Against the Machine",
+            "Manu Chao Radio Bemba Sound System",
+            "Crowded House",
+            "Willie Nelson",
+            "The Roots",
+            "Explosions in the Sky",
+            "The Feeling",
+            "Lupe Fiasco",
+            "Mika"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "The Lemonheads",
+            "Damien Rice",
+            "Air",
+            "Placebo",
+            "Kaiser Chiefs",
+            "Against Me!",
+            "The Coup",
+            "Mando Diao",
+            "Anathallo"
+          ]
+        },
+        {
+          "stage": "Sahara",
+          "acts": [
+            "Infected Mushroom",
+            "Happy Mondays",
+            "Paul van Dyk",
+            "Richie Hawtin",
+            "Soulwax Nite Versions",
+            "Trent Cantrelle",
+            "DJ Dayhota"
+          ]
+        },
+        {
+          "stage": "Mojave",
+          "acts": [
+            "VNV Nation",
+            "Ratatat",
+            "Lily Allen",
+            "Klaxons",
+            "CSS",
+            "Junior Boys",
+            "The Kooks",
+            "Tapes 'n Tapes",
+            "Fair to Midland"
+          ]
+        },
+        {
+          "stage": "Gobi",
+          "acts": [
+            "Spank Rock",
+            "Teddybears",
+            "Amos Lee",
+            "José González",
+            "Konono Nº1",
+            "Rodrigo y Gabriela",
+            "Grizzly Bear",
+            "The Avett Brothers",
+            "Kid Beyond"
+          ]
+        },
+        {
+          "stage": "Dome",
+          "acts": [
+            "Adam Freeland",
+            "Total Science",
+            "Paul Harding (of Pendulum)",
+            "Cut Chemist",
+            "Kevin Haskins",
+            "Busy P & DJ Mehdi",
+            "Frankie Chan"
+          ]
+        },
+        {
+          "stage": "The Do LaB",
+          "acts": [
+            "Lucent Dossier Experience",
+            "Helios Jive",
+            "Marty",
+            "Jok Ton",
+            "The Ianator"
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Dome (Friday): presented as \"Junglist Platoon/Respect featuring\"",
+    "Dome (Saturday): presented as \"Bassrush featuring\"",
+    "Dropped Acts: We Are Scientists",
+    "Art for 2007 included: The Do LaB, Lucent Dossier Experience, Johnny America, Syd Klinge: Tesla Coil, Brian Corndog: KA Labyrinth, Mark Lottor: Cubatron, Cyclecide Bike Rodeo, Kinetic Steam Works, Jamie Vaida: Goes Around Comes Around Carousel, Stronghold Productions: FirePod, Michael Christian: I.T., and Babel, Sean Sobczak: Love and Dragons, Domes Guys: 90' Dome, Jason Hackenworth: Megamite Army, Dorothy Trojanowski: Rubber Horses, Perpetual Art Machine, NON Designs, Mark Esper: It's in the Air and Enlightenment, Brose Partington: Tide, Greg de Gouveia: Cubed []3, Jim Bowers: Terrasphere, Hotshot the Robot, LT Mustardseed: Aquatic Temple of Chill, Stefano Corazza: Field of Sunflower Robots, Sasstown Crew (Portland): Threemove, Rosanna Scimeca: St. Taudry's, manIC. Philip Blaine curated."
+  ]
+}

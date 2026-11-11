@@ -1,0 +1,183 @@
+{
+  "year": 2006,
+  "status": "happened",
+  "source": {
+    "name": "Wikipedia - Coachella Festival line-ups",
+    "url": "https://en.wikipedia.org/wiki/Coachella_Festival_line-ups",
+    "retrieved": "2026-11-11"
+  },
+  "days": [
+    {
+      "day": "Saturday",
+      "dates": "April 29",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "Depeche Mode",
+            "Franz Ferdinand",
+            "Sigur Rós",
+            "Kanye West",
+            "Common",
+            "The Duke Spirit",
+            "The Walkmen",
+            "The New Amsterdams",
+            "The Section Quartet"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "She Wants Revenge",
+            "Atmosphere",
+            "Eagles of Death Metal",
+            "Damian \"Jr. Gong\" Marley",
+            "My Morning Jacket",
+            "Animal Collective",
+            "The Zutons",
+            "Matt Costa",
+            "The Like",
+            "Head Automatica"
+          ]
+        },
+        {
+          "stage": "Sahara",
+          "acts": [
+            "Daft Punk",
+            "Audio Bullys",
+            "Carl Cox",
+            "Derrick Carter",
+            "Colette",
+            "Joey Beltram",
+            "Hybrid featuring Perry Farrell",
+            "Infusion"
+          ]
+        },
+        {
+          "stage": "Mojave",
+          "acts": [
+            "The Rakes",
+            "Living Things",
+            "Cat Power",
+            "Ladytron",
+            "TV on the Radio",
+            "Clap Your Hands Say Yeah",
+            "Wolfmother",
+            "Nine Black Alps",
+            "White Rose Movement",
+            "Rob Dickinson"
+          ]
+        },
+        {
+          "stage": "Gobi",
+          "acts": [
+            "Tosca",
+            "The Juan MacLean",
+            "Devendra Banhart",
+            "Imogen Heap",
+            "Deerhoof",
+            "Lyrics Born",
+            "Lady Sovereign",
+            "Platinum Pied Pipers",
+            "Celebration",
+            "Brother Ali"
+          ]
+        },
+        {
+          "stage": "Oasis Dome",
+          "acts": [
+            "Shy FX & T-Power"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Sunday",
+      "dates": "April 30",
+      "stages": [
+        {
+          "stage": "Coachella Stage",
+          "acts": [
+            "Tool",
+            "Massive Attack",
+            "Yeah Yeah Yeahs",
+            "Sleater-Kinney",
+            "Matisyahu",
+            "The Magic Numbers",
+            "Los Amigos Invisibles",
+            "Youth Group"
+          ]
+        },
+        {
+          "stage": "Outdoor Theatre",
+          "acts": [
+            "Scissor Sisters",
+            "The Go! Team",
+            "Mogwai",
+            "Digable Planets",
+            "Bloc Party",
+            "Minus the Bear",
+            "Ted Leo and the Pharmacists",
+            "Mates of State",
+            "Giant Drag",
+            "The Octopus Project"
+          ]
+        },
+        {
+          "stage": "Sahara",
+          "acts": [
+            "Michael Mayer",
+            "Mylo (DJ Set)",
+            "Madonna",
+            "Paul Oakenfold",
+            "Kaskade",
+            "Louie Vega",
+            "Gabriel & Dresden",
+            "Kristina Sky"
+          ]
+        },
+        {
+          "stage": "Mojave",
+          "acts": [
+            "Art Brut",
+            "Dungen",
+            "Coheed and Cambria",
+            "Editors",
+            "stellastarr*",
+            "Wolf Parade",
+            "Metric",
+            "James Blunt",
+            "The Dears",
+            "Be Your Own Pet",
+            "OneRepublic"
+          ]
+        },
+        {
+          "stage": "Gobi",
+          "acts": [
+            "Jazzanova",
+            "Gilles Peterson",
+            "Coldcut",
+            "Seu Jorge",
+            "Gnarls Barkley",
+            "Jamie Lidell",
+            "Phoenix",
+            "Amadou & Mariam",
+            "Murs featuring 9th Wonder",
+            "Infadels"
+          ]
+        },
+        {
+          "stage": "Oasis Dome",
+          "acts": [
+            "Chris Liberator"
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Dropped Acts: Hard-Fi and The Subways",
+    "The 2006 installation artists were: Syd Klinge (Cauac), Brian Corndog (Metron Transformer), Michael Christian (Flock and Hypha), Rosanna Scimecca (Zephyrus' Disgolmerate), Jerico Woggon, Orion Fredricks (Harmonizer Water Sculpture), Doyle (The Spider), Cyclecide/Bike Rodeo, O2 Creative (Gnome Dome), The Do LaB (Lucent Misting Oasis featuring Lucent Dossier Experience,) and Keith Greco (Leaf Rake Tree+Snow Globe Domes, Hotshot the Robot, Philip Blaine curated."
+  ]
+}
