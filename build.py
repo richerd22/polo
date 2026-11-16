@@ -9,6 +9,9 @@ Writes: index.html, <slug>/index.html for every chapter, all/, sources/, correct
 """
 import datetime, html, json, pathlib, re
 import lineups
+import sys; sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent / "tools"))
+import meta_pixel  # noqa: E402
+META_PIXEL = "2368576097306858"  # cold.fyi Deep Dives pixel; footer note links thirdpolararch.com/privacy
 
 ROOT = pathlib.Path(__file__).resolve().parent
 SITE = "https://polo.cold.fyi"
@@ -669,6 +672,8 @@ def boards_section(bs):
 def write(path, text):
     p = ROOT / path
     p.parent.mkdir(parents=True, exist_ok=True)
+    if str(path).endswith(".html"):
+        text = meta_pixel.inject(text, META_PIXEL)[0]
     p.write_text(text)
 
 
